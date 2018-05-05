@@ -1,0 +1,417 @@
+2018-05-01 11:28:08 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-05-01 11:28:08 - TShock: INFO: AutoSave Enabled
+2018-05-01 11:28:08 - TShock: INFO: Backups Disabled
+2018-05-01 11:28:08 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-05-01 11:28:20 - PluginTrace: WARNING: [Protector] 1 invalid protections removed.
+2018-05-01 11:28:20 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-05-01 11:33:49 - GetDataHandlers: INFO: 2333 authenticated successfully as user 2333.
+2018-05-01 11:33:53 - TShock: INFO: 2333 (192.168.0.100) from 'default' group joined. (1/10)
+2018-05-01 11:33:53 - Utils: INFO: Broadcast: 2333 has joined.
+2018-05-01 11:34:19 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 11:34:19 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-01 11:34:19 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 11:34:26 - Utils: INFO: Broadcast: David: 啊？
+2018-05-01 11:34:39 - Utils: INFO: David executed: /warp dl.
+2018-05-01 11:34:53 - Utils: INFO: David executed: /spawn.
+2018-05-01 11:35:38 - Utils: INFO: David executed: /warp dl.
+2018-05-01 11:36:46 - PluginTrace: INFO: [Protector] Serializing the protection data took 8ms.
+2018-05-01 11:37:41 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 11:37:46 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 11:37:46 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 11:37:49 - Utils: INFO: Broadcast: David: 蓝队
+2018-05-01 11:39:54 - Utils: INFO: Broadcast: David: = =
+2018-05-01 11:40:02 - Utils: INFO: Broadcast: David: 圈地圈了吗
+2018-05-01 11:40:22 - Utils: INFO: Broadcast: 夜-胤笙: 还是圈不聊
+2018-05-01 11:40:29 - Utils: INFO: Broadcast: David: 。。。。
+2018-05-01 11:40:33 - Utils: INFO: Broadcast: David: 远程帮你
+2018-05-01 11:40:36 - Utils: INFO: Broadcast: David: QQ
+2018-05-01 11:40:40 - Utils: INFO: Broadcast: 夜-胤笙: 好
+2018-05-01 11:41:59 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-05-01 11:42:03 - TShock: INFO: King~ (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 11:42:03 - Utils: INFO: Broadcast: King~ has joined.
+2018-05-01 11:42:12 - Utils: INFO: Broadcast: David: 233
+2018-05-01 11:42:14 - Utils: INFO: Broadcast: David: 开不开心
+2018-05-01 11:43:08 - Utils: INFO: Broadcast: King~: 我拿东西了哦
+2018-05-01 11:43:15 - Utils: INFO: Broadcast: King~: 我
+2018-05-01 11:43:18 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 11:43:18 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 11:43:33 - Utils: INFO: Broadcast: 2333 has left.
+2018-05-01 11:43:33 - TShock: INFO: 2333 disconnected.
+2018-05-01 11:44:02 - Utils: INFO: Broadcast: King~ has left.
+2018-05-01 11:44:02 - TShock: INFO: King~ disconnected.
+2018-05-01 11:44:47 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 11:44:55 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-01 11:44:55 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-05-01 11:44:57 - Utils: INFO: Broadcast: World saved.
+2018-05-01 11:44:57 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 11:45:05 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-05-01 11:45:49 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-01 11:45:49 - Utils: INFO: Broadcast: King~ has left.
+2018-05-01 11:45:49 - TShock: INFO: King~ disconnected.
+2018-05-01 11:45:49 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-05-01 11:45:51 - Utils: INFO: Broadcast: World saved.
+2018-05-01 11:45:51 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 11:45:51 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-01 11:45:51 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-05-01 11:45:52 - Utils: INFO: Broadcast: World saved.
+2018-05-01 11:45:52 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 11:45:52 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-01 11:45:52 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 11:45:52 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 11:45:52 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-05-01 11:45:53 - Utils: INFO: Broadcast: World saved.
+2018-05-01 11:45:53 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 11:45:54 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-05-01 11:46:02 - TShock: INFO: King~ (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-01 11:46:02 - Utils: INFO: Broadcast: King~ has joined.
+2018-05-01 11:46:36 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 11:46:41 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 11:46:41 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 11:48:08 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-01 11:48:21 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 11:48:21 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 11:49:05 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 11:49:09 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 11:49:09 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 11:49:16 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-01 11:52:25 - Utils: INFO: Broadcast: 夜-胤笙: 帮我刷个飞猪储钱罐
+2018-05-01 11:56:45 - Utils: INFO: David executed: /who.
+2018-05-01 11:56:47 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 11:56:47 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 11:57:30 - Utils: INFO: Broadcast: David: 蓝队
+2018-05-01 11:57:46 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 11:57:51 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 11:57:51 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 11:57:53 - Utils: INFO: Server executed: /time noon.
+2018-05-01 11:58:24 - Utils: INFO: Broadcast: David has left.
+2018-05-01 11:58:24 - TShock: INFO: David disconnected.
+2018-05-01 11:58:25 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 11:58:25 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-01 11:58:26 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (3/10)
+2018-05-01 11:58:26 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-01 11:58:46 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 11:58:49 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:00:03 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:00:23 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:00:35 - Utils: INFO: Broadcast: 夜-胤笙: ??
+2018-05-01 12:00:43 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:01:05 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-01 12:01:05 - TShock: INFO: admin1 disconnected.
+2018-05-01 12:01:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:01:07 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 12:01:07 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 12:01:07 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 12:01:15 - Utils: INFO: David executed: /house del.
+2018-05-01 12:01:20 - Utils: INFO: David executed: /house define.
+2018-05-01 12:01:23 - Utils: INFO: Broadcast: David has left.
+2018-05-01 12:01:23 - TShock: INFO: David disconnected.
+2018-05-01 12:01:25 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:01:25 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-01 12:01:26 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (3/10)
+2018-05-01 12:01:26 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-01 12:01:28 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:01:34 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-01 12:01:34 - TShock: INFO: admin1 disconnected.
+2018-05-01 12:01:34 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:01:35 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 12:01:36 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 12:01:36 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 12:01:43 - Utils: INFO: David executed: /house define.
+2018-05-01 12:01:46 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:02:48 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:03:12 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:03:22 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:03:37 - Utils: INFO: 夜-胤笙 executed: /house define.
+2018-05-01 12:03:51 - Utils: INFO: Broadcast: 夜-胤笙: .
+2018-05-01 12:03:53 - Utils: INFO: Broadcast: 夜-胤笙: .
+2018-05-01 12:04:08 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 12:04:08 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 12:04:30 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 12:04:49 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 12:04:49 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 12:04:55 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 12:04:59 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-01 12:04:59 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 12:06:08 - Utils: INFO: Broadcast: 夜-胤笙: 、、、
+2018-05-01 12:06:18 - Utils: INFO: Broadcast: 夜-胤笙: 我有丢东西了
+2018-05-01 12:06:33 - Utils: INFO: Broadcast: King~: ？
+2018-05-01 12:06:38 - Utils: INFO: Broadcast: 夜-胤笙: 稀有生物侦查
+2018-05-01 12:09:10 - Utils: INFO: David executed: /house define.
+2018-05-01 12:09:23 - Utils: INFO: David executed: /house define.
+2018-05-01 12:09:45 - Utils: INFO: King~ executed: /warp spawn.
+2018-05-01 12:09:49 - Utils: INFO: King~ executed: /warp list.
+2018-05-01 12:09:54 - Utils: INFO: King~ executed: /warp d;.
+2018-05-01 12:09:57 - Utils: INFO: King~ executed: /warp dl.
+2018-05-01 12:10:02 - Utils: INFO: King~ executed: /warp d.
+2018-05-01 12:10:09 - Utils: INFO: King~ executed: /warp d.
+2018-05-01 12:10:22 - Utils: INFO: David executed: /house share 夜-胤笙.
+2018-05-01 12:10:28 - Utils: INFO: David executed: /house share King~.
+2018-05-01 12:11:00 - GetDataHandlers: INFO: dad authenticated successfully as user dad.
+2018-05-01 12:11:05 - TShock: INFO: dad (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:11:05 - Utils: INFO: Broadcast: dad has joined.
+2018-05-01 12:11:12 - Utils: INFO: Broadcast: David has left.
+2018-05-01 12:11:12 - TShock: INFO: David disconnected.
+2018-05-01 12:11:15 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:11:15 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-01 12:11:16 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (4/10)
+2018-05-01 12:11:16 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-01 12:11:20 - Utils: INFO: admin1 executed: /time *;00.
+2018-05-01 12:11:24 - Utils: INFO: admin1 executed: /time 8:00.
+2018-05-01 12:12:25 - Utils: INFO: dad executed: /warp zh.
+2018-05-01 12:12:55 - Utils: INFO: dad executed: /warp yh.
+2018-05-01 12:13:02 - Utils: INFO: dad executed: /warp zzh.
+2018-05-01 12:13:08 - Utils: INFO: dad executed: /warp zh.
+2018-05-01 12:13:30 - Utils: INFO: Broadcast: 夜-胤笙: 。。。
+2018-05-01 12:13:49 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:13:57 - Utils: INFO: King~ executed: /warp xd.
+2018-05-01 12:14:21 - Utils: INFO: admin1 executed: /protect.
+2018-05-01 12:15:22 - Utils: INFO: admin1 executed: /protector.
+2018-05-01 12:15:35 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-01 12:15:35 - TShock: INFO: admin1 disconnected.
+2018-05-01 12:15:35 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:15:37 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 12:15:37 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:15:37 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 12:15:47 - Utils: INFO: Broadcast: David has left.
+2018-05-01 12:15:47 - TShock: INFO: David disconnected.
+2018-05-01 12:15:49 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:15:49 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-01 12:15:50 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (4/10)
+2018-05-01 12:15:50 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-01 12:17:34 - Utils: INFO: Broadcast: admin1: /
+2018-05-01 12:17:35 - Utils: INFO: admin1 executed: /group addperm default prot.manualprotect.
+2018-05-01 12:17:39 - Utils: INFO: King~ executed: /warp list.
+2018-05-01 12:17:42 - Utils: INFO: King~ executed: /warp zh.
+2018-05-01 12:17:49 - Utils: INFO: admin1 executed: /group addperm default prot.manualdeprotect.
+2018-05-01 12:18:31 - Utils: INFO: admin1 executed: /protect share David.
+2018-05-01 12:18:49 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:18:58 - Utils: INFO: admin1 executed: /group addperm default prot.chestshare.
+2018-05-01 12:19:10 - Utils: INFO: Broadcast: 夜-胤笙: 有去丛林的指令没
+2018-05-01 12:19:15 - Utils: INFO: admin1 executed: /warp cl.
+2018-05-01 12:19:20 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-01 12:19:20 - TShock: INFO: admin1 disconnected.
+2018-05-01 12:19:20 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:19:24 - Utils: INFO: dad executed: /warp cl.
+2018-05-01 12:19:45 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:19:45 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-01 12:19:46 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (4/10)
+2018-05-01 12:19:46 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-01 12:19:48 - Utils: INFO: admin1 executed: /warp cl.
+2018-05-01 12:19:50 - Utils: INFO: admin1 executed: /spawn.
+2018-05-01 12:20:17 - Utils: INFO: admin1 executed: /share 夜-胤笙.
+2018-05-01 12:21:07 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:21:32 - Utils: INFO: King~ executed: /warp zh.
+2018-05-01 12:22:03 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:23:43 - Utils: INFO: King~ executed: /warp zh.
+2018-05-01 12:23:49 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:24:07 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-01 12:24:07 - TShock: INFO: admin1 disconnected.
+2018-05-01 12:24:07 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-01 12:24:09 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 12:24:09 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:24:09 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 12:24:15 - Utils: INFO: David executed: /protect.
+2018-05-01 12:24:22 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:24:24 - Utils: INFO: Broadcast: King~: [i/p73:3200]sheiyao
+2018-05-01 12:24:25 - Utils: INFO: David executed: /protect.
+2018-05-01 12:24:36 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:24:40 - Utils: INFO: David executed: /protect.
+2018-05-01 12:24:44 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:24:50 - Utils: INFO: David executed: /protect.
+2018-05-01 12:24:50 - Utils: INFO: King~ executed: /protect.
+2018-05-01 12:24:56 - Utils: INFO: David executed: /protect.
+2018-05-01 12:25:01 - Utils: INFO: David executed: /protect.
+2018-05-01 12:25:02 - Utils: INFO: King~ executed: /protect.
+2018-05-01 12:25:09 - Utils: INFO: Broadcast: David: 看公告，刚发的
+2018-05-01 12:25:14 - Utils: INFO: Broadcast: David has left.
+2018-05-01 12:25:14 - TShock: INFO: David disconnected.
+2018-05-01 12:25:16 - GetDataHandlers: INFO: Cark-David authenticated successfully as user Cark-David.
+2018-05-01 12:25:17 - TShock: INFO: Cark-David (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:25:17 - Utils: INFO: Broadcast: Cark-David has joined.
+2018-05-01 12:25:19 - Utils: INFO: Broadcast: Cark-David: 安慰
+2018-05-01 12:25:21 - Utils: INFO: Broadcast: Cark-David: 。
+2018-05-01 12:25:23 - Utils: INFO: Broadcast: Cark-David: keke 啊
+2018-05-01 12:25:25 - Utils: INFO: Broadcast: Cark-David: 克
+2018-05-01 12:25:28 - Utils: INFO: Broadcast: Cark-David: 呸
+2018-05-01 12:25:36 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:25:38 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:25:47 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:25:52 - Utils: INFO: King~ executed: /protect.
+2018-05-01 12:26:28 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:26:59 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:27:02 - Utils: INFO: Broadcast: Cark-David has left.
+2018-05-01 12:27:02 - TShock: INFO: Cark-David disconnected.
+2018-05-01 12:27:03 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:27:03 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-01 12:27:04 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:27:04 - Utils: INFO: Broadcast: David has joined.
+2018-05-01 12:27:09 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:27:12 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:27:15 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:27:22 - Utils: INFO: Broadcast: King~: 夜
+2018-05-01 12:27:25 - Utils: INFO: Broadcast: 夜-胤笙: 嗯
+2018-05-01 12:27:29 - Utils: INFO: Broadcast: King~: 你来我家看看能不能打开
+2018-05-01 12:27:46 - Utils: INFO: Broadcast: 夜-胤笙: 。。。
+2018-05-01 12:27:53 - Utils: INFO: Broadcast: King~: ！
+2018-05-01 12:27:58 - Utils: INFO: Broadcast: 夜-胤笙: 不能
+2018-05-01 12:27:58 - Utils: INFO: Broadcast: David: 你tm没圈地
+2018-05-01 12:28:08 - Utils: INFO: Broadcast: David: 使美国
+2018-05-01 12:28:11 - Utils: INFO: Broadcast: King~: 能打开吗
+2018-05-01 12:28:11 - Utils: INFO: Broadcast: David: 石玫瑰
+2018-05-01 12:28:16 - Utils: INFO: Broadcast: 夜-胤笙: 。。。
+2018-05-01 12:28:16 - Utils: INFO: Broadcast: David: 什么鬼
+2018-05-01 12:28:21 - Utils: INFO: Broadcast: King~: 能打开吗
+2018-05-01 12:28:32 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 12:28:35 - Utils: INFO: Broadcast: David: 你输入/protect敲击门就可以了
+2018-05-01 12:28:42 - Utils: INFO: King~ executed: /protect .
+2018-05-01 12:28:53 - Utils: INFO: Broadcast: David: 看
+2018-05-01 12:28:57 - Utils: INFO: Broadcast: David: 我点了下们
+2018-05-01 12:28:59 - Utils: INFO: Broadcast: David: 门
+2018-05-01 12:29:01 - Utils: INFO: Broadcast: David: 动不了了
+2018-05-01 12:29:05 - Utils: INFO: Broadcast: 夜-胤笙: 你们打脑子了吧
+2018-05-01 12:29:20 - Utils: INFO: David executed: /warp dl.
+2018-05-01 12:29:21 - Utils: INFO: King~ executed: /warp dl.
+2018-05-01 12:29:30 - Utils: INFO: Broadcast: 夜-胤笙: 怎么去地牢
+2018-05-01 12:29:33 - Utils: INFO: David executed: /warp cl.
+2018-05-01 12:29:36 - Utils: INFO: David executed: /warp dl.
+2018-05-01 12:29:54 - Utils: INFO: Broadcast: David: 不会指令的看群公告
+2018-05-01 12:29:57 - Utils: INFO: Broadcast: David: 很详细了
+2018-05-01 12:30:02 - Utils: INFO: Broadcast: 夜-胤笙: 哦
+2018-05-01 12:30:18 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 12:31:00 - Utils: INFO: King~ executed: /warp dl.
+2018-05-01 12:31:54 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-01 12:34:30 - Utils: INFO: Broadcast: 夜-胤笙: 有多余魔镜没
+2018-05-01 12:36:14 - Utils: INFO: David executed: /spawn.
+2018-05-01 12:36:24 - Utils: INFO: Broadcast: David: 蓝队
+2018-05-01 12:36:34 - Utils: INFO: Broadcast: King~: 决斗啊
+2018-05-01 12:37:54 - Utils: INFO: Broadcast: 夜-胤笙: warp cl
+2018-05-01 12:38:00 - Utils: INFO: 夜-胤笙 executed: /warp cl.
+2018-05-01 12:38:28 - Utils: INFO: Broadcast: David: 233333
+2018-05-01 12:38:41 - Utils: INFO: Broadcast: King~: w
+2018-05-01 12:41:45 - Utils: INFO: dad executed: /warp cl.
+2018-05-01 12:46:36 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:47:30 - Utils: INFO: Broadcast: David: 蓝队啊啊啊啊啊
+2018-05-01 12:47:33 - Utils: INFO: David executed: /who.
+2018-05-01 12:47:58 - Utils: INFO: Broadcast: David: dad
+2018-05-01 12:48:01 - Utils: INFO: Broadcast: David: 蓝队啊啊
+2018-05-01 12:48:04 - Utils: INFO: Broadcast: David: 啊啊啊啊啊啊啊啊啊啊
+2018-05-01 12:48:06 - Utils: INFO: Broadcast: David: 啊啊啊啊啊啊啊啊啊啊
+2018-05-01 12:48:09 - Utils: INFO: Broadcast: King~: [i:2000][i:2017][i:1994][i:2001][i:1998][i:1996][i:2016][i:2019]
+2018-05-01 12:48:12 - Utils: INFO: Broadcast: David: 卧槽
+2018-05-01 12:48:32 - Utils: INFO: Broadcast: King~: 你家们没了
+2018-05-01 12:48:42 - Utils: INFO: Broadcast: David: 没关系
+2018-05-01 12:49:02 - Utils: INFO: Broadcast: David: = =
+2018-05-01 12:49:05 - Utils: INFO: Broadcast: King~: QWQ
+2018-05-01 12:50:28 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 12:50:28 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 12:50:36 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-01 12:50:40 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 12:50:40 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-01 12:51:32 - Utils: INFO: Broadcast: 夜-胤笙: 怎么发物品
+2018-05-01 12:52:17 - Utils: INFO: David executed: /warp xd.
+2018-05-01 12:52:53 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:53:01 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-01 12:53:10 - Utils: INFO: David executed: /warp xd.
+2018-05-01 12:53:49 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:54:16 - Utils: INFO: David executed: /warp xd.
+2018-05-01 12:54:53 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:54:54 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-01 12:55:01 - Utils: INFO: David executed: /warp xd.
+2018-05-01 12:55:18 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:55:33 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 12:55:45 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:55:54 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-01 12:55:56 - Utils: INFO: David executed: /warp xd.
+2018-05-01 12:56:11 - Utils: INFO: dad executed: /warp xd.
+2018-05-01 12:56:36 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-01 12:57:13 - Utils: INFO: Broadcast: King~ has left.
+2018-05-01 12:57:13 - TShock: INFO: King~ disconnected.
+2018-05-01 12:59:02 - Utils: INFO: Broadcast: David: [i:800][i:3223][i/p36:800][i:1362]谁要
+2018-05-01 12:59:07 - Utils: INFO: Broadcast: 夜-胤笙: w1
+2018-05-01 12:59:45 - Utils: INFO: Broadcast: 夜-胤笙: 有组织没
+2018-05-01 12:59:50 - Utils: INFO: Broadcast: David: 没
+2018-05-01 13:01:33 - Utils: INFO: Broadcast: David: 谢谢
+2018-05-01 13:02:54 - Utils: INFO: Broadcast: David: ！
+2018-05-01 13:02:56 - Utils: INFO: Broadcast: David: 学校
+2018-05-01 13:02:58 - Utils: INFO: Broadcast: David: 谢谢
+2018-05-01 13:03:14 - Utils: INFO: 夜-胤笙 executed: /warp cl.
+2018-05-01 13:04:04 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-01 13:05:09 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:05:17 - Utils: INFO: Broadcast: David: 骷髅守卫打死过没
+2018-05-01 13:05:28 - Utils: INFO: David executed: /warp cl.
+2018-05-01 13:05:50 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-01 13:06:01 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-01 13:08:02 - GetDataHandlers: INFO: r authenticated successfully as user r.
+2018-05-01 13:08:45 - Utils: INFO: Broadcast: David: FAQ
+2018-05-01 13:08:51 - Utils: INFO: Broadcast: David: !
+2018-05-01 13:08:57 - Utils: INFO: Broadcast: David: !!
+2018-05-01 13:09:00 - Utils: INFO: Broadcast: David: 谢谢
+2018-05-01 13:09:01 - Utils: INFO: Broadcast: r has left.
+2018-05-01 13:09:01 - TShock: INFO: r disconnected.
+2018-05-01 13:09:05 - Utils: INFO: David executed: /who.
+2018-05-01 13:10:16 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 13:10:21 - GetDataHandlers: INFO: r authenticated successfully as user r.
+2018-05-01 13:10:25 - TShock: INFO: r (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-01 13:10:25 - Utils: INFO: Broadcast: r has joined.
+2018-05-01 13:11:42 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-01 13:12:35 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 13:13:02 - Utils: INFO: Broadcast: David: 哦对了忘了说了
+2018-05-01 13:13:03 - Utils: INFO: 夜-胤笙 executed: /warp dy.
+2018-05-01 13:13:10 - Utils: INFO: Broadcast: David: 以后放的箱子会自动保护的
+2018-05-01 13:13:13 - Utils: INFO: 夜-胤笙 executed: /warp dy.
+2018-05-01 13:13:17 - Utils: INFO: Broadcast: 夜-胤笙: 嗯
+2018-05-01 13:13:26 - Utils: INFO: 夜-胤笙 executed: /warp dy.
+2018-05-01 13:13:35 - Utils: INFO: 夜-胤笙 executed: /warp dy.
+2018-05-01 13:13:45 - Utils: INFO: Broadcast: David: 谢谢
+2018-05-01 13:13:50 - Utils: INFO: Broadcast: r:  e
+2018-05-01 13:14:02 - Utils: INFO: 夜-胤笙 executed: /warp yh.
+2018-05-01 13:14:10 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:14:20 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-01 13:14:21 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-01 13:15:30 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 13:15:38 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:15:52 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:16:01 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-01 13:16:13 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:16:22 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:16:29 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:16:47 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:17:16 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:17:22 - Utils: INFO: Broadcast: David: cao
+2018-05-01 13:17:25 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:17:29 - Utils: INFO: Broadcast: r: 我怎么打不指令
+2018-05-01 13:17:45 - Utils: INFO: David executed: /warp dl.
+2018-05-01 13:17:50 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-01 13:17:59 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:18:08 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 13:18:43 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-01 13:19:54 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-01 13:20:07 - Utils: INFO: Broadcast: David: 233
+2018-05-01 13:21:02 - Utils: INFO: dad executed: /warp dl.
+2018-05-01 13:21:38 - Utils: INFO: 夜-胤笙 executed: /warp yh.
+2018-05-01 13:25:02 - Utils: INFO: 夜-胤笙 executed: /warp yh.
+2018-05-01 13:26:03 - Utils: INFO: dad executed: /playing.
+2018-05-01 13:26:17 - Utils: INFO: dad executed: /aliases.
+2018-05-01 13:26:52 - Utils: INFO: dad executed: /help.
+2018-05-01 13:27:10 - Utils: INFO: dad executed: /aliases.
+2018-05-01 13:27:22 - Utils: INFO: dad executed: /me.
+2018-05-01 13:27:33 - Utils: INFO: dad executed: /warp r.
+2018-05-01 13:33:48 - Utils: INFO: Broadcast: r has left.
+2018-05-01 13:33:48 - TShock: INFO: r disconnected.
+2018-05-01 13:35:00 - Utils: INFO: 夜-胤笙 executed: /spawn.
+2018-05-01 13:37:37 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-01 13:37:37 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-01 13:42:45 - Utils: INFO: Broadcast: dad has left.
+2018-05-01 13:42:45 - TShock: INFO: dad disconnected.
+2018-05-01 13:43:42 - Utils: INFO: David executed: /who.
+2018-05-01 13:43:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-01 13:43:45 - Utils: INFO: Broadcast: David has left.
+2018-05-01 13:43:45 - TShock: INFO: David disconnected.
+2018-05-01 13:43:45 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-01 13:43:46 - Utils: INFO: Broadcast: World saved.
+2018-05-01 13:43:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 15:12:28 - Utils: INFO: Server executed: /off.
+2018-05-01 15:12:28 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-01 15:12:29 - Utils: INFO: Broadcast: World saved.
+2018-05-01 15:12:29 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-01 15:12:29 - Utils: INFO: Broadcast: Server shutting down!

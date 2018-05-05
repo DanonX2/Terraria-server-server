@@ -1,0 +1,34 @@
+2018-04-30 17:34:04 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-30 17:34:04 - TShock: INFO: AutoSave Enabled
+2018-04-30 17:34:04 - TShock: INFO: Backups Disabled
+2018-04-30 17:34:04 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-30 17:34:15 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-04-30 17:34:25 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-30 17:34:28 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (1/10)
+2018-04-30 17:34:28 - Utils: INFO: Broadcast: David has joined.
+2018-04-30 17:34:31 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-30 17:34:31 - Utils: INFO: Broadcast: David has left.
+2018-04-30 17:34:31 - TShock: INFO: David disconnected.
+2018-04-30 17:34:31 - PluginTrace: INFO: [Protector] Serializing the protection data took 2ms.
+2018-04-30 17:34:32 - Utils: INFO: Broadcast: World saved.
+2018-04-30 17:34:32 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 17:34:34 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-30 17:34:38 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (1/10)
+2018-04-30 17:34:38 - Utils: INFO: Broadcast: David has joined.
+2018-04-30 17:35:15 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-30 17:35:19 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (2/10)
+2018-04-30 17:35:19 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-30 17:35:34 - Utils: INFO: 111 executed: /warp zh.
+2018-04-30 17:37:21 - Utils: INFO: Broadcast: David has left.
+2018-04-30 17:37:21 - TShock: INFO: David disconnected.
+2018-04-30 17:37:21 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-30 17:37:21 - Utils: INFO: Broadcast: 111 has left.
+2018-04-30 17:37:21 - TShock: INFO: 111 disconnected.
+2018-04-30 17:37:21 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-04-30 17:37:22 - Utils: INFO: Broadcast: World saved.
+2018-04-30 17:37:22 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 17:37:46 - Utils: INFO: Server executed: /off.
+2018-04-30 17:37:46 - PluginTrace: INFO: [Protector] Serializing the protection data took less than 1ms.
+2018-04-30 17:37:48 - Utils: INFO: Broadcast: World saved.
+2018-04-30 17:37:48 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 17:37:48 - Utils: INFO: Broadcast: Server shutting down!

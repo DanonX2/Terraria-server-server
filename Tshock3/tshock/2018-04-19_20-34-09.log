@@ -1,0 +1,51 @@
+2018-04-19 20:34:09 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-19 20:34:09 - TShock: INFO: AutoSave Enabled
+2018-04-19 20:34:09 - TShock: INFO: Backups Disabled
+2018-04-19 20:34:09 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-19 20:40:58 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-19 20:41:03 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-19 20:41:03 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-19 20:41:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-19 20:41:12 - Utils: INFO: Broadcast: World saved.
+2018-04-19 20:41:12 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 20:44:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 未能解析此远程名称: 'stats.tshock.co'
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-19 20:44:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-19 20:49:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 未能解析此远程名称: 'stats.tshock.co'
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-19 20:49:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-19 20:50:15 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-19 20:54:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 未能解析此远程名称: 'stats.tshock.co'
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-19 20:54:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-19 21:05:39 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-19 21:07:00 - TShock: INFO: beiyi (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-19 21:07:00 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-19 21:07:23 - TextLog: INFO: beiyi registered an account: "beiyi".
+2018-04-19 21:07:34 - Commands: INFO: beiyi authenticated successfully as user: beiyi.
+2018-04-19 21:26:10 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-19 21:26:10 - TShock: INFO: beiyi disconnected.
+2018-04-19 21:26:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-19 21:26:10 - Utils: INFO: Broadcast: King~ has left.
+2018-04-19 21:26:10 - TShock: INFO: King~ disconnected.
+2018-04-19 21:26:12 - Utils: INFO: Broadcast: World saved.
+2018-04-19 21:26:12 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 21:27:01 - Utils: INFO: Server executed: /restart.
+2018-04-19 21:27:02 - Utils: INFO: Broadcast: World saved.
+2018-04-19 21:27:02 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 21:27:02 - Utils: INFO: Broadcast: Server shutting down!

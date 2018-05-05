@@ -1,0 +1,366 @@
+2018-04-15 09:15:37 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-15 09:15:37 - TShock: INFO: AutoSave Enabled
+2018-04-15 09:15:37 - TShock: INFO: Backups Disabled
+2018-04-15 09:15:37 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-15 09:16:19 - TShock: INFO: A superadmin account has been detected in the user database, but authcode.txt is still present.
+2018-04-15 09:16:19 - TShock: INFO: TShock will now disable the auth system and remove authcode.txt as it is no longer needed.
+2018-04-15 09:21:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:21:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:21:27 - TShock: INFO: sweat 爽 (192.168.0.106) from 'guest' group joined. (1/10)
+2018-04-15 09:21:27 - Utils: INFO: Broadcast: sweat 爽 has joined.
+2018-04-15 09:26:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:26:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:26:34 - TextLog: INFO: sweat 爽 registered an account: "sweat 爽".
+2018-04-15 09:26:42 - Commands: INFO: sweat 爽 authenticated successfully as user: sweat 爽.
+2018-04-15 09:29:29 - TShock: INFO: Surprise! (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-15 09:29:29 - Utils: INFO: Broadcast: Surprise! has joined.
+2018-04-15 09:29:44 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:29:44 - Commands: INFO: Surprise! authenticated successfully as user: dangdang.
+2018-04-15 09:30:43 - Utils: INFO: Broadcast: Surprise!: 这玩个鸡啊
+2018-04-15 09:30:50 - Utils: INFO: Broadcast: sweat 爽: 树都不能看
+2018-04-15 09:30:56 - Utils: INFO: Surprise! executed: /tp swe.
+2018-04-15 09:31:06 - Utils: INFO: Broadcast: Surprise!: cao
+2018-04-15 09:31:08 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:31:16 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:31:18 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:31:20 - Utils: INFO: Broadcast: sweat 爽: 这么晚给我一个
+2018-04-15 09:31:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:31:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:31:26 - Utils: INFO: Broadcast: sweat 爽: 照明无给我一个
+2018-04-15 09:31:33 - Utils: INFO: Surprise! executed: /tp swe.
+2018-04-15 09:31:39 - Utils: INFO: Broadcast: Surprise!: 你没有？
+2018-04-15 09:31:46 - Utils: INFO: Broadcast: sweat 爽: 没有...
+2018-04-15 09:32:02 - Utils: INFO: Broadcast: Surprise!: 哦
+2018-04-15 09:32:04 - Utils: INFO: Broadcast: Surprise!: 1
+2018-04-15 09:32:11 - Utils: INFO: Broadcast: Surprise!: 不给
+2018-04-15 09:32:14 - Utils: INFO: Broadcast: Surprise!: 哈
+2018-04-15 09:32:19 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:24 - Utils: INFO: Broadcast: Surprise!: Fatal error: [File:Unknown] [Line: 821] Rendering thread exception:Fatal error: [File:Unknown] [Line: 111] GPU has crashed0x00007ff94e664008 KERNELBASE.dll!UnknownFunction []0x00007ff719564599 FortniteClient-Win64-Shipping.exe!UnknownFunction []0x00007ff7194fc22b FortniteClient-Win64-
+2018-04-15 09:32:29 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:34 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:35 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:36 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:37 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:39 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:40 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:41 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:43 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:32:46 - Utils: INFO: Broadcast: Surprise!: 下不来了
+2018-04-15 09:32:56 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:03 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:04 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:06 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:10 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:35 - Utils: INFO: Broadcast: sweat 爽: 都被别人搜过了
+2018-04-15 09:33:43 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:33:46 - Utils: INFO: Broadcast: Surprise!: 草啊
+2018-04-15 09:35:09 - Utils: INFO: Broadcast: Surprise!: cao
+2018-04-15 09:35:39 - Utils: INFO: Broadcast: sweat 爽: 给我等啊
+2018-04-15 09:35:46 - Utils: INFO: Surprise! executed: /butcher.
+2018-04-15 09:36:06 - Utils: INFO: Broadcast: sweat 爽: 帮我看
+2018-04-15 09:36:16 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:36:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:36:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:36:24 - Utils: INFO: Broadcast: sweat 爽: 砍树
+2018-04-15 09:36:39 - Utils: INFO: Broadcast: Surprise!: 给我报酬
+2018-04-15 09:36:55 - Utils: INFO: Broadcast: sweat 爽: 什么？
+2018-04-15 09:37:05 - Utils: INFO: Broadcast: Surprise!: 你有什么
+2018-04-15 09:37:16 - Utils: INFO: Surprise! executed: /give 235 Surprise! 999.
+2018-04-15 09:37:26 - Utils: INFO: Broadcast: sweat 爽: [i/s78:71][i/s2:72]
+2018-04-15 09:37:33 - Utils: INFO: Broadcast: sweat 爽: 666
+2018-04-15 09:37:50 - Utils: INFO: Broadcast: Surprise!: 没了
+2018-04-15 09:38:01 - Utils: INFO: Broadcast: sweat 爽: 天坑群
+2018-04-15 09:38:10 - Utils: INFO: Broadcast: sweat 爽: 填坑啊
+2018-04-15 09:38:24 - Utils: INFO: Broadcast: sweat 爽: 6
+2018-04-15 09:38:28 - Utils: INFO: Broadcast: sweat 爽: xxx
+2018-04-15 09:39:01 - Utils: INFO: Broadcast: Surprise!: cao
+2018-04-15 09:39:06 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:41:17 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:41:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:41:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:41:28 - Utils: INFO: Broadcast: Surprise!: 打我
+2018-04-15 09:41:57 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:42:00 - Utils: INFO: Surprise! executed: /tp sw.
+2018-04-15 09:43:18 - Utils: INFO: Broadcast: sweat 爽 has left.
+2018-04-15 09:43:18 - TShock: INFO: sweat 爽 disconnected.
+2018-04-15 09:43:55 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-15 09:43:57 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-15 09:43:57 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-15 09:44:04 - Utils: INFO: Broadcast: Surprise!: hey
+2018-04-15 09:44:14 - Utils: INFO: Broadcast: King~: 力量
+2018-04-15 09:44:25 - Utils: INFO: Broadcast: Surprise!: tp
+2018-04-15 09:44:27 - Utils: INFO: Surprise! executed: /tp king.
+2018-04-15 09:46:17 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:46:23 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:46:23 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:49:00 - Utils: INFO: Surprise! executed: /home.
+2018-04-15 09:51:17 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:51:23 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:51:23 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:51:23 - Utils: INFO: Surprise! executed: /tp king.
+2018-04-15 09:53:28 - Utils: INFO: Surprise! executed: /tp kings.
+2018-04-15 09:53:32 - Utils: INFO: Surprise! executed: /tp king.
+2018-04-15 09:53:37 - Utils: INFO: Broadcast: Surprise!: cao
+2018-04-15 09:54:18 - Utils: INFO: Broadcast: Surprise!: 666
+2018-04-15 09:54:41 - Utils: INFO: Broadcast: Surprise!: 什么
+2018-04-15 09:55:15 - Utils: INFO: Broadcast: Surprise!: 你要回去？
+2018-04-15 09:55:21 - Utils: INFO: Broadcast: King~: ？
+2018-04-15 09:55:31 - Utils: INFO: Broadcast: Surprise!: 你还要吗你给我的时装
+2018-04-15 09:55:38 - Utils: INFO: Broadcast: King~: 不要
+2018-04-15 09:55:45 - Utils: INFO: Broadcast: Surprise!: 谢谢
+2018-04-15 09:56:17 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 09:56:24 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 09:56:24 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 09:58:53 - Utils: INFO: Broadcast: King~: ？？？？
+2018-04-15 10:01:17 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 10:01:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:01:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:01:39 - Utils: INFO: Broadcast: Surprise!: 一会在玩
+2018-04-15 10:01:39 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 10:01:41 - Utils: INFO: Broadcast: Surprise!: 我去吃饭了
+2018-04-15 10:01:42 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 10:01:42 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 10:01:43 - Utils: INFO: Broadcast: Surprise!: 再见
+2018-04-15 10:01:52 - Utils: INFO: Broadcast: Surprise! has left.
+2018-04-15 10:01:52 - TShock: INFO: Surprise! disconnected.
+2018-04-15 10:01:52 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-15 10:03:05 - Utils: INFO: Broadcast: KKJJL: 来攒银弹
+2018-04-15 10:04:53 - Utils: INFO: Broadcast: KKJJL: 你们打了大虫子没
+2018-04-15 10:05:11 - Utils: INFO: Broadcast: King~: 没呢
+2018-04-15 10:06:09 - Utils: INFO: Broadcast: KKJJL: 一会儿去打？
+2018-04-15 10:06:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:06:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:06:56 - Utils: INFO: King~ summoned the Eye of Cthulhu!
+2018-04-15 10:07:01 - Utils: INFO: Broadcast: KKJJL: ?
+2018-04-15 10:08:02 - Utils: INFO: Broadcast: KKJJL: 没了
+2018-04-15 10:08:12 - Utils: INFO: Broadcast: KKJJL: 打了个金钱槽
+2018-04-15 10:08:18 - Utils: INFO: Broadcast: King~: ？？？
+2018-04-15 10:08:20 - Utils: INFO: Broadcast: King~: 什么意思
+2018-04-15 10:08:36 - Utils: INFO: Broadcast: KKJJL: [i:3213]打滴滴怪掉的
+2018-04-15 10:08:52 - Utils: INFO: Broadcast: King~: 哇为什么我没有d
+2018-04-15 10:10:09 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 10:10:09 - TShock: INFO: KKJJL disconnected.
+2018-04-15 10:10:15 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 10:10:17 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-15 10:10:17 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 10:10:58 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 10:10:58 - TShock: INFO: KKJJL disconnected.
+2018-04-15 10:11:26 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:11:26 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:16:26 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:16:26 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:21:27 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:21:27 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:26:27 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:26:27 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 10:31:28 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 10:31:28 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:34:47 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-15 14:34:47 - Utils: INFO: Broadcast: King~ has left.
+2018-04-15 14:34:47 - TShock: INFO: King~ disconnected.
+2018-04-15 14:34:48 - Utils: INFO: Broadcast: World saved.
+2018-04-15 14:34:48 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-15 14:37:14 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 14:37:14 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:40:41 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-15 14:40:47 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-15 14:40:47 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-15 14:40:47 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-15 14:40:47 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-15 14:40:47 - Utils: INFO: Broadcast: David has joined.
+2018-04-15 14:40:51 - Utils: INFO: Broadcast: David: 啊哈！
+2018-04-15 14:40:59 - Utils: INFO: Broadcast: King~: 来
+2018-04-15 14:41:01 - Utils: INFO: Broadcast: King~: 啦啦
+2018-04-15 14:41:03 - Utils: INFO: Broadcast: David: ，，，
+2018-04-15 14:41:05 - Utils: INFO: Broadcast: David: emmmmm
+2018-04-15 14:41:09 - Utils: INFO: Broadcast: David: 陨石
+2018-04-15 14:41:15 - Utils: INFO: Broadcast: King~: 对啊
+2018-04-15 14:41:16 - Utils: INFO: Broadcast: David: 草！
+2018-04-15 14:41:26 - Utils: INFO: Broadcast: King~: 陨石掉落了啊
+2018-04-15 14:41:28 - Utils: INFO: Broadcast: David: 虫子打了没
+2018-04-15 14:41:32 - Utils: INFO: Broadcast: King~: 没呢
+2018-04-15 14:41:36 - Utils: INFO: Broadcast: David: 嗯
+2018-04-15 14:41:41 - Utils: INFO: Broadcast: David: 我再弄2颗
+2018-04-15 14:41:42 - Utils: INFO: Broadcast: David: qwq
+2018-04-15 14:41:51 - Utils: INFO: Broadcast: King~: 那啥
+2018-04-15 14:41:57 - Utils: INFO: Broadcast: King~: 再打虫子就出来了
+2018-04-15 14:42:09 - Utils: INFO: Server executed: /dropmeteor.
+2018-04-15 14:42:13 - Utils: INFO: Broadcast: King~: ？？？
+2018-04-15 14:42:14 - Utils: INFO: Server executed: /dropmeteor.
+2018-04-15 14:42:15 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 14:42:15 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:42:19 - Utils: INFO: Broadcast: David: ok
+2018-04-15 14:42:20 - Utils: INFO: Broadcast: King~: 哇群主你
+2018-04-15 14:42:22 - Utils: INFO: Broadcast: David: 出来了
+2018-04-15 14:42:25 - Utils: INFO: Broadcast: David: 哇卡卡卡卡
+2018-04-15 14:42:48 - Utils: INFO: Broadcast: David: 炸陨石去咯~
+2018-04-15 14:44:42 - Utils: INFO: Broadcast: David: 233
+2018-04-15 14:44:43 - Utils: INFO: Broadcast: David: 谢谢了
+2018-04-15 14:44:50 - Utils: INFO: Broadcast: King~: 还有要吗
+2018-04-15 14:45:25 - Utils: INFO: Broadcast: David: 不用了
+2018-04-15 14:47:15 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 14:47:15 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:48:19 - Utils: INFO: Broadcast: David:  
+2018-04-15 14:50:10 - Utils: INFO: Broadcast: David: 艹
+2018-04-15 14:50:10 - Utils: INFO: Broadcast: King~: ？
+2018-04-15 14:50:25 - Utils: INFO: Broadcast: David: [i/s369:116]啊哈
+2018-04-15 14:50:42 - Utils: INFO: Broadcast: King~: 还有吗
+2018-04-15 14:50:53 - Utils: INFO: Broadcast: David: 没了
+2018-04-15 14:51:00 - Utils: INFO: Broadcast: King~: .
+2018-04-15 14:51:11 - GetDataHandlers: INFO: sweat 爽 authenticated successfully as user sweat 爽.
+2018-04-15 14:51:17 - TShock: INFO: sweat 爽 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 14:51:17 - Utils: INFO: Broadcast: sweat 爽 has joined.
+2018-04-15 14:51:22 - Utils: INFO: Broadcast: David: 啊哈
+2018-04-15 14:51:26 - Utils: INFO: Broadcast: David: 欢迎
+2018-04-15 14:51:32 - Utils: INFO: Broadcast: sweat 爽:  ...
+2018-04-15 14:51:36 - Utils: INFO: Broadcast: sweat 爽: 没东西了
+2018-04-15 14:51:44 - Utils: INFO: Broadcast: sweat 爽: 搜光了
+2018-04-15 14:51:52 - Utils: INFO: Broadcast: David: ？
+2018-04-15 14:51:54 - Utils: INFO: Broadcast: David: 什么意思
+2018-04-15 14:51:59 - Utils: INFO: Broadcast: sweat 爽: 资源
+2018-04-15 14:52:04 - Utils: INFO: Broadcast: sweat 爽: 箱子一个没有
+2018-04-15 14:52:10 - Utils: INFO: Broadcast: sweat 爽: 和塑钢窗一样
+2018-04-15 14:52:10 - Utils: INFO: Broadcast: King~: 还有好多呢
+2018-04-15 14:52:14 - Utils: INFO: Broadcast: David: 地底下有啊
+2018-04-15 14:52:15 - Utils: INFO: Broadcast: sweat 爽: 和上次一样
+2018-04-15 14:52:16 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 14:52:16 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:52:21 - Utils: INFO: Broadcast: David: ？
+2018-04-15 14:52:27 - Utils: INFO: Broadcast: sweat 爽: 一个都没有了
+2018-04-15 14:52:41 - Utils: INFO: Broadcast: David: 地底喂
+2018-04-15 14:52:52 - Utils: INFO: Broadcast: David: 这么大地图
+2018-04-15 14:53:20 - Utils: INFO: Broadcast: sweat 爽: 地底下
+2018-04-15 14:53:23 - Utils: INFO: Broadcast: sweat 爽: 也没有
+2018-04-15 14:53:31 - Utils: INFO: Broadcast: David: 全没了？
+2018-04-15 14:53:34 - Utils: INFO: Broadcast: sweat 爽: 太深我容易使
+2018-04-15 14:53:36 - Utils: INFO: Broadcast: sweat 爽: 死
+2018-04-15 14:53:39 - Utils: INFO: Broadcast: David: 。。。
+2018-04-15 14:53:45 - Utils: INFO: Broadcast: David: 不会吧
+2018-04-15 14:53:50 - Utils: INFO: Broadcast: David: 难道是服务器问题
+2018-04-15 14:54:11 - Utils: INFO: Broadcast: David: 是突然没有还是你们弄没有的
+2018-04-15 14:54:18 - Utils: INFO: Broadcast: sweat 爽: 我连鞋子都猫头鹰
+2018-04-15 14:54:21 - Utils: INFO: Broadcast: sweat 爽: 没有
+2018-04-15 14:54:30 - Utils: INFO: Broadcast: David: 我现在要挖地狱通道
+2018-04-15 14:54:30 - Utils: INFO: Broadcast: sweat 爽: 我没弄到
+2018-04-15 14:56:06 - Utils: INFO: Broadcast: David: ok
+2018-04-15 14:56:11 - Utils: INFO: Broadcast: David: 不用挖了
+2018-04-15 14:56:43 - Utils: INFO: Broadcast: David: = =
+2018-04-15 14:57:16 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 14:57:16 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 14:57:33 - Utils: INFO: Broadcast: sweat 爽: 怎么那么都有陨石套
+2018-04-15 14:57:51 - Utils: INFO: Broadcast: David: 我炸了2个珍珠
+2018-04-15 14:58:01 - Utils: INFO: Broadcast: David: 你看
+2018-04-15 14:58:04 - Utils: INFO: Broadcast: David: 这不是有
+2018-04-15 14:58:10 - Utils: INFO: Broadcast: David: [i:952][i/s2:2350][i:302][i/s31:279][i:167][i:939]
+2018-04-15 14:58:17 - Utils: INFO: Broadcast: David: 吓死
+2018-04-15 14:58:19 - Utils: INFO: Broadcast: sweat 爽: 我不说了吗
+2018-04-15 14:58:21 - Utils: INFO: Broadcast: David: 还以为服务器问题
+2018-04-15 14:58:38 - Utils: INFO: Broadcast: sweat 爽: 太深容易死
+2018-04-15 14:58:42 - Utils: INFO: Broadcast: David: 好吧
+2018-04-15 14:59:01 - Utils: INFO: Broadcast: sweat 爽: 什么情况
+2018-04-15 14:59:12 - Utils: INFO: Broadcast: David: 艹！
+2018-04-15 14:59:49 - Utils: INFO: Broadcast: sweat 爽: 下不去
+2018-04-15 15:00:10 - Utils: INFO: Broadcast: sweat 爽: 怎么下去啊
+2018-04-15 15:00:42 - Utils: INFO: Broadcast: King~: 蛛丝吊索我有两个
+2018-04-15 15:00:54 - Utils: INFO: Broadcast: sweat 爽: 拜托挖干净好不好
+2018-04-15 15:02:17 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 15:02:17 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 15:02:18 - Utils: INFO: Broadcast: David: 我可是东方玩家
+2018-04-15 15:02:19 - Utils: INFO: Broadcast: sweat 爽: 666
+2018-04-15 15:02:21 - Utils: INFO: Broadcast: David: 我会走位
+2018-04-15 15:02:23 - Utils: INFO: Broadcast: David: 233
+2018-04-15 15:02:27 - Utils: INFO: Broadcast: sweat 爽: 狗屁
+2018-04-15 15:04:25 - Utils: INFO: Broadcast: David: 啊哈哈哈
+2018-04-15 15:04:38 - Utils: INFO: Broadcast: sweat 爽: 号位
+2018-04-15 15:04:41 - Utils: INFO: Broadcast: sweat 爽: 好玩
+2018-04-15 15:04:45 - Utils: INFO: Broadcast: King~: ？
+2018-04-15 15:05:10 - Utils: INFO: Broadcast: David: 23333333
+2018-04-15 15:05:11 - Utils: INFO: Broadcast: sweat 爽: 神经病
+2018-04-15 15:05:13 - Utils: INFO: Broadcast: David: 233333333333333333
+2018-04-15 15:05:14 - Utils: INFO: Broadcast: David: 2333333
+2018-04-15 15:05:16 - Utils: INFO: Broadcast: David: 笑死
+2018-04-15 15:06:34 - Utils: INFO: Broadcast: sweat 爽: 哈哈哈
+2018-04-15 15:07:17 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 15:07:17 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 15:07:45 - Utils: INFO: Broadcast: David: 艹
+2018-04-15 15:07:45 - Utils: INFO: Broadcast: sweat 爽: 哈哈哈
+2018-04-15 15:08:23 - Utils: INFO: Broadcast: sweat 爽: 66
+2018-04-15 15:08:36 - Utils: INFO: Broadcast: David: 啊哈
+2018-04-15 15:08:41 - Utils: INFO: Broadcast: sweat 爽: 太好玩了
+2018-04-15 15:08:56 - Utils: INFO: Broadcast: David: = =
+2018-04-15 15:08:57 - Utils: INFO: Broadcast: sweat 爽: 傻子
+2018-04-15 15:09:04 - Utils: INFO: Broadcast: sweat 爽: 笑岔气
+2018-04-15 15:09:14 - Utils: INFO: Server executed: /kill sw.
+2018-04-15 15:09:19 - Utils: INFO: Broadcast: sweat 爽:  ...
+2018-04-15 15:09:23 - Utils: INFO: Broadcast: sweat 爽: 66
+2018-04-15 15:09:27 - Utils: INFO: Broadcast: David: 2333
+2018-04-15 15:09:43 - Utils: INFO: Broadcast: sweat 爽: 你这家店
+2018-04-15 15:09:49 - Utils: INFO: Broadcast: sweat 爽: 你自己点的
+2018-04-15 15:10:04 - Utils: INFO: Broadcast: King~: a
+2018-04-15 15:10:15 - Utils: INFO: Broadcast: King~: 哈哈哈哈哈哈哈哈哈
+2018-04-15 15:10:40 - GetDataHandlers: INFO: 1 authenticated successfully as user 1.
+2018-04-15 15:10:46 - TShock: INFO: 1 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 15:10:46 - Utils: INFO: Broadcast: 1 has joined.
+2018-04-15 15:10:52 - Utils: INFO: Broadcast: sweat 爽: [i/s999:3]
+2018-04-15 15:10:59 - Utils: INFO: Broadcast: King~: ？
+2018-04-15 15:11:05 - Utils: INFO: Broadcast: David: 玩了
+2018-04-15 15:11:12 - Utils: INFO: Broadcast: David: 我迟早要被你玩死
+2018-04-15 15:11:12 - Utils: INFO: Broadcast: King~: 给我六点
+2018-04-15 15:11:44 - Utils: INFO: Broadcast: sweat 爽 has left.
+2018-04-15 15:11:44 - TShock: INFO: sweat 爽 disconnected.
+2018-04-15 15:11:44 - GetDataHandlers: INFO: sweat 爽 authenticated successfully as user sweat 爽.
+2018-04-15 15:11:56 - TShock: INFO: sweat 爽 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 15:11:56 - Utils: INFO: Broadcast: sweat 爽 has joined.
+2018-04-15 15:12:00 - Utils: INFO: Broadcast: sweat 爽:   ....
+2018-04-15 15:12:18 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 15:12:18 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 15:12:23 - Utils: INFO: Broadcast: sweat 爽:  666+
+2018-04-15 15:13:27 - Utils: INFO: Broadcast: David: 艹
+2018-04-15 15:13:31 - Utils: INFO: Broadcast: sweat 爽: 什么情况
+2018-04-15 15:13:34 - Utils: INFO: Broadcast: King~: A
+2018-04-15 15:13:42 - Utils: INFO: Server executed: /off.
+2018-04-15 15:13:42 - Utils: INFO: Kicked King~ for : 'Server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: King~ was force kicked for 'server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: King~ has left.
+2018-04-15 15:13:42 - TShock: INFO: King~ disconnected.
+2018-04-15 15:13:42 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Kicked 1 for : 'Server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: 1 was force kicked for 'server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Kicked sweat 爽 for : 'Server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: sweat 爽 was force kicked for 'server shutting down!'
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: David has left.
+2018-04-15 15:13:42 - TShock: INFO: David disconnected.
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: 1 has left.
+2018-04-15 15:13:42 - TShock: INFO: 1 disconnected.
+2018-04-15 15:13:42 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-15 15:13:42 - Utils: INFO: Broadcast: sweat 爽 has left.
+2018-04-15 15:13:42 - TShock: INFO: sweat 爽 disconnected.
+2018-04-15 15:13:43 - Utils: INFO: Broadcast: World saved.
+2018-04-15 15:13:43 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-15 15:13:43 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-15 15:13:45 - Utils: INFO: Broadcast: World saved.
+2018-04-15 15:13:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

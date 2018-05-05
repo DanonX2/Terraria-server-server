@@ -1,0 +1,1007 @@
+2018-04-22 17:02:31 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-22 17:02:31 - TShock: INFO: AutoSave Enabled
+2018-04-22 17:02:31 - TShock: INFO: Backups Disabled
+2018-04-22 17:02:31 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-22 17:03:57 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 17:03:58 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-22 17:03:58 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 17:04:22 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 17:04:26 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 17:04:27 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 17:04:27 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 17:04:30 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 17:04:30 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 17:05:04 - Utils: INFO: Broadcast: 111: K
+2018-04-22 17:05:08 - Utils: INFO: Broadcast: 111: 你拿一点木头
+2018-04-22 17:05:10 - Utils: INFO: Broadcast: 111: 来这边
+2018-04-22 17:05:13 - Utils: INFO: Broadcast: 111: 把这个秀一下
+2018-04-22 17:05:16 - Utils: INFO: Broadcast: 111: 修一下
+2018-04-22 17:05:33 - Utils: INFO: Broadcast: 111: 这里
+2018-04-22 17:06:14 - Utils: INFO: Broadcast: 111: 这里
+2018-04-22 17:07:37 - Utils: INFO: Broadcast: 111: 把这里修一下
+2018-04-22 17:09:45 - Utils: INFO: Broadcast: King~: 钻头号还是斧头好
+2018-04-22 17:10:40 - Utils: INFO: Broadcast: 111: 斧头
+2018-04-22 17:10:41 - Utils: INFO: Broadcast: 111: 钻头
+2018-04-22 17:10:44 - Utils: INFO: Broadcast: 111: 太吵
+2018-04-22 17:11:02 - Utils: INFO: Broadcast: King~: 我进来了
+2018-04-22 17:11:34 - Utils: INFO: King~ executed: /warp swanp.
+2018-04-22 17:11:38 - Utils: INFO: Broadcast: David: ok
+2018-04-22 17:11:41 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:11:48 - Utils: INFO: Broadcast: David: 我来啦
+2018-04-22 17:11:48 - Utils: INFO: Broadcast: 111: 走去打世纪之花
+2018-04-22 17:11:59 - Utils: INFO: Broadcast: 111: 兄弟们冲 啊
+2018-04-22 17:12:00 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:12:04 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 17:12:12 - Utils: INFO: Broadcast: 111: cl
+2018-04-22 17:12:16 - Utils: INFO: Broadcast: 111: 指令
+2018-04-22 17:12:23 - Utils: INFO: Broadcast: David: CL
+2018-04-22 17:12:46 - Utils: INFO: Broadcast: 111: 我去挖一个
+2018-04-22 17:12:49 - Utils: INFO: Broadcast: David: 等下
+2018-04-22 17:12:52 - Utils: INFO: Broadcast: David: 好好了叫我
+2018-04-22 17:13:08 - Utils: INFO: Broadcast: 111: 叫你？
+2018-04-22 17:13:12 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 17:13:20 - Utils: INFO: Broadcast: David: 我去刷装备
+2018-04-22 17:13:32 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-22 17:13:39 - Utils: INFO: King~ executed: /warp swanp.
+2018-04-22 17:13:45 - Utils: INFO: Broadcast: 111: 耍啥？
+2018-04-22 17:13:47 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:13:49 - Utils: INFO: Broadcast: David: [i/s4:561]
+2018-04-22 17:13:52 - Utils: INFO: Broadcast: David: 还差1分
+2018-04-22 17:14:00 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 17:14:01 - Utils: INFO: Broadcast: 111: 去吧
+2018-04-22 17:14:15 - Utils: INFO: Broadcast: 111: 我这边就有一个花苞
+2018-04-22 17:14:18 - Utils: INFO: Broadcast: 111: 随时可以弄
+2018-04-22 17:14:21 - Utils: INFO: Broadcast: 111: 你好了说话
+2018-04-22 17:14:21 - Utils: INFO: Broadcast: King~: 你们在干嘛
+2018-04-22 17:14:28 - Utils: INFO: Broadcast: 111: 世纪之花啊
+2018-04-22 17:14:29 - Utils: INFO: Broadcast: David: 搞基啊
+2018-04-22 17:14:51 - Utils: INFO: Broadcast: 111: 你不打世纪之花吗？
+2018-04-22 17:14:54 - Utils: INFO: Broadcast: King~: 打
+2018-04-22 17:14:58 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:15:00 - Utils: INFO: Broadcast: 111: 那不就完了
+2018-04-22 17:15:04 - Utils: INFO: Broadcast: 111: 等群主弄好了
+2018-04-22 17:15:07 - Utils: INFO: Broadcast: 111: 就过来打
+2018-04-22 17:15:25 - Utils: INFO: Broadcast: 111: 一会你们俩个在传送的那个地方等我
+2018-04-22 17:15:27 - Utils: INFO: Broadcast: 111: 我下去挖
+2018-04-22 17:15:37 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:15:45 - Utils: INFO: Server executed: /kill David.
+2018-04-22 17:16:02 - Utils: INFO: Broadcast: King~: 鲨鱼气有吗
+2018-04-22 17:16:14 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 17:16:19 - Utils: INFO: Broadcast: David: emmmm
+2018-04-22 17:16:20 - Utils: INFO: Broadcast: David: 没有
+2018-04-22 17:16:28 - Utils: INFO: Broadcast: 111: 你要刷神魔东西
+2018-04-22 17:16:29 - Utils: INFO: Broadcast: 111: 名字
+2018-04-22 17:16:34 - Utils: INFO: Broadcast: David: [i/s5:561]
+2018-04-22 17:16:35 - Utils: INFO: Broadcast: David: ok
+2018-04-22 17:16:37 - Utils: INFO: Broadcast: King~: 巨兽啥
+2018-04-22 17:16:54 - Utils: INFO: Broadcast: 111: 那你快点
+2018-04-22 17:16:57 - Utils: INFO: Broadcast: 111: 等你弄好了
+2018-04-22 17:16:59 - Utils: INFO: Broadcast: 111: 就出发
+2018-04-22 17:17:01 - Utils: INFO: Broadcast: David: 我好了
+2018-04-22 17:17:06 - Utils: INFO: Broadcast: David: [i/s5:561]
+2018-04-22 17:17:11 - Utils: INFO: Broadcast: 111: 今天把花   石巨人   猪杀打过
+2018-04-22 17:17:31 - Utils: INFO: Broadcast: 111: 一会记得清理触手
+2018-04-22 17:17:36 - Utils: INFO: Broadcast: David: 恶魔
+2018-04-22 17:17:37 - Utils: INFO: Broadcast: 111: 第二阶段的话
+2018-04-22 17:17:41 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 17:17:42 - Utils: INFO: Broadcast: 111: 就触手厉害
+2018-04-22 17:18:06 - Utils: INFO: Broadcast: King~: [i/s4:319]
+2018-04-22 17:18:47 - Utils: INFO: Broadcast: 111: 群主
+2018-04-22 17:18:53 - Utils: INFO: Broadcast: 111: 你们谁用枪
+2018-04-22 17:18:57 - Utils: INFO: Broadcast: David: 我啊
+2018-04-22 17:18:58 - Utils: INFO: Broadcast: 111: [i/s999:1351][i/s651:1351]
+2018-04-22 17:19:02 - Utils: INFO: Broadcast: 111: 我帮你们做了这个
+2018-04-22 17:19:05 - Utils: INFO: Broadcast: David: ！
+2018-04-22 17:19:09 - Utils: INFO: Broadcast: King~: 我也要
+2018-04-22 17:19:12 - Utils: INFO: Broadcast: King~: 给我一组
+2018-04-22 17:19:15 - Utils: INFO: Broadcast: 111: 一人999
+2018-04-22 17:19:20 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 17:19:35 - Utils: INFO: Broadcast: David: 我希望一刀999
+2018-04-22 17:19:36 - Utils: INFO: Broadcast: David: 233
+2018-04-22 17:19:59 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 17:20:06 - Utils: INFO: Broadcast: 111: 这个范围伤害
+2018-04-22 17:20:10 - Utils: INFO: Broadcast: 111: 所以清理触手还算可以
+2018-04-22 17:20:15 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:20:53 - Utils: INFO: Broadcast: 111: 我这个法杖穿透上海
+2018-04-22 17:21:01 - Utils: INFO: Broadcast: King~: [i:1315]
+2018-04-22 17:21:10 - Utils: INFO: Broadcast: 111: 已经阻止入侵了
+2018-04-22 17:21:11 - Utils: INFO: Broadcast: David: 好走了不
+2018-04-22 17:21:15 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 17:21:18 - Utils: INFO: Broadcast: 111: 可以了没？
+2018-04-22 17:21:20 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:21:25 - Utils: INFO: Broadcast: 111: King
+2018-04-22 17:21:28 - Utils: INFO: Broadcast: 111: 快点
+2018-04-22 17:21:33 - Utils: INFO: Broadcast: 111: 蓝队
+2018-04-22 17:21:38 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:21:38 - Utils: INFO: Broadcast: 111: 走走
+2018-04-22 17:21:40 - Utils: INFO: Broadcast: 111: cl
+2018-04-22 17:21:42 - Utils: INFO: Broadcast: 111: 指令
+2018-04-22 17:21:45 - Utils: INFO: Broadcast: 111: cl
+2018-04-22 17:21:49 - Utils: INFO: Broadcast: 111: 快点
+2018-04-22 17:21:50 - Utils: INFO: Broadcast: 111: k
+2018-04-22 17:21:51 - Utils: INFO: Broadcast: 111: 去啊
+2018-04-22 17:21:56 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 17:21:58 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-22 17:22:16 - Utils: INFO: Broadcast: 111: cl
+2018-04-22 17:22:52 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 17:23:02 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-22 17:23:10 - Utils: INFO: Broadcast: David: 艹= =
+2018-04-22 17:23:15 - Utils: INFO: Broadcast: David: 输入/warp cl
+2018-04-22 17:23:16 - Utils: INFO: Broadcast: David: CL
+2018-04-22 17:23:20 - Utils: INFO: Broadcast: David: 不是d
+2018-04-22 17:23:24 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:23:45 - Utils: INFO: Broadcast: 111: 快点啊
+2018-04-22 17:23:58 - Utils: INFO: Broadcast: David: 输指令啊
+2018-04-22 17:24:03 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 17:24:07 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:24:37 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 17:24:41 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:24:44 - Utils: INFO: Broadcast: 111: nimenzaizhelidengzhe 
+2018-04-22 17:24:47 - Utils: INFO: Broadcast: 111: 你们在这里等着
+2018-04-22 17:24:48 - Utils: INFO: Broadcast: 111: 我去挖
+2018-04-22 17:26:18 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 17:26:25 - Utils: INFO: King~ executed: /warp d.
+2018-04-22 17:26:26 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:26:30 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 17:27:18 - Utils: INFO: David executed: /warp cl.
+2018-04-22 17:27:24 - Utils: INFO: Broadcast: 111: 可算过了
+2018-04-22 17:27:25 - Utils: INFO: Broadcast: 111: 挖
+2018-04-22 17:27:42 - Utils: INFO: Broadcast: 111: 回
+2018-04-22 17:27:43 - Utils: INFO: Broadcast: 111: 回来
+2018-04-22 17:27:48 - Utils: INFO: Broadcast: 111: 我有抢和召唤的
+2018-04-22 17:27:56 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:27:58 - Utils: INFO: Broadcast: 111: [i/p54:1157][i:1255]
+2018-04-22 17:28:05 - Utils: INFO: Broadcast: King~: [i/p26:1157][i/p64:3336][i:1141][i:788]
+2018-04-22 17:28:11 - Utils: INFO: Broadcast: 111: 发张给我
+2018-04-22 17:28:15 - Utils: INFO: Broadcast: 111: 法杖给我
+2018-04-22 17:28:28 - Utils: INFO: Broadcast: 111: 魔法伤害的给我
+2018-04-22 17:28:34 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 17:28:34 - Utils: INFO: Broadcast: King~: 谁给我50金币
+2018-04-22 17:28:37 - Utils: INFO: Broadcast: King~: 谢谢
+2018-04-22 17:28:40 - Utils: INFO: Broadcast: King~: 没钱了....
+2018-04-22 17:28:45 - Utils: INFO: Broadcast: 111: 我给你
+2018-04-22 17:29:25 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 17:29:26 - Utils: INFO: Broadcast: 111: 地牢
+2018-04-22 17:29:29 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 17:29:35 - Utils: INFO: Broadcast: David: 等等
+2018-04-22 17:29:37 - Utils: INFO: Broadcast: David: 石巨人
+2018-04-22 17:29:39 - Utils: INFO: Broadcast: David: 没打
+2018-04-22 17:29:43 - Utils: INFO: Broadcast: 111: 刷装备
+2018-04-22 17:29:47 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 17:29:53 - Utils: INFO: Broadcast: King~: 我没钱了
+2018-04-22 17:29:54 - Utils: INFO: Broadcast: King~: 哇
+2018-04-22 17:29:56 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 17:31:15 - Utils: INFO: Broadcast: 111: 我要幽魂
+2018-04-22 17:33:08 - Utils: INFO: King~ executed: /warp dilao .
+2018-04-22 17:34:31 - Utils: INFO: Broadcast: 111: [i/s7:1508]
+2018-04-22 17:34:33 - Utils: INFO: Broadcast: 111: 我要这个
+2018-04-22 17:37:11 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:37:48 - Utils: INFO: Broadcast: 111: 我吃饭
+2018-04-22 17:37:57 - Utils: INFO: Broadcast: 111: 5分钟
+2018-04-22 17:39:46 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 17:39:52 - Utils: INFO: Broadcast: King~: [i/p27:1444]d
+2018-04-22 17:43:08 - Utils: INFO: Broadcast: David: 卧槽！！
+2018-04-22 17:43:10 - Utils: INFO: Broadcast: David: 卧槽！！！！！！！！！
+2018-04-22 17:43:29 - Utils: INFO: Broadcast: King~: ?
+2018-04-22 17:43:35 - Utils: INFO: Broadcast: David: 神庙！
+2018-04-22 17:45:43 - Utils: INFO: Broadcast: David: ha?
+2018-04-22 17:46:08 - Utils: INFO: Broadcast: David: = =
+2018-04-22 17:46:24 - Utils: INFO: Broadcast: David: 手残
+2018-04-22 17:46:30 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 17:46:52 - Utils: INFO: Broadcast: 111: 我回来了
+2018-04-22 17:46:57 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 17:46:59 - Utils: INFO: Broadcast: David: 圣庙
+2018-04-22 17:47:05 - Utils: INFO: Broadcast: 111: 不
+2018-04-22 17:47:08 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:47:10 - Utils: INFO: Broadcast: 111: 我的装备还没弄好呢
+2018-04-22 17:47:26 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:47:43 - Utils: INFO: Broadcast: King~: [i/p27:1444]
+2018-04-22 17:48:37 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:48:48 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 17:48:57 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-22 17:49:03 - Utils: INFO: Broadcast: David: [i:473]
+2018-04-22 17:49:44 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 17:51:53 - Utils: INFO: Broadcast: 111: 给我啊
+2018-04-22 17:52:10 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 17:52:16 - Utils: INFO: Broadcast: 111: 你要它有什莫用？？
+2018-04-22 17:52:23 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 17:53:33 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 17:53:42 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 17:54:10 - Utils: INFO: Broadcast: 111: K你要幽魂有什莫用？
+2018-04-22 17:55:22 - Utils: INFO: Broadcast: King~: 会给你的急什么
+2018-04-22 17:55:26 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 17:55:27 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:55:36 - Utils: INFO: Broadcast: David: 我也要
+2018-04-22 17:56:21 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:57:03 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 17:57:14 - Utils: INFO: Broadcast: 111: ok了
+2018-04-22 17:57:21 - Utils: INFO: Broadcast: 111: 可以去打猪杀了
+2018-04-22 17:58:24 - Utils: INFO: Broadcast: 111: 走去猪杀
+2018-04-22 17:58:48 - Utils: INFO: Broadcast: King~: 幽魂套吗
+2018-04-22 17:58:50 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 17:58:52 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 17:59:03 - Utils: INFO: Broadcast: King~: 有什么用
+2018-04-22 17:59:08 - Utils: INFO: Broadcast: 111: 吸血
+2018-04-22 17:59:30 - Utils: INFO: Broadcast: 111: 过来打啊
+2018-04-22 17:59:44 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 17:59:50 - Utils: INFO: 111 executed: /warp lamu.
+2018-04-22 17:59:58 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 18:00:18 - Utils: INFO: David executed: /warp cl.
+2018-04-22 18:00:22 - Utils: INFO: David executed: /warp yh.
+2018-04-22 18:00:24 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 18:00:29 - Utils: INFO: Broadcast: David: 来啊
+2018-04-22 18:00:43 - Utils: INFO: 111 summoned the Duke Fishron!
+2018-04-22 18:02:22 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 18:02:54 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 18:02:54 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 18:03:01 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 18:04:58 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 18:06:34 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 18:06:34 - TShock: INFO: 111 disconnected.
+2018-04-22 18:06:40 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 18:06:45 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:06:45 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 18:06:48 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 18:07:55 - Utils: INFO: Broadcast: 111: ??
+2018-04-22 18:08:04 - Utils: INFO: Broadcast: David: ？？？？
+2018-04-22 18:08:08 - Utils: INFO: Broadcast: 111: 无语
+2018-04-22 18:08:10 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:08:18 - Utils: INFO: Broadcast: 111: 打打就跑了？
+2018-04-22 18:08:20 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 18:08:25 - Utils: INFO: Broadcast: David: 我怀疑朱砂有限定时长
+2018-04-22 18:08:30 - Utils: INFO: Broadcast: 111: 没有
+2018-04-22 18:08:35 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 18:08:35 - Utils: INFO: Broadcast: David: emmmmmm
+2018-04-22 18:09:18 - Utils: INFO: Broadcast: 111: 这咋弄？
+2018-04-22 18:09:29 - Utils: INFO: Broadcast: David: ？
+2018-04-22 18:09:38 - Utils: INFO: Broadcast: 111: 房主
+2018-04-22 18:09:44 - Utils: INFO: Broadcast: 111: 你来钓
+2018-04-22 18:10:01 - Utils: INFO: David summoned the Duke Fishron!
+2018-04-22 18:11:22 - Utils: INFO: Broadcast: David: 要我开大号吗
+2018-04-22 18:11:27 - Utils: INFO: Broadcast: 111: 好
+2018-04-22 18:11:42 - Utils: INFO: Broadcast: David has left.
+2018-04-22 18:11:42 - TShock: INFO: David disconnected.
+2018-04-22 18:11:44 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:11:44 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 18:11:45 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-22 18:11:45 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 18:11:51 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:12:31 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:12:43 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:14:07 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:14:30 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:15:19 - Utils: INFO: admin1 executed: /spawn.
+2018-04-22 18:15:23 - Utils: INFO: Broadcast: 111: 有没有书
+2018-04-22 18:15:24 - Utils: INFO: Broadcast: King~: [i:2624]
+2018-04-22 18:15:25 - Utils: INFO: Broadcast: 111: 有没有
+2018-04-22 18:15:27 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 18:15:27 - TShock: INFO: admin1 disconnected.
+2018-04-22 18:15:27 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:15:29 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 18:15:31 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:15:31 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 18:15:33 - Utils: INFO: Broadcast: King~: 有没有召唤法杖
+2018-04-22 18:15:46 - Utils: INFO: Broadcast: 111: 有没有书
+2018-04-22 18:16:27 - Utils: INFO: David executed: /warp cl.
+2018-04-22 18:16:32 - Utils: INFO: David executed: /warp yh.
+2018-04-22 18:17:12 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 18:17:12 - TShock: INFO: 111 disconnected.
+2018-04-22 18:17:16 - Utils: INFO: Broadcast: King~: 有没有召唤法杖
+2018-04-22 18:17:23 - Utils: INFO: Broadcast: David: 没有
+2018-04-22 18:17:29 - Utils: INFO: Broadcast: King~: 你的是什么
+2018-04-22 18:17:37 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 18:17:39 - Utils: INFO: Broadcast: David: [i/p37:2611]
+2018-04-22 18:17:41 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:17:41 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 18:17:53 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:17:57 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 18:18:23 - Utils: INFO: Broadcast: David has left.
+2018-04-22 18:18:23 - TShock: INFO: David disconnected.
+2018-04-22 18:18:25 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:18:25 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 18:18:26 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-22 18:18:26 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 18:18:28 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:18:32 - Utils: INFO: Broadcast: 111: 来打
+2018-04-22 18:18:33 - Utils: INFO: Broadcast: admin1: 送露出
+2018-04-22 18:18:35 - Utils: INFO: Broadcast: 111: 继续猪杀
+2018-04-22 18:18:37 - Utils: INFO: Broadcast: admin1: qwq
+2018-04-22 18:18:40 - Utils: INFO: Broadcast: 111: 我还有
+2018-04-22 18:18:41 - Utils: INFO: Broadcast: admin1: 松露虫
+2018-04-22 18:18:59 - Utils: INFO: Broadcast: 111: 我钓
+2018-04-22 18:19:05 - Utils: INFO: Broadcast: admin1: ok
+2018-04-22 18:19:07 - Utils: INFO: Broadcast: King~: 有没有弓箭
+2018-04-22 18:19:10 - Utils: INFO: Broadcast: 111: 猪杀谁钓它找谁
+2018-04-22 18:19:25 - Utils: INFO: Broadcast: 111: 白天
+2018-04-22 18:19:26 - Utils: INFO: Broadcast: 111: 白天
+2018-04-22 18:19:34 - Utils: INFO: Server executed: /time 8:00.
+2018-04-22 18:19:40 - Utils: INFO: 111 summoned the Duke Fishron!
+2018-04-22 18:19:52 - Utils: INFO: Broadcast: 111: 你装备神魔了？
+2018-04-22 18:21:42 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:22:14 - Utils: INFO: Broadcast: 111: 丨
+2018-04-22 18:22:16 - Utils: INFO: Broadcast: 111: 书
+2018-04-22 18:22:18 - Utils: INFO: Broadcast: 111: 我要书
+2018-04-22 18:22:22 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 18:22:22 - TShock: INFO: admin1 disconnected.
+2018-04-22 18:22:22 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:22:24 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 18:22:25 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:22:25 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 18:22:32 - Utils: INFO: Broadcast: King~: 召唤法杖
+2018-04-22 18:22:36 - Utils: INFO: Broadcast: 111: 没有啊
+2018-04-22 18:22:44 - Utils: INFO: Broadcast: 111: 书
+2018-04-22 18:22:45 - Utils: INFO: Broadcast: David:  [i/p48:2623]
+2018-04-22 18:22:58 - Utils: INFO: Broadcast: King~: 给我点钱
+2018-04-22 18:23:13 - Utils: INFO: Broadcast: King~: 谢了
+2018-04-22 18:23:29 - Utils: INFO: Broadcast: David: 谁有弓
+2018-04-22 18:23:35 - Utils: INFO: Broadcast: King~: [i:2624]
+2018-04-22 18:23:38 - Utils: INFO: David executed: /warp yh.
+2018-04-22 18:23:44 - Utils: INFO: Broadcast: David: 多余的吗
+2018-04-22 18:23:48 - Utils: INFO: Broadcast: King~: 有
+2018-04-22 18:23:54 - Utils: INFO: Broadcast: David: 能给我补
+2018-04-22 18:23:59 - Utils: INFO: Broadcast: King~: 钱
+2018-04-22 18:24:03 - Utils: INFO: Broadcast: King~: 我缺钱
+2018-04-22 18:24:08 - Utils: INFO: Broadcast: David: 多少
+2018-04-22 18:24:14 - Utils: INFO: Broadcast: King~: 随便啦
+2018-04-22 18:24:25 - Utils: INFO: Broadcast: 111: 、
+2018-04-22 18:24:25 - Utils: INFO: Broadcast: David: ok
+2018-04-22 18:24:30 - Utils: INFO: Broadcast: King~: 等着等着
+2018-04-22 18:24:54 - Utils: INFO: Broadcast: David: 没那么简单
+2018-04-22 18:24:58 - Utils: INFO: Broadcast: David: 我给你1珀金了
+2018-04-22 18:25:03 - Utils: INFO: Broadcast: David: 收到没
+2018-04-22 18:25:08 - Utils: INFO: Broadcast: King~: OK
+2018-04-22 18:25:17 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 18:25:19 - Utils: INFO: Broadcast: 111: 去神庙
+2018-04-22 18:25:34 - Utils: INFO: Broadcast: King~: 我要召唤法杖啊啊啊啊啊啊啊啊啊啊
+2018-04-22 18:26:00 - Utils: INFO: David executed: /warp laimu.
+2018-04-22 18:26:27 - Utils: INFO: Broadcast: 111: 神庙
+2018-04-22 18:26:29 - Utils: INFO: Broadcast: 111: 走起
+2018-04-22 18:26:52 - Utils: INFO: Broadcast: David: 吃饭了
+2018-04-22 18:27:57 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 18:27:57 - TShock: INFO: 111 disconnected.
+2018-04-22 18:27:57 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 18:28:01 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:28:01 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 18:28:07 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:28:08 - Utils: INFO: Broadcast: 111: 没有松露虫了啊
+2018-04-22 18:29:53 - Utils: INFO: Broadcast: King~: 小平毒液怎么做
+2018-04-22 18:32:43 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:32:50 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 18:37:00 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:37:14 - Utils: INFO: Broadcast: King~: 我们去大朱砂吧
+2018-04-22 18:37:21 - Utils: INFO: Broadcast: King~: 我要召唤仗
+2018-04-22 18:37:30 - Utils: INFO: Broadcast: 111: 没有松露虫
+2018-04-22 18:39:52 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:40:25 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 18:41:07 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 18:41:09 - Utils: INFO: Broadcast: King~:  
+2018-04-22 18:42:27 - Utils: INFO: David executed: /warp cl.
+2018-04-22 18:42:32 - Utils: INFO: David executed: /warp cl.
+2018-04-22 18:42:53 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:42:58 - Utils: INFO: Broadcast: King~: 掉什么了
+2018-04-22 18:43:09 - Utils: INFO: Broadcast: 111: 密封抢
+2018-04-22 18:43:21 - Utils: INFO: Broadcast: King~: 66
+2018-04-22 18:43:49 - Utils: INFO: Broadcast: David: 大家更这我
+2018-04-22 18:44:00 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:44:01 - Utils: INFO: Broadcast: David: 我有圣庙坐标
+2018-04-22 18:44:01 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 18:44:32 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 18:46:03 - Utils: INFO: Broadcast: David has left.
+2018-04-22 18:46:03 - TShock: INFO: David disconnected.
+2018-04-22 18:46:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:46:05 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 18:46:07 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-22 18:46:07 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 18:46:09 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:46:12 - Utils: INFO: admin1 executed: /tphere ki.
+2018-04-22 18:46:18 - Utils: INFO: admin1 executed: /godmode.
+2018-04-22 18:46:29 - Utils: INFO: admin1 executed: /warp add sm.
+2018-04-22 18:46:34 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 18:46:34 - TShock: INFO: admin1 disconnected.
+2018-04-22 18:46:34 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:46:36 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 18:46:37 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:46:37 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 18:46:40 - Utils: INFO: David executed: /warp add sm.
+2018-04-22 18:46:44 - Utils: INFO: David executed: /warp am.
+2018-04-22 18:46:47 - Utils: INFO: David executed: /warp sm.
+2018-04-22 18:46:59 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:47:12 - Utils: INFO: Broadcast: King~: [i:223]
+2018-04-22 18:48:28 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:48:49 - Utils: INFO: Broadcast: King~: 传送我
+2018-04-22 18:48:58 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:49:02 - Utils: INFO: David executed: /warp sm.
+2018-04-22 18:49:10 - Utils: INFO: Broadcast: David has left.
+2018-04-22 18:49:10 - TShock: INFO: David disconnected.
+2018-04-22 18:49:12 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 18:49:12 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:49:12 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 18:49:13 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-22 18:49:13 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 18:49:17 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 18:49:35 - Utils: INFO: Broadcast: King~: dengwo 
+2018-04-22 18:49:38 - Utils: INFO: Broadcast: admin1: 法师果然是最强的
+2018-04-22 18:49:42 - Utils: INFO: admin1 executed: /tphere ki.
+2018-04-22 18:49:53 - Utils: INFO: admin1 executed: /warp add sm.
+2018-04-22 18:49:53 - WarpManager: ERROR: Mono.Data.Sqlite.SqliteException (0x80004005): Abort due to constraint violation
+UNIQUE constraint failed: Warps.WarpName, Warps.WorldID
+   在 Mono.Data.Sqlite.SQLite3.Reset(SqliteStatement stmt)
+   在 Mono.Data.Sqlite.SQLite3.Step(SqliteStatement stmt)
+   在 Mono.Data.Sqlite.SqliteDataReader.NextResult()
+   在 Mono.Data.Sqlite.SqliteDataReader..ctor(SqliteCommand cmd, CommandBehavior behave)
+   在 Mono.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   在 Mono.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   在 TShockAPI.DB.DbExt.Query(IDbConnection olddb, String query, Object[] args)
+   在 TShockAPI.DB.WarpManager.Add(Int32 x, Int32 y, String name)
+2018-04-22 18:49:56 - Utils: INFO: admin1 executed: /warp del sm.
+2018-04-22 18:49:58 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:50:00 - Utils: INFO: admin1 executed: /warp add sm.
+2018-04-22 18:50:03 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 18:50:03 - TShock: INFO: King~ disconnected.
+2018-04-22 18:50:05 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 18:50:09 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:50:09 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 18:50:17 - Utils: INFO: Broadcast: admin1: 输入、warp sm
+2018-04-22 18:50:20 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 18:50:20 - TShock: INFO: admin1 disconnected.
+2018-04-22 18:50:20 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 18:50:21 - Utils: INFO: Broadcast: King~: 袋子呢
+2018-04-22 18:50:25 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 18:50:27 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:50:27 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 18:50:32 - Utils: INFO: King~ executed: /warp cl.
+2018-04-22 18:50:33 - Utils: INFO: David executed: /warp sm.
+2018-04-22 18:50:47 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:51:47 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:52:32 - Utils: INFO: Broadcast: 111: 带回家
+2018-04-22 18:52:41 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:53:14 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:53:30 - Utils: INFO: David executed: /warp laimu.
+2018-04-22 18:54:19 - Utils: INFO: 111 summoned the Golem!
+2018-04-22 18:55:14 - Utils: INFO: David summoned the Golem!
+2018-04-22 18:56:02 - Utils: INFO: Broadcast: 111: 谁没有稿子
+2018-04-22 18:56:04 - Utils: INFO: David summoned the Golem!
+2018-04-22 18:56:06 - Utils: INFO: Broadcast: King~: wo 
+2018-04-22 18:56:08 - Utils: INFO: Broadcast: King~: wo 
+2018-04-22 18:57:46 - Utils: INFO: Broadcast: 111: 打日蚀不
+2018-04-22 18:58:02 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 18:58:03 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 18:58:11 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 18:58:11 - TShock: INFO: King~ disconnected.
+2018-04-22 18:58:11 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 18:58:11 - TShock: INFO: 111 disconnected.
+2018-04-22 18:58:32 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 18:58:36 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 18:58:36 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 18:58:43 - Utils: INFO: Broadcast: King~: [i:3924]
+2018-04-22 18:58:49 - Utils: INFO: Broadcast: David: !
+2018-04-22 18:58:56 - Utils: INFO: Broadcast: David: 能给我嘛
+2018-04-22 18:58:59 - Utils: INFO: Broadcast: David: 你要不要用的
+2018-04-22 18:59:03 - Utils: INFO: Broadcast: David: 要用算了
+2018-04-22 18:59:14 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 18:59:18 - Utils: INFO: Broadcast: King~: [i/p65:665]
+2018-04-22 18:59:19 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 18:59:19 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 18:59:30 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 19:00:32 - Utils: INFO: Broadcast: David: 做作业了
+2018-04-22 19:00:36 - Utils: INFO: Broadcast: David: 写完我就来
+2018-04-22 19:00:38 - Utils: INFO: Broadcast: 111: hao
+2018-04-22 19:00:39 - Utils: INFO: Broadcast: David: 一点点了
+2018-04-22 19:00:43 - Utils: INFO: Broadcast: 111: 我们刷日式
+2018-04-22 19:01:18 - Utils: INFO: Broadcast: 111: K
+2018-04-22 19:01:20 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 19:01:21 - Utils: INFO: Broadcast: 111: 刷日式
+2018-04-22 19:02:11 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:02:22 - Utils: INFO: Broadcast: 111: 你那个是什莫翅膀啊？
+2018-04-22 19:02:52 - Utils: INFO: Broadcast: King~: [i:3924]
+2018-04-22 19:02:57 - Utils: INFO: Broadcast: 111: 好吧
+2018-04-22 19:03:31 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:04:05 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:04:44 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 19:11:21 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:11:47 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:14:10 - Utils: INFO: Broadcast: King~: d
+2018-04-22 19:15:05 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:15:31 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:15:51 - Utils: INFO: Broadcast: David: 艹
+2018-04-22 19:15:55 - Utils: INFO: Broadcast: 111: 呵呵
+2018-04-22 19:15:57 - Utils: INFO: Broadcast: 111: 我打的你拿走了
+2018-04-22 19:17:48 - Utils: INFO: Broadcast: 111: 打的过吗？
+2018-04-22 19:21:42 - Utils: INFO: Broadcast: 111: 呵呵
+2018-04-22 19:23:42 - Utils: INFO: Broadcast: 111: 这能抢
+2018-04-22 19:24:10 - Utils: INFO: Broadcast: King~: [i:2769]geini 
+2018-04-22 19:24:17 - Utils: INFO: Broadcast: King~: [i:2769]给你
+2018-04-22 19:24:29 - Utils: INFO: Broadcast: David: 有什么武器吗
+2018-04-22 19:24:39 - Utils: INFO: Broadcast: 111: 只是单纯的觉得比不上你们这些小孩楼
+2018-04-22 19:26:31 - Utils: INFO: Broadcast: 111: 召唤是的饰品
+2018-04-22 19:26:41 - Utils: INFO: Broadcast: 111: 都是在南瓜夜爆 的
+2018-04-22 19:26:41 - Utils: INFO: Broadcast: King~: 给我吧
+2018-04-22 19:26:50 - Utils: INFO: Broadcast: King~: 给你婚纱dd
+2018-04-22 19:27:07 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 19:27:23 - Utils: INFO: Broadcast: King~: 南瓜叶打了吗
+2018-04-22 19:27:31 - Utils: INFO: Broadcast: 111: 没有啊
+2018-04-22 19:28:32 - Utils: INFO: Broadcast: King~: [i:2882]
+2018-04-22 19:28:45 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 19:29:38 - Utils: INFO: Broadcast: 111: 开门了
+2018-04-22 19:29:58 - Utils: INFO: Broadcast: King~: 你在干嘛
+2018-04-22 19:31:19 - Utils: INFO: Broadcast: 111: 每人可以同时圈几块地？
+2018-04-22 19:32:20 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 19:32:26 - Utils: INFO: Broadcast: King~: 蛤
+2018-04-22 19:32:36 - Utils: INFO: Broadcast: 111: 每人可以同时圈几块地？
+2018-04-22 19:32:43 - Utils: INFO: Broadcast: King~: 这个我不知道哦
+2018-04-22 19:33:45 - Utils: INFO: Server executed: /help.
+2018-04-22 19:33:58 - Utils: INFO: Server executed: /help 2.
+2018-04-22 19:34:29 - Utils: INFO: Server executed: /eclipse.
+2018-04-22 19:34:47 - Utils: INFO: Broadcast: David: 我TM猜对了
+2018-04-22 19:34:48 - Utils: INFO: Broadcast: 111: 来我这里刷
+2018-04-22 19:34:51 - Utils: INFO: Broadcast: 111: 都来我这里
+2018-04-22 19:34:56 - Utils: INFO: Broadcast: David: 日食是这养拼的
+2018-04-22 19:35:03 - Utils: INFO: Broadcast: David: qoooooooo
+2018-04-22 19:35:07 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 19:35:08 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:35:09 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-22 19:35:18 - Utils: INFO: Broadcast: David: 我会日食的指令了
+2018-04-22 19:35:19 - Utils: INFO: Broadcast: 111: 我劝你别站板子上
+2018-04-22 19:35:20 - Utils: INFO: Broadcast: David: 哇卡卡卡卡
+2018-04-22 19:35:35 - Utils: INFO: Broadcast: David: 水蜡烛
+2018-04-22 19:35:40 - Utils: INFO: Broadcast: 111: 没有了
+2018-04-22 19:35:55 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 19:43:04 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 19:43:04 - TShock: INFO: King~ disconnected.
+2018-04-22 19:43:08 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 19:43:12 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 19:43:12 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 19:43:31 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 19:43:31 - TShock: INFO: 111 disconnected.
+2018-04-22 19:43:46 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 19:43:51 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 19:43:51 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 19:44:37 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 19:44:37 - TShock: INFO: 111 disconnected.
+2018-04-22 19:44:39 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 19:44:44 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 19:44:44 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 19:49:30 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 19:49:30 - TShock: INFO: King~ disconnected.
+2018-04-22 19:51:18 - Utils: INFO: 111 executed: /warp alimu.
+2018-04-22 19:51:23 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 19:52:45 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 19:52:49 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 19:52:49 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 19:53:40 - Utils: INFO: Broadcast: David: 卧槽！
+2018-04-22 19:53:45 - Utils: INFO: Broadcast: David: 多少攻击
+2018-04-22 19:53:50 - Utils: INFO: Broadcast: 111: 140
+2018-04-22 19:53:54 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 19:53:56 - Utils: INFO: Broadcast: 111: 我是法师套装
+2018-04-22 19:54:03 - Utils: INFO: Broadcast: David: 我是战士
+2018-04-22 19:54:10 - Utils: INFO: Broadcast: KKJJL: 我.....
+2018-04-22 19:54:23 - Utils: INFO: Broadcast: 111: 咋啦？
+2018-04-22 19:54:29 - Utils: INFO: Broadcast: KKJJL: 有五个力量婚吗
+2018-04-22 19:54:54 - Utils: INFO: Broadcast: 111: 我们现在就差月总了
+2018-04-22 19:55:04 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 19:57:12 - Utils: INFO: Broadcast: 111: 你到底多卡
+2018-04-22 19:57:33 - Utils: INFO: Broadcast: KKJJL: 稳定300
+2018-04-22 19:59:07 - Utils: INFO: Broadcast: 111: 你如果再来一回的话
+2018-04-22 19:59:13 - Utils: INFO: Broadcast: 111: 你就全赶上了
+2018-04-22 19:59:20 - Utils: INFO: Broadcast: 111: 我们刚打完时间不长
+2018-04-22 19:59:31 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 20:00:45 - Utils: INFO: Broadcast: David: 啊？
+2018-04-22 20:00:56 - Utils: INFO: David executed: /who.
+2018-04-22 20:02:12 - Utils: INFO: 111 executed: /house define.
+2018-04-22 20:02:42 - Utils: INFO: Server executed: /give David 936.
+2018-04-22 20:02:44 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 20:02:44 - TShock: INFO: 111 disconnected.
+2018-04-22 20:02:57 - Utils: INFO: Server executed: /give 936 David.
+2018-04-22 20:03:16 - TShock: INFO: 111 disconnected.
+2018-04-22 20:04:56 - Utils: INFO: Server executed: /give 1865 David.
+2018-04-22 20:05:09 - Utils: INFO: David executed: /who.
+2018-04-22 20:05:25 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 20:05:29 - Utils: INFO: Server executed: /give 1862 David.
+2018-04-22 20:05:30 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 20:05:30 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 20:05:55 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 20:05:55 - TShock: INFO: 111 disconnected.
+2018-04-22 20:06:15 - Utils: INFO: David executed: /warp diyu.
+2018-04-22 20:06:17 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 20:06:23 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 20:06:23 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 20:06:50 - Utils: INFO: David executed: /warp diyu.
+2018-04-22 20:08:46 - Utils: INFO: Broadcast: David: 233
+2018-04-22 20:08:52 - Utils: INFO: Broadcast: 111: ??
+2018-04-22 20:09:34 - Utils: INFO: Broadcast: David: [i/p46:434][i/p77:490][i/p54:367]
+2018-04-22 20:09:52 - Utils: INFO: Broadcast: KKJJL: [i:434][i:490][i:3335][i:367]
+2018-04-22 20:10:00 - Utils: INFO: Broadcast: David: ，，，，
+2018-04-22 20:10:25 - Utils: INFO: 111 executed: /house define.
+2018-04-22 20:12:50 - Utils: INFO: Broadcast: KKJJL: 一会儿打虫子
+2018-04-22 20:12:55 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:14:18 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 20:14:23 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 20:14:23 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 20:14:27 - Utils: INFO: Broadcast: David: 啊哈
+2018-04-22 20:14:29 - Utils: INFO: Broadcast: David: king
+2018-04-22 20:14:32 - Utils: INFO: Broadcast: King~: ?
+2018-04-22 20:14:33 - Utils: INFO: Broadcast: David: 你刚刚去哪里的
+2018-04-22 20:14:44 - Utils: INFO: Broadcast: King~: 出去买东西吃了
+2018-04-22 20:14:46 - Utils: INFO: Broadcast: King~: 饿死我
+2018-04-22 20:14:50 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:15:03 - Utils: INFO: Broadcast: King~: [i/p59:3287][i/p59:3292]
+2018-04-22 20:15:10 - Utils: INFO: Broadcast: David: 。。。。。
+2018-04-22 20:15:23 - Utils: INFO: Broadcast: KKJJL: 打虫子
+2018-04-22 20:15:25 - Utils: INFO: Broadcast: King~: [i/s3:1570]
+2018-04-22 20:15:38 - Utils: INFO: Broadcast: King~: [i/p41:3105]
+2018-04-22 20:15:42 - Utils: INFO: Broadcast: David: 你的英雄剑要不要用
+2018-04-22 20:15:51 - Utils: INFO: Broadcast: David: 不用的话给我好嘛
+2018-04-22 20:16:01 - Utils: INFO: Broadcast: King~: 我还有个[i/p56:3292]
+2018-04-22 20:16:05 - Utils: INFO: Broadcast: King~: 要吗
+2018-04-22 20:16:09 - Utils: INFO: Broadcast: David: emmmm
+2018-04-22 20:16:11 - Utils: INFO: Broadcast: David: 不用
+2018-04-22 20:16:23 - Utils: INFO: Broadcast: King~: 给错了
+2018-04-22 20:16:26 - Utils: INFO: Broadcast: King~: 你坏给我
+2018-04-22 20:16:29 - Utils: INFO: Broadcast: David: ？
+2018-04-22 20:16:34 - Utils: INFO: Broadcast: David: 你没给我啥啊
+2018-04-22 20:16:52 - Utils: INFO: Broadcast: 111: 怎末让土地张草？
+2018-04-22 20:16:53 - Utils: INFO: Broadcast: David: 哇！
+2018-04-22 20:16:54 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 20:17:00 - Utils: INFO: Broadcast: David: 草？
+2018-04-22 20:17:03 - Utils: INFO: Broadcast: 111: 对滴
+2018-04-22 20:17:05 - Utils: INFO: Broadcast: King~: [i:3098]
+2018-04-22 20:17:12 - Utils: INFO: Broadcast: David: 艹的话你找巫师
+2018-04-22 20:17:15 - Utils: INFO: Broadcast: King~: [i:3098][i:3249][i:1311][i/s2:1570][i:497][i/p70:497][i/p63:497][i/p64:497][i/p56:3292][i/p80:900][i:900]
+2018-04-22 20:17:19 - Utils: INFO: Broadcast: David: 他卖绿色草坪
+2018-04-22 20:17:30 - Utils: INFO: Broadcast: David: 等等。。。
+2018-04-22 20:17:32 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 20:17:33 - Utils: INFO: Broadcast: David: 休息下
+2018-04-22 20:17:35 - Utils: INFO: Broadcast: David: 呸
+2018-04-22 20:17:37 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 20:17:56 - Utils: INFO: Broadcast: King~: 你的宠物没我好看QWQ
+2018-04-22 20:18:08 - Utils: INFO: Broadcast: David: = =
+2018-04-22 20:18:09 - Utils: INFO: Broadcast: David: 233
+2018-04-22 20:18:35 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 20:18:35 - TShock: INFO: 111 disconnected.
+2018-04-22 20:18:44 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 20:18:49 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 20:18:49 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 20:19:09 - Utils: INFO: Broadcast: KKJJL: 谢谢
+2018-04-22 20:19:40 - Utils: INFO: King~ summoned the Eye of Cthulhu!
+2018-04-22 20:19:41 - Utils: INFO: Broadcast: KKJJL: 谢谢
+2018-04-22 20:19:44 - Utils: INFO: Broadcast: David: 哇！
+2018-04-22 20:20:49 - Utils: INFO: Broadcast: King~: 我在送你一个
+2018-04-22 20:21:01 - Utils: INFO: Broadcast: King~: 你要什么坐骑
+2018-04-22 20:21:09 - Utils: INFO: Broadcast: David: UFO
+2018-04-22 20:21:18 - Utils: INFO: Broadcast: King~: 滚滚滚
+2018-04-22 20:21:21 - Utils: INFO: Broadcast: David: 233
+2018-04-22 20:21:32 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 20:21:32 - TShock: INFO: KKJJL disconnected.
+2018-04-22 20:21:58 - Utils: INFO: Broadcast: King~: 可怕吗
+2018-04-22 20:22:10 - Utils: INFO: Broadcast: David: 1...2...3..4..5...6..7.
+2018-04-22 20:22:14 - Utils: INFO: Broadcast: David:  ......
+2018-04-22 20:22:37 - Utils: INFO: Broadcast: David: 去打外星人吗
+2018-04-22 20:22:41 - Utils: INFO: Broadcast: David: 地牢
+2018-04-22 20:22:44 - Utils: INFO: Broadcast: King~: 不打
+2018-04-22 20:22:51 - Utils: INFO: Broadcast: King~: [i/p81:674]
+2018-04-22 20:22:55 - Utils: INFO: Broadcast: David: 为啥
+2018-04-22 20:23:00 - Utils: INFO: Broadcast: King~: 懒得打
+2018-04-22 20:23:18 - Utils: INFO: Broadcast: King~: 有没有妖刀村正
+2018-04-22 20:23:30 - Utils: INFO: Broadcast: David: 哇
+2018-04-22 20:23:36 - Utils: INFO: Broadcast: David: 南瓜农场
+2018-04-22 20:24:02 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 20:24:32 - Utils: INFO: Broadcast: David: llololol
+2018-04-22 20:24:48 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:25:28 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 20:25:35 - Utils: INFO: David executed: /warp.
+2018-04-22 20:25:59 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:27:06 - Utils: INFO: Broadcast: King~: 群主可以圈地多少
+2018-04-22 20:27:22 - Utils: INFO: Broadcast: David: 3块
+2018-04-22 20:27:25 - Utils: INFO: Broadcast: David: 不要太大
+2018-04-22 20:27:31 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 20:27:44 - Utils: INFO: Broadcast: 111: 我现在只弄了两个
+2018-04-22 20:27:49 - Utils: INFO: Broadcast: 111: 家  农场
+2018-04-22 20:27:53 - Utils: INFO: Broadcast: 111: 哦对了
+2018-04-22 20:27:59 - Utils: INFO: Broadcast: 111: 是要是收我的那个南瓜
+2018-04-22 20:28:00 - Utils: INFO: Broadcast: David: ？
+2018-04-22 20:28:02 - Utils: INFO: Broadcast: 111: 记得中上
+2018-04-22 20:28:05 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:28:11 - Utils: INFO: Broadcast: King~: 南瓜干嘛用的
+2018-04-22 20:28:18 - Utils: INFO: Broadcast: David: 南瓜月
+2018-04-22 20:28:19 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:28:50 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-22 20:29:35 - Utils: INFO: Broadcast: 111: 你的衣服呢？
+2018-04-22 20:29:52 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:30:01 - Utils: INFO: Broadcast: David: 看我的衣服好看不
+2018-04-22 20:30:08 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 20:30:09 - Utils: INFO: Broadcast: David: 233
+2018-04-22 20:30:10 - Utils: INFO: Broadcast: 111: 没有
+2018-04-22 20:30:14 - Utils: INFO: Broadcast: David: 我是新人
+2018-04-22 20:30:22 - Utils: INFO: Broadcast: 111: 滚 犊子
+2018-04-22 20:30:31 - Utils: INFO: Broadcast: 111: 470血量的新人
+2018-04-22 20:30:35 - Utils: INFO: Broadcast: David: 23333
+2018-04-22 20:30:44 - Utils: INFO: Broadcast: King~: 我tm才400.
+2018-04-22 20:30:52 - Utils: INFO: Broadcast: 111: 我500
+2018-04-22 20:30:55 - Utils: INFO: Broadcast: David: 你看我头发
+2018-04-22 20:31:05 - Utils: INFO: Broadcast: David: 帅不帅
+2018-04-22 20:31:09 - Utils: INFO: Broadcast: 111: 屎黄色
+2018-04-22 20:31:11 - Utils: INFO: Broadcast: David: 。
+2018-04-22 20:31:13 - Utils: INFO: Broadcast: David: = =
+2018-04-22 20:31:32 - Utils: INFO: David executed: /warp sm.
+2018-04-22 20:32:03 - Utils: INFO: Broadcast: 111: warp laimu
+2018-04-22 20:32:08 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 20:32:20 - Utils: INFO: Broadcast: 111: 对了
+2018-04-22 20:32:25 - Utils: INFO: Broadcast: 111: 刚才那个人去哪了？
+2018-04-22 20:32:27 - Utils: INFO: Broadcast: 111: KKKK
+2018-04-22 20:32:29 - Utils: INFO: Broadcast: 111: 那个？
+2018-04-22 20:32:43 - Utils: INFO: Broadcast: King~: ？
+2018-04-22 20:32:49 - Utils: INFO: David executed: /who.
+2018-04-22 20:33:11 - Utils: INFO: Broadcast: 111: KKKl
+2018-04-22 20:33:13 - Utils: INFO: Broadcast: 111: 神魔的
+2018-04-22 20:33:38 - Utils: INFO: David executed: /warp cl.
+2018-04-22 20:34:01 - Utils: INFO: Broadcast: David: 蘑菇丁怎么弄
+2018-04-22 20:34:08 - Utils: INFO: Broadcast: David: 锭
+2018-04-22 20:34:49 - Utils: INFO: Broadcast: 111: 房主
+2018-04-22 20:35:03 - Utils: INFO: Broadcast: David: ？
+2018-04-22 20:35:05 - Utils: INFO: Broadcast: 111: 叶绿锭 + 蘑菇
+2018-04-22 20:35:12 - Utils: INFO: Broadcast: 111: 到锤炼机哪里
+2018-04-22 20:35:14 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:35:21 - Utils: INFO: Broadcast: 111: 你造一个你自己的房子吧
+2018-04-22 20:35:25 - Utils: INFO: Broadcast: 111: 我帮你弄背景墙
+2018-04-22 20:35:30 - Utils: INFO: Broadcast: 111: 我都帮你买还哦了
+2018-04-22 20:35:30 - Utils: INFO: Broadcast: David: 那个垂帘记是什么
+2018-04-22 20:35:33 - Utils: INFO: Broadcast: 111: 我都帮你买好了
+2018-04-22 20:35:35 - Utils: INFO: David executed: /who.
+2018-04-22 20:35:42 - Utils: INFO: Broadcast: David: emmmm
+2018-04-22 20:35:42 - Utils: INFO: Broadcast: 111: 我家有
+2018-04-22 20:35:46 - Utils: INFO: Broadcast: David: 我有房子了啊
+2018-04-22 20:35:47 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 20:35:52 - Utils: INFO: Broadcast: 111: 弄一个好看的啊
+2018-04-22 20:35:55 - Utils: INFO: Broadcast: 111: 你那个太丑了
+2018-04-22 20:36:01 - Utils: INFO: David executed: /warp list.
+2018-04-22 20:36:05 - Utils: INFO: David executed: /warp laimu.
+2018-04-22 20:36:18 - Utils: INFO: Broadcast: David: = =
+2018-04-22 20:36:27 - Utils: INFO: Broadcast: David: 没关系啦
+2018-04-22 20:36:32 - Utils: INFO: Broadcast: David: 能住就好了
+2018-04-22 20:36:37 - Utils: INFO: Broadcast: 111: 哇
+2018-04-22 20:36:40 - Utils: INFO: Broadcast: 111: 真的丑
+2018-04-22 20:36:48 - Utils: INFO: Broadcast: 111: 好像地下仓库一样
+2018-04-22 20:36:56 - Utils: INFO: Broadcast: David: 我去造了背景墙给我
+2018-04-22 20:37:02 - Utils: INFO: Broadcast: 111: 对滴
+2018-04-22 20:37:07 - Utils: INFO: Broadcast: 111: 背景墙我给你
+2018-04-22 20:37:26 - Utils: INFO: Broadcast: 111: 绝对高端霸气上档次
+2018-04-22 20:37:38 - Utils: INFO: Broadcast: David: = =
+2018-04-22 20:37:55 - Utils: INFO: Broadcast: 111: 去弄啊
+2018-04-22 20:37:55 - Utils: INFO: Broadcast: King~: 有没有妖刀村正
+2018-04-22 20:38:01 - Utils: INFO: Broadcast: 111: 有
+2018-04-22 20:38:02 - Utils: INFO: Broadcast: 111: 给人了
+2018-04-22 20:38:10 - Utils: INFO: Broadcast: King~: 还有吗
+2018-04-22 20:38:11 - Utils: INFO: Broadcast: David: 呃
+2018-04-22 20:38:13 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:38:14 - Utils: INFO: Broadcast: 111: 没有了
+2018-04-22 20:38:20 - Utils: INFO: Broadcast: 111: 地牢里面的箱子
+2018-04-22 20:38:21 - Utils: INFO: Broadcast: King~: 那怎么班啊
+2018-04-22 20:38:22 - Utils: INFO: Broadcast: 111: 我基本全开了
+2018-04-22 20:38:24 - Utils: INFO: Broadcast: David: 背景墙去哪了
+2018-04-22 20:38:32 - Utils: INFO: Broadcast: 111: 你先造
+2018-04-22 20:38:34 - Utils: INFO: Broadcast: 111: 然后我给你
+2018-04-22 20:38:39 - Utils: INFO: Broadcast: David: = =
+2018-04-22 20:38:48 - Utils: INFO: Broadcast: David: 算了
+2018-04-22 20:38:50 - Utils: INFO: Broadcast: David: 不造了
+2018-04-22 20:38:56 - Utils: INFO: Broadcast: 111: 切
+2018-04-22 20:38:56 - Utils: INFO: Broadcast: David: 好累的说
+2018-04-22 20:38:58 - Utils: INFO: Broadcast: David: qwq
+2018-04-22 20:39:04 - Utils: INFO: Broadcast: 111: 弄一个小点的
+2018-04-22 20:39:05 - Utils: INFO: Broadcast: 111: 去吧
+2018-04-22 20:39:09 - Utils: INFO: Broadcast: King~: 群主你有吗
+2018-04-22 20:40:19 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 20:40:22 - Utils: INFO: Broadcast: 111: 你造啊
+2018-04-22 20:40:25 - Utils: INFO: Broadcast: King~: 妖刀村正
+2018-04-22 20:40:40 - Utils: INFO: Broadcast: 111: 房主
+2018-04-22 20:40:43 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 20:40:52 - Utils: INFO: Broadcast: David: ?
+2018-04-22 20:40:57 - Utils: INFO: Broadcast: 111: 去弄家啊
+2018-04-22 20:41:10 - Utils: INFO: Broadcast: David: NO
+2018-04-22 20:41:17 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:42:43 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 20:42:58 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:45:04 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-22 20:45:51 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 20:46:04 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-22 20:47:48 - Utils: INFO: David executed: /warp laimu.
+2018-04-22 20:47:51 - Utils: INFO: Broadcast: 111: 奥术神符墙
+2018-04-22 20:47:57 - Utils: INFO: Broadcast: 111: 你不要吗？
+2018-04-22 20:47:59 - Utils: INFO: Broadcast: 111: 主机？
+2018-04-22 20:48:06 - Utils: INFO: Broadcast: David: emmmmm
+2018-04-22 20:48:08 - Utils: INFO: Broadcast: David: 不用
+2018-04-22 20:48:13 - Utils: INFO: David executed: /warp spawn.
+2018-04-22 20:48:54 - Utils: INFO: Broadcast: David: 这是你家？
+2018-04-22 20:50:16 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 20:50:16 - TShock: INFO: King~ disconnected.
+2018-04-22 20:50:23 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 20:50:28 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 20:50:28 - TShock: INFO: King~ disconnected.
+2018-04-22 20:50:31 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-22 20:50:35 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 20:50:35 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-22 20:50:41 - Utils: INFO: Broadcast: King~: [i/p55:1513]
+2018-04-22 20:50:47 - Utils: INFO: Broadcast: David: 卧槽！
+2018-04-22 20:51:04 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-22 20:51:04 - Utils: INFO: Broadcast: 111: 战士很好的武器
+2018-04-22 20:51:11 - Utils: INFO: Broadcast: David: ！！
+2018-04-22 20:51:15 - Utils: INFO: Broadcast: David: 你是召唤师
+2018-04-22 20:51:21 - Utils: INFO: Broadcast: David: 还是战士
+2018-04-22 20:51:24 - Utils: INFO: Broadcast: King~: 妖刀村正
+2018-04-22 20:51:37 - Utils: INFO: Broadcast: David: 上厕所等会
+2018-04-22 20:51:46 - Utils: INFO: Broadcast: 111: 我要去打4住了
+2018-04-22 20:51:52 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 20:51:54 - Utils: INFO: Broadcast: King~: 、别啊
+2018-04-22 20:52:52 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 20:54:38 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:55:15 - Utils: INFO: Broadcast: David: ho
+2018-04-22 20:55:22 - Utils: INFO: Broadcast: 111: 放我家
+2018-04-22 20:55:35 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 20:55:37 - Utils: INFO: Broadcast: David: 等会
+2018-04-22 20:55:39 - Utils: INFO: Broadcast: David: 上厕所
+2018-04-22 20:55:53 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 20:57:10 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 20:57:10 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:57:24 - Utils: INFO: King~ executed: /warp yh.
+2018-04-22 20:57:28 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-22 20:58:29 - Utils: INFO: Broadcast: King~ has left.
+2018-04-22 20:58:29 - TShock: INFO: King~ disconnected.
+2018-04-22 21:06:47 - Utils: INFO: Broadcast: David: 不和我一起打嘛
+2018-04-22 21:06:50 - Utils: INFO: David executed: /who.
+2018-04-22 21:06:52 - Utils: INFO: Broadcast: 111: ??
+2018-04-22 21:07:08 - Utils: INFO: Broadcast: David: 打日柱不
+2018-04-22 21:07:15 - Utils: INFO: Broadcast: 111: zou a 
+2018-04-22 21:07:23 - Utils: INFO: Broadcast: David: 地牢那边
+2018-04-22 21:07:24 - Utils: INFO: Broadcast: David: qwq
+2018-04-22 21:07:43 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:08:12 - Utils: INFO: Broadcast: David: 来啊
+2018-04-22 21:08:21 - Utils: INFO: Broadcast: 111: 等一下
+2018-04-22 21:08:22 - Utils: INFO: Broadcast: 111: wc
+2018-04-22 21:08:36 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:08:39 - Utils: INFO: David executed: /warp spawn.
+2018-04-22 21:12:31 - Utils: INFO: Broadcast: 111: 走了
+2018-04-22 21:12:41 - Utils: INFO: Broadcast: 111: 我回来了
+2018-04-22 21:14:02 - Utils: INFO: Broadcast: 111: 在吗
+2018-04-22 21:14:03 - Utils: INFO: Broadcast: 111: 走了
+2018-04-22 21:14:37 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 21:14:37 - TShock: INFO: 111 disconnected.
+2018-04-22 21:15:46 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 21:15:47 - Utils: INFO: Broadcast: World saved.
+2018-04-22 21:15:47 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 21:15:59 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:16:07 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 21:16:12 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 21:16:12 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 21:16:20 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 21:16:43 - TextLog: INFO: Player 111 has been disabled for HealOtherPlayer cheat attempt!.
+2018-04-22 21:16:47 - Utils: INFO: Broadcast: 111: ??
+2018-04-22 21:17:18 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 21:17:19 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:17:44 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-22 21:17:44 - Utils: INFO: David executed: /warp dilai .
+2018-04-22 21:17:48 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:17:50 - Utils: INFO: Broadcast: 111: 这个火主
+2018-04-22 21:17:52 - Utils: INFO: Broadcast: 111: 不能吸血
+2018-04-22 21:17:56 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 21:18:12 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:18:15 - Utils: INFO: Broadcast: David: cao
+2018-04-22 21:18:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 21:18:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 21:19:17 - Utils: INFO: Broadcast: 111: xialai 
+2018-04-22 21:19:23 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:19:32 - Utils: INFO: Broadcast: 111: xialai
+2018-04-22 21:19:35 - Utils: INFO: Broadcast: 111: 下来
+2018-04-22 21:19:51 - Utils: INFO: Broadcast: 111: 打这个
+2018-04-22 21:19:53 - Utils: INFO: Broadcast: 111: 你能飞
+2018-04-22 21:20:02 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-22 21:20:16 - Utils: INFO: David executed: /warp dilao.
+2018-04-22 21:21:56 - Utils: INFO: Broadcast: David: perfect
+2018-04-22 21:22:03 - Utils: INFO: Broadcast: 111: 0.0
+2018-04-22 21:22:13 - Utils: INFO: Broadcast: 111: 留最后一注？
+2018-04-22 21:22:42 - Utils: INFO: Broadcast: David: 这个倒是随便
+2018-04-22 21:22:47 - Utils: INFO: Broadcast: 111: 你说
+2018-04-22 21:22:51 - Utils: INFO: Broadcast: 111: 要是打月总
+2018-04-22 21:22:59 - Utils: INFO: Broadcast: 111: 我就弄打他的地方
+2018-04-22 21:23:20 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:23:22 - Utils: INFO: Broadcast: David: 弄下吧
+2018-04-22 21:23:49 - Utils: INFO: Broadcast: 111: 这个东西
+2018-04-22 21:23:50 - Utils: INFO: Broadcast: 111: 最好3个人打
+2018-04-22 21:24:00 - Utils: INFO: Broadcast: 111: 最下面一个战士
+2018-04-22 21:24:04 - Utils: INFO: Broadcast: 111: 需要扛着
+2018-04-22 21:24:08 - Utils: INFO: Broadcast: 111: 顶伤害
+2018-04-22 21:24:25 - Utils: INFO: Broadcast: 111: 弄吗？
+2018-04-22 21:24:47 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 21:25:04 - Utils: INFO: Broadcast: David: 呃
+2018-04-22 21:25:07 - Utils: INFO: Broadcast: David: 下次弄吧
+2018-04-22 21:25:16 - Utils: INFO: Broadcast: 111: 睡觉了？
+2018-04-22 21:25:21 - Utils: INFO: Broadcast: David: 快要睡觉了
+2018-04-22 21:25:23 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 21:25:24 - Utils: INFO: Broadcast: David: 也没时间打
+2018-04-22 21:25:25 - Utils: INFO: Broadcast: 111: 那好吧
+2018-04-22 21:25:38 - Utils: INFO: Broadcast: 111: 这样吧
+2018-04-22 21:25:43 - Utils: INFO: Broadcast: 111: 咱俩去吧最后一株
+2018-04-22 21:25:44 - Utils: INFO: Broadcast: 111: 打死
+2018-04-22 21:25:47 - Utils: INFO: Broadcast: 111: 然后就下
+2018-04-22 21:25:51 - Utils: INFO: Broadcast: David: ok
+2018-04-22 21:25:52 - Utils: INFO: Broadcast: 111: 这样月总也就不刷了
+2018-04-22 21:25:54 - Utils: INFO: Broadcast: David: 走
+2018-04-22 21:25:55 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 21:27:24 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 21:28:01 - Utils: INFO: Broadcast: David: 我。。
+2018-04-22 21:29:57 - Utils: INFO: Broadcast: 111: 法师厉害不？
+2018-04-22 21:30:07 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:30:13 - Utils: INFO: Broadcast: 111: 走吧
+2018-04-22 21:30:17 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:30:40 - Utils: INFO: Broadcast: David: 试试看？
+2018-04-22 21:30:43 - Utils: INFO: Broadcast: 111: 随意
+2018-04-22 21:31:26 - Utils: INFO: Broadcast: David: = =
+2018-04-22 21:31:44 - Utils: INFO: Broadcast: David: 还打嘛
+2018-04-22 21:32:16 - Utils: INFO: Broadcast: 111: 应该可以
+2018-04-22 21:32:56 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<ServerIsOutOfDateAsync>d__6.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<UpdateCheckAsync>d__5.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<CheckForUpdatesAsync>d__4.MoveNext()
+2018-04-22 21:32:56 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2018-04-22 21:33:05 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 21:33:31 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 21:33:31 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 21:33:33 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 21:33:44 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 21:33:55 - Utils: INFO: Broadcast: David: ？
+2018-04-22 21:34:05 - Utils: INFO: Broadcast: 111: 全死了
+2018-04-22 21:34:06 - Utils: INFO: Broadcast: 111: 下次
+2018-04-22 21:34:11 - Utils: INFO: Broadcast: 111: 他头上
+2018-04-22 21:34:13 - Utils: INFO: Broadcast: 111: 激光
+2018-04-22 21:34:14 - Utils: INFO: Broadcast: David: 差点赢了说
+2018-04-22 21:34:15 - Utils: INFO: Broadcast: David: qwq
+2018-04-22 21:34:16 - Utils: INFO: Broadcast: 111: 直接回城
+2018-04-22 21:34:22 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:34:25 - Utils: INFO: Broadcast: 111: 如果速度够快
+2018-04-22 21:34:26 - Utils: INFO: Broadcast: 111: 我引
+2018-04-22 21:34:29 - Utils: INFO: Broadcast: 111: 你去海边回血
+2018-04-22 21:34:32 - Utils: INFO: Broadcast: 111: 然后再回来
+2018-04-22 21:34:37 - Utils: INFO: Broadcast: 111: 我刚才就是这羊
+2018-04-22 21:34:50 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:34:55 - Utils: INFO: Broadcast: 111: 好了差不多睡觉了
+2018-04-22 21:34:56 - Utils: INFO: Broadcast: David: 我床上玩下就睡觉了
+2018-04-22 21:34:59 - Utils: INFO: Broadcast: David: 关服了
+2018-04-22 21:35:03 - Utils: INFO: Broadcast: 111: 嗯嗯
+2018-04-22 21:35:05 - Utils: INFO: Broadcast: 111: 晚安
+2018-04-22 21:35:08 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 21:35:11 - Utils: INFO: Broadcast: David: 晚安
+2018-04-22 21:35:13 - Utils: INFO: Broadcast: David: 拜
+2018-04-22 21:35:14 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 21:35:15 - Utils: INFO: Broadcast: 111: 拜
+2018-04-22 21:35:19 - Utils: INFO: Server executed: /off.
+2018-04-22 21:35:19 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-22 21:35:19 - Utils: INFO: Broadcast: David has left.
+2018-04-22 21:35:19 - TShock: INFO: David disconnected.
+2018-04-22 21:35:19 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-22 21:35:19 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-22 21:35:19 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-22 21:35:19 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 21:35:19 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 21:35:19 - TShock: INFO: 111 disconnected.
+2018-04-22 21:35:20 - Utils: INFO: Broadcast: World saved.
+2018-04-22 21:35:20 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 21:35:22 - Utils: INFO: Broadcast: World saved.
+2018-04-22 21:35:22 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 21:35:22 - Utils: INFO: Broadcast: Server shutting down!

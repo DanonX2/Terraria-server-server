@@ -1,0 +1,644 @@
+[04/13/18 20:14:53] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/13/18 20:14:53] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/13/18 20:14:53] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/13/18 20:14:53] [Server API] Verbose: 	Mono: False
+[04/13/18 20:14:54] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/13/18 20:16:08] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/13/18 20:16:08] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/13/18 20:16:08] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/13/18 20:16:08] [Server API] Verbose: 	Mono: False
+[04/13/18 20:16:08] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/13/18 20:16:08] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:16:08] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:16:08] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/13/18 20:16:08] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/13/18 20:16:08] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/13/18 20:16:08] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/13/18 20:16:25] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/13/18 20:16:25] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/13/18 20:16:25] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/13/18 20:16:25] [Server API] Verbose: 	Mono: False
+[04/13/18 20:16:25] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/13/18 20:16:25] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:16:25] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:16:26] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/13/18 20:16:26] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/13/18 20:16:26] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/13/18 20:16:26] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/13/18 20:28:50] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/13/18 20:28:50] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/13/18 20:28:50] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/13/18 20:28:50] [Server API] Verbose: 	Mono: False
+[04/13/18 20:28:50] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/13/18 20:28:50] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:28:50] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:28:50] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/13/18 20:28:50] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/13/18 20:28:50] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/13/18 20:28:50] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/13/18 20:34:08] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/13/18 20:34:08] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/13/18 20:34:08] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/13/18 20:34:08] [Server API] Verbose: 	Mono: False
+[04/13/18 20:34:08] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/13/18 20:34:08] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:34:08] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/13/18 20:34:08] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/13/18 20:34:08] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/13/18 20:34:08] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/13/18 20:34:08] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/14/18 20:36:54] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/14/18 20:36:54] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/14/18 20:36:54] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/14/18 20:36:54] [Server API] Verbose: 	Mono: False
+[04/14/18 20:36:54] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/14/18 20:36:54] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/14/18 20:36:54] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/14/18 20:36:55] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/14/18 20:36:55] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/14/18 20:36:55] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/14/18 20:36:55] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/14/18 21:38:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/14/18 21:38:06] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/14/18 21:38:06] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/14/18 21:38:06] [Server API] Verbose: 	Mono: False
+[04/14/18 21:38:06] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/14/18 21:38:06] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/14/18 21:38:06] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/14/18 21:38:06] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/14/18 21:38:06] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/14/18 21:38:06] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/14/18 21:38:06] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/15/18 09:15:37] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/15/18 09:15:37] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/15/18 09:15:37] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/15/18 09:15:37] [Server API] Verbose: 	Mono: False
+[04/15/18 09:15:37] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/15/18 09:15:37] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 09:15:37] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 09:15:37] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/15/18 09:15:37] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/15/18 09:15:37] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/15/18 09:15:37] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/15/18 15:14:19] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/15/18 15:14:19] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/15/18 15:14:19] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/15/18 15:14:19] [Server API] Verbose: 	Mono: False
+[04/15/18 15:14:19] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/15/18 15:14:19] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 15:14:19] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 15:14:19] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/15/18 15:14:19] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/15/18 15:14:19] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/15/18 15:14:19] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/15/18 17:14:03] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/15/18 17:14:03] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/15/18 17:14:03] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/15/18 17:14:03] [Server API] Verbose: 	Mono: False
+[04/15/18 17:14:04] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/15/18 17:14:04] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 17:14:04] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/15/18 17:14:04] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/15/18 17:14:04] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/15/18 17:14:04] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/15/18 17:14:04] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/16/18 20:35:44] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/16/18 20:35:44] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/16/18 20:35:44] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/16/18 20:35:44] [Server API] Verbose: 	Mono: False
+[04/16/18 20:35:44] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/16/18 20:35:44] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/16/18 20:35:44] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/16/18 20:35:44] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/16/18 20:35:44] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/16/18 20:35:44] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/16/18 20:35:44] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/17/18 20:45:56] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/17/18 20:45:56] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/17/18 20:45:56] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/18 20:45:56] [Server API] Verbose: 	Mono: False
+[04/17/18 20:45:56] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/17/18 20:45:56] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/17/18 20:45:56] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/17/18 20:45:57] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/17/18 20:45:57] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/17/18 20:45:57] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/17/18 20:45:57] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/17/18 20:54:37] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/17/18 20:54:37] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/17/18 20:54:37] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/18 20:54:37] [Server API] Verbose: 	Mono: False
+[04/17/18 20:54:37] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/17/18 20:54:37] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/17/18 20:54:37] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/17/18 20:54:37] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/17/18 20:54:37] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/17/18 20:54:37] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/17/18 20:54:37] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/19/18 20:34:09] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/19/18 20:34:09] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/19/18 20:34:09] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/19/18 20:34:09] [Server API] Verbose: 	Mono: False
+[04/19/18 20:34:09] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/19/18 20:34:09] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/19/18 20:34:09] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/19/18 20:34:09] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/19/18 20:34:09] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/19/18 20:34:09] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/19/18 20:34:09] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/19/18 21:27:12] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/19/18 21:27:12] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/19/18 21:27:12] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/19/18 21:27:12] [Server API] Verbose: 	Mono: False
+[04/19/18 21:27:12] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/19/18 21:27:12] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/19/18 21:27:12] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/19/18 21:27:12] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/19/18 21:27:12] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/19/18 21:27:12] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/19/18 21:27:12] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/20/18 18:20:59] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/20/18 18:20:59] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/20/18 18:20:59] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/20/18 18:20:59] [Server API] Verbose: 	Mono: False
+[04/20/18 18:20:59] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/20/18 18:20:59] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/20/18 18:20:59] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/20/18 18:21:00] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/20/18 18:21:00] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/20/18 18:21:00] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/20/18 18:21:00] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/20/18 20:44:13] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/20/18 20:44:13] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/20/18 20:44:13] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/20/18 20:44:13] [Server API] Verbose: 	Mono: False
+[04/20/18 20:44:13] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/20/18 20:44:13] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/20/18 20:44:13] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/20/18 20:44:13] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/20/18 20:44:13] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/20/18 20:44:13] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/20/18 20:44:13] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/21/18 12:40:36] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/21/18 12:40:36] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/21/18 12:40:36] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/21/18 12:40:36] [Server API] Verbose: 	Mono: False
+[04/21/18 12:40:36] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/21/18 12:40:36] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 12:40:36] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 12:40:36] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/21/18 12:40:36] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/21/18 12:40:36] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/21/18 12:40:36] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/21/18 15:35:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/21/18 15:35:06] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/21/18 15:35:06] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/21/18 15:35:06] [Server API] Verbose: 	Mono: False
+[04/21/18 15:35:06] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/21/18 15:35:06] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 15:35:06] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 15:35:06] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/21/18 15:35:06] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/21/18 15:35:06] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/21/18 15:35:06] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/21/18 19:39:49] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/21/18 19:39:49] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/21/18 19:39:49] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/21/18 19:39:49] [Server API] Verbose: 	Mono: False
+[04/21/18 19:39:49] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/21/18 19:39:49] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 19:39:49] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 19:39:49] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/21/18 19:39:49] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/21/18 19:39:49] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/21/18 19:39:49] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/21/18 20:33:19] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/21/18 20:33:19] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/21/18 20:33:19] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/21/18 20:33:19] [Server API] Verbose: 	Mono: False
+[04/21/18 20:33:19] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/21/18 20:33:19] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 20:33:19] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 20:33:20] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/21/18 20:33:20] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/21/18 20:33:20] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/21/18 20:33:20] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/21/18 21:39:23] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/21/18 21:39:23] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/21/18 21:39:23] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/21/18 21:39:23] [Server API] Verbose: 	Mono: False
+[04/21/18 21:39:23] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/21/18 21:39:23] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 21:39:23] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/21/18 21:39:23] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/21/18 21:39:23] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/21/18 21:39:23] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/21/18 21:39:23] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/22/18 09:57:10] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/22/18 09:57:10] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/22/18 09:57:10] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/22/18 09:57:10] [Server API] Verbose: 	Mono: False
+[04/22/18 09:57:10] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/22/18 09:57:10] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 09:57:10] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 09:57:11] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/22/18 09:57:11] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/22/18 09:57:11] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/22/18 09:57:11] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/22/18 13:22:29] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/22/18 13:22:29] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/22/18 13:22:29] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/22/18 13:22:29] [Server API] Verbose: 	Mono: False
+[04/22/18 13:22:29] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/22/18 13:22:29] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 13:22:29] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 13:22:30] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/22/18 13:22:30] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/22/18 13:22:30] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/22/18 13:22:30] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/22/18 17:02:31] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/22/18 17:02:31] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/22/18 17:02:31] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/22/18 17:02:31] [Server API] Verbose: 	Mono: False
+[04/22/18 17:02:31] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/22/18 17:02:31] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 17:02:31] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/22/18 17:02:31] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/22/18 17:02:31] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/22/18 17:02:31] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/22/18 17:02:31] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/23/18 20:03:01] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/23/18 20:03:01] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/23/18 20:03:01] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/23/18 20:03:01] [Server API] Verbose: 	Mono: False
+[04/23/18 20:03:01] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/23/18 20:03:01] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/23/18 20:03:01] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/23/18 20:03:02] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/23/18 20:03:02] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/23/18 20:03:02] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/23/18 20:03:02] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/24/18 20:11:03] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/24/18 20:11:03] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/24/18 20:11:03] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/24/18 20:11:03] [Server API] Verbose: 	Mono: False
+[04/24/18 20:11:03] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/24/18 20:11:03] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/24/18 20:11:03] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/24/18 20:11:03] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/24/18 20:11:03] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/24/18 20:11:03] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/24/18 20:11:03] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/25/18 18:38:34] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/25/18 18:38:34] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/25/18 18:38:34] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/25/18 18:38:34] [Server API] Verbose: 	Mono: False
+[04/25/18 18:38:34] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/25/18 18:38:34] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/25/18 18:38:34] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/25/18 18:38:34] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/25/18 18:38:34] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/25/18 18:38:34] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/25/18 18:38:34] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/26/18 17:45:55] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/26/18 17:45:55] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/26/18 17:45:55] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/26/18 17:45:55] [Server API] Verbose: 	Mono: False
+[04/26/18 17:45:55] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/26/18 17:45:55] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/26/18 17:45:55] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/26/18 17:45:56] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/26/18 17:45:56] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/26/18 17:45:56] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/26/18 17:45:56] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/27/18 19:58:33] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/27/18 19:58:33] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/27/18 19:58:33] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/27/18 19:58:33] [Server API] Verbose: 	Mono: False
+[04/27/18 19:58:33] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/27/18 19:58:33] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/27/18 19:58:33] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/27/18 19:58:33] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/27/18 19:58:33] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/27/18 19:58:33] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/27/18 19:58:33] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/27/18 20:31:50] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/27/18 20:31:50] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/27/18 20:31:50] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/27/18 20:31:50] [Server API] Verbose: 	Mono: False
+[04/27/18 20:31:50] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/27/18 20:31:50] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/27/18 20:31:50] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/27/18 20:31:50] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/27/18 20:31:50] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/27/18 20:31:50] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/27/18 20:31:50] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 18:13:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 18:13:06] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/28/18 18:13:06] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 18:13:06] [Server API] Verbose: 	Mono: False
+[04/28/18 18:13:06] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 18:13:06] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 18:13:06] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 18:13:06] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 18:13:06] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 18:13:06] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 18:13:06] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:07:57] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:07:57] [Server API] Verbose: 	Command line: "E:\Tshock2\TerrariaServer.exe" 
+[04/28/18 19:07:57] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:07:57] [Server API] Verbose: 	Mono: False
+[04/28/18 19:07:57] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:07:57] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:07:57] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:07:57] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:07:57] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:07:57] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:07:57] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:15:02] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:15:02] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 19:15:02] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:15:02] [Server API] Verbose: 	Mono: False
+[04/28/18 19:15:02] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:15:02] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:15:02] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:15:03] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:15:03] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:15:03] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:15:03] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:15:29] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:15:29] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 19:15:29] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:15:29] [Server API] Verbose: 	Mono: False
+[04/28/18 19:15:29] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:15:29] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:15:29] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:15:29] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:15:29] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:15:29] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:15:29] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:52:30] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:52:30] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 19:52:30] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:52:30] [Server API] Verbose: 	Mono: False
+[04/28/18 19:52:30] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:52:30] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:52:30] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:52:30] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:52:30] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:52:30] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:52:30] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:53:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:53:06] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 19:53:06] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:53:06] [Server API] Verbose: 	Mono: False
+[04/28/18 19:53:06] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:53:06] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:53:06] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:53:07] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:53:07] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:53:07] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:53:07] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 19:58:00] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 19:58:00] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 19:58:00] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 19:58:00] [Server API] Verbose: 	Mono: False
+[04/28/18 19:58:00] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 19:58:00] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:58:00] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 19:58:01] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 19:58:01] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 19:58:01] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 19:58:01] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/28/18 21:34:18] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/28/18 21:34:18] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/28/18 21:34:18] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/28/18 21:34:18] [Server API] Verbose: 	Mono: False
+[04/28/18 21:34:18] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/28/18 21:34:18] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 21:34:18] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/28/18 21:34:18] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/28/18 21:34:18] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/28/18 21:34:18] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/28/18 21:34:18] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 10:56:36] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 10:56:36] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 10:56:36] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 10:56:36] [Server API] Verbose: 	Mono: False
+[04/30/18 10:56:36] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 10:56:36] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 10:56:36] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 10:56:37] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 10:56:37] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 10:56:37] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 10:56:37] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 11:07:53] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 11:07:53] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 11:07:53] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 11:07:53] [Server API] Verbose: 	Mono: False
+[04/30/18 11:07:53] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 11:07:53] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 11:07:53] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 11:07:54] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 11:07:54] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 11:07:54] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 11:07:54] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 16:06:55] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 16:06:55] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 16:06:55] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 16:06:55] [Server API] Verbose: 	Mono: False
+[04/30/18 16:06:55] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 16:06:55] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 16:06:55] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 16:06:55] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 16:06:55] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 16:06:55] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 16:06:55] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 16:08:53] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 16:08:53] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 16:08:53] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 16:08:53] [Server API] Verbose: 	Mono: False
+[04/30/18 16:08:53] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 16:08:53] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 16:08:53] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 16:08:53] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 16:08:53] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 16:08:53] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 16:08:53] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 17:14:57] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 17:14:57] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 17:14:57] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 17:14:57] [Server API] Verbose: 	Mono: False
+[04/30/18 17:14:57] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 17:14:57] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:14:57] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:14:58] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 17:14:58] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 17:14:58] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 17:14:58] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 17:15:52] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 17:15:52] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 17:15:52] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 17:15:52] [Server API] Verbose: 	Mono: False
+[04/30/18 17:15:52] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 17:15:52] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:15:52] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:15:52] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 17:15:52] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 17:15:52] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 17:15:52] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[04/30/18 17:15:52] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 17:34:03] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 17:34:03] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 17:34:03] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 17:34:03] [Server API] Verbose: 	Mono: False
+[04/30/18 17:34:03] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 17:34:03] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:34:03] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:34:04] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 17:34:04] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 17:34:04] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 17:34:04] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[04/30/18 17:34:04] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[04/30/18 17:38:02] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[04/30/18 17:38:02] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[04/30/18 17:38:02] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/30/18 17:38:02] [Server API] Verbose: 	Mono: False
+[04/30/18 17:38:02] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[04/30/18 17:38:02] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:38:02] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[04/30/18 17:38:03] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[04/30/18 17:38:03] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[04/30/18 17:38:03] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[04/30/18 17:38:03] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[04/30/18 17:38:03] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/01/18 11:28:07] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/01/18 11:28:07] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/01/18 11:28:07] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/01/18 11:28:07] [Server API] Verbose: 	Mono: False
+[05/01/18 11:28:07] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/01/18 11:28:07] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/01/18 11:28:07] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/01/18 11:28:08] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/01/18 11:28:08] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/01/18 11:28:08] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/01/18 11:28:08] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/01/18 11:28:08] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/01/18 11:28:08] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/01/18 16:07:13] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/01/18 16:07:13] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/01/18 16:07:13] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/01/18 16:07:13] [Server API] Verbose: 	Mono: False
+[05/01/18 16:07:13] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/01/18 16:07:13] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/01/18 16:07:13] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/01/18 16:07:13] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/01/18 16:07:13] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/01/18 16:07:13] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/01/18 16:07:13] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/01/18 16:07:13] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/01/18 16:07:13] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/03/18 19:40:53] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/03/18 19:40:53] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/03/18 19:40:53] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/03/18 19:40:53] [Server API] Verbose: 	Mono: False
+[05/03/18 19:40:53] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/03/18 19:40:53] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/03/18 19:40:53] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/03/18 19:40:53] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/03/18 19:40:53] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/03/18 19:40:53] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/03/18 19:40:53] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/03/18 19:40:53] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/03/18 19:40:53] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/03/18 20:08:49] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/03/18 20:08:49] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/03/18 20:08:49] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/03/18 20:08:49] [Server API] Verbose: 	Mono: False
+[05/03/18 20:08:49] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/03/18 20:08:49] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/03/18 20:08:49] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/03/18 20:08:49] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/03/18 20:08:49] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/03/18 20:08:49] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/03/18 20:08:49] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/03/18 20:08:49] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/03/18 20:08:49] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/04/18 18:29:32] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/04/18 18:29:32] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/04/18 18:29:32] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/04/18 18:29:32] [Server API] Verbose: 	Mono: False
+[05/04/18 18:29:32] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/04/18 18:29:32] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/04/18 18:29:32] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/04/18 18:29:32] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/04/18 18:29:32] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/04/18 18:29:32] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/04/18 18:29:32] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/04/18 18:29:32] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/04/18 18:29:32] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/05/18 12:30:15] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/05/18 12:30:15] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/05/18 12:30:15] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/05/18 12:30:15] [Server API] Verbose: 	Mono: False
+[05/05/18 12:30:15] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/05/18 12:30:15] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 12:30:15] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 12:30:15] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/05/18 12:30:15] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/05/18 12:30:15] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/05/18 12:30:15] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/05/18 12:30:15] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/05/18 12:30:15] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/05/18 15:32:42] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/05/18 15:32:42] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/05/18 15:32:42] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/05/18 15:32:42] [Server API] Verbose: 	Mono: False
+[05/05/18 15:32:42] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/05/18 15:32:42] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 15:32:42] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 15:32:42] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/05/18 15:32:42] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/05/18 15:32:42] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/05/18 15:32:42] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/05/18 15:32:42] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/05/18 15:32:42] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/05/18 18:54:55] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/05/18 18:54:55] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/05/18 18:54:55] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/05/18 18:54:55] [Server API] Verbose: 	Mono: False
+[05/05/18 18:54:55] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/05/18 18:54:55] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 18:54:55] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 18:54:56] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/05/18 18:54:56] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/05/18 18:54:56] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/05/18 18:54:56] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/05/18 18:54:56] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/05/18 18:54:56] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/05/18 18:56:38] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/05/18 18:56:38] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/05/18 18:56:38] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/05/18 18:56:38] [Server API] Verbose: 	Mono: False
+[05/05/18 18:56:38] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/05/18 18:56:38] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 18:56:38] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 18:56:38] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/05/18 18:56:38] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/05/18 18:56:38] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/05/18 18:56:38] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/05/18 18:56:38] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/05/18 18:56:38] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.
+[05/05/18 19:27:47] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[05/05/18 19:27:47] [Server API] Verbose: 	Command line: "E:\Tshock3\TerrariaServer.exe" 
+[05/05/18 19:27:47] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[05/05/18 19:27:47] [Server API] Verbose: 	Mono: False
+[05/05/18 19:27:47] [Server API] Warning: Plugin "TeleportRequest.TeleportRequest" is designed for a different Server API version (2.0) and was ignored.
+[05/05/18 19:27:47] [Server API] Warning: Plugin "TimeBasedRanks.Tbr" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 19:27:47] [Server API] Warning: Plugin "WorldRefill.WorldRefill" is designed for a different Server API version (1.16) and was ignored.
+[05/05/18 19:27:48] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[05/05/18 19:27:48] [Server API] Info: Plugin AutoBoss+ v2.8.0.0 (by WhiteX) initiated.
+[05/05/18 19:27:48] [Server API] Info: Plugin House Regions v1.2.2.0 (by CoderCow) initiated.
+[05/05/18 19:27:48] [Server API] Info: Plugin Protector v1.6.5.0 (by CoderCow) initiated.
+[05/05/18 19:27:48] [Server API] Info: Plugin WorldEdit v1.7.4.0 (by Nyx Studios) initiated.
+[05/05/18 19:27:48] [Server API] Info: Plugin Suicide v1.0 (by TheOldPlayeR) initiated.

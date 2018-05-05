@@ -1,0 +1,136 @@
+2018-04-19 21:27:12 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-19 21:27:12 - TShock: INFO: AutoSave Enabled
+2018-04-19 21:27:12 - TShock: INFO: Backups Disabled
+2018-04-19 21:27:12 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-19 21:27:24 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-19 21:27:24 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-19 21:27:25 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (1/10)
+2018-04-19 21:27:25 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-19 21:27:32 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-19 21:27:32 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-19 21:27:32 - TShock: INFO: admin1 disconnected.
+2018-04-19 21:27:32 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-19 21:27:33 - Utils: INFO: Broadcast: World saved.
+2018-04-19 21:27:33 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 21:27:42 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-19 21:27:43 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-19 21:27:43 - Utils: INFO: Broadcast: David has joined.
+2018-04-19 21:28:57 - Utils: INFO: Server executed: /godmode.
+2018-04-19 21:29:08 - Utils: INFO: Server executed: /godmode David.
+2018-04-19 21:29:11 - TShock: INFO: 1 (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-19 21:29:11 - Utils: INFO: Broadcast: 1 has joined.
+2018-04-19 21:29:19 - Utils: INFO: David executed: /warp diyu.
+2018-04-19 21:31:51 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-19 21:31:55 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-19 21:31:55 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-19 21:32:22 - Utils: INFO: Broadcast: 1 has left.
+2018-04-19 21:32:22 - TShock: INFO: 1 disconnected.
+2018-04-19 21:32:41 - TShock: INFO: 1 (192.168.0.106) from 'guest' group joined. (3/10)
+2018-04-19 21:32:41 - Utils: INFO: Broadcast: 1 has joined.
+2018-04-19 21:32:59 - Utils: INFO: Broadcast: 1 has left.
+2018-04-19 21:32:59 - TShock: INFO: 1 disconnected.
+2018-04-19 21:38:05 - TShock: INFO: 1 (192.168.0.106) from 'guest' group joined. (3/10)
+2018-04-19 21:38:05 - Utils: INFO: Broadcast: 1 has joined.
+2018-04-19 21:39:30 - Commands: INFO: 1 failed to register an existing account: 1
+2018-04-19 21:40:23 - Utils: INFO: Broadcast: 1 has left.
+2018-04-19 21:40:23 - TShock: INFO: 1 disconnected.
+2018-04-19 21:40:57 - TShock: INFO: lllll (192.168.0.106) from 'guest' group joined. (3/10)
+2018-04-19 21:40:57 - Utils: INFO: Broadcast: lllll has joined.
+2018-04-19 21:41:43 - TextLog: INFO: lllll registered an account: "lllll".
+2018-04-19 21:41:47 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: lllll.
+2018-04-19 21:42:04 - Commands: INFO: lllll authenticated successfully as user: lllll.
+2018-04-19 21:49:32 - Utils: INFO: Broadcast: David: 建议探险组队
+2018-04-19 21:49:38 - Utils: INFO: Broadcast: David: 大家输入/warp list
+2018-04-19 21:49:44 - Utils: INFO: David executed: /warp list.
+2018-04-19 21:49:48 - Utils: INFO: Broadcast: David: 把
+2018-04-19 21:50:05 - Utils: INFO: lllll executed: /warp list.
+2018-04-19 21:50:13 - Utils: INFO: Broadcast: David: 把写名字弄在/warp 后面
+2018-04-19 21:50:48 - Utils: INFO: beiyi executed: /warp beiyi.
+2018-04-19 21:51:11 - Utils: INFO: lllll executed: /warp lllll list.
+2018-04-19 21:51:17 - Utils: INFO: Broadcast: David: 偷东西？
+2018-04-19 21:51:39 - Utils: INFO: Broadcast: David: 我也来偷qwq
+2018-04-19 21:51:55 - Utils: INFO: Broadcast: lllll: emmmmm
+2018-04-19 21:54:26 - Utils: INFO: Broadcast: lllll: 那么长是要摔死
+2018-04-19 21:54:43 - Utils: INFO: Broadcast: lllll: 嘿嘿嘿
+2018-04-19 21:55:20 - Utils: INFO: Broadcast: lllll: 哈哈
+2018-04-19 22:00:39 - Utils: INFO: Broadcast: David: = =
+2018-04-19 22:00:42 - Utils: INFO: Broadcast: beiyi: .
+2018-04-19 22:00:52 - Utils: INFO: Broadcast: lllll: 。。。
+2018-04-19 22:01:03 - Utils: INFO: Broadcast: lllll: 过分qaq
+2018-04-19 22:01:06 - Utils: INFO: Broadcast: David: house
+2018-04-19 22:01:09 - Utils: INFO: David executed: /house define.
+2018-04-19 22:01:10 - Utils: INFO: Broadcast: beiyi: hhh
+2018-04-19 22:01:14 - Utils: INFO: Broadcast: David: ok
+2018-04-19 22:01:21 - Utils: INFO: Broadcast: David: 你用稿子挖
+2018-04-19 22:01:27 - Utils: INFO: Broadcast: David: 出不来了233
+2018-04-19 22:01:35 - Utils: INFO: Broadcast: David: lolololol
+2018-04-19 22:01:58 - Utils: INFO: Broadcast: lllll:  你们过分了阿阿阿阿阿阿阿阿阿阿
+2018-04-19 22:02:00 - Utils: INFO: Broadcast: David: 233333333
+2018-04-19 22:02:05 - Utils: INFO: Broadcast: lllll: emmmmmm
+2018-04-19 22:02:26 - Utils: INFO: Broadcast: lllll: 快放我出来
+2018-04-19 22:02:31 - Utils: INFO: Broadcast: lllll: emmmm 
+2018-04-19 22:02:42 - Utils: INFO: Broadcast: David: 233333
+2018-04-19 22:02:42 - Utils: INFO: Broadcast: lllll: 我火把用光了
+2018-04-19 22:02:45 - Utils: INFO: Broadcast: lllll: 。。。。
+2018-04-19 22:02:59 - Utils: INFO: Broadcast: lllll: 我看不见我积极
+2018-04-19 22:03:30 - Utils: INFO: Broadcast: lllll: 为什么你们挖的开我就挖不开。。。。
+2018-04-19 22:03:41 - Utils: INFO: Broadcast: David: 我圈了地qwq
+2018-04-19 22:03:46 - Utils: INFO: Broadcast: lllll: ，，，，
+2018-04-19 22:04:27 - Utils: INFO: Broadcast: David: = =
+2018-04-19 22:05:06 - Utils: INFO: David executed: /warp diyu.
+2018-04-19 22:05:11 - Utils: INFO: Broadcast: David: 输入/warp diyu
+2018-04-19 22:05:22 - Utils: INFO: Broadcast: David: 地狱
+2018-04-19 22:05:23 - Utils: INFO: Broadcast: lllll: 再见地底寻找我光明哼
+2018-04-19 22:05:29 - Utils: INFO: beiyi executed: /warp diyu.
+2018-04-19 22:05:32 - Utils: INFO: Broadcast: David: 输入/warp conlin
+2018-04-19 22:05:36 - Utils: INFO: Broadcast: David: 丛林
+2018-04-19 22:05:58 - Utils: INFO: Broadcast: beiyi: cao
+2018-04-19 22:06:17 - Utils: INFO: Broadcast: David: 你TM哪里来的钱
+2018-04-19 22:06:23 - Utils: INFO: Broadcast: David: [i/s477:74]
+2018-04-19 22:06:30 - Utils: INFO: Broadcast: beiyi: haiw
+2018-04-19 22:06:45 - Utils: INFO: Broadcast: David: 我再发现直接ban了
+2018-04-19 22:06:54 - Utils: INFO: Broadcast: David: 破坏游戏平衡
+2018-04-19 22:07:12 - Utils: INFO: Broadcast: lllll: 我输不进去是不是要输空格
+2018-04-19 22:07:17 - Utils: INFO: Broadcast: David: 对
+2018-04-19 22:07:20 - Utils: INFO: Broadcast: lllll: 。。。。
+2018-04-19 22:07:27 - Utils: INFO: Server executed: /godmode David.
+2018-04-19 22:07:54 - Utils: INFO: Server executed: /godmode David.
+2018-04-19 22:08:06 - Utils: INFO: lllll executed: /warp lllll diyu.
+2018-04-19 22:08:32 - Utils: INFO: lllll executed: /warp lllll conlin.
+2018-04-19 22:09:18 - Utils: INFO: Broadcast: lllll: the specified warp was not found 怎么说
+2018-04-19 22:09:31 - Utils: INFO: Broadcast: David: 找不到传送地点
+2018-04-19 22:09:40 - Utils: INFO: Broadcast: lllll: 哈哈
+2018-04-19 22:09:44 - Utils: INFO: Broadcast: David: 你指令地名输错了吧qwq？
+2018-04-19 22:10:11 - Utils: INFO: lllll executed: /warp lllll diyu.
+2018-04-19 22:10:30 - Utils: INFO: lllll executed: /warp lllll diyu .
+2018-04-19 22:10:47 - Utils: INFO: Broadcast: lllll: warp lllll diyu
+2018-04-19 22:10:52 - Utils: INFO: Broadcast: David: = =
+2018-04-19 22:10:53 - Utils: INFO: Broadcast: lllll: 这样啊
+2018-04-19 22:11:03 - Utils: INFO: Broadcast: David: 不用输人名
+2018-04-19 22:11:04 - Utils: INFO: Broadcast: lllll: 斜杠hou
+2018-04-19 22:11:10 - Utils: INFO: Broadcast: lllll: 。。。
+2018-04-19 22:11:10 - Utils: INFO: Broadcast: David: 输/warp diyu
+2018-04-19 22:12:27 - Utils: INFO: lllll executed: /warp diyu.
+2018-04-19 22:12:40 - Utils: INFO: Broadcast: David: 睡觉啦
+2018-04-19 22:12:47 - Utils: INFO: Broadcast: David: 明天开qwq
+2018-04-19 22:12:57 - Utils: INFO: Broadcast: David has left.
+2018-04-19 22:12:57 - TShock: INFO: David disconnected.
+2018-04-19 22:12:59 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-19 22:12:59 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-19 22:13:00 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-19 22:13:00 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-19 22:13:01 - Utils: INFO: Broadcast: lllll: 那我洗澡； 
+2018-04-19 22:13:01 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-19 22:13:01 - TShock: INFO: beiyi disconnected.
+2018-04-19 22:13:16 - Utils: INFO: Broadcast: lllll has left.
+2018-04-19 22:13:16 - TShock: INFO: lllll disconnected.
+2018-04-19 22:13:30 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-19 22:13:30 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-19 22:13:30 - TShock: INFO: admin1 disconnected.
+2018-04-19 22:13:30 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-19 22:13:31 - Utils: INFO: Broadcast: World saved.
+2018-04-19 22:13:31 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 22:13:32 - Utils: INFO: Server executed: /off.
+2018-04-19 22:13:33 - Utils: INFO: Broadcast: World saved.
+2018-04-19 22:13:33 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-19 22:13:33 - Utils: INFO: Broadcast: Server shutting down!

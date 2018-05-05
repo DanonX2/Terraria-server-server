@@ -1,0 +1,36 @@
+2018-04-28 19:15:29 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-28 19:15:29 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-28 19:15:29 - TShock: INFO: AutoSave Enabled
+2018-04-28 19:15:29 - TShock: INFO: Backups Disabled
+2018-04-28 19:15:29 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-28 19:16:09 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-28 19:16:09 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-28 19:16:10 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (1/10)
+2018-04-28 19:16:10 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-28 19:16:16 - Utils: INFO: Broadcast: admin1: 、user
+2018-04-28 19:16:31 - Commands: INFO: admin1 successfully deleted account: David.
+2018-04-28 19:16:43 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 19:16:43 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-28 19:16:43 - TShock: INFO: admin1 disconnected.
+2018-04-28 19:16:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-28 19:16:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 19:16:44 - Utils: INFO: Broadcast: World saved.
+2018-04-28 19:16:44 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-28 19:16:46 - Utils: INFO: Broadcast: World saved.
+2018-04-28 19:16:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-28 19:16:47 - TShock: INFO: David (192.168.0.106) from 'guest' group joined. (1/10)
+2018-04-28 19:16:47 - Utils: INFO: Broadcast: David has joined.
+2018-04-28 19:16:53 - TextLog: INFO: David registered an account: "David".
+2018-04-28 19:16:56 - Commands: INFO: David authenticated successfully as user: David.
+2018-04-28 19:17:03 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 19:17:04 - Utils: INFO: Broadcast: World saved.
+2018-04-28 19:17:04 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-28 19:17:30 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 19:17:30 - Utils: INFO: Broadcast: David has left.
+2018-04-28 19:17:30 - TShock: INFO: David disconnected.
+2018-04-28 19:17:31 - Utils: INFO: Broadcast: World saved.
+2018-04-28 19:17:31 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-28 19:17:32 - Utils: INFO: Server executed: /off.
+2018-04-28 19:17:33 - Utils: INFO: Broadcast: World saved.
+2018-04-28 19:17:33 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-28 19:17:33 - Utils: INFO: Broadcast: Server shutting down!

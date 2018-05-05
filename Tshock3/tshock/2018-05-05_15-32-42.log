@@ -1,0 +1,683 @@
+2018-05-05 15:32:42 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-05-05 15:32:42 - TShock: INFO: AutoSave Enabled
+2018-05-05 15:32:42 - TShock: INFO: Backups Disabled
+2018-05-05 15:32:42 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-05-05 15:32:53 - PluginTrace: WARNING: [Protector] 2 invalid protections removed.
+2018-05-05 15:32:53 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-05-05 15:35:02 - GetDataHandlers: INFO: 噩梦时空 authenticated successfully as user 噩梦时空.
+2018-05-05 15:35:08 - TShock: INFO: 噩梦时空 (192.168.0.100) from 'default' group joined. (1/10)
+2018-05-05 15:35:08 - Utils: INFO: Broadcast: 噩梦时空 has joined.
+2018-05-05 15:38:32 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 15:44:44 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-05 15:44:49 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-05 15:44:49 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-05 15:45:07 - Utils: INFO: 夜-胤笙 executed: /warp cl.
+2018-05-05 15:50:23 - Utils: INFO: 夜-胤笙 executed: /warp cl.
+2018-05-05 15:50:39 - Utils: INFO: 夜-胤笙 executed: /warp cl.
+2018-05-05 15:51:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 6ms.
+2018-05-05 15:58:45 - TShock: INFO: limiit (192.168.0.100) from 'guest' group joined. (3/10)
+2018-05-05 15:58:45 - Utils: INFO: Broadcast: limiit has joined.
+2018-05-05 16:00:09 - GetDataHandlers: INFO: r authenticated successfully as user r.
+2018-05-05 16:00:13 - TShock: INFO: r (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-05 16:00:13 - Utils: INFO: Broadcast: r has joined.
+2018-05-05 16:01:49 - Utils: INFO: r executed: /warp zh.
+2018-05-05 16:02:56 - Utils: INFO: r executed: /warp zh.
+2018-05-05 16:06:47 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 16:07:04 - Utils: INFO: Broadcast: r has left.
+2018-05-05 16:07:04 - TShock: INFO: r disconnected.
+2018-05-05 16:07:05 - Utils: INFO: Broadcast: limiit has left.
+2018-05-05 16:07:05 - TShock: INFO: limiit disconnected.
+2018-05-05 16:07:16 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 16:07:19 - GetDataHandlers: INFO: r authenticated successfully as user r.
+2018-05-05 16:07:24 - TShock: INFO: r (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-05 16:07:24 - Utils: INFO: Broadcast: r has joined.
+2018-05-05 16:11:09 - Utils: INFO: r executed: /warp zh.
+2018-05-05 16:12:29 - Utils: INFO: 噩梦时空 executed: /WARP YH.
+2018-05-05 16:12:43 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 16:13:41 - Utils: INFO: Broadcast: 噩梦时空: /
+2018-05-05 16:15:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 16:16:56 - Utils: INFO: 噩梦时空 executed: /spawn.
+2018-05-05 16:19:19 - Utils: INFO: 噩梦时空 executed: /WARP CL.
+2018-05-05 16:19:58 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 16:21:15 - Utils: INFO: r executed: /warp zh.
+2018-05-05 16:28:52 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 16:28:54 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 16:28:56 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-05 16:28:56 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 16:29:09 - Utils: INFO: 噩梦时空 executed: /spawn.
+2018-05-05 16:29:09 - Utils: INFO: 111 executed: /warp zy.
+2018-05-05 16:29:18 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 16:29:48 - Utils: INFO: Broadcast: 111: 你们谁海边改了？
+2018-05-05 16:29:52 - Utils: INFO: Broadcast: 111: 谁挖的？？？
+2018-05-05 16:30:03 - Utils: INFO: Broadcast: 夜-胤笙: 不知道
+2018-05-05 16:30:14 - Utils: INFO: Broadcast: 111: 闲的？
+2018-05-05 16:30:21 - Utils: INFO: r executed: /warp zh.
+2018-05-05 16:30:25 - Utils: INFO: Broadcast: 111: 这帮人
+2018-05-05 16:30:26 - Utils: INFO: Broadcast: 111: 真的
+2018-05-05 16:30:42 - Utils: INFO: Broadcast: 噩梦时空: 怎么了。。
+2018-05-05 16:30:45 - Utils: INFO: Broadcast: 夜-胤笙: 我给他们说过别在海边见
+2018-05-05 16:30:52 - Utils: INFO: Broadcast: 噩梦时空: 不方便的话我搬家。。
+2018-05-05 16:30:54 - Utils: INFO: Broadcast: 111: 海边
+2018-05-05 16:30:56 - Utils: INFO: Broadcast: 111: 谁弄的
+2018-05-05 16:31:01 - Utils: INFO: Broadcast: 111: 这里是主城
+2018-05-05 16:31:02 - Utils: INFO: Broadcast: 噩梦时空: 左边是我
+2018-05-05 16:31:04 - Utils: INFO: Broadcast: 111: 还没弄好
+2018-05-05 16:31:04 - Utils: INFO: Broadcast: 夜-胤笙: 海边主城
+2018-05-05 16:31:05 - Utils: INFO: Broadcast: 噩梦时空: 右边是R
+2018-05-05 16:31:05 - Utils: INFO: Broadcast: r: 我们
+2018-05-05 16:31:14 - Utils: INFO: Broadcast: 噩梦时空: 对不起
+2018-05-05 16:31:17 - Utils: INFO: Broadcast: 111: 没事
+2018-05-05 16:31:19 - Utils: INFO: Broadcast: 111: 换一下把
+2018-05-05 16:31:19 - Utils: INFO: Broadcast: 噩梦时空: 我搬。。
+2018-05-05 16:31:21 - Utils: INFO: Broadcast: r: 刷东西
+2018-05-05 16:31:57 - GetDataHandlers: ERROR: System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 OTAPI.Tile.DefaultTileCollection.get_Item(Int32 x, Int32 y)
+   在 TShockAPI.GetDataHandlers.HandleSpawn(GetDataHandlerArgs args)
+   在 TShockAPI.GetDataHandlers.HandlerGetData(PacketTypes type, TSPlayer player, MemoryStream data)
+2018-05-05 16:32:04 - Utils: INFO: Broadcast: r: 上面是大佬的家
+2018-05-05 16:32:29 - Utils: INFO: Broadcast: 夜-胤笙: 上边是主城。。。
+2018-05-05 16:32:37 - Utils: INFO: Broadcast: 111: 我正在弄
+2018-05-05 16:33:29 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 16:34:58 - GetDataHandlers: ERROR: System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 OTAPI.Tile.DefaultTileCollection.get_Item(Int32 x, Int32 y)
+   在 TShockAPI.GetDataHandlers.HandleSpawn(GetDataHandlerArgs args)
+   在 TShockAPI.GetDataHandlers.HandlerGetData(PacketTypes type, TSPlayer player, MemoryStream data)
+2018-05-05 16:36:39 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-05 16:37:28 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-05 16:37:46 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-05 16:38:18 - Utils: INFO: Broadcast: 噩梦时空: A
+2018-05-05 16:38:32 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-05 16:38:32 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-05 16:38:36 - Utils: INFO: Broadcast: 噩梦时空 has left.
+2018-05-05 16:38:36 - TShock: INFO: 噩梦时空 disconnected.
+2018-05-05 16:38:44 - GetDataHandlers: INFO: 噩梦时空 authenticated successfully as user 噩梦时空.
+2018-05-05 16:38:49 - TShock: INFO: 噩梦时空 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-05 16:38:49 - Utils: INFO: Broadcast: 噩梦时空 has joined.
+2018-05-05 16:38:52 - Utils: INFO: 噩梦时空 executed: /warp zh.
+2018-05-05 16:39:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 16:39:22 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 16:39:22 - TShock: INFO: 111 disconnected.
+2018-05-05 16:39:33 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-05 16:39:38 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-05 16:39:38 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-05 16:39:53 - Utils: INFO: 夜-胤笙 executed: /warp dy.
+2018-05-05 16:46:36 - TShock: INFO: Oath (192.168.0.100) from 'guest' group joined. (4/10)
+2018-05-05 16:46:36 - Utils: INFO: Broadcast: Oath has joined.
+2018-05-05 16:47:00 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-05 16:47:00 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-05 16:49:50 - Utils: INFO: r executed: /WHO.
+2018-05-05 16:50:29 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 16:51:41 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 16:52:18 - Commands: WARNING: 192.168.0.100 failed to authenticate as user: Oath.
+2018-05-05 16:52:28 - Utils: INFO: Oath executed: /help.
+2018-05-05 16:53:18 - Commands: INFO: Oath failed to register an existing account: Oath
+2018-05-05 16:53:28 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 16:53:30 - Utils: INFO: Oath executed: /me.
+2018-05-05 16:54:18 - Utils: INFO: Oath tried to execute /warp yh.
+2018-05-05 16:56:56 - Utils: INFO: 噩梦时空 executed: /WHO.
+2018-05-05 16:58:27 - Utils: INFO: Broadcast: r: WARP ZC
+2018-05-05 16:58:39 - Utils: INFO: r executed: /WARP ZC.
+2018-05-05 16:58:49 - Utils: INFO: Broadcast: r: WARP ZC
+2018-05-05 16:58:57 - Utils: INFO: r executed: /WARP ZC.
+2018-05-05 17:00:19 - Utils: INFO: Broadcast: Oath has left.
+2018-05-05 17:00:19 - TShock: INFO: Oath disconnected.
+2018-05-05 17:01:58 - TShock: INFO: Kotori (192.168.0.100) from 'guest' group joined. (3/10)
+2018-05-05 17:01:58 - Utils: INFO: Broadcast: Kotori has joined.
+2018-05-05 17:02:07 - Utils: INFO: r executed: /SPAWN.
+2018-05-05 17:02:08 - Utils: INFO: Broadcast: Kotori has left.
+2018-05-05 17:02:08 - TShock: INFO: Kotori disconnected.
+2018-05-05 17:02:18 - Utils: INFO: Broadcast: r: WARP ZC
+2018-05-05 17:02:27 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 17:03:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 10ms.
+2018-05-05 17:04:11 - TShock: INFO: KOTORI (192.168.0.100) from 'guest' group joined. (3/10)
+2018-05-05 17:04:11 - Utils: INFO: Broadcast: KOTORI has joined.
+2018-05-05 17:04:30 - Utils: INFO: 噩梦时空 executed: /warp list.
+2018-05-05 17:04:38 - Utils: INFO: 噩梦时空 executed: /warp zh.
+2018-05-05 17:04:45 - Utils: INFO: 噩梦时空 executed: /warp xd.
+2018-05-05 17:04:54 - Utils: INFO: 噩梦时空 executed: /warp dy.
+2018-05-05 17:05:01 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 17:05:41 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 17:07:44 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:08:55 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 17:09:45 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:10:25 - Utils: INFO: 噩梦时空 executed: /WARP CL.
+2018-05-05 17:12:19 - Commands: INFO: KOTORI authenticated successfully as user: KOTORI.
+2018-05-05 17:13:12 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 17:13:50 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 17:16:22 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:18:25 - Utils: INFO: Broadcast: KOTORI: .
+2018-05-05 17:18:48 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 17:19:24 - Utils: INFO: Broadcast: KOTORI: 我来这边躲会
+2018-05-05 17:21:29 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:24:04 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:25:56 - Utils: INFO: r executed: /WARP ZH.
+2018-05-05 17:26:42 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 17:26:47 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-05 17:26:47 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 17:27:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 4ms.
+2018-05-05 17:27:44 - Utils: INFO: Broadcast: 噩梦时空: 你有雕像吗
+2018-05-05 17:28:05 - Utils: INFO: Broadcast: r: 没
+2018-05-05 17:28:06 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 17:28:15 - Utils: INFO: Broadcast: 噩梦时空: 行
+2018-05-05 17:28:17 - Utils: INFO: Broadcast: 111: 你倒是搬家啊
+2018-05-05 17:28:17 - GetDataHandlers: INFO: wenrou authenticated successfully as user wenrou.
+2018-05-05 17:28:21 - TShock: INFO: wenrou (192.168.0.100) from 'default' group joined. (5/10)
+2018-05-05 17:28:21 - Utils: INFO: Broadcast: wenrou has joined.
+2018-05-05 17:28:38 - Utils: INFO: wenrou executed: /warp zh.
+2018-05-05 17:29:09 - Utils: INFO: Broadcast: 111: 给我权限
+2018-05-05 17:29:12 - Utils: INFO: Broadcast: 111: 我帮你挖
+2018-05-05 17:30:04 - Utils: INFO: Broadcast: 111: 岩浆弄掉
+2018-05-05 17:30:12 - Utils: INFO: Broadcast: 111: 海面不要破坏
+2018-05-05 17:30:54 - Utils: INFO: Broadcast: 111: 别改主城
+2018-05-05 17:30:57 - Utils: INFO: Broadcast: 111: 弄乱动
+2018-05-05 17:33:15 - Utils: INFO: Broadcast: 111: 在主城附近圈的地
+2018-05-05 17:33:21 - Utils: INFO: Broadcast: 111: 全部弄消逝
+2018-05-05 17:33:22 - Utils: INFO: Broadcast: 111: 算了
+2018-05-05 17:33:25 - Utils: INFO: Broadcast: 111: 我让群主弄吧
+2018-05-05 17:33:58 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-05 17:34:00 - PluginTrace: ERROR: [Protector] Error: A block was tried to be auto protected on the same position of an existing protection.
+2018-05-05 17:34:37 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:37:41 - Utils: INFO: KOTORI executed: /warp cl.
+2018-05-05 17:37:53 - Utils: INFO: Broadcast: r: 搬家了
+2018-05-05 17:38:00 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 17:43:27 - TShock: INFO: 香蕉 (192.168.0.100) from 'guest' group joined. (6/10)
+2018-05-05 17:43:27 - Utils: INFO: Broadcast: 香蕉 has joined.
+2018-05-05 17:44:14 - TextLog: INFO: 香蕉 registered an account: "香蕉".
+2018-05-05 17:44:27 - Utils: INFO: Broadcast: 香蕉 has left.
+2018-05-05 17:44:27 - TShock: INFO: 香蕉 disconnected.
+2018-05-05 17:44:32 - GetDataHandlers: INFO: 香蕉 authenticated successfully as user 香蕉.
+2018-05-05 17:44:36 - TShock: INFO: 香蕉 (192.168.0.100) from 'default' group joined. (6/10)
+2018-05-05 17:44:36 - Utils: INFO: Broadcast: 香蕉 has joined.
+2018-05-05 17:45:03 - Utils: INFO: Broadcast: 香蕉: 。。。
+2018-05-05 17:45:20 - Utils: INFO: Broadcast: 香蕉: 有大佬带带萌新么0.0
+2018-05-05 17:45:24 - Utils: INFO: Broadcast: 噩梦时空: 都是萌新
+2018-05-05 17:45:25 - Utils: INFO: Broadcast: KOTORI: 我的妈耶，这谁挖的，这么深
+2018-05-05 17:45:38 - Utils: INFO: Broadcast: 111: 不想带
+2018-05-05 17:45:41 - Utils: INFO: Broadcast: 噩梦时空: 直通车
+2018-05-05 17:45:56 - Utils: INFO: Broadcast: 香蕉: 那算了0.0
+2018-05-05 17:46:18 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 17:46:18 - TShock: INFO: 111 disconnected.
+2018-05-05 17:46:23 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 17:46:27 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (6/10)
+2018-05-05 17:46:27 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 17:49:40 - Utils: INFO: r executed: /house define.
+2018-05-05 17:51:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 5ms.
+2018-05-05 17:53:42 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-05 17:53:47 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 17:53:47 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-05 17:53:55 - GetDataHandlers: INFO: 具有神经病之力的冒险者 authenticated successfully as user 具有神经病之力的冒险者.
+2018-05-05 17:53:59 - TShock: INFO: 具有神经病之力的冒险者 (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 17:53:59 - Utils: INFO: Broadcast: 具有神经病之力的冒险者 has joined.
+2018-05-05 17:54:08 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 17:55:52 - Utils: INFO: Broadcast: KOTORI: 挂机吃饭
+2018-05-05 17:56:05 - Utils: INFO: Broadcast: 具有神经病之力的冒险者: 23
+2018-05-05 17:57:03 - Utils: INFO: Broadcast: wenrou has left.
+2018-05-05 17:57:03 - TShock: INFO: wenrou disconnected.
+2018-05-05 17:57:30 - GetDataHandlers: INFO: wenrou authenticated successfully as user wenrou.
+2018-05-05 17:57:34 - TShock: INFO: wenrou (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 17:57:34 - Utils: INFO: Broadcast: wenrou has joined.
+2018-05-05 17:57:44 - Utils: INFO: wenrou executed: /warp zh.
+2018-05-05 17:59:04 - Utils: INFO: Broadcast: wenrou: 服主在呀
+2018-05-05 17:59:11 - Utils: INFO: 噩梦时空 executed: /WHO.
+2018-05-05 17:59:13 - Utils: INFO: Broadcast: 噩梦时空: NO
+2018-05-05 17:59:27 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:00:01 - Utils: INFO: Broadcast: 具有神经病之力的冒险者: 有点卡
+2018-05-05 18:00:02 - Utils: INFO: 111 executed: /warp.
+2018-05-05 18:00:08 - Utils: INFO: 111 executed: /warp zy.
+2018-05-05 18:00:13 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 18:03:04 - Utils: INFO: Broadcast: 111: 这边的所有房子
+2018-05-05 18:03:10 - Utils: INFO: Broadcast: 111: 一会都要搬的
+2018-05-05 18:03:12 - Utils: INFO: Broadcast: 噩梦时空: .
+2018-05-05 18:03:19 - Utils: INFO: Broadcast: 噩梦时空: 搬到哪里。。
+2018-05-05 18:03:32 - Utils: INFO: Broadcast: 111: 主城右边的 森林可以
+2018-05-05 18:03:50 - Utils: INFO: Broadcast: 具有神经病之力的冒险者: 寒冰地不可以吗？
+2018-05-05 18:04:00 - Utils: INFO: Broadcast: 噩梦时空: 可以不搬吗。。
+2018-05-05 18:04:01 - Utils: INFO: Broadcast: 噩梦时空: :(
+2018-05-05 18:04:12 - Utils: INFO: Broadcast: 111: 没戏
+2018-05-05 18:04:20 - Utils: INFO: Broadcast: 111: 那边主城需要弄东西
+2018-05-05 18:04:28 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 18:04:37 - Utils: INFO: Broadcast: r: 我这里可以吗
+2018-05-05 18:04:53 - Utils: INFO: Broadcast: 111: 除了左边这片海
+2018-05-05 18:04:53 - Utils: INFO: 夜-胤笙 executed: /warp yh.
+2018-05-05 18:04:59 - Utils: INFO: Broadcast: 111: 你们随便
+2018-05-05 18:05:25 - Utils: INFO: 噩梦时空 executed: /WARP.
+2018-05-05 18:05:26 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:06:01 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 18:07:23 - Utils: INFO: Broadcast: 111: zui你最好现在就弄
+2018-05-05 18:07:23 - Utils: INFO: Broadcast: 噩梦时空: 这边还不行吗:(
+2018-05-05 18:07:38 - Utils: INFO: Broadcast: 111: 群主来了
+2018-05-05 18:07:40 - Utils: INFO: Broadcast: 噩梦时空: 在高呢
+2018-05-05 18:07:44 - Utils: INFO: 噩梦时空 executed: /WHO.
+2018-05-05 18:08:05 - Utils: INFO: Broadcast: 111: ？？
+2018-05-05 18:08:06 - Utils: INFO: Broadcast: 111: ？？？
+2018-05-05 18:08:08 - Utils: INFO: Broadcast: 111: 你干嘛？
+2018-05-05 18:08:13 - Utils: INFO: Broadcast: 111: 你就非要这边？》
+2018-05-05 18:08:14 - Utils: INFO: Broadcast: 噩梦时空: 建高啊
+2018-05-05 18:08:15 - Utils: INFO: Broadcast: wenrou: warp zh
+2018-05-05 18:08:17 - Utils: INFO: Broadcast: 噩梦时空: 喜欢
+2018-05-05 18:08:21 - Utils: INFO: wenrou executed: /warp zh.
+2018-05-05 18:08:27 - Utils: INFO: Broadcast: 噩梦时空: 算了
+2018-05-05 18:08:48 - Utils: INFO: 香蕉 executed: /warp dy.
+2018-05-05 18:09:31 - Utils: INFO: 香蕉 executed: /warp xx.
+2018-05-05 18:09:37 - Utils: INFO: 香蕉 executed: /warp zc.
+2018-05-05 18:09:43 - Utils: INFO: 香蕉 executed: /warp zh.
+2018-05-05 18:10:14 - Utils: INFO: 香蕉 executed: /warp z.
+2018-05-05 18:10:17 - Utils: INFO: 香蕉 executed: /warp.
+2018-05-05 18:10:30 - Utils: INFO: 香蕉 executed: /warp list.
+2018-05-05 18:10:43 - Utils: INFO: 香蕉 executed: /warp xd.
+2018-05-05 18:11:02 - Utils: INFO: Broadcast: 噩梦时空: 那个
+2018-05-05 18:11:05 - Utils: INFO: Broadcast: 111: ？
+2018-05-05 18:11:07 - Utils: INFO: Broadcast: 噩梦时空: 这边的演讲怎么办
+2018-05-05 18:11:10 - Utils: INFO: Broadcast: 噩梦时空: 岩浆
+2018-05-05 18:11:33 - Utils: INFO: Broadcast: 111: 过来
+2018-05-05 18:11:36 - Utils: INFO: Broadcast: 111: 这边堵上
+2018-05-05 18:11:39 - Utils: INFO: Broadcast: 111: 这边
+2018-05-05 18:11:44 - Utils: INFO: Broadcast: 噩梦时空: ？
+2018-05-05 18:11:44 - Utils: INFO: Broadcast: 111: 弄一层
+2018-05-05 18:11:51 - Utils: INFO: Broadcast: 111: 实心
+2018-05-05 18:11:53 - Utils: INFO: Broadcast: r: 给我一个
+2018-05-05 18:11:54 - Utils: INFO: Broadcast: 111: 木块
+2018-05-05 18:12:02 - Utils: INFO: Broadcast: 111: 你自己弄
+2018-05-05 18:12:03 - Utils: INFO: Broadcast: 具有神经病之力的冒险者 has left.
+2018-05-05 18:12:03 - TShock: INFO: 具有神经病之力的冒险者 disconnected.
+2018-05-05 18:12:04 - Utils: INFO: Broadcast: 111: 你圈地了
+2018-05-05 18:12:18 - Utils: INFO: Broadcast: 噩梦时空: 怎么实心。。
+2018-05-05 18:12:25 - Utils: INFO: Broadcast: 111: 我的天哪
+2018-05-05 18:12:31 - Utils: INFO: Broadcast: r: 10金币
+2018-05-05 18:12:36 - Utils: INFO: Broadcast: 噩梦时空: .
+2018-05-05 18:12:39 - Utils: INFO: Broadcast: r: 给我一个
+2018-05-05 18:12:59 - Utils: INFO: Broadcast: 夜-胤笙: 啥
+2018-05-05 18:13:02 - Utils: INFO: Broadcast: 111: 让它流到
+2018-05-05 18:13:03 - Utils: INFO: Broadcast: 噩梦时空: 我觉得可以先放着
+2018-05-05 18:13:05 - Utils: INFO: Broadcast: 111: 最左边
+2018-05-05 18:13:09 - Utils: INFO: Broadcast: 噩梦时空: 哦哦
+2018-05-05 18:13:11 - Utils: INFO: Broadcast: r: 雕像
+2018-05-05 18:13:26 - Utils: INFO: Broadcast: 夜-胤笙: 不
+2018-05-05 18:13:34 - Utils: INFO: Broadcast: 夜-胤笙: 我也缺
+2018-05-05 18:13:37 - Utils: INFO: Broadcast: r: 额
+2018-05-05 18:13:45 - Utils: INFO: 111 executed: /who.
+2018-05-05 18:14:02 - Utils: INFO: 噩梦时空 executed: /house.
+2018-05-05 18:14:05 - Utils: INFO: 噩梦时空 executed: /house help.
+2018-05-05 18:14:09 - Utils: INFO: 噩梦时空 executed: /house commands.
+2018-05-05 18:14:14 - Utils: INFO: 噩梦时空 executed: /house delete.
+2018-05-05 18:14:17 - Utils: INFO: Broadcast: r: 我用鲨和你换
+2018-05-05 18:14:24 - Utils: INFO: Broadcast: 夜-胤笙: 可以
+2018-05-05 18:14:33 - Utils: INFO: Broadcast: r: 鲨鱼雕像
+2018-05-05 18:15:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 4ms.
+2018-05-05 18:15:44 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 18:16:21 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:17:15 - GetDataHandlers: INFO: 具有神经病之力的冒险者 authenticated successfully as user 具有神经病之力的冒险者.
+2018-05-05 18:17:19 - TShock: INFO: 具有神经病之力的冒险者 (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 18:17:19 - Utils: INFO: Broadcast: 具有神经病之力的冒险者 has joined.
+2018-05-05 18:17:37 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:17:37 - TShock: INFO: 111 disconnected.
+2018-05-05 18:17:42 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 18:17:45 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 18:17:46 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 18:17:46 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 18:17:49 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 18:18:53 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:18:57 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 18:19:53 - Utils: INFO: Broadcast: 噩梦时空: 主城上的空岛可以吗
+2018-05-05 18:20:38 - Utils: INFO: Broadcast: 夜-胤笙: 走
+2018-05-05 18:21:39 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 18:21:39 - Utils: INFO: Broadcast: KOTORI: 卖点东西得点钱换火箭鞋去...
+2018-05-05 18:21:55 - Utils: INFO: r executed: /warp zh.
+2018-05-05 18:22:01 - Utils: INFO: Broadcast: 111: ???
+2018-05-05 18:22:08 - Utils: INFO: Broadcast: 噩梦时空: :D
+2018-05-05 18:23:01 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:23:06 - Utils: INFO: wenrou executed: /warp zh.
+2018-05-05 18:24:02 - Utils: INFO: Broadcast: r: a
+2018-05-05 18:24:08 - Utils: INFO: Broadcast: 具有神经病之力的冒险者: 6
+2018-05-05 18:24:48 - Utils: INFO: r executed: /warp dl.
+2018-05-05 18:25:11 - Utils: INFO: 噩梦时空 executed: /house define.
+2018-05-05 18:26:58 - Utils: INFO: Broadcast: 具有神经病之力的冒险者 has left.
+2018-05-05 18:26:58 - TShock: INFO: 具有神经病之力的冒险者 disconnected.
+2018-05-05 18:26:59 - Utils: INFO: Broadcast: 噩梦时空 has left.
+2018-05-05 18:26:59 - TShock: INFO: 噩梦时空 disconnected.
+2018-05-05 18:26:59 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:26:59 - TShock: INFO: 111 disconnected.
+2018-05-05 18:27:03 - Utils: INFO: Broadcast: KOTORI has left.
+2018-05-05 18:27:03 - TShock: INFO: KOTORI disconnected.
+2018-05-05 18:27:04 - Utils: INFO: Broadcast: wenrou has left.
+2018-05-05 18:27:04 - TShock: INFO: wenrou disconnected.
+2018-05-05 18:27:08 - Utils: INFO: Broadcast: r has left.
+2018-05-05 18:27:08 - TShock: INFO: r disconnected.
+2018-05-05 18:27:14 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-05 18:27:14 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-05 18:28:00 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-05 18:28:00 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 18:28:01 - Utils: INFO: Broadcast: World saved.
+2018-05-05 18:28:01 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-05 18:28:24 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-05 18:28:24 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 18:28:25 - Utils: INFO: Broadcast: World saved.
+2018-05-05 18:28:25 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-05 18:29:11 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-05 18:29:11 - TShock: INFO: 咕嘟 disconnected.
+2018-05-05 18:29:11 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 18:29:13 - Utils: INFO: Broadcast: World saved.
+2018-05-05 18:29:13 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-05 18:29:19 - TShock: INFO: 咕嘟 (192.168.0.100) from 'guest' group joined. (2/10)
+2018-05-05 18:29:19 - Utils: INFO: Broadcast: 咕嘟 has joined.
+2018-05-05 18:29:33 - GetDataHandlers: INFO: 噩梦时空 authenticated successfully as user 噩梦时空.
+2018-05-05 18:29:36 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-05 18:29:38 - TShock: INFO: 噩梦时空 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-05 18:29:38 - Utils: INFO: Broadcast: 噩梦时空 has joined.
+2018-05-05 18:29:41 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (4/10)
+2018-05-05 18:29:41 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-05 18:30:02 - GetDataHandlers: INFO: KOTORI authenticated successfully as user KOTORI.
+2018-05-05 18:30:06 - TShock: INFO: KOTORI (192.168.0.100) from 'default' group joined. (5/10)
+2018-05-05 18:30:06 - Utils: INFO: Broadcast: KOTORI has joined.
+2018-05-05 18:30:32 - GetDataHandlers: INFO: r authenticated successfully as user r.
+2018-05-05 18:30:37 - TShock: INFO: r (192.168.0.100) from 'default' group joined. (6/10)
+2018-05-05 18:30:37 - Utils: INFO: Broadcast: r has joined.
+2018-05-05 18:30:42 - Utils: INFO: Broadcast: 咕嘟 has left.
+2018-05-05 18:30:42 - TShock: INFO: 咕嘟 disconnected.
+2018-05-05 18:30:54 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 18:30:59 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (6/10)
+2018-05-05 18:30:59 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 18:31:35 - Utils: INFO: Broadcast: 噩梦时空: 怎么看自己圈地了吗。。
+2018-05-05 18:31:51 - Utils: INFO: Broadcast: 111: 不知
+2018-05-05 18:32:08 - Utils: INFO: Broadcast: 噩梦时空: 你砸一个方块看看
+2018-05-05 18:32:20 - TShock: INFO: 咕嘟 (192.168.0.100) from 'guest' group joined. (7/10)
+2018-05-05 18:32:20 - Utils: INFO: Broadcast: 咕嘟 has joined.
+2018-05-05 18:32:20 - Utils: INFO: Broadcast: 111: 不要圈太大就好了
+2018-05-05 18:32:23 - Utils: INFO: Broadcast: 111: 怕失效
+2018-05-05 18:33:14 - Utils: INFO: 111 executed: /spawn.
+2018-05-05 18:34:01 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:34:01 - TShock: INFO: 111 disconnected.
+2018-05-05 18:34:06 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 18:34:08 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-05 18:34:10 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:34:10 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 18:34:24 - Utils: INFO: 夜-胤笙 executed: /protect.
+2018-05-05 18:34:34 - Utils: INFO: Server executed: /who.
+2018-05-05 18:35:06 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-05 18:35:06 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 18:35:06 - Utils: INFO: Broadcast: David has joined.
+2018-05-05 18:35:16 - Utils: INFO: Broadcast: David: 我来啦！！~~~
+2018-05-05 18:35:20 - Utils: INFO: Broadcast: 咕嘟: /
+2018-05-05 18:35:21 - Utils: INFO: Broadcast: David: 自造洗好惹
+2018-05-05 18:35:21 - Utils: INFO: Broadcast: KOTORI: -- 
+2018-05-05 18:35:30 - Utils: INFO: Broadcast: David: 洗澡洗好惹
+2018-05-05 18:35:34 - Utils: INFO: Broadcast: David: 舒服
+2018-05-05 18:35:37 - Utils: INFO: KOTORI executed: /warp yh.
+2018-05-05 18:35:44 - Utils: INFO: Broadcast: 咕嘟: shu1
+2018-05-05 18:35:53 - Utils: INFO: Broadcast: 咕嘟: 输入什么
+2018-05-05 18:35:53 - Utils: INFO: Broadcast: David: 谁要交易雕像的
+2018-05-05 18:35:57 - Utils: INFO: Broadcast: 咕嘟: 我动不了
+2018-05-05 18:36:04 - Utils: INFO: Broadcast: David: - -
+2018-05-05 18:36:06 - Utils: INFO: Broadcast: David: 咕嘟
+2018-05-05 18:36:11 - Utils: INFO: Broadcast: KOTORI: 我想知道为啥我捡不起东西....
+2018-05-05 18:36:13 - Utils: INFO: Broadcast: David: 群公告里面有
+2018-05-05 18:36:19 - Utils: INFO: Broadcast: David: 指令
+2018-05-05 18:36:22 - Utils: INFO: Broadcast: David: 自己学啊
+2018-05-05 18:36:48 - Utils: INFO: Broadcast: 夜-胤笙: emmmmmmm
+2018-05-05 18:36:49 - Utils: INFO: Broadcast: KOTORI: hhhhh
+2018-05-05 18:36:54 - Utils: INFO: Broadcast: 咕嘟: 要输入扩考吗
+2018-05-05 18:36:54 - Utils: INFO: Broadcast: David: dd
+2018-05-05 18:36:56 - Utils: INFO: Broadcast: 111: 可怜的群主
+2018-05-05 18:36:57 - Utils: INFO: Broadcast: 咕嘟: 括号
+2018-05-05 18:37:01 - Utils: INFO: Broadcast: David: 不用的
+2018-05-05 18:37:14 - Utils: INFO: Broadcast: David: 不行的话加我好友帮你远程
+2018-05-05 18:37:17 - Utils: INFO: Broadcast: KOTORI: 我重进
+2018-05-05 18:37:18 - Utils: INFO: Broadcast: David: 111
+2018-05-05 18:37:20 - TextLog: INFO: 咕嘟 registered an account: "咕嘟".
+2018-05-05 18:37:24 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:37:24 - TShock: INFO: 111 disconnected.
+2018-05-05 18:37:26 - Utils: INFO: Broadcast: KOTORI has left.
+2018-05-05 18:37:26 - TShock: INFO: KOTORI disconnected.
+2018-05-05 18:37:28 - Utils: INFO: Broadcast: David: 。。。。
+2018-05-05 18:37:28 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 18:37:33 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:37:33 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 18:37:34 - GetDataHandlers: INFO: KOTORI authenticated successfully as user KOTORI.
+2018-05-05 18:37:34 - Commands: INFO: 咕嘟 authenticated successfully as user: 咕嘟.
+2018-05-05 18:37:35 - Utils: INFO: Broadcast: David has left.
+2018-05-05 18:37:35 - TShock: INFO: David disconnected.
+2018-05-05 18:37:37 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:37:37 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-05-05 18:37:38 - TShock: INFO: admin1 (192.168.0.100) from 'superadmin' group joined. (7/10)
+2018-05-05 18:37:38 - Utils: INFO: Broadcast: admin1 has joined.
+2018-05-05 18:37:39 - TShock: INFO: KOTORI (192.168.0.100) from 'default' group joined. (8/10)
+2018-05-05 18:37:39 - Utils: INFO: Broadcast: KOTORI has joined.
+2018-05-05 18:37:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:37:51 - Utils: INFO: admin1 executed: /warp yh.
+2018-05-05 18:37:53 - Utils: INFO: admin1 executed: /warp zh.
+2018-05-05 18:38:00 - Utils: INFO: admin1 executed: /house delete.
+2018-05-05 18:38:02 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 18:38:04 - Utils: INFO: Broadcast: admin1: 1111
+2018-05-05 18:38:12 - Utils: INFO: Broadcast: admin1: 领地弄好了
+2018-05-05 18:38:19 - Utils: INFO: Broadcast: admin1: 我帮你删掉了
+2018-05-05 18:38:21 - Utils: INFO: Broadcast: 111: 没有
+2018-05-05 18:38:22 - Utils: INFO: admin1 executed: /tphere 111.
+2018-05-05 18:38:23 - Utils: INFO: Broadcast: admin1: ??/
+2018-05-05 18:38:26 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:38:26 - TShock: INFO: 111 disconnected.
+2018-05-05 18:38:47 - Utils: INFO: Broadcast: 咕嘟 has left.
+2018-05-05 18:38:47 - TShock: INFO: 咕嘟 disconnected.
+2018-05-05 18:39:01 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 18:39:08 - PluginTrace: INFO: [Protector] Serializing the protection data took 2ms.
+2018-05-05 18:39:09 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:39:34 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-05-05 18:39:39 - TShock: INFO: 111 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:39:39 - Utils: INFO: Broadcast: 111 has joined.
+2018-05-05 18:39:49 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 18:39:58 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:39:59 - Utils: INFO: Broadcast: 香蕉: 0
+2018-05-05 18:40:02 - Utils: INFO: Broadcast: 香蕉: 0.0
+2018-05-05 18:40:03 - Utils: INFO: Broadcast: 111: 主机
+2018-05-05 18:40:05 - Utils: INFO: Broadcast: 111: 过来
+2018-05-05 18:40:12 - Utils: INFO: Broadcast: 111: 这里他们圈得地
+2018-05-05 18:40:14 - Utils: INFO: Broadcast: 111: 删掉
+2018-05-05 18:40:16 - Utils: INFO: Broadcast: 香蕉: a
+2018-05-05 18:40:30 - Utils: INFO: admin1 executed: /tp 111.
+2018-05-05 18:40:41 - Utils: INFO: Broadcast: admin1: ?
+2018-05-05 18:40:47 - Utils: INFO: Broadcast: 111: 这里
+2018-05-05 18:40:55 - Utils: INFO: Broadcast: admin1: 干啥嘞
+2018-05-05 18:40:55 - Utils: INFO: Broadcast: 香蕉 has left.
+2018-05-05 18:40:55 - TShock: INFO: 香蕉 disconnected.
+2018-05-05 18:40:59 - GetDataHandlers: INFO: 香蕉 authenticated successfully as user 香蕉.
+2018-05-05 18:41:01 - Utils: INFO: Broadcast: 111: 最左边
+2018-05-05 18:41:03 - Utils: INFO: Broadcast: 111: 圈地啊
+2018-05-05 18:41:03 - TShock: INFO: 香蕉 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:41:03 - Utils: INFO: Broadcast: 香蕉 has joined.
+2018-05-05 18:41:12 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:41:17 - Utils: INFO: Broadcast: admin1: ok
+2018-05-05 18:41:20 - Utils: INFO: Broadcast: admin1: 快点
+2018-05-05 18:41:20 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 18:41:22 - Utils: INFO: Broadcast: 香蕉: 0.0
+2018-05-05 18:41:25 - Utils: INFO: Broadcast: admin1: 圈地有时间限制
+2018-05-05 18:41:28 - Utils: INFO: Broadcast: 香蕉: 有
+2018-05-05 18:41:42 - Utils: INFO: Broadcast: 香蕉: 卖什么 矿么
+2018-05-05 18:41:47 - Utils: INFO: Broadcast: 111: 这里
+2018-05-05 18:41:53 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:41:58 - Utils: INFO: Broadcast: admin1: emmmmm
+2018-05-05 18:42:06 - Utils: INFO: Broadcast: admin1: 弄反了
+2018-05-05 18:42:10 - Utils: INFO: Broadcast: 111: 擦
+2018-05-05 18:42:12 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 18:42:12 - Utils: INFO: Broadcast: admin1: = =
+2018-05-05 18:42:16 - Utils: INFO: Broadcast: 111: 哇
+2018-05-05 18:42:17 - Utils: INFO: Broadcast: 香蕉 has left.
+2018-05-05 18:42:17 - TShock: INFO: 香蕉 disconnected.
+2018-05-05 18:42:19 - Utils: INFO: Broadcast: admin1: 左上然后右下
+2018-05-05 18:42:22 - GetDataHandlers: INFO: 香蕉 authenticated successfully as user 香蕉.
+2018-05-05 18:42:22 - Utils: INFO: Broadcast: 111: 我要锤死你
+2018-05-05 18:42:26 - TShock: INFO: 香蕉 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:42:26 - Utils: INFO: Broadcast: 香蕉 has joined.
+2018-05-05 18:42:39 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:42:42 - Utils: INFO: Broadcast: 111: 这里
+2018-05-05 18:42:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:42:48 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:42:51 - Utils: INFO: Broadcast: 111: 左上角
+2018-05-05 18:42:53 - Utils: INFO: Broadcast: admin1: ok
+2018-05-05 18:43:00 - Utils: INFO: admin1 executed: /tp  11.
+2018-05-05 18:43:02 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:43:04 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:43:27 - Utils: INFO: Broadcast: 111: 弄好了？
+2018-05-05 18:43:31 - Utils: INFO: Broadcast: 噩梦时空: 、spawn
+2018-05-05 18:43:32 - Utils: INFO: 噩梦时空 executed: /SPAWN .
+2018-05-05 18:43:41 - Utils: INFO: Broadcast: 111: 对啊
+2018-05-05 18:43:43 - Utils: INFO: Broadcast: 111: 这边
+2018-05-05 18:43:49 - Utils: INFO: admin1 executed: /godmode.
+2018-05-05 18:43:55 - Utils: INFO: Broadcast: admin1:  
+2018-05-05 18:43:58 - Utils: INFO: 111 executed: /warp zh.
+2018-05-05 18:44:01 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:44:04 - Utils: INFO: admin1 executed: /house delete.
+2018-05-05 18:44:11 - Utils: INFO: admin1 executed: /house delete.
+2018-05-05 18:44:23 - Utils: INFO: admin1 executed: /house deinfe.
+2018-05-05 18:44:27 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 18:44:30 - Utils: INFO: admin1 executed: /house define.
+2018-05-05 18:45:03 - Utils: INFO: Broadcast: 香蕉: 有生命水晶么
+2018-05-05 18:45:06 - Utils: INFO: admin1 executed: /house share 111.
+2018-05-05 18:45:13 - Utils: INFO: admin1 executed: /house share wenrou.
+2018-05-05 18:45:22 - Utils: INFO: admin1 executed: /spawn.
+2018-05-05 18:45:29 - Utils: INFO: Broadcast: admin1: r
+2018-05-05 18:45:31 - Utils: INFO: admin1 executed: /tp r.
+2018-05-05 18:45:37 - Utils: INFO: Broadcast: admin1: 雕像交易
+2018-05-05 18:45:40 - Utils: INFO: Broadcast: admin1: qwq
+2018-05-05 18:45:43 - Utils: INFO: Broadcast: admin1: 你出价
+2018-05-05 18:45:45 - Utils: INFO: Broadcast: 夜-胤笙: 我
+2018-05-05 18:45:49 - Utils: INFO: Broadcast: 香蕉 has left.
+2018-05-05 18:45:49 - TShock: INFO: 香蕉 disconnected.
+2018-05-05 18:45:58 - GetDataHandlers: INFO: 香蕉 authenticated successfully as user 香蕉.
+2018-05-05 18:46:02 - TShock: INFO: 香蕉 (192.168.0.100) from 'default' group joined. (7/10)
+2018-05-05 18:46:02 - Utils: INFO: Broadcast: 香蕉 has joined.
+2018-05-05 18:46:05 - Utils: INFO: Broadcast: 噩梦时空: 1水晶2金换不换:D
+2018-05-05 18:46:07 - Utils: INFO: Broadcast: 噩梦时空: 市场价
+2018-05-05 18:46:13 - Utils: INFO: Broadcast: admin1: emmmmm
+2018-05-05 18:46:18 - Utils: INFO: Broadcast: admin1: 好
+2018-05-05 18:46:19 - Utils: INFO: Broadcast: 香蕉: 生命水晶？
+2018-05-05 18:46:32 - Utils: INFO: Broadcast: 噩梦时空: 我要2个:D
+2018-05-05 18:46:33 - Utils: INFO: Broadcast: admin1: 还市场价
+2018-05-05 18:46:42 - Utils: INFO: Broadcast: admin1: 我又不是卖东西的老板
+2018-05-05 18:46:46 - Utils: INFO: Broadcast: 噩梦时空: 商人就是卖2金啊我记得:)
+2018-05-05 18:46:47 - Utils: INFO: Broadcast: admin1: 我是黑商
+2018-05-05 18:46:53 - Utils: INFO: Broadcast: 111: 额
+2018-05-05 18:46:54 - Utils: INFO: Broadcast: admin1: 我要10金
+2018-05-05 18:46:55 - Utils: INFO: Broadcast: 111: 主机来
+2018-05-05 18:46:55 - Utils: INFO: Broadcast: KOTORI: 我都还愁没钱买火箭鞋emmmm
+2018-05-05 18:47:01 - Utils: INFO: Broadcast: admin1: 我不是商人
+2018-05-05 18:47:03 - Utils: INFO: Broadcast: admin1: 哼
+2018-05-05 18:47:04 - Utils: INFO: Broadcast: 噩梦时空: 10金过了:(
+2018-05-05 18:47:08 - Utils: INFO: Broadcast: 香蕉: 我好想也只能买得起两个
+2018-05-05 18:47:12 - Utils: INFO: Broadcast: 夜-胤笙: 怎么物品
+2018-05-05 18:47:13 - Utils: INFO: Broadcast: 噩梦时空: 3金
+2018-05-05 18:47:17 - Utils: INFO: Broadcast: 111: 别屁外交易了
+2018-05-05 18:47:18 - Utils: INFO: Broadcast: admin1: 那10静我给你2个
+2018-05-05 18:47:19 - Utils: INFO: Broadcast: 111: 过来
+2018-05-05 18:47:20 - Utils: INFO: Broadcast: 夜-胤笙: 怎么发物品
+2018-05-05 18:47:22 - Utils: INFO: Broadcast: 香蕉: 。。。
+2018-05-05 18:47:23 - Utils: INFO: Broadcast: 111: 把这两个删了
+2018-05-05 18:47:32 - Utils: INFO: Broadcast: admin1: 算了
+2018-05-05 18:47:32 - Utils: INFO: Broadcast: 噩梦时空: 我得思虑一会
+2018-05-05 18:47:35 - Utils: INFO: Broadcast: admin1: 3金
+2018-05-05 18:47:37 - Utils: INFO: Broadcast: 噩梦时空: 10金:(
+2018-05-05 18:47:38 - Utils: INFO: Broadcast: admin1: 听你的
+2018-05-05 18:47:40 - Utils: INFO: Broadcast: 噩梦时空: 行
+2018-05-05 18:47:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:47:44 - Utils: INFO: Broadcast: 噩梦时空: 3金1个
+2018-05-05 18:47:50 - Utils: INFO: Broadcast: 香蕉: 好不容易攒的点钱
+2018-05-05 18:47:52 - Utils: INFO: Broadcast: 111: 啊啊啊啊啊啊啊啊啊啊
+2018-05-05 18:47:52 - Utils: INFO: Broadcast: admin1: 快点啊
+2018-05-05 18:47:54 - Utils: INFO: Broadcast: 噩梦时空: 、spawn
+2018-05-05 18:47:55 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:47:56 - Utils: INFO: Broadcast: 111: 过来啊
+2018-05-05 18:47:59 - Utils: INFO: Broadcast: admin1: 我还要到111那边
+2018-05-05 18:48:00 - Utils: INFO: Broadcast: 香蕉: 我也要两个。
+2018-05-05 18:48:01 - Utils: INFO: Broadcast: 111: 我要锤死你啊
+2018-05-05 18:48:21 - Utils: INFO: Broadcast: admin1: 快
+2018-05-05 18:48:23 - Utils: INFO: Broadcast: admin1: = =
+2018-05-05 18:48:27 - Utils: INFO: admin1 executed: /tp 111.
+2018-05-05 18:48:30 - Utils: INFO: Broadcast: 夜-胤笙: 我还有11个水晶
+2018-05-05 18:48:31 - Utils: INFO: Broadcast: 111: 这两个
+2018-05-05 18:48:33 - Utils: INFO: Broadcast: 111: 挖了
+2018-05-05 18:48:33 - Utils: INFO: Broadcast: 夜-胤笙: 。。。
+2018-05-05 18:48:40 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 18:48:44 - Utils: INFO: Broadcast: admin1: tm我都敲不了
+2018-05-05 18:48:50 - Utils: INFO: Broadcast: admin1: 我用指令。。。
+2018-05-05 18:48:54 - Utils: INFO: Broadcast: 111: 里面有东西
+2018-05-05 18:48:55 - Utils: INFO: admin1 executed: /deprotect.
+2018-05-05 18:49:01 - Utils: INFO: admin1 executed: /deprotect.
+2018-05-05 18:49:05 - Utils: INFO: Broadcast: admin1: ok
+2018-05-05 18:49:07 - Utils: INFO: admin1 executed: /tp rt.
+2018-05-05 18:49:09 - Utils: INFO: admin1 executed: /tp r.
+2018-05-05 18:49:09 - Utils: INFO: 夜-胤笙 executed: /warp zh.
+2018-05-05 18:49:10 - Utils: INFO: Broadcast: 111: 这里
+2018-05-05 18:49:10 - Utils: INFO: 香蕉 tried to execute /tp admin1.
+2018-05-05 18:49:12 - Utils: INFO: Broadcast: admin1: 交易
+2018-05-05 18:49:14 - Utils: INFO: Broadcast: admin1: r
+2018-05-05 18:49:16 - Utils: INFO: 噩梦时空 executed: /SPAWN.
+2018-05-05 18:49:17 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:49:20 - Utils: INFO: Broadcast: 111: 除了不能挖  放东西也是不可以的吧
+2018-05-05 18:49:20 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:49:22 - Utils: INFO: 噩梦时空 executed: /WARP ZH.
+2018-05-05 18:49:29 - Utils: INFO: Broadcast: 111: ？
+2018-05-05 18:49:34 - Utils: INFO: Broadcast: 111: 这里也不能放东西吧
+2018-05-05 18:49:37 - Utils: INFO: Broadcast: admin1: 管理倒是能放东西
+2018-05-05 18:49:38 - Utils: INFO: Broadcast: 香蕉: 我要买两个生命水晶0.0
+2018-05-05 18:49:45 - Utils: INFO: Broadcast: admin1: 挖掉的话
+2018-05-05 18:49:48 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-05 18:49:49 - Utils: INFO: Broadcast: admin1: 得输指令
+2018-05-05 18:49:53 - Utils: INFO: Broadcast: 111: 嗯
+2018-05-05 18:49:54 - Utils: INFO: Broadcast: admin1: emmmm
+2018-05-05 18:50:10 - Utils: INFO: Broadcast: 香蕉: 无良奸商
+2018-05-05 18:50:15 - Utils: INFO: Broadcast: admin1: 什么时间4金1个
+2018-05-05 18:50:15 - Utils: INFO: Broadcast: 香蕉: 我要买两个生命水晶
+2018-05-05 18:50:18 - Utils: INFO: Broadcast: admin1: 233
+2018-05-05 18:50:28 - Utils: INFO: Broadcast: 噩梦时空: 我们能PY了吗
+2018-05-05 18:50:28 - Utils: INFO: Broadcast: 香蕉: 0.0
+2018-05-05 18:50:30 - Utils: INFO: Broadcast: 噩梦时空: 哦不
+2018-05-05 18:50:31 - Utils: INFO: Broadcast: 噩梦时空: 交易
+2018-05-05 18:50:32 - Utils: INFO: Broadcast: 噩梦时空: 对不起
+2018-05-05 18:50:40 - Utils: INFO: Broadcast: 111: 这里
+2018-05-05 18:50:42 - Utils: INFO: Broadcast: 111: 还有一个
+2018-05-05 18:50:47 - Utils: INFO: admin1 executed: /tp 11.
+2018-05-05 18:50:47 - Utils: INFO: Broadcast: 111: 这帮人
+2018-05-05 18:50:48 - Utils: INFO: Broadcast: KOTORI: 还差2金火箭鞋
+2018-05-05 18:50:49 - Utils: INFO: Broadcast: 111: 这得够了
+2018-05-05 18:50:53 - Utils: INFO: 香蕉 executed: /warp zh.
+2018-05-05 18:51:13 - Utils: INFO: Broadcast: admin1: = =
+2018-05-05 18:51:21 - Utils: INFO: Broadcast: KOTORI: 右海激情去了。。。
+2018-05-05 18:51:22 - Utils: INFO: r executed: /warp zh.
+2018-05-05 18:51:24 - Utils: INFO: admin1 executed: /deprotect.
+2018-05-05 18:51:27 - Utils: INFO: KOTORI executed: /warp yh.
+2018-05-05 18:51:28 - Utils: INFO: Broadcast: admin1: ok
+2018-05-05 18:51:34 - Utils: INFO: Broadcast: 香蕉: 无良奸商
+2018-05-05 18:51:35 - Utils: INFO: Broadcast: 噩梦时空: A
+2018-05-05 18:51:41 - Utils: INFO: Broadcast: 香蕉: 。
+2018-05-05 18:51:42 - Utils: INFO: Broadcast: KOTORI has left.
+2018-05-05 18:51:42 - TShock: INFO: KOTORI disconnected.
+2018-05-05 18:52:03 - Utils: INFO: Broadcast: 噩梦时空: NO
+2018-05-05 18:52:09 - Utils: INFO: Broadcast: 香蕉 has left.
+2018-05-05 18:52:09 - TShock: INFO: 香蕉 disconnected.
+2018-05-05 18:52:10 - Utils: INFO: Broadcast: r has left.
+2018-05-05 18:52:10 - TShock: INFO: r disconnected.
+2018-05-05 18:52:10 - Utils: INFO: Broadcast: 111 has left.
+2018-05-05 18:52:10 - TShock: INFO: 111 disconnected.
+2018-05-05 18:52:14 - Utils: INFO: Broadcast: admin1: ??
+2018-05-05 18:52:17 - Utils: INFO: Broadcast: admin1: 算了
+2018-05-05 18:52:20 - Utils: INFO: Broadcast: 噩梦时空 has left.
+2018-05-05 18:52:20 - TShock: INFO: 噩梦时空 disconnected.
+2018-05-05 18:52:21 - Utils: INFO: Broadcast: admin1: 我换个端口
+2018-05-05 18:52:23 - Utils: INFO: Server executed: /off.
+2018-05-05 18:52:23 - TSPlayer: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:52:23 - Utils: INFO: Kicked 夜-胤笙 for : 'Server shutting down!'
+2018-05-05 18:52:23 - Utils: INFO: Broadcast: 夜-胤笙 was force kicked for 'server shutting down!'
+2018-05-05 18:52:23 - TSPlayer: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:52:23 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-05 18:52:23 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-05 18:52:23 - Utils: INFO: Kicked admin1 for : 'Server shutting down!'
+2018-05-05 18:52:23 - Utils: INFO: Broadcast: admin1 was force kicked for 'server shutting down!'
+2018-05-05 18:52:23 - PluginTrace: INFO: [Protector] Serializing the protection data took 4ms.
+2018-05-05 18:52:23 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-05 18:52:23 - Utils: INFO: Broadcast: admin1 has left.
+2018-05-05 18:52:23 - TShock: INFO: admin1 disconnected.
+2018-05-05 18:52:23 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-05-05 18:52:25 - Utils: INFO: Broadcast: World saved.
+2018-05-05 18:52:25 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-05 18:52:25 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-05 18:52:26 - Utils: INFO: Broadcast: World saved.
+2018-05-05 18:52:26 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-05 18:52:26 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,513 @@
+2018-04-21 15:35:06 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-21 15:35:06 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-21 15:35:06 - TShock: INFO: AutoSave Enabled
+2018-04-21 15:35:06 - TShock: INFO: Backups Disabled
+2018-04-21 15:35:06 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-21 15:36:57 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 15:37:01 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-21 15:37:01 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 15:49:32 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 15:49:36 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:49:36 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 15:49:48 - Utils: INFO: Broadcast: 111: 欧呦、
+2018-04-21 15:49:51 - Utils: INFO: Broadcast: 111: 还有人进来啊
+2018-04-21 15:52:57 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 15:52:57 - TShock: INFO: beiyi disconnected.
+2018-04-21 15:53:06 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 15:53:11 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:53:11 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 15:55:26 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 15:55:26 - TShock: INFO: beiyi disconnected.
+2018-04-21 16:35:01 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-21 16:46:21 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 16:54:33 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-21 16:59:33 - Utils: INFO: 111 executed: /warp lamu.
+2018-04-21 16:59:37 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:04:31 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 17:04:35 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 17:04:35 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 17:07:28 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:11:18 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 17:11:23 - Utils: INFO: Broadcast: 111: 你是那个
+2018-04-21 17:11:24 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 17:12:25 - Utils: INFO: Broadcast: 111: 500血
+2018-04-21 17:12:30 - Utils: INFO: Broadcast: 111: 你假的吧
+2018-04-21 17:14:06 - Utils: INFO: Broadcast: 111: beiyi  你是不是当当啊
+2018-04-21 17:16:55 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:16:56 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 17:16:56 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-21 17:16:56 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 17:17:02 - Utils: INFO: admin1 executed: /tp bei.
+2018-04-21 17:17:13 - Utils: INFO: Broadcast: 111: 他是谁啊
+2018-04-21 17:17:23 - Utils: INFO: Broadcast: admin1: 。。。。
+2018-04-21 17:17:27 - Utils: INFO: Broadcast: admin1: beiyi
+2018-04-21 17:17:34 - Utils: INFO: Broadcast: admin1: 你哪里来的500血
+2018-04-21 17:17:58 - Utils: INFO: admin1 executed: /kick bei.
+2018-04-21 17:17:58 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 17:17:58 - Utils: INFO: Broadcast: admin1 kicked beiyi for 'misbehaviour.'
+2018-04-21 17:17:58 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 17:17:58 - TShock: INFO: beiyi disconnected.
+2018-04-21 17:18:07 - Utils: INFO: Broadcast: 111: ？？
+2018-04-21 17:18:15 - Utils: INFO: Broadcast: 111: 一问就跑
+2018-04-21 17:18:25 - Utils: INFO: Broadcast: 111: 刚才就有人问他了
+2018-04-21 17:18:28 - Utils: INFO: Broadcast: 111: 瞬间就跑
+2018-04-21 17:18:30 - Utils: INFO: Broadcast: admin1: 我T掉了
+2018-04-21 17:18:34 - Utils: INFO: Broadcast: 111: ok
+2018-04-21 17:18:39 - Utils: INFO: Broadcast: 111: 这样才对吗
+2018-04-21 17:18:41 - Utils: INFO: Broadcast: 111: 哦对了
+2018-04-21 17:18:45 - Utils: INFO: Broadcast: 111: 商量一下
+2018-04-21 17:18:46 - Utils: INFO: Broadcast: admin1: ？
+2018-04-21 17:18:55 - Utils: INFO: Broadcast: 111: 把NPC的挪用权限给我
+2018-04-21 17:19:03 - Utils: INFO: Broadcast: 111: 一会我用医生打猪砂
+2018-04-21 17:19:20 - Utils: INFO: Broadcast: admin1: emmmm
+2018-04-21 17:19:25 - Utils: INFO: Broadcast: 111: 这个不算违规把
+2018-04-21 17:19:31 - Utils: INFO: Broadcast: admin1: 不是
+2018-04-21 17:19:35 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 17:19:48 - Utils: INFO: Broadcast: admin1: 这个权限我也不知道怎么弄
+2018-04-21 17:19:53 - Utils: INFO: Broadcast: 111: 我擦
+2018-04-21 17:19:55 - Utils: INFO: Broadcast: 111: 那你别走
+2018-04-21 17:20:01 - Utils: INFO: Broadcast: 111: 我去那边造房子
+2018-04-21 17:20:03 - Utils: INFO: Broadcast: 111: 然后
+2018-04-21 17:20:06 - Utils: INFO: Broadcast: 111: 你点过去
+2018-04-21 17:20:06 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:20:08 - Utils: INFO: Broadcast: 111: 这样可以把
+2018-04-21 17:20:20 - Utils: INFO: Broadcast: admin1: 哦
+2018-04-21 17:20:22 - Utils: INFO: Broadcast: admin1: 那好
+2018-04-21 17:20:29 - Utils: INFO: admin1 executed: /warp right-sea.
+2018-04-21 17:20:32 - Utils: INFO: admin1 executed: /tphere 11.
+2018-04-21 17:20:40 - Utils: INFO: Broadcast: 111: 我在做东西啊
+2018-04-21 17:20:44 - Utils: INFO: Broadcast: admin1: = =
+2018-04-21 17:20:46 - Utils: INFO: Broadcast: admin1: 最好块钱
+2018-04-21 17:20:51 - Utils: INFO: Broadcast: admin1: 最好快点
+2018-04-21 17:20:56 - Utils: INFO: Broadcast: admin1: 我还要搞基
+2018-04-21 17:21:02 - Utils: INFO: Broadcast: 111: 咦
+2018-04-21 17:21:07 - Utils: INFO: Broadcast: 111: 玩那个游戏上瘾了是吧
+2018-04-21 17:21:10 - Utils: INFO: Broadcast: admin1: 。
+2018-04-21 17:21:12 - Utils: INFO: Broadcast: admin1: 没有啊
+2018-04-21 17:21:31 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 17:21:35 - Utils: INFO: 111 executed: /warp haibian.
+2018-04-21 17:21:36 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:21:36 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 17:21:39 - Utils: INFO: Broadcast: 111: 拉我过去
+2018-04-21 17:21:42 - Utils: INFO: Broadcast: 111: 哇
+2018-04-21 17:21:43 - Utils: INFO: admin1 executed: /tphere 11.
+2018-04-21 17:21:44 - Utils: INFO: Broadcast: 111: 又进来了
+2018-04-21 17:21:48 - Utils: INFO: Broadcast: admin1: beiyi
+2018-04-21 17:22:04 - Utils: INFO: Broadcast: admin1: 说清楚500血哪里来的
+2018-04-21 17:22:15 - Utils: INFO: Broadcast: 111: 拉我
+2018-04-21 17:22:20 - Utils: INFO: admin1 executed: /tphere 11.
+2018-04-21 17:22:28 - Utils: INFO: Broadcast: admin1: 输入/right sea
+2018-04-21 17:22:30 - Utils: INFO: admin1 executed: /kick bei.
+2018-04-21 17:22:30 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 17:22:30 - Utils: INFO: Broadcast: admin1 kicked beiyi for 'misbehaviour.'
+2018-04-21 17:22:30 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 17:22:30 - TShock: INFO: beiyi disconnected.
+2018-04-21 17:23:48 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-21 17:23:55 - Utils: INFO: 111 executed: /warp sae.
+2018-04-21 17:24:03 - Utils: INFO: 111 executed: /warp wea.
+2018-04-21 17:24:19 - Utils: INFO: Broadcast: admin1: 是/warp right-sea
+2018-04-21 17:24:19 - Utils: INFO: Broadcast: 111: 不对啊
+2018-04-21 17:24:31 - Utils: INFO: 111 executed: /warp right-sea.
+2018-04-21 17:24:40 - Utils: INFO: admin1 executed: /tp 1.
+2018-04-21 17:24:54 - Utils: INFO: Broadcast: 111: 我靠
+2018-04-21 17:24:59 - Utils: INFO: Broadcast: 111: beijingqia 
+2018-04-21 17:25:04 - Utils: INFO: Broadcast: admin1: ?
+2018-04-21 17:25:06 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:25:15 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 17:25:19 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:25:19 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 17:25:23 - Utils: INFO: admin1 executed: /kick bei.
+2018-04-21 17:25:23 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 17:25:23 - Utils: INFO: Broadcast: admin1 kicked beiyi for 'misbehaviour.'
+2018-04-21 17:25:23 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 17:25:23 - TShock: INFO: beiyi disconnected.
+2018-04-21 17:25:32 - Utils: INFO: 111 executed: /warp right-sea.
+2018-04-21 17:26:00 - Utils: INFO: Broadcast: 111: 试一下
+2018-04-21 17:26:09 - Utils: INFO: Broadcast: 111: 弄过来吧
+2018-04-21 17:26:13 - Utils: INFO: Broadcast: admin1: ?
+2018-04-21 17:26:16 - Utils: INFO: Broadcast: admin1: 什么意思
+2018-04-21 17:26:18 - Utils: INFO: Broadcast: 111: 医生
+2018-04-21 17:26:23 - Utils: INFO: Broadcast: 111: 让她住过来
+2018-04-21 17:26:28 - Utils: INFO: Broadcast: admin1: ok
+2018-04-21 17:26:31 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-21 17:26:34 - Utils: INFO: Broadcast: 111: 我去弄松露虫了
+2018-04-21 17:26:44 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:26:54 - Utils: INFO: admin1 summoned the Duke Fishron!
+2018-04-21 17:27:10 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 17:27:14 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:27:14 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 17:27:26 - Utils: INFO: admin1 executed: /kick bei.
+2018-04-21 17:27:26 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 17:27:26 - Utils: INFO: Broadcast: admin1 kicked beiyi for 'misbehaviour.'
+2018-04-21 17:27:26 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 17:27:26 - TShock: INFO: beiyi disconnected.
+2018-04-21 17:27:46 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-21 17:27:47 - GetDataHandlers: INFO: S速度S authenticated successfully as user S速度S.
+2018-04-21 17:27:51 - TShock: INFO: S速度S (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:27:51 - Utils: INFO: Broadcast: S速度S has joined.
+2018-04-21 17:28:10 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 17:28:10 - TShock: INFO: admin1 disconnected.
+2018-04-21 17:28:10 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:28:12 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 17:28:14 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:28:14 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 17:28:17 - Utils: INFO: Broadcast: 111: 。。
+2018-04-21 17:28:21 - Utils: INFO: Broadcast: 111: 平台
+2018-04-21 17:28:23 - Utils: INFO: Broadcast: 111: 还没弄呢
+2018-04-21 17:28:28 - Utils: INFO: David executed: /warp right-sea.
+2018-04-21 17:28:39 - Utils: INFO: Broadcast: David: 好吧
+2018-04-21 17:28:43 - Utils: INFO: Broadcast: 111: 弄一下平台
+2018-04-21 17:28:46 - Utils: INFO: Broadcast: 111: 海上弄
+2018-04-21 17:28:50 - Utils: INFO: Broadcast: 111: 你有吗》？
+2018-04-21 17:28:53 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 17:28:58 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 17:28:58 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 17:29:00 - Utils: INFO: Broadcast: 111: 法师厉害的时候是打完猪砂
+2018-04-21 17:29:10 - Utils: INFO: Broadcast: 111: 哦对了
+2018-04-21 17:29:13 - Utils: INFO: Broadcast: 111: 给你一个东西
+2018-04-21 17:29:22 - Utils: INFO: Broadcast: David: ！
+2018-04-21 17:29:23 - Utils: INFO: Broadcast: 111: 我刷了
+2018-04-21 17:29:24 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-21 17:29:24 - Utils: INFO: Broadcast: 111: 6个
+2018-04-21 17:29:39 - Utils: INFO: Broadcast: 111: 帮我打猪砂
+2018-04-21 17:29:44 - Utils: INFO: Broadcast: 111: 过了以后
+2018-04-21 17:29:45 - Utils: INFO: Broadcast: David: 恶魔
+2018-04-21 17:29:46 - Utils: INFO: Broadcast: 111: 我无敌
+2018-04-21 17:29:49 - Utils: INFO: Broadcast: David: 嗯
+2018-04-21 17:30:06 - Utils: INFO: Broadcast: King~: 瑟瑟发抖
+2018-04-21 17:30:22 - Utils: INFO: Broadcast: King~:  我下午去打个比赛回来就这样了吗....
+2018-04-21 17:30:24 - Utils: INFO: Broadcast: David: 传送指令记得是/warp right-sea
+2018-04-21 17:30:27 - Utils: INFO: Broadcast: David has left.
+2018-04-21 17:30:27 - TShock: INFO: David disconnected.
+2018-04-21 17:30:29 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:30:29 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 17:30:30 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-21 17:30:30 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 17:30:34 - Utils: INFO: Broadcast: admin1: 啥比赛
+2018-04-21 17:30:39 - Utils: INFO: Broadcast: King~: 篮球比赛
+2018-04-21 17:30:58 - TextLog: INFO: Player S速度S has been disabled for NPC damage exceeded 2000..
+2018-04-21 17:31:12 - Utils: INFO: Broadcast: 111: 来打
+2018-04-21 17:31:15 - TextLog: INFO: Player S速度S has been disabled for NPC damage exceeded 2000..
+2018-04-21 17:31:24 - Utils: INFO: Broadcast: S速度S has left.
+2018-04-21 17:31:24 - TShock: INFO: S速度S disconnected.
+2018-04-21 17:31:34 - Utils: INFO: Broadcast: 111: ad
+2018-04-21 17:31:36 - Utils: INFO: Broadcast: 111: 快来
+2018-04-21 17:31:48 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 17:31:52 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 17:31:52 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 17:31:59 - Utils: INFO: Broadcast: 111: 又进来了
+2018-04-21 17:32:04 - Utils: INFO: Broadcast: 111: 好烦呀这个人
+2018-04-21 17:32:32 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:32:38 - Utils: INFO: admin1 executed: /kick bei.
+2018-04-21 17:32:38 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 17:32:38 - Utils: INFO: Broadcast: admin1 kicked beiyi for 'misbehaviour.'
+2018-04-21 17:32:38 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 17:32:38 - TShock: INFO: beiyi disconnected.
+2018-04-21 17:32:54 - Utils: INFO: admin1 executed: /who.
+2018-04-21 17:33:00 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 17:33:00 - TShock: INFO: admin1 disconnected.
+2018-04-21 17:33:00 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:33:04 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 17:33:05 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:33:05 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 17:33:09 - Utils: INFO: Broadcast: David has left.
+2018-04-21 17:33:09 - TShock: INFO: David disconnected.
+2018-04-21 17:33:11 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:33:11 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 17:33:12 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-21 17:33:12 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 17:33:17 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-21 17:33:17 - Utils: INFO: Broadcast: 111: K
+2018-04-21 17:33:19 - Utils: INFO: Broadcast: 111: 上来吧
+2018-04-21 17:33:22 - Utils: INFO: Broadcast: 111: 我帮你刷完了
+2018-04-21 17:33:26 - Utils: INFO: admin1 executed: /warp right-sea.
+2018-04-21 17:33:34 - Utils: INFO: Broadcast: 111: 、
+2018-04-21 17:33:56 - Utils: INFO: admin1 executed: /warp.
+2018-04-21 17:34:04 - Utils: INFO: admin1 executed: /warp del.
+2018-04-21 17:34:05 - Utils: INFO: Broadcast: King~: 你这个是什么意思
+2018-04-21 17:34:12 - Utils: INFO: admin1 executed: /warp list.
+2018-04-21 17:34:21 - Utils: INFO: Broadcast: 111: 给你的
+2018-04-21 17:34:22 - Utils: INFO: admin1 executed: /warp del right-sea.
+2018-04-21 17:34:32 - Utils: INFO: admin1 executed: /warp add yh.
+2018-04-21 17:34:37 - Utils: INFO: Broadcast: admin1: 我换指令了
+2018-04-21 17:34:40 - Utils: INFO: Broadcast: admin1: 输入/warp yh
+2018-04-21 17:34:44 - Utils: INFO: Broadcast: 111: 嗯嗯
+2018-04-21 17:34:47 - Utils: INFO: Broadcast: 111: 打把
+2018-04-21 17:34:51 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 17:34:51 - TShock: INFO: admin1 disconnected.
+2018-04-21 17:34:51 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:34:52 - Utils: INFO: Broadcast: 111: 别让医生死了
+2018-04-21 17:34:53 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 17:34:54 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:34:54 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 17:34:55 - Utils: INFO: Broadcast: 111: 。。
+2018-04-21 17:34:58 - Utils: INFO: Broadcast: 111: 你不召唤吗
+2018-04-21 17:35:03 - Utils: INFO: Broadcast: King~: 你们打朱砂？
+2018-04-21 17:35:06 - Utils: INFO: Broadcast: David: 你有召唤物~
+2018-04-21 17:35:07 - Utils: INFO: Broadcast: David: ？
+2018-04-21 17:35:21 - Utils: INFO: Broadcast: 111: 我还没抓呢
+2018-04-21 17:35:27 - Utils: INFO: Broadcast: 111: 我以为你直接召唤呢
+2018-04-21 17:35:30 - Utils: INFO: Broadcast: David: 那去抓啊= =
+2018-04-21 17:35:36 - Utils: INFO: Broadcast: David: 我不会便宜你们的= =
+2018-04-21 17:35:37 - Utils: INFO: Broadcast: 111: 一脸懵逼 二两蒙蔽
+2018-04-21 17:35:56 - Utils: INFO: Broadcast: 111: 走吧
+2018-04-21 17:35:58 - Utils: INFO: Broadcast: 111: 一起抓吧
+2018-04-21 17:36:22 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-21 17:36:26 - Utils: INFO: Broadcast: 111: 我回城回不去了
+2018-04-21 17:36:33 - Utils: INFO: Broadcast: King~: 你们打到哪里了
+2018-04-21 17:36:39 - Utils: INFO: Broadcast: 111: 没动
+2018-04-21 17:36:39 - Utils: INFO: Broadcast: David: 肉后
+2018-04-21 17:36:42 - Utils: INFO: Broadcast: David has left.
+2018-04-21 17:36:42 - TShock: INFO: David disconnected.
+2018-04-21 17:36:45 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:36:45 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 17:36:46 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-21 17:36:46 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 17:36:49 - Utils: INFO: Broadcast: 111: 我在做装备而已
+2018-04-21 17:36:55 - Utils: INFO: Broadcast: 111: 我擦
+2018-04-21 17:36:57 - Utils: INFO: Broadcast: 111: 回不去了啊
+2018-04-21 17:37:01 - Utils: INFO: admin1 executed: /warp add jd.
+2018-04-21 17:37:06 - Utils: INFO: Broadcast: 111: 放我走
+2018-04-21 17:37:12 - Utils: INFO: Broadcast: admin1: 输入/warp spawn
+2018-04-21 17:37:16 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 17:37:16 - TShock: INFO: admin1 disconnected.
+2018-04-21 17:37:16 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 17:37:18 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 17:37:19 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:37:19 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 17:37:25 - Utils: INFO: 111 executed: /warp spawn.
+2018-04-21 17:37:34 - Utils: INFO: David executed: /warp jd.
+2018-04-21 17:41:50 - Utils: INFO: Broadcast: David: 艹！
+2018-04-21 17:42:01 - Utils: INFO: Broadcast: David: 艹tm美社莎
+2018-04-21 17:42:06 - Utils: INFO: Broadcast: David: 我艹死他
+2018-04-21 17:42:11 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-21 17:42:25 - Utils: INFO: Broadcast: King~: 有啥装备不
+2018-04-21 17:42:27 - Utils: INFO: David executed: /warp conlin.
+2018-04-21 17:43:01 - Utils: INFO: Broadcast: 111: 没有
+2018-04-21 17:43:06 - Utils: INFO: Broadcast: David: 没有
+2018-04-21 17:43:08 - Utils: INFO: Broadcast: 111: 主机过来
+2018-04-21 17:43:16 - Utils: INFO: Broadcast: 111: 给你一个你近战的
+2018-04-21 17:43:28 - Utils: INFO: Broadcast: David: 谢谢！
+2018-04-21 17:44:00 - Utils: INFO: David executed: /warp conlin.
+2018-04-21 17:44:24 - Utils: INFO: David executed: /warp conlin.
+2018-04-21 17:44:51 - Utils: INFO: Broadcast: King~: 小白龙在哪里打的
+2018-04-21 17:45:02 - Utils: INFO: Broadcast: David: 天空
+2018-04-21 17:45:03 - Utils: INFO: Broadcast: 111: 空岛
+2018-04-21 17:45:08 - Utils: INFO: Broadcast: 111: 你过来
+2018-04-21 17:45:22 - Utils: INFO: David executed: /warp conlin.
+2018-04-21 17:45:33 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:45:59 - Utils: INFO: 111 executed: /warp spawn.
+2018-04-21 17:46:06 - Utils: INFO: Broadcast: 111: 主机
+2018-04-21 17:46:09 - Utils: INFO: Broadcast: 111: 你改一下指令吧
+2018-04-21 17:46:16 - Utils: INFO: Broadcast: 111: 回家直接改成
+2018-04-21 17:46:18 - Utils: INFO: Broadcast: King~: 哈哈哈哈哈哈或
+2018-04-21 17:46:29 - Utils: INFO: Broadcast: 111: 输入/warp hg
+2018-04-21 17:46:31 - Utils: INFO: Broadcast: 111: 可以不
+2018-04-21 17:46:50 - Utils: INFO: Broadcast: David: 等会
+2018-04-21 17:47:03 - Utils: INFO: Broadcast: David: 艹
+2018-04-21 17:47:08 - Utils: INFO: David executed: /warp .
+2018-04-21 17:47:13 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 17:47:13 - TShock: INFO: 111 disconnected.
+2018-04-21 17:47:13 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 17:47:17 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 17:47:17 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 17:48:00 - Utils: INFO: Broadcast: King~: 什么翅膀号
+2018-04-21 17:48:12 - Utils: INFO: Broadcast: 111: 现在有翅膀就是好
+2018-04-21 17:48:17 - Utils: INFO: Broadcast: David: 日曜
+2018-04-21 17:48:44 - Utils: INFO: Broadcast: 111: 抓松露虫啊
+2018-04-21 17:49:01 - Utils: INFO: Broadcast: David: 谁有环境改造枪
+2018-04-21 17:49:11 - Utils: INFO: Broadcast: 111: 打完新三王就有了
+2018-04-21 17:50:52 - Utils: INFO: Broadcast: 111: 哎
+2018-04-21 17:51:03 - Utils: INFO: Broadcast: 111: 松露虫出来
+2018-04-21 17:52:46 - Utils: INFO: Server executed: /godmode Dav.
+2018-04-21 17:54:28 - Utils: INFO: Broadcast: 111: 主机
+2018-04-21 17:54:29 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-21 17:54:33 - Utils: INFO: Broadcast: 111: 便宜一只虫子把
+2018-04-21 17:54:36 - Utils: INFO: Broadcast: David: gun
+2018-04-21 17:54:51 - Utils: INFO: Broadcast: 111: 这年头虫子都好难了
+2018-04-21 17:56:34 - Utils: INFO: 111 executed: /warp hg.
+2018-04-21 17:57:39 - Utils: INFO: Broadcast: 111: 回家的指令是多少？
+2018-04-21 17:57:44 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:57:55 - Utils: INFO: Broadcast: David: =/warp spawn
+2018-04-21 17:58:16 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 17:58:50 - Utils: INFO: Broadcast: 111: K
+2018-04-21 17:58:53 - Utils: INFO: Broadcast: 111: 干啥呢
+2018-04-21 17:58:59 - Utils: INFO: Broadcast: 111: 去找虫子
+2018-04-21 17:59:01 - Utils: INFO: Broadcast: 111: 快去啊
+2018-04-21 17:59:11 - Utils: INFO: Broadcast: King~: 朱砂现在不能打吧
+2018-04-21 17:59:12 - Utils: INFO: Broadcast: David: 哦
+2018-04-21 17:59:18 - Utils: INFO: Broadcast: 111: 能
+2018-04-21 18:02:49 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-21 18:02:54 - Utils: INFO: Broadcast: 111: 加了
+2018-04-21 18:04:12 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 18:04:16 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 18:04:16 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 18:04:21 - Utils: INFO: Broadcast: 111: 哇
+2018-04-21 18:04:24 - Utils: INFO: Broadcast: 111: 人才来了
+2018-04-21 18:04:27 - Utils: INFO: Server executed: /kick bei.
+2018-04-21 18:04:27 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 18:04:27 - Utils: INFO: Broadcast: Server force kicked beiyi for 'misbehaviour.'
+2018-04-21 18:04:27 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 18:04:27 - TShock: INFO: beiyi disconnected.
+2018-04-21 18:04:50 - Utils: INFO: Server executed: /godmode Da.
+2018-04-21 18:05:20 - GetDataHandlers: INFO: S速度S authenticated successfully as user S速度S.
+2018-04-21 18:05:24 - TShock: INFO: S速度S (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 18:05:24 - Utils: INFO: Broadcast: S速度S has joined.
+2018-04-21 18:05:41 - Utils: INFO: Broadcast: 111: 干啥嗯
+2018-04-21 18:08:30 - Utils: INFO: Broadcast: David: 吃饭
+2018-04-21 18:08:38 - Utils: INFO: Broadcast: 111: 你去吃你的
+2018-04-21 18:09:02 - TextLog: INFO: Player S速度S has been disabled for NPC damage exceeded 2000..
+2018-04-21 18:09:06 - Utils: INFO: Broadcast: S速度S has left.
+2018-04-21 18:09:06 - TShock: INFO: S速度S disconnected.
+2018-04-21 18:15:51 - Utils: INFO: Broadcast: King~: 什么东西啊
+2018-04-21 18:22:24 - Utils: INFO: Broadcast: 111: 打新三王不？
+2018-04-21 18:22:38 - Utils: INFO: Broadcast: King~: 是玉之魂是哪个boss掉的
+2018-04-21 18:22:52 - Utils: INFO: Broadcast: 111: 双子眼
+2018-04-21 18:23:57 - Utils: INFO: Broadcast: 111: 腐肉有吗？
+2018-04-21 18:38:01 - Utils: INFO: Broadcast: 111: 我吃个饭
+2018-04-21 18:38:16 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 18:42:43 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 18:42:52 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 18:42:52 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 18:43:03 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 18:43:03 - TShock: INFO: King~ disconnected.
+2018-04-21 18:43:56 - TextLog: INFO: Player beiyi has been disabled for NPC damage exceeded 2000..
+2018-04-21 18:45:54 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 18:45:54 - TShock: INFO: beiyi disconnected.
+2018-04-21 18:46:42 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 18:46:46 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 18:46:46 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 18:51:44 - Utils: INFO: Server executed: /kick bei.
+2018-04-21 18:51:44 - Utils: INFO: Kicked beiyi for : 'Misbehaviour.'
+2018-04-21 18:51:44 - Utils: INFO: Broadcast: Server force kicked beiyi for 'misbehaviour.'
+2018-04-21 18:51:44 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 18:51:44 - TShock: INFO: beiyi disconnected.
+2018-04-21 18:51:46 - Utils: INFO: Broadcast: David: aaaaaaaaaaaaaaaaaa
+2018-04-21 18:51:54 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 18:51:58 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 18:51:58 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 18:54:01 - Utils: INFO: David executed: /warp list.
+2018-04-21 18:54:08 - Utils: INFO: David executed: /warp laimu.
+2018-04-21 18:55:20 - Utils: INFO: Broadcast: David has left.
+2018-04-21 18:55:20 - TShock: INFO: David disconnected.
+2018-04-21 18:56:17 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 18:56:21 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 18:56:21 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 19:00:55 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 19:00:55 - TShock: INFO: beiyi disconnected.
+2018-04-21 19:02:31 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-21 19:03:39 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 19:03:43 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 19:03:43 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 19:07:02 - Utils: INFO: beiyi executed: /warp king~.
+2018-04-21 19:07:31 - Utils: INFO: beiyi summoned the Retinazer!
+2018-04-21 19:07:31 - Utils: INFO: beiyi summoned the Spazmatism!
+2018-04-21 19:13:07 - Utils: INFO: Broadcast: 111: 天亮了
+2018-04-21 19:13:12 - Utils: INFO: Broadcast: 111: 为啥打boss
+2018-04-21 19:13:14 - Utils: INFO: Broadcast: 111: 不等我
+2018-04-21 19:13:33 - Utils: INFO: Broadcast: King~: 他自己出来的
+2018-04-21 19:14:12 - Utils: INFO: Broadcast: 111: 松露虫
+2018-04-21 19:14:13 - Utils: INFO: Broadcast: 111: 有吗
+2018-04-21 19:14:18 - Utils: INFO: Broadcast: beiyi: 没
+2018-04-21 19:14:24 - Utils: INFO: Broadcast: 111: 你为啥500血
+2018-04-21 19:14:46 - Utils: INFO: Broadcast: 111: ？？
+2018-04-21 19:15:45 - Utils: INFO: Broadcast: 111: 我继续让主机请你出去？
+2018-04-21 19:16:15 - Utils: INFO: Broadcast: King~: 为什么护士在还别
+2018-04-21 19:16:26 - Utils: INFO: Broadcast: 111: 因为打猪砂
+2018-04-21 19:16:29 - Utils: INFO: Broadcast: 111: 好打
+2018-04-21 19:16:41 - Utils: INFO: Broadcast: King~: 朱砂要化后才能打
+2018-04-21 19:17:20 - Utils: INFO: Broadcast: 111: 你想多了
+2018-04-21 19:17:26 - Utils: INFO: Broadcast: 111: 猪砂开局就能打
+2018-04-21 19:17:31 - Utils: INFO: Broadcast: 111: 猪砂没有前提限制
+2018-04-21 19:17:41 - Utils: INFO: Broadcast: King~: 但是虫子化后才有吧
+2018-04-21 19:17:48 - Utils: INFO: Broadcast: 111: 不知道
+2018-04-21 19:17:55 - Utils: INFO: Broadcast: 111: 来打新三王吧
+2018-04-21 19:18:22 - Utils: INFO: Broadcast: 111: 我在你家偷懂了
+2018-04-21 19:18:25 - Utils: INFO: Broadcast: 111: 东西了
+2018-04-21 19:18:29 - Utils: INFO: Broadcast: King~: ？
+2018-04-21 19:19:36 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-21 19:22:50 - Utils: INFO: Broadcast: 111: 你去海边弄一下平台
+2018-04-21 19:22:58 - Utils: INFO: Broadcast: 111: 晚上咱俩打虫子
+2018-04-21 19:23:07 - Utils: INFO: Broadcast: 111: 机械虫子
+2018-04-21 19:23:36 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 19:23:38 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 19:23:38 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 19:25:57 - Utils: INFO: Broadcast: 111: 跟我走
+2018-04-21 19:26:22 - Utils: INFO: Broadcast: David: 妈妈哦
+2018-04-21 19:26:45 - Utils: INFO: Broadcast: 111: 懂了没？
+2018-04-21 19:26:50 - Utils: INFO: Broadcast: David has left.
+2018-04-21 19:26:50 - TShock: INFO: David disconnected.
+2018-04-21 19:26:52 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 19:26:52 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 19:26:53 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-21 19:26:53 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 19:27:06 - Utils: INFO: admin1 executed: /godmode.
+2018-04-21 19:27:08 - Utils: INFO: admin1 executed: /tp bei.
+2018-04-21 19:27:19 - Utils: INFO: Broadcast: admin1: 你500血哪里来的
+2018-04-21 19:27:36 - Utils: INFO: Broadcast: 111: k
+2018-04-21 19:27:37 - Utils: INFO: Broadcast: admin1: 不会回答吗？
+2018-04-21 19:27:41 - Utils: INFO: Broadcast: admin1: 按回车
+2018-04-21 19:27:43 - Utils: INFO: Broadcast: 111: 来打
+2018-04-21 19:27:44 - Utils: INFO: Broadcast: admin1: 说话
+2018-04-21 19:27:47 - Utils: INFO: Broadcast: 111: 双子眼
+2018-04-21 19:27:55 - Utils: INFO: Broadcast: 111: 他会说话
+2018-04-21 19:28:00 - Utils: INFO: Broadcast: 111: King
+2018-04-21 19:28:01 - Utils: INFO: Broadcast: admin1: 地图是不是你破坏的
+2018-04-21 19:28:03 - Utils: INFO: Broadcast: 111: 来打双子眼
+2018-04-21 19:28:22 - Utils: INFO: Broadcast: admin1: 给你机会了哦？
+2018-04-21 19:28:28 - Utils: INFO: Broadcast: admin1: 解释都不解释
+2018-04-21 19:28:33 - Utils: INFO: Broadcast: admin1: 逻辑就是你咯
+2018-04-21 19:28:46 - Utils: INFO: Broadcast: 111: 来
+2018-04-21 19:28:47 - Utils: INFO: Broadcast: 111: k
+2018-04-21 19:28:51 - Utils: INFO: 111 summoned the Retinazer!
+2018-04-21 19:28:51 - Utils: INFO: 111 summoned the Spazmatism!
+2018-04-21 19:28:54 - Utils: INFO: Broadcast: King~: 群主打帅子眼
+2018-04-21 19:29:20 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 19:29:20 - TShock: INFO: admin1 disconnected.
+2018-04-21 19:29:20 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 19:29:28 - Utils: INFO: Broadcast: beiyi: 私聊
+2018-04-21 19:29:38 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 19:29:39 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 19:29:39 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 19:31:00 - Utils: INFO: Broadcast: 111: 。。
+2018-04-21 19:31:01 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 19:31:06 - Utils: INFO: Broadcast: King~: 什么意思
+2018-04-21 19:31:11 - Utils: INFO: Broadcast: 111: 不懂
+2018-04-21 19:31:42 - Utils: INFO: Broadcast: 111: 还是机械蠕虫好大
+2018-04-21 19:33:52 - Utils: INFO: Broadcast: 111: 我去做虫子
+2018-04-21 19:33:56 - Utils: INFO: Broadcast: 111: 晚上大虫子吧
+2018-04-21 19:33:58 - Utils: INFO: Broadcast: 111: 你去海边
+2018-04-21 19:34:01 - Utils: INFO: Broadcast: 111: 弄一下平台
+2018-04-21 19:35:20 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 19:35:20 - TShock: INFO: beiyi disconnected.
+2018-04-21 19:35:59 - Utils: INFO: Broadcast: David: emmmmm
+2018-04-21 19:36:07 - Utils: INFO: Broadcast: David: beiyi永久退出服务器
+2018-04-21 19:36:17 - Utils: INFO: Broadcast: 111: 是他弄的吧
+2018-04-21 19:36:27 - Utils: INFO: Broadcast: David: 不过我的服务器ip会记录在他的存档
+2018-04-21 19:36:46 - Utils: INFO: Broadcast: David: 我得把我的服务器IP换了
+2018-04-21 19:36:52 - Utils: INFO: Broadcast: 111: ok
+2018-04-21 19:36:54 - Utils: INFO: Broadcast: David: 不然以后真的成熊了
+2018-04-21 19:37:02 - Utils: INFO: Broadcast: 111: 现在就还？
+2018-04-21 19:37:04 - Utils: INFO: Broadcast: David: 换了后就不知道I了
+2018-04-21 19:37:09 - Utils: INFO: Broadcast: David: 队
+2018-04-21 19:37:12 - Utils: INFO: Broadcast: 111: ok
+2018-04-21 19:37:14 - Utils: INFO: Broadcast: 111: 换
+2018-04-21 19:37:19 - Utils: INFO: Server executed: /off.
+2018-04-21 19:37:19 - Utils: INFO: Kicked King~ for : 'Server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: King~ was force kicked for 'server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 19:37:19 - TShock: INFO: King~ disconnected.
+2018-04-21 19:37:19 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 19:37:19 - TShock: INFO: 111 disconnected.
+2018-04-21 19:37:19 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-21 19:37:19 - Utils: INFO: Broadcast: David has left.
+2018-04-21 19:37:19 - TShock: INFO: David disconnected.
+2018-04-21 19:37:20 - Utils: INFO: Broadcast: World saved.
+2018-04-21 19:37:20 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-21 19:37:20 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-21 19:37:22 - Utils: INFO: Broadcast: World saved.
+2018-04-21 19:37:22 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

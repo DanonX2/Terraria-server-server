@@ -1,0 +1,200 @@
+2018-04-23 20:03:02 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-23 20:03:02 - TShock: INFO: AutoSave Enabled
+2018-04-23 20:03:02 - TShock: INFO: Backups Disabled
+2018-04-23 20:03:02 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-23 20:04:24 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:04:34 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 20:04:34 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 20:05:08 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:05:09 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:05:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:05:35 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:05:36 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:05:36 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:06:24 - Utils: INFO: Server executed: /give 155 king.
+2018-04-23 20:06:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:06:45 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:06:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:06:56 - Utils: INFO: Server executed: /kill king.
+2018-04-23 20:07:14 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-23 20:07:54 - Utils: INFO: Server executed: /give 1853 111.
+2018-04-23 20:08:15 - Utils: INFO: Server executed: /give 1853 king.
+2018-04-23 20:09:25 - Utils: INFO: Server executed: /give 1853 king.
+2018-04-23 20:12:52 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-23 20:12:58 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:12:58 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 20:12:58 - TShock: INFO: King~ disconnected.
+2018-04-23 20:12:59 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:12:59 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:13:01 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:13:16 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 20:13:16 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 20:15:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:15:11 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:15:11 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:15:36 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:15:38 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:15:38 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:16:21 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:16:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:16:46 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:16:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:21:56 - Utils: INFO: King~ executed: /warp home.
+2018-04-23 20:22:04 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:22:04 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 20:22:04 - TShock: INFO: King~ disconnected.
+2018-04-23 20:22:05 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:22:05 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:22:07 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:22:34 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 20:22:34 - TShock: INFO: King~ disconnected.
+2018-04-23 20:22:53 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:23:14 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 20:23:14 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 20:23:22 - Utils: INFO: Server executed: /kill ki.
+2018-04-23 20:23:51 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:24:12 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-23 20:25:08 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:25:10 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:25:10 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:25:36 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:25:37 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:25:37 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:26:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:26:46 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:26:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:27:35 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:29:21 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-23 20:33:09 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:34:34 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-23 20:34:50 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:34:54 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:34:54 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 20:34:54 - TShock: INFO: King~ disconnected.
+2018-04-23 20:34:55 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:34:55 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:35:00 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:35:10 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 20:35:10 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 20:35:35 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:35:37 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:35:37 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:35:45 - Utils: INFO: King~ executed: /warp coniln.
+2018-04-23 20:35:50 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-23 20:36:48 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:36:49 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:36:49 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:37:46 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-23 20:37:50 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-23 20:37:50 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-23 20:38:17 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:38:39 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-23 20:38:46 - Utils: INFO: Broadcast: King~: wa 龙
+2018-04-23 20:39:53 - Utils: INFO: Broadcast: 111: 来过来
+2018-04-23 20:39:55 - Utils: INFO: Broadcast: 111: 给你龙
+2018-04-23 20:40:21 - Utils: INFO: Broadcast: 111: [i/p83:2622][i/p81:1294][i/p26:3542][i/p83:3476][i/p26:1155][i/p81:367][i/p83:3531]
+2018-04-23 20:40:42 - Utils: INFO: Broadcast: King~: 密封腔怎么玩
+2018-04-23 20:41:01 - Utils: INFO: Broadcast: King~: 一样啊
+2018-04-23 20:41:04 - Utils: INFO: Broadcast: 111: 对啊
+2018-04-23 20:41:24 - Utils: INFO: Broadcast: King~: 就是上海高点
+2018-04-23 20:41:30 - Utils: INFO: Broadcast: 111: 对滴
+2018-04-23 20:41:48 - Utils: INFO: Broadcast: 111: 我去玩刺激战场了哈
+2018-04-23 20:41:51 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-23 20:41:54 - Utils: INFO: Broadcast: King~: 噢噢噢噢
+2018-04-23 20:42:12 - Utils: INFO: Broadcast: King~: [i/p42:2365][i/p34:2551][i/p59:1157][i:3249][i/p59:2535][i/p83:2749][i/p83:3531]
+2018-04-23 20:42:24 - Utils: INFO: Broadcast: 111: 我说看属性啊
+2018-04-23 20:42:30 - Utils: INFO: Broadcast: 111: [i/p81:1294][i/p83:2622][i/p26:3542][i/p83:3476][i/p26:1155][i/p81:367][i/p83:3531]
+2018-04-23 20:42:33 - Utils: INFO: Broadcast: King~: 懒得刷了
+2018-04-23 20:42:39 - Utils: INFO: Broadcast: King~: [i/p46:1294][i/p59:3292][i/p59:1297][i/p81:757][i/p51:533][i/p46:2624][i/p59:1513][i/p83:2882][i/p83:3531][i/p59:1122]
+2018-04-23 20:42:44 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 20:42:59 - Utils: INFO: Broadcast: King~: [i/p26:1444]
+2018-04-23 20:43:52 - Utils: INFO: 111 summoned the Golem!
+2018-04-23 20:44:30 - Utils: INFO: Broadcast: 111: [i/s17:3457][i/s19:3459][i/s55:3456]
+2018-04-23 20:45:12 - Utils: INFO: Broadcast: King~: 卡了吗
+2018-04-23 20:45:16 - Utils: INFO: Broadcast: 111: 没有
+2018-04-23 20:45:25 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 20:45:25 - TShock: INFO: King~ disconnected.
+2018-04-23 20:45:30 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 20:45:36 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:45:37 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:45:37 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:45:38 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-23 20:45:38 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 20:45:49 - Utils: INFO: Broadcast: King~: 我刚刚卡了吗
+2018-04-23 20:45:58 - Utils: INFO: Broadcast: 111: 对滴
+2018-04-23 20:46:17 - Utils: INFO: Broadcast: 111 has left.
+2018-04-23 20:46:17 - TShock: INFO: 111 disconnected.
+2018-04-23 20:46:26 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-23 20:46:31 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-23 20:46:31 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-23 20:46:35 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-23 20:47:03 - Utils: INFO: Broadcast: 111 has left.
+2018-04-23 20:47:03 - TShock: INFO: 111 disconnected.
+2018-04-23 20:55:12 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:55:13 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:55:13 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:55:35 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:55:37 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:55:37 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 20:56:46 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 20:56:47 - Utils: INFO: Broadcast: World saved.
+2018-04-23 20:56:47 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:18:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:18:10 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 21:18:10 - TShock: INFO: King~ disconnected.
+2018-04-23 21:18:11 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:18:11 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:18:28 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 21:18:37 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-23 21:18:37 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-23 21:18:49 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 21:18:49 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 21:23:42 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-23 21:23:42 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-23 21:24:31 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 21:25:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:25:11 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:25:11 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:25:33 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 21:25:37 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:25:38 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:25:38 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:26:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:26:47 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:26:47 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:29:47 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:29:47 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 21:29:47 - TShock: INFO: King~ disconnected.
+2018-04-23 21:29:48 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:29:48 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:29:51 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 21:30:38 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 21:30:38 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 21:32:09 - Utils: INFO: King~ executed: /warp spawn.
+2018-04-23 21:32:21 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:32:21 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 21:32:21 - TShock: INFO: King~ disconnected.
+2018-04-23 21:32:23 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:32:23 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:32:27 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-23 21:32:41 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-23 21:32:41 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-23 21:33:46 - Utils: INFO: King~ executed: /house define.
+2018-04-23 21:34:06 - Utils: INFO: Server executed: /kill kin.
+2018-04-23 21:34:08 - Utils: INFO: Server executed: /off.
+2018-04-23 21:34:08 - Utils: INFO: Kicked King~ for : 'Server shutting down!'
+2018-04-23 21:34:08 - Utils: INFO: Broadcast: King~ was force kicked for 'server shutting down!'
+2018-04-23 21:34:08 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-23 21:34:08 - Utils: INFO: Broadcast: King~ has left.
+2018-04-23 21:34:08 - TShock: INFO: King~ disconnected.
+2018-04-23 21:34:09 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:34:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:34:10 - Utils: INFO: Broadcast: World saved.
+2018-04-23 21:34:10 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-23 21:34:10 - Utils: INFO: Broadcast: Server shutting down!

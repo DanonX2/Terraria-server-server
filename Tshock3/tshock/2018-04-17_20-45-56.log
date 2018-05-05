@@ -1,0 +1,40 @@
+2018-04-17 20:45:57 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-17 20:45:57 - TShock: INFO: AutoSave Enabled
+2018-04-17 20:45:57 - TShock: INFO: Backups Disabled
+2018-04-17 20:45:57 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-17 20:50:40 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-17 20:50:44 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-17 20:50:44 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-17 20:51:35 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-17 20:51:35 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-17 20:51:35 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 20:51:35 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 20:51:36 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (2/10)
+2018-04-17 20:51:36 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-17 20:51:53 - Utils: INFO: Broadcast: 夜-胤笙: 谁有水桶
+2018-04-17 20:52:37 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-17 20:52:40 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-17 20:52:40 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-17 20:52:43 - Utils: INFO: Server executed: /off.
+2018-04-17 20:52:43 - TSPlayer: INFO: Skipping SSC Backup for admin1
+2018-04-17 20:52:43 - Utils: INFO: Kicked 夜-胤笙 for : 'Server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: 夜-胤笙 was force kicked for 'server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-17 20:52:43 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-17 20:52:43 - TSPlayer: INFO: Skipping SSC Backup for admin1
+2018-04-17 20:52:43 - Utils: INFO: Kicked admin1 for : 'Server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: admin1 was force kicked for 'server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-17 20:52:43 - TShock: INFO: admin1 disconnected.
+2018-04-17 20:52:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-17 20:52:43 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-17 20:52:43 - Utils: INFO: Broadcast: 111 has left.
+2018-04-17 20:52:43 - TShock: INFO: 111 disconnected.
+2018-04-17 20:52:45 - Utils: INFO: Broadcast: World saved.
+2018-04-17 20:52:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-17 20:52:45 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-17 20:52:46 - Utils: INFO: Broadcast: World saved.
+2018-04-17 20:52:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

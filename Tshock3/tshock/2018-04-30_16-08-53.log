@@ -1,0 +1,110 @@
+2018-04-30 16:08:53 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-30 16:08:53 - TShock: INFO: AutoSave Enabled
+2018-04-30 16:08:53 - TShock: INFO: Backups Disabled
+2018-04-30 16:08:53 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-30 16:09:15 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:09:15 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-30 16:09:16 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (1/10)
+2018-04-30 16:09:16 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-30 16:09:40 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-30 16:09:44 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-30 16:09:44 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-30 16:09:50 - Utils: INFO: 111 executed: /warp zh.
+2018-04-30 16:09:52 - Utils: INFO: admin1 executed: /group addperm default tprequest.tpa.
+2018-04-30 16:09:58 - Utils: INFO: admin1 executed: /help.
+2018-04-30 16:10:06 - Utils: INFO: admin1 executed: /help 2.
+2018-04-30 16:10:15 - Utils: INFO: admin1 executed: /tpallow.
+2018-04-30 16:10:31 - Utils: INFO: admin1 executed: /help 2.
+2018-04-30 16:10:43 - Utils: INFO: admin1 executed: /help 3.
+2018-04-30 16:10:48 - GetDataHandlers: INFO: wenrou authenticated successfully as user wenrou.
+2018-04-30 16:10:53 - TShock: INFO: wenrou (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-30 16:10:53 - Utils: INFO: Broadcast: wenrou has joined.
+2018-04-30 16:11:12 - Utils: INFO: wenrou executed: /warp zh.
+2018-04-30 16:11:40 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-30 16:11:40 - TShock: INFO: DDA (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-30 16:11:40 - Utils: INFO: Broadcast: DDA has joined.
+2018-04-30 16:11:44 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-30 16:11:44 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-30 16:11:47 - Utils: INFO: admin1 executed: /group addperm default tprequest.autodeny.
+2018-04-30 16:11:47 - Commands: INFO: DDA authenticated successfully as user: DDA.
+2018-04-30 16:12:22 - Utils: INFO: Broadcast: 夜-胤笙: 这人怎么有神圣套
+2018-04-30 16:12:39 - Commands: INFO: admin1 successfully deleted account: DDA.
+2018-04-30 16:12:41 - Utils: INFO: admin1 executed: /kick dda.
+2018-04-30 16:12:41 - Utils: INFO: Kicked DDA for : 'Misbehaviour.'
+2018-04-30 16:12:41 - Utils: INFO: Broadcast: admin1 kicked DDA for 'misbehaviour.'
+2018-04-30 16:12:41 - Utils: INFO: Broadcast: DDA has left.
+2018-04-30 16:12:41 - TShock: INFO: DDA disconnected.
+2018-04-30 16:12:49 - Utils: INFO: Broadcast: admin1: ok
+2018-04-30 16:12:57 - TShock: INFO: DDA (192.168.0.106) from 'guest' group joined. (5/10)
+2018-04-30 16:12:57 - Utils: INFO: Broadcast: DDA has joined.
+2018-04-30 16:13:26 - Utils: INFO: Broadcast: DDA has left.
+2018-04-30 16:13:26 - TShock: INFO: DDA disconnected.
+2018-04-30 16:13:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:14:00 - Utils: INFO: Broadcast: 111 has left.
+2018-04-30 16:14:00 - TShock: INFO: 111 disconnected.
+2018-04-30 16:14:00 - Utils: INFO: Broadcast: wenrou has left.
+2018-04-30 16:14:00 - TShock: INFO: wenrou disconnected.
+2018-04-30 16:14:00 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-30 16:14:00 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-30 16:14:11 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:14:11 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 16:18:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:19:16 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:19:16 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 16:23:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:24:17 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8580
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:24:17 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 16:28:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:29:18 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8580
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:29:18 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 16:33:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:34:19 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8580
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:34:19 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 16:35:25 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-30 16:35:25 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-30 16:35:25 - TShock: INFO: admin1 disconnected.
+2018-04-30 16:35:25 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-30 16:35:27 - Utils: INFO: Broadcast: World saved.
+2018-04-30 16:35:27 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 16:44:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-30 16:44:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-30 17:11:37 - Utils: INFO: Server executed: /off.
+2018-04-30 17:11:38 - Utils: INFO: Broadcast: World saved.
+2018-04-30 17:11:38 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 17:11:38 - Utils: INFO: Broadcast: Server shutting down!

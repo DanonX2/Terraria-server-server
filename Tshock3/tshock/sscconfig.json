@@ -1,0 +1,49 @@
+{
+  "Enabled": true,
+  "ServerSideCharacterSave": 5,
+  "LogonDiscardThreshold": 250,
+  "StartingHealth": 200,
+  "StartingMana": 60,
+  "StartingInventory": [
+    {
+      "netID": -43,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": 77,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": 81,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": 90,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": -10,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": -2,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": 50,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "netID": 8,
+      "prefix": 0,
+      "stack": 1
+    }
+  ]
+}

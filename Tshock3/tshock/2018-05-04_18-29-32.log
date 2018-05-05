@@ -1,0 +1,217 @@
+2018-05-04 18:29:32 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-05-04 18:29:32 - TShock: INFO: AutoSave Enabled
+2018-05-04 18:29:32 - TShock: INFO: Backups Disabled
+2018-05-04 18:29:32 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-05-04 18:29:44 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-05-04 18:34:28 - TShock: INFO: 房骨 (192.168.0.100) from 'guest' group joined. (1/10)
+2018-05-04 18:34:28 - Utils: INFO: Broadcast: 房骨 has joined.
+2018-05-04 18:35:09 - TextLog: INFO: 房骨 registered an account: "房骨".
+2018-05-04 18:35:31 - Commands: INFO: 房骨 authenticated successfully as user: 房骨.
+2018-05-04 18:36:42 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-04 18:36:42 - PluginTrace: INFO: [Protector] Serializing the protection data took 10ms.
+2018-05-04 18:36:43 - Utils: INFO: Broadcast: World saved.
+2018-05-04 18:36:43 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-04 18:36:52 - GetDataHandlers: INFO: zeroquq authenticated successfully as user zeroquq.
+2018-05-04 18:36:56 - TShock: INFO: zeroquq (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-04 18:36:56 - Utils: INFO: Broadcast: zeroquq has joined.
+2018-05-04 18:37:42 - Utils: INFO: zeroquq executed: /help.
+2018-05-04 18:37:51 - Utils: INFO: Broadcast: zeroquq: d
+2018-05-04 18:38:00 - Commands: INFO: zeroquq authenticated successfully as user: zeroquq.
+2018-05-04 18:38:08 - Utils: INFO: Broadcast: 房骨: 谁带带我
+2018-05-04 18:38:15 - Utils: INFO: Broadcast: zeroquq: ee
+2018-05-04 18:38:16 - Utils: INFO: Broadcast: zeroquq: emm
+2018-05-04 18:38:20 - Utils: INFO: Broadcast: zeroquq: 我是萌新
+2018-05-04 18:38:38 - Utils: INFO: Broadcast: 房骨: 我还是自己玩吧
+2018-05-04 18:38:45 - Utils: INFO: Broadcast: 房骨 has left.
+2018-05-04 18:38:45 - TShock: INFO: 房骨 disconnected.
+2018-05-04 18:38:46 - Utils: INFO: Server executed: /who.
+2018-05-04 18:38:49 - Utils: INFO: Server executed: /who.
+2018-05-04 18:40:18 - Utils: INFO: Server executed: /who.
+2018-05-04 18:41:07 - Utils: INFO: Broadcast: zeroquq: 额
+2018-05-04 18:41:13 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-05-04 18:41:13 - TShock: INFO: David (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-04 18:41:13 - Utils: INFO: Broadcast: David has joined.
+2018-05-04 18:41:17 - Utils: INFO: Broadcast: David: 啊哈！！！！
+2018-05-04 18:41:23 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:28 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:33 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:38 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:43 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:47 - Commands: INFO: zeroquq authenticated successfully as user: zeroquq.
+2018-05-04 18:41:48 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:52 - Utils: INFO: Broadcast: zeroquq: ???
+2018-05-04 18:41:53 - Utils: INFO: Broadcast: zeroquq: ??/
+2018-05-04 18:41:53 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:41:59 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:00 - Utils: INFO: Broadcast: zeroquq: 登录不了
+2018-05-04 18:42:04 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:06 - Utils: INFO: Broadcast: David: 加QQ
+2018-05-04 18:42:09 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:09 - Utils: INFO: Broadcast: David: 远程帮你
+2018-05-04 18:42:14 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:19 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:24 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:25 - Utils: INFO: Broadcast: zeroquq: login
+2018-05-04 18:42:29 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:31 - Utils: INFO: Broadcast: zeroquq: 登不了
+2018-05-04 18:42:32 - Utils: INFO: Broadcast: zeroquq: mmp
+2018-05-04 18:42:33 - Utils: INFO: Broadcast: David: 。。。。。
+2018-05-04 18:42:35 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:40 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:41 - Utils: INFO: Broadcast: David: 加下QQ
+2018-05-04 18:42:43 - Utils: INFO: Broadcast: zeroquq: 你打一次
+2018-05-04 18:42:45 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:45 - Utils: INFO: Broadcast: zeroquq: 指令
+2018-05-04 18:42:50 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:55 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:42:57 - Utils: INFO: Broadcast: David: 我登陆过了啊
+2018-05-04 18:42:59 - Commands: INFO: zeroquq failed to register an existing account: zeroquq
+2018-05-04 18:43:00 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:05 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:11 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:16 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:16 - Utils: INFO: Broadcast: zeroquq: 你打一次
+2018-05-04 18:43:21 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:21 - Utils: INFO: Broadcast: zeroquq: 不加？
+2018-05-04 18:43:25 - Utils: INFO: Broadcast: zeroquq: /
+2018-05-04 18:43:26 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:30 - Utils: INFO: Broadcast: David: 要加/
+2018-05-04 18:43:31 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:32 - Utils: INFO: Broadcast: zeroquq: 不加/的
+2018-05-04 18:43:37 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:37 - Utils: INFO: Broadcast: David: login
+2018-05-04 18:43:40 - Utils: INFO: Broadcast: zeroquq: 你打一次
+2018-05-04 18:43:43 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:43 - Utils: INFO: Broadcast: David: login
+2018-05-04 18:43:44 - Utils: INFO: Broadcast: zeroquq: emm
+2018-05-04 18:43:48 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:50 - Utils: INFO: Broadcast: zeroquq: 后面密码？
+2018-05-04 18:43:53 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:43:53 - Utils: INFO: Broadcast: David: dui
+2018-05-04 18:43:54 - Utils: INFO: Broadcast: David: 队
+2018-05-04 18:43:57 - Utils: INFO: Broadcast: David: 要加/
+2018-05-04 18:43:58 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:03 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:09 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:14 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:14 - Utils: INFO: Broadcast: zeroquq: wa 
+2018-05-04 18:44:19 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:19 - Utils: INFO: Broadcast: zeroquq: 我重新驻车一次
+2018-05-04 18:44:24 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:29 - Utils: INFO: Broadcast: zeroquq: 租车一个
+2018-05-04 18:44:29 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:31 - Utils: INFO: Broadcast: zeroquq: 驻车
+2018-05-04 18:44:34 - Utils: INFO: Broadcast: zeroquq: 主撤
+2018-05-04 18:44:34 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:40 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:41 - Utils: INFO: Broadcast: zeroquq: 租扯
+2018-05-04 18:44:43 - Utils: INFO: Broadcast: David: 换个人物名字
+2018-05-04 18:44:44 - Utils: INFO: Broadcast: zeroquq: mp
+2018-05-04 18:44:45 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:46 - Utils: INFO: Broadcast: zeroquq: mmp
+2018-05-04 18:44:47 - Utils: INFO: Broadcast: David: 我帮你输
+2018-05-04 18:44:50 - Utils: INFO: Broadcast: David: 注册
+2018-05-04 18:44:50 - TextLog: INFO: Player zeroquq has been disabled for Maximum MP beyond limit.
+2018-05-04 18:44:51 - Utils: INFO: Broadcast: David: ok
+2018-05-04 18:44:52 - Utils: INFO: Broadcast: zeroquq has left.
+2018-05-04 18:44:52 - TShock: INFO: zeroquq disconnected.
+2018-05-04 18:45:09 - GetDataHandlers: INFO: KOTORI authenticated successfully as user KOTORI.
+2018-05-04 18:45:14 - TShock: INFO: KOTORI (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-04 18:45:14 - Utils: INFO: Broadcast: KOTORI has joined.
+2018-05-04 18:46:00 - TShock: INFO: 1212 (192.168.0.100) from 'guest' group joined. (3/10)
+2018-05-04 18:46:00 - Utils: INFO: Broadcast: 1212 has joined.
+2018-05-04 18:46:00 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:46:12 - TextLog: INFO: 1212 registered an account: "1212".
+2018-05-04 18:46:14 - Utils: INFO: Broadcast: David: ！
+2018-05-04 18:46:16 - Utils: INFO: Broadcast: David: 新人
+2018-05-04 18:46:18 - Commands: INFO: 1212 authenticated successfully as user: 1212.
+2018-05-04 18:46:21 - Utils: INFO: Broadcast: 1212: 我阿
+2018-05-04 18:46:25 - Utils: INFO: Broadcast: 1212: 不是新人阿
+2018-05-04 18:46:49 - Utils: INFO: Broadcast: 1212: 给我一个魔法的
+2018-05-04 18:46:55 - Utils: INFO: Broadcast: David: 没有了
+2018-05-04 18:46:57 - Utils: INFO: Broadcast: 1212: 0.0
+2018-05-04 18:46:59 - Utils: INFO: Broadcast: 1212: 借我
+2018-05-04 18:47:08 - Utils: INFO: Broadcast: David: 我只有一个啊
+2018-05-04 18:47:15 - Utils: INFO: KOTORI executed: /warp dl.
+2018-05-04 18:47:15 - Utils: INFO: Broadcast: David: 好不容易弄来的
+2018-05-04 18:47:17 - Utils: INFO: Broadcast: 1212: 等下还给你啦
+2018-05-04 18:47:23 - Utils: INFO: Broadcast: David: nonono
+2018-05-04 18:47:28 - Utils: INFO: Broadcast: 1212: QAQ
+2018-05-04 18:47:30 - Utils: INFO: Broadcast: David: 肯定要拿来卖掉
+2018-05-04 18:47:34 - Utils: INFO: Broadcast: David: 哼
+2018-05-04 18:47:37 - Utils: INFO: Broadcast: David: ╭(╯^╰)╮
+2018-05-04 18:47:41 - Utils: INFO: Broadcast: 1212: 不会的阿
+2018-05-04 18:47:42 - Utils: INFO: Broadcast: 1212: QAQ
+2018-05-04 18:47:49 - Utils: INFO: Broadcast: KOTORI: 我擦地牢那边谁挖的坑。。。
+2018-05-04 18:47:51 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-04 18:47:56 - Utils: INFO: David executed: /warp dl.
+2018-05-04 18:48:05 - Utils: INFO: Broadcast: David: emmmm
+2018-05-04 18:48:08 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:48:08 - Utils: INFO: Broadcast: David: 陨石炸的
+2018-05-04 18:48:13 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:48:17 - Utils: INFO: Broadcast: KOTORI: emmmmm
+2018-05-04 18:48:18 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:48:34 - Utils: INFO: KOTORI executed: /warp zh.
+2018-05-04 18:49:11 - Utils: INFO: Broadcast: 1212 has left.
+2018-05-04 18:49:11 - TShock: INFO: 1212 disconnected.
+2018-05-04 18:49:20 - GetDataHandlers: INFO: 1212 authenticated successfully as user 1212.
+2018-05-04 18:49:24 - TShock: INFO: 1212 (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-04 18:49:24 - Utils: INFO: Broadcast: 1212 has joined.
+2018-05-04 18:49:40 - Utils: INFO: Broadcast: 1212: 群主给装备阿
+2018-05-04 18:49:52 - Utils: INFO: Broadcast: David: 我在服务器里面只玩了4小时= =
+2018-05-04 18:49:55 - Utils: INFO: 1212 executed: /help.
+2018-05-04 18:50:05 - Utils: INFO: KOTORI executed: /warp dl.
+2018-05-04 18:50:15 - Utils: INFO: Broadcast: 1212: 那也能给点阿
+2018-05-04 18:50:17 - Utils: INFO: Broadcast: 1212: QAQ
+2018-05-04 18:50:22 - Utils: INFO: Broadcast: David: 我自己都缺- -
+2018-05-04 18:50:36 - Utils: INFO: Broadcast: David: 我也没啥装备能给了，，
+2018-05-04 18:53:14 - Utils: INFO: Broadcast: 1212: QAQ
+2018-05-04 18:53:29 - Utils: INFO: Broadcast: 1212: 子弹阿
+2018-05-04 18:53:31 - Utils: INFO: Broadcast: 1212: QAQ
+2018-05-04 18:54:49 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:54:54 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:55:00 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:55:14 - Utils: INFO: Broadcast: KOTORI has left.
+2018-05-04 18:55:14 - TShock: INFO: KOTORI disconnected.
+2018-05-04 18:55:21 - TextLog: INFO: Player 1212 has been disabled for Maximum MP beyond limit.
+2018-05-04 18:55:21 - Utils: INFO: Broadcast: 1212: 有人吗
+2018-05-04 18:55:21 - Utils: INFO: Broadcast: 1212: 有人吗
+2018-05-04 18:56:15 - Utils: INFO: Broadcast: 1212 has left.
+2018-05-04 18:56:15 - TShock: INFO: 1212 disconnected.
+2018-05-04 18:56:40 - GetDataHandlers: INFO: 1212 authenticated successfully as user 1212.
+2018-05-04 18:56:44 - TShock: INFO: 1212 (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-04 18:56:44 - Utils: INFO: Broadcast: 1212 has joined.
+2018-05-04 18:56:50 - GetDataHandlers: INFO: KOTORI authenticated successfully as user KOTORI.
+2018-05-04 18:56:55 - TShock: INFO: KOTORI (192.168.0.100) from 'default' group joined. (3/10)
+2018-05-04 18:56:55 - Utils: INFO: Broadcast: KOTORI has joined.
+2018-05-04 18:57:04 - Utils: INFO: Broadcast: 1212: 都没人玩
+2018-05-04 18:57:14 - Utils: INFO: Broadcast: David: 我撸点作业
+2018-05-04 18:57:16 - Utils: INFO: Broadcast: David: 等会来
+2018-05-04 18:57:18 - Utils: INFO: Broadcast: David: 挂机
+2018-05-04 18:57:27 - Utils: INFO: Broadcast: 1212: 接我装备
+2018-05-04 18:57:30 - Utils: INFO: Broadcast: 1212: 等下还你
+2018-05-04 19:07:23 - Utils: INFO: Broadcast: 1212 has left.
+2018-05-04 19:07:23 - TShock: INFO: 1212 disconnected.
+2018-05-04 19:11:51 - PluginTrace: INFO: [Protector] Serializing the protection data took 5ms.
+2018-05-04 19:13:36 - Utils: INFO: Broadcast: KOTORI has left.
+2018-05-04 19:13:36 - TShock: INFO: KOTORI disconnected.
+2018-05-04 19:31:59 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-05-04 19:32:04 - TShock: INFO: 夜-胤笙 (192.168.0.100) from 'default' group joined. (2/10)
+2018-05-04 19:32:04 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-05-04 19:34:43 - Utils: INFO: 夜-胤笙 executed: /warp dl.
+2018-05-04 19:35:51 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-04 19:55:39 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-05-04 19:55:39 - TShock: INFO: 夜-胤笙 disconnected.
+2018-05-04 19:58:43 - Utils: INFO: David executed: /who.
+2018-05-04 19:58:45 - Utils: INFO: Broadcast: David: wa
+2018-05-04 19:59:50 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-04 19:59:50 - Utils: INFO: Broadcast: David has left.
+2018-05-04 19:59:50 - TShock: INFO: David disconnected.
+2018-05-04 19:59:50 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-04 19:59:51 - Utils: INFO: Broadcast: World saved.
+2018-05-04 19:59:51 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-04 19:59:53 - Utils: INFO: Server executed: /off.
+2018-05-04 19:59:53 - PluginTrace: INFO: [Protector] Serializing the protection data took 3ms.
+2018-05-04 19:59:54 - Utils: INFO: Broadcast: World saved.
+2018-05-04 19:59:54 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-04 19:59:54 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,22 @@
+2018-05-03 20:08:49 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-05-03 20:08:49 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-05-03 20:08:49 - TShock: INFO: AutoSave Enabled
+2018-05-03 20:08:49 - TShock: INFO: Backups Disabled
+2018-05-03 20:08:49 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-05-03 20:09:01 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-05-03 20:13:17 - TShock: INFO: zeroquq (192.168.0.100) from 'guest' group joined. (1/10)
+2018-05-03 20:13:17 - Utils: INFO: Broadcast: zeroquq has joined.
+2018-05-03 20:14:07 - TextLog: INFO: zeroquq registered an account: "zeroquq".
+2018-05-03 20:14:12 - Commands: INFO: zeroquq authenticated successfully as user: zeroquq.
+2018-05-03 20:14:22 - Utils: INFO: Broadcast: zeroquq: 有人吗
+2018-05-03 20:18:21 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-05-03 20:18:21 - Utils: INFO: Broadcast: zeroquq has left.
+2018-05-03 20:18:21 - TShock: INFO: zeroquq disconnected.
+2018-05-03 20:18:21 - PluginTrace: INFO: [Protector] Serializing the protection data took 9ms.
+2018-05-03 20:18:22 - Utils: INFO: Broadcast: World saved.
+2018-05-03 20:18:22 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-03 20:20:53 - Utils: INFO: Server executed: /off.
+2018-05-03 20:20:53 - PluginTrace: INFO: [Protector] Serializing the protection data took 1ms.
+2018-05-03 20:20:54 - Utils: INFO: Broadcast: World saved.
+2018-05-03 20:20:54 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-05-03 20:20:54 - Utils: INFO: Broadcast: Server shutting down!

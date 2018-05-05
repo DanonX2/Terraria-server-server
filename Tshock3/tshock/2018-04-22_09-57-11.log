@@ -1,0 +1,471 @@
+2018-04-22 09:57:11 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-22 09:57:11 - TShock: INFO: AutoSave Enabled
+2018-04-22 09:57:11 - TShock: INFO: Backups Disabled
+2018-04-22 09:57:11 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-22 11:00:11 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 11:00:16 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-22 11:00:16 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 11:01:09 - Utils: INFO: 111 executed: /warp.
+2018-04-22 11:01:12 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 11:01:48 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:01:49 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:01:49 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:02:12 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 11:05:06 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:05:07 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:05:07 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:06:15 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:06:16 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:06:16 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:11:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:11:47 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:11:47 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:12:16 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 11:15:05 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:15:07 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:15:07 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:16:15 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:16:17 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:16:17 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:21:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:21:46 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:21:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:21:50 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:21:50 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 11:21:50 - TShock: INFO: 111 disconnected.
+2018-04-22 11:21:52 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:21:52 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:21:55 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 11:21:59 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-22 11:21:59 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 11:25:07 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:25:09 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:25:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:26:16 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:26:18 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:26:18 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:26:45 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 11:29:47 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 11:31:43 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:31:44 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:31:44 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:35:05 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:35:07 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:35:07 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:36:14 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:36:16 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:36:16 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:41:43 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:41:45 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:41:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:45:10 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:45:12 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:45:12 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:46:16 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:46:17 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:46:17 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:51:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:51:46 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:51:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:55:07 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:55:09 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:55:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 11:56:16 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 11:56:18 - Utils: INFO: Broadcast: World saved.
+2018-04-22 11:56:18 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:01:07 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:01:45 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:01:46 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:01:46 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:03:17 - Utils: INFO: 111 executed: /warp.
+2018-04-22 12:03:23 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:05:07 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:05:08 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:05:08 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:06:16 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:06:17 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:06:17 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:06:26 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 12:06:50 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:08:42 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:09:00 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 12:09:19 - Utils: INFO: 111 summoned the Skeletron Prime!
+2018-04-22 12:11:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:11:45 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:11:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:15:09 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:15:11 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:15:11 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:16:16 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 12:16:17 - Utils: INFO: Broadcast: World saved.
+2018-04-22 12:16:17 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 12:19:58 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 12:19:59 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 12:19:59 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 12:20:12 - Utils: INFO: Broadcast: 111: hah 
+2018-04-22 12:20:14 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 12:20:19 - Utils: INFO: Broadcast: 111: 服服神魔东西啊
+2018-04-22 12:20:44 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 12:21:22 - Utils: INFO: Broadcast: 111: 刚才我尝试
+2018-04-22 12:21:26 - Utils: INFO: Broadcast: 111: 打世纪之花
+2018-04-22 12:21:38 - Utils: INFO: Broadcast: 111: 打的花还剩1000血时候
+2018-04-22 12:21:44 - Utils: INFO: Broadcast: 111: 我发现我没有药水了
+2018-04-22 12:21:47 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 12:21:48 - Utils: INFO: Broadcast: David: GG
+2018-04-22 12:21:53 - Utils: INFO: Broadcast: David: 吃饭
+2018-04-22 12:21:54 - Utils: INFO: Broadcast: David: 等我
+2018-04-22 12:21:58 - Utils: INFO: Broadcast: 111: 嗯嗯
+2018-04-22 12:22:00 - Utils: INFO: Broadcast: 111: 给我一点
+2018-04-22 12:22:01 - Utils: INFO: Broadcast: 111: 药水
+2018-04-22 12:22:04 - Utils: INFO: Broadcast: 111: 血药
+2018-04-22 12:22:06 - Utils: INFO: Broadcast: 111: 探索
+2018-04-22 12:23:03 - Utils: INFO: Broadcast: David: [i/s6:188]
+2018-04-22 12:23:04 - Utils: INFO: Broadcast: David: = =
+2018-04-22 12:23:07 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 12:23:08 - Utils: INFO: Broadcast: David: 我也没了
+2018-04-22 12:23:10 - Utils: INFO: Broadcast: 111: [i/s8:499]3
+2018-04-22 12:23:13 - Utils: INFO: Broadcast: 111: 刚刷的
+2018-04-22 12:23:21 - Utils: INFO: Broadcast: David: 大三王
+2018-04-22 12:23:26 - Utils: INFO: Broadcast: 111: 对滴
+2018-04-22 12:23:31 - Utils: INFO: Broadcast: David: 我也要打
+2018-04-22 12:23:37 - Utils: INFO: Broadcast: 111: 时间
+2018-04-22 12:23:41 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 12:23:43 - Utils: INFO: Broadcast: 111: 晚上
+2018-04-22 12:23:45 - Utils: INFO: Server executed: /time night.
+2018-04-22 12:23:45 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 12:23:49 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 12:23:49 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 12:23:52 - Utils: INFO: Broadcast: 111: 来吧
+2018-04-22 12:23:54 - Utils: INFO: Broadcast: David: 开
+2018-04-22 12:23:59 - Utils: INFO: Broadcast: 111: 海边
+2018-04-22 12:24:03 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-22 12:24:07 - Utils: INFO: Broadcast: David: 输入/warp yh
+2018-04-22 12:24:10 - Utils: INFO: David executed: /warp uyh.
+2018-04-22 12:24:16 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:24:17 - Utils: INFO: David executed: /warp yh.
+2018-04-22 12:24:50 - Utils: INFO: Broadcast: David: 来
+2018-04-22 12:24:52 - Utils: INFO: Broadcast: David: 召唤
+2018-04-22 12:24:54 - Utils: INFO: 111 summoned the Retinazer!
+2018-04-22 12:24:54 - Utils: INFO: 111 summoned the Spazmatism!
+2018-04-22 12:26:02 - Utils: INFO: David executed: /warp yh.
+2018-04-22 12:26:17 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:26:19 - Utils: INFO: David executed: /warp yh.
+2018-04-22 12:27:57 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:30:13 - Utils: INFO: Broadcast: 111: 我要血药啊
+2018-04-22 12:30:22 - Utils: INFO: Broadcast: 111: kk
+2018-04-22 12:30:26 - Utils: INFO: Broadcast: 111: 捡起来啊
+2018-04-22 12:30:28 - Utils: INFO: Broadcast: 111: 血药
+2018-04-22 12:30:47 - Utils: INFO: Broadcast: David: 继续打？
+2018-04-22 12:30:59 - Utils: INFO: Broadcast: David: 虫子
+2018-04-22 12:30:59 - Utils: INFO: Broadcast: 111: 我擦
+2018-04-22 12:31:02 - Utils: INFO: Broadcast: 111: 没有啊
+2018-04-22 12:31:04 - Utils: INFO: Broadcast: 111: 你有就召唤
+2018-04-22 12:31:13 - Utils: INFO: Broadcast: David: 好吧
+2018-04-22 12:31:16 - Utils: INFO: Broadcast: David: 我去刷
+2018-04-22 12:31:45 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 12:31:45 - TShock: INFO: KKJJL disconnected.
+2018-04-22 12:31:51 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 12:31:55 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 12:31:55 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 12:32:01 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:32:05 - Utils: INFO: Broadcast: 111: 就我一个人我能打花
+2018-04-22 12:32:06 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 12:32:26 - Utils: INFO: Broadcast: KKJJL: 你们打完了？
+2018-04-22 12:32:30 - Utils: INFO: Broadcast: 111: 没有
+2018-04-22 12:32:33 - Utils: INFO: Broadcast: 111: 刚才没血药了
+2018-04-22 12:32:37 - Utils: INFO: Broadcast: 111: 要不然我自己就打过了
+2018-04-22 12:33:05 - Utils: INFO: Broadcast: KKJJL: 虫子打没
+2018-04-22 12:33:16 - Utils: INFO: Broadcast: 111: 新三王都打过了
+2018-04-22 12:33:22 - Utils: INFO: Broadcast: KKJJL: !
+2018-04-22 12:33:35 - Utils: INFO: Broadcast: 111: [i/s79:1006]
+2018-04-22 12:33:40 - Utils: INFO: Broadcast: David: ！
+2018-04-22 12:33:44 - Utils: INFO: Broadcast: David: 有多余的吗
+2018-04-22 12:33:57 - Utils: INFO: Broadcast: 111: 这些正好做幽魂的
+2018-04-22 12:34:02 - Utils: INFO: Broadcast: David: 艹
+2018-04-22 12:34:13 - Utils: INFO: Broadcast: 111: 啊哈哈
+2018-04-22 12:34:14 - Utils: INFO: Broadcast: KKJJL: 我才停留在肉山阶段
+2018-04-22 12:34:20 - Utils: INFO: Broadcast: 111: 你给我探索药剂
+2018-04-22 12:34:24 - Utils: INFO: Broadcast: 111: 我帮你挖
+2018-04-22 12:34:32 - Utils: INFO: Broadcast: David: 成交
+2018-04-22 12:34:36 - Utils: INFO: Broadcast: 111: 拿来
+2018-04-22 12:35:11 - Utils: INFO: Broadcast: 111: KK
+2018-04-22 12:35:14 - Utils: INFO: Broadcast: 111: 去没去过我家？
+2018-04-22 12:35:19 - Utils: INFO: Broadcast: KKJJL: 没有
+2018-04-22 12:35:22 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 12:35:36 - Utils: INFO: Broadcast: 111: 给你独角兽
+2018-04-22 12:35:36 - Utils: INFO: David executed: /warp linyu.
+2018-04-22 12:35:40 - Utils: INFO: David executed: /warp list.
+2018-04-22 12:35:53 - Utils: INFO: Broadcast: 111: 过来啊
+2018-04-22 12:36:00 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 12:36:28 - Utils: INFO: Broadcast: KKJJL: 666
+2018-04-22 12:37:01 - Utils: INFO: Broadcast: 111: D
+2018-04-22 12:37:03 - Utils: INFO: Broadcast: 111: 给我药剂
+2018-04-22 12:37:04 - Utils: INFO: Broadcast: 111: 啊
+2018-04-22 12:37:11 - Utils: INFO: Broadcast: David: s刷腐肉
+2018-04-22 12:37:16 - Utils: INFO: Broadcast: KKJJL: 发现花苞
+2018-04-22 12:37:32 - Utils: INFO: Broadcast: 111: 你先更新你的装备
+2018-04-22 12:37:33 - Utils: INFO: Broadcast: 111: 加武器
+2018-04-22 12:37:50 - Utils: INFO: Broadcast: 111: 今天把花  猪沙  石巨人
+2018-04-22 12:37:52 - Utils: INFO: Broadcast: 111: 过了
+2018-04-22 12:38:05 - Utils: INFO: Broadcast: KKJJL: 这个服务器可以用木偶加史莱姆吗
+2018-04-22 12:38:12 - Utils: INFO: Broadcast: David: NENG
+2018-04-22 12:38:14 - Utils: INFO: Broadcast: 111: 肯定没戏
+2018-04-22 12:38:19 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-22 12:38:24 - Utils: INFO: Broadcast: David: n
+2018-04-22 12:38:25 - Utils: INFO: Broadcast: David: 能
+2018-04-22 12:38:29 - Utils: INFO: Broadcast: 111: 这个你没封
+2018-04-22 12:38:30 - Utils: INFO: Broadcast: 111: 挖
+2018-04-22 12:38:32 - Utils: INFO: Broadcast: 111: 哇
+2018-04-22 12:38:35 - Utils: INFO: Broadcast: David: 队
+2018-04-22 12:38:35 - Utils: INFO: Broadcast: 111: 早说啊
+2018-04-22 12:38:43 - Utils: INFO: Broadcast: David: 我去封
+2018-04-22 12:38:47 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 12:38:47 - Utils: INFO: Broadcast: David: 等我
+2018-04-22 12:39:02 - Utils: INFO: Broadcast: 111: 这个比刷东西还可吃
+2018-04-22 12:39:09 - Utils: INFO: Broadcast: David: 记得帮我挖些叶绿啊
+2018-04-22 12:39:09 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:39:12 - Utils: INFO: Broadcast: David: 谢谢啦
+2018-04-22 12:39:12 - Utils: INFO: Broadcast: 111: 嗯嗯
+2018-04-22 12:39:13 - Utils: INFO: Broadcast: 111: 现在就去
+2018-04-22 12:41:58 - Utils: INFO: Broadcast: David: [i:556]
+2018-04-22 12:42:00 - Utils: INFO: Broadcast: David: ahahahah
+2018-04-22 12:42:07 - Utils: INFO: Broadcast: KKJJL: NO
+2018-04-22 12:42:17 - Utils: INFO: Broadcast: David: YES
+2018-04-22 12:43:25 - Utils: INFO: Broadcast: KKJJL: 怎么会有在丛林箱里乱放神圣♂腚的人
+2018-04-22 12:43:32 - Utils: INFO: Broadcast: David: 233
+2018-04-22 12:43:50 - Utils: INFO: Broadcast: David: 等会一起世纪之花
+2018-04-22 12:43:55 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 12:46:14 - Utils: INFO: Broadcast: KKJJL: 力量魂有没有啊
+2018-04-22 12:48:55 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 12:48:55 - TShock: INFO: KKJJL disconnected.
+2018-04-22 12:49:01 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 12:49:05 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 12:49:05 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 12:49:20 - Utils: INFO: Broadcast: KKJJL: 有没有力量魂、
+2018-04-22 12:49:47 - Utils: INFO: Broadcast: 111: 哇
+2018-04-22 12:49:53 - Utils: INFO: Broadcast: 111: 我死回来了
+2018-04-22 12:50:03 - Utils: INFO: Broadcast: KKJJL: 有没有力量魂
+2018-04-22 12:50:10 - Utils: INFO: Broadcast: 111: 请问
+2018-04-22 12:50:17 - Utils: INFO: Broadcast: 111: 你没有力量魂
+2018-04-22 12:50:24 - Utils: INFO: Broadcast: KKJJL: 没有
+2018-04-22 12:50:27 - Utils: INFO: Broadcast: 111: 你是咋挖叶绿的？
+2018-04-22 12:50:36 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 12:50:41 - Utils: INFO: Broadcast: KKJJL: 不够
+2018-04-22 12:51:04 - Utils: INFO: Broadcast: 111: 你打都没打过
+2018-04-22 12:51:06 - Utils: INFO: Broadcast: 111: 你咋来的？
+2018-04-22 12:51:41 - Utils: INFO: Broadcast: KKJJL: 丛林里乱放神圣锭
+2018-04-22 12:51:52 - Utils: INFO: Broadcast: KKJJL: 是你？
+2018-04-22 12:52:00 - Utils: INFO: Broadcast: 111: 我可能知道是谁了
+2018-04-22 12:52:05 - Utils: INFO: Broadcast: 111: 昨天我们T了一个
+2018-04-22 12:52:08 - Utils: INFO: Broadcast: 111: 熊孩子
+2018-04-22 12:52:16 - Utils: INFO: Broadcast: KKJJL: KEIYi?
+2018-04-22 12:52:20 - Utils: INFO: Broadcast: 111: 对
+2018-04-22 12:52:30 - Utils: INFO: Broadcast: KKJJL: 他跑的贼快
+2018-04-22 12:52:36 - Utils: INFO: Broadcast: KKJJL: laihuo
+2018-04-22 12:52:40 - Utils: INFO: Broadcast: KKJJL: 来过我家
+2018-04-22 12:52:53 - Utils: INFO: Broadcast: 111: 还会瞬移
+2018-04-22 12:52:58 - Utils: INFO: Broadcast: KKJJL: 传送
+2018-04-22 12:53:20 - Utils: INFO: Broadcast: David: 啊？
+2018-04-22 12:53:25 - Utils: INFO: Broadcast: David: 打虫子不
+2018-04-22 12:53:28 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 12:53:29 - Utils: INFO: David executed: /warp yh.
+2018-04-22 12:53:31 - Utils: INFO: Broadcast: 111: 昨天那个熊孩子
+2018-04-22 12:53:37 - Utils: INFO: Broadcast: 111: 在这个图里面放装备了
+2018-04-22 12:53:38 - Utils: INFO: Broadcast: David: 来海边
+2018-04-22 12:53:43 - Utils: INFO: Broadcast: David: 什么装备
+2018-04-22 12:53:47 - Utils: INFO: Broadcast: David: 最好丢了
+2018-04-22 12:53:57 - Utils: INFO: Broadcast: 111: 哦对了
+2018-04-22 12:54:03 - Utils: INFO: Broadcast: 111: 你的叶绿我挖好了
+2018-04-22 12:54:06 - Utils: INFO: Broadcast: David: 1
+2018-04-22 12:54:07 - Utils: INFO: Broadcast: David: ！
+2018-04-22 12:54:10 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 12:54:12 - Utils: INFO: Broadcast: KKJJL: 各种魂和锭
+2018-04-22 12:54:12 - Utils: INFO: Broadcast: 111: [i/s62:1006]
+2018-04-22 12:54:20 - Utils: INFO: Broadcast: David: 学校
+2018-04-22 12:54:28 - Utils: INFO: Broadcast: KKJJL: 打虫子
+2018-04-22 12:54:40 - Utils: INFO: Broadcast: 111: 都放了什莫？
+2018-04-22 12:54:50 - Utils: INFO: Broadcast: KKJJL: 各种魂锭
+2018-04-22 12:54:56 - Utils: INFO: Broadcast: 111: 说一下名字啊
+2018-04-22 12:55:19 - Utils: INFO: Broadcast: KKJJL: 叶绿，力量，恐惧，时局
+2018-04-22 12:55:26 - Utils: INFO: Broadcast: David: 来海边
+2018-04-22 12:55:30 - Utils: INFO: David executed: /warp yh.
+2018-04-22 12:55:31 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 12:55:33 - Utils: INFO: Broadcast: 111: 好烦
+2018-04-22 12:55:36 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:55:37 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 12:55:39 - Utils: INFO: Server executed: /time night.
+2018-04-22 12:55:45 - Utils: INFO: Broadcast: KKJJL: 额
+2018-04-22 12:55:45 - Utils: INFO: David summoned the The Destroyer!
+2018-04-22 12:56:57 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:57:49 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 12:57:49 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 12:58:09 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 12:58:09 - TShock: INFO: 111 disconnected.
+2018-04-22 12:58:39 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:58:45 - Utils: INFO: Broadcast: KKJJL: D
+2018-04-22 12:58:50 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 12:58:57 - Utils: INFO: Broadcast: David: ?
+2018-04-22 12:59:12 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 12:59:12 - TShock: INFO: KKJJL disconnected.
+2018-04-22 12:59:13 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 12:59:17 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 12:59:18 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 12:59:18 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 12:59:21 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 12:59:22 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 12:59:22 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 12:59:28 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 12:59:36 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 13:00:14 - Utils: INFO: Broadcast: 111: 海盗入侵
+2018-04-22 13:00:23 - Utils: INFO: Broadcast: KKJJL: 我没拿到，很气
+2018-04-22 13:00:30 - Utils: INFO: Broadcast: 111: 多少个
+2018-04-22 13:00:34 - Utils: INFO: Broadcast: 111: 叶绿啊
+2018-04-22 13:00:53 - Utils: INFO: Broadcast: KKJJL: 你们打赢没
+2018-04-22 13:01:04 - Utils: INFO: Broadcast: KKJJL: 我每次打boos都卡
+2018-04-22 13:01:15 - Utils: INFO: Broadcast: 111: 我只想要 血药
+2018-04-22 13:01:57 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 13:02:21 - Utils: INFO: Broadcast: 111: 主机你也该加一个
+2018-04-22 13:02:24 - Utils: INFO: Broadcast: 111: 只灵芝
+2018-04-22 13:02:26 - Utils: INFO: Broadcast: 111: 指令
+2018-04-22 13:02:36 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:02:36 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:02:41 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 13:02:41 - TShock: INFO: 111 disconnected.
+2018-04-22 13:03:39 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 13:03:46 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 13:03:46 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 13:04:09 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 13:05:23 - Utils: INFO: Broadcast: David has left.
+2018-04-22 13:05:23 - TShock: INFO: David disconnected.
+2018-04-22 13:05:24 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 13:05:25 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 13:05:26 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (2/10)
+2018-04-22 13:05:26 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 13:05:46 - Utils: INFO: Broadcast: admin1: 没人玩啊
+2018-04-22 13:05:55 - Utils: INFO: Broadcast: 111: 我在玩啊
+2018-04-22 13:05:55 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 13:05:59 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 13:05:59 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 13:06:02 - Utils: INFO: Broadcast: admin1: ！
+2018-04-22 13:06:14 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 13:06:21 - Utils: INFO: Broadcast: admin1: !
+2018-04-22 13:06:26 - Utils: INFO: Broadcast: admin1: 500血
+2018-04-22 13:06:29 - Utils: INFO: Broadcast: admin1: 666
+2018-04-22 13:06:31 - Utils: INFO: Broadcast: 111: 终于500血了
+2018-04-22 13:06:35 - Utils: INFO: Broadcast: admin1: 666
+2018-04-22 13:06:45 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 13:07:00 - Utils: INFO: Broadcast: 111: 你在干嘛？
+2018-04-22 13:07:09 - Utils: INFO: Broadcast: admin1: [i:1291]
+2018-04-22 13:07:27 - Utils: INFO: Broadcast: admin1: 算 l
+2018-04-22 13:07:31 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 13:07:32 - Utils: INFO: Broadcast: admin1: 我开小号找吧
+2018-04-22 13:07:36 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 13:07:36 - TShock: INFO: 111 disconnected.
+2018-04-22 13:07:43 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 13:07:43 - TShock: INFO: admin1 disconnected.
+2018-04-22 13:07:43 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 13:07:45 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 13:07:46 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 13:07:46 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 13:07:49 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 13:08:03 - Utils: INFO: Broadcast: KKJJL: [i:1328]
+2018-04-22 13:08:03 - Utils: INFO: Broadcast: David: 为啥你们都掉线
+2018-04-22 13:08:17 - Utils: INFO: Broadcast: KKJJL: [i:1328][i:1328][i:1328][i:1328][i:1328][i:1328][i:1328][i:1328][i:1328][i:1328][i:1328]
+2018-04-22 13:08:21 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:08:21 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:08:31 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 13:08:35 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 13:08:35 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 13:08:43 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 13:08:43 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 13:09:07 - Utils: INFO: Broadcast: KKJJL: [i:1328]
+2018-04-22 13:09:11 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 13:09:13 - Utils: INFO: Broadcast: David: 666
+2018-04-22 13:09:15 - Utils: INFO: Broadcast: 111: 我不要
+2018-04-22 13:09:17 - Utils: INFO: Broadcast: 111: 我一个法师
+2018-04-22 13:09:23 - Utils: INFO: Broadcast: 111: 要毛线贵客
+2018-04-22 13:09:46 - Utils: INFO: Broadcast: KKJJL: 有没有力量魂啊
+2018-04-22 13:10:09 - Utils: INFO: Broadcast: KKJJL: 谢谢
+2018-04-22 13:10:24 - Utils: INFO: Broadcast: 111: 为什莫要有世纪之花
+2018-04-22 13:10:26 - Utils: INFO: Broadcast: 111: 这个东西
+2018-04-22 13:10:34 - Utils: INFO: Broadcast: 111: 还非要打它
+2018-04-22 13:10:59 - Utils: INFO: Broadcast: 111: 你钱多
+2018-04-22 13:11:00 - Utils: INFO: Broadcast: 111: 给我一地阿奴
+2018-04-22 13:11:15 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 13:11:41 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 13:11:51 - Utils: INFO: Broadcast: KKJJL: 真jb好玩
+2018-04-22 13:12:10 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 13:12:14 - Utils: INFO: Broadcast: KKJJL: [i/s15:520]
+2018-04-22 13:12:16 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:12:16 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:12:42 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 13:13:11 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:13:11 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:13:14 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 13:13:19 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 13:13:19 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 13:13:22 - Utils: INFO: Broadcast: 111: 延迟有一点小高
+2018-04-22 13:13:36 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 13:13:37 - Utils: INFO: Broadcast: David: 那我重启下？
+2018-04-22 13:13:43 - Utils: INFO: Broadcast: 111: 去打世纪之花
+2018-04-22 13:13:46 - Utils: INFO: Broadcast: 111: 不用
+2018-04-22 13:13:49 - Utils: INFO: Broadcast: 111: 现在不卡了
+2018-04-22 13:13:57 - Utils: INFO: Broadcast: 111: 去丛林
+2018-04-22 13:14:00 - Utils: INFO: Broadcast: 111: 打世纪之花
+2018-04-22 13:14:00 - Utils: INFO: Broadcast: KKJJL: [i/s15:520]
+2018-04-22 13:14:03 - Utils: INFO: Broadcast: 111: 咱们这样打字
+2018-04-22 13:14:04 - Utils: INFO: Broadcast: 111: 好累啊
+2018-04-22 13:14:08 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 13:14:10 - Utils: INFO: Broadcast: KKJJL: 要不要先打宝箱
+2018-04-22 13:14:11 - Utils: INFO: Broadcast: 111: 你们有没有麦克风？？
+2018-04-22 13:14:16 - Utils: INFO: Broadcast: KKJJL: 没有
+2018-04-22 13:14:19 - Utils: INFO: Broadcast: 111: 想语音不想打字了
+2018-04-22 13:14:20 - Utils: INFO: Broadcast: David: 群通话
+2018-04-22 13:14:21 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 13:14:23 - Utils: INFO: Broadcast: David: 用手机
+2018-04-22 13:14:27 - Utils: INFO: Broadcast: 111: 对
+2018-04-22 13:14:29 - Utils: INFO: Broadcast: 111: 房主
+2018-04-22 13:14:30 - Utils: INFO: Broadcast: 111: 发
+2018-04-22 13:14:31 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:14:31 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:14:33 - Utils: INFO: Broadcast: 111: 我进
+2018-04-22 13:15:01 - Utils: INFO: Broadcast: 111: 主机发群语音
+2018-04-22 13:15:06 - Utils: INFO: Broadcast: David: 艹
+2018-04-22 13:15:10 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-22 13:15:14 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 13:15:14 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-22 13:15:16 - Utils: INFO: Broadcast: 111: ？/
+2018-04-22 13:15:16 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 13:15:35 - Utils: INFO: Broadcast: 111: 辅助说话啊
+2018-04-22 13:15:39 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 13:15:42 - Utils: INFO: Broadcast: 111: 哇。。
+2018-04-22 13:15:46 - Utils: INFO: Broadcast: David: 手机没电
+2018-04-22 13:15:50 - Utils: INFO: Broadcast: David: 我用电脑
+2018-04-22 13:16:04 - Utils: INFO: Broadcast: 111: 那能说话吗？？？
+2018-04-22 13:16:09 - Utils: INFO: Broadcast: David: no
+2018-04-22 13:16:19 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 13:16:32 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 13:16:46 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 13:16:50 - Utils: INFO: KKJJL executed: /WARP YH.
+2018-04-22 13:17:19 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-22 13:17:19 - TShock: INFO: KKJJL disconnected.
+2018-04-22 13:17:23 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 13:17:23 - TShock: INFO: 111 disconnected.
+2018-04-22 13:20:02 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 13:20:02 - TShock: INFO: 111 disconnected.
+2018-04-22 13:20:04 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:20:04 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:20:06 - Utils: INFO: Server executed: /off.
+2018-04-22 13:20:06 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-22 13:20:06 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-22 13:20:06 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 13:20:06 - Utils: INFO: Broadcast: David has left.
+2018-04-22 13:20:06 - TShock: INFO: David disconnected.
+2018-04-22 13:20:07 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:20:07 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:20:09 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:20:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:20:09 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,1276 @@
+2018-04-15 17:14:04 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-15 17:14:04 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-15 17:14:04 - TShock: INFO: AutoSave Enabled
+2018-04-15 17:14:04 - TShock: INFO: Backups Disabled
+2018-04-15 17:14:04 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-15 17:14:36 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-15 17:14:42 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-15 17:14:42 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-15 17:16:53 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-15 17:16:59 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-15 17:16:59 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-15 17:19:19 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:19:19 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:21:49 - GetDataHandlers: INFO: MCL authenticated successfully as user MCL.
+2018-04-15 17:21:57 - TShock: INFO: MCL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 17:21:57 - Utils: INFO: Broadcast: MCL has joined.
+2018-04-15 17:22:20 - Utils: INFO: Broadcast: MCL: 大卫呢
+2018-04-15 17:24:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:24:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:24:53 - Utils: INFO: Broadcast: 111: [i:267]
+2018-04-15 17:25:00 - Utils: INFO: Broadcast: MCL: 别打
+2018-04-15 17:25:01 - TShock: INFO: 玄玉 (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-15 17:25:01 - Utils: INFO: Broadcast: 玄玉 has joined.
+2018-04-15 17:25:34 - Utils: INFO: Broadcast: 111: [i:122]
+2018-04-15 17:26:28 - Utils: INFO: Broadcast: 111: 去打骷髅王吧
+2018-04-15 17:26:40 - Utils: INFO: Broadcast: 111: King
+2018-04-15 17:26:47 - Utils: INFO: Broadcast: King~: a 
+2018-04-15 17:26:48 - Utils: INFO: Broadcast: MCL: 我凑
+2018-04-15 17:26:48 - Utils: INFO: Broadcast: 111: 你这石砖是哪里的？
+2018-04-15 17:27:02 - Utils: INFO: Broadcast: MCL: 新人输入/register 密码
+2018-04-15 17:27:05 - Utils: INFO: Broadcast: MCL: 举个例子
+2018-04-15 17:27:06 - Utils: INFO: Broadcast: King~: 陨石石转
+2018-04-15 17:27:12 - Utils: INFO: Broadcast: 111: 你真有钱
+2018-04-15 17:27:25 - Utils: INFO: Broadcast: King~: 陨石我够了
+2018-04-15 17:27:33 - Utils: INFO: Broadcast: MCL: 我凑
+2018-04-15 17:27:37 - Utils: INFO: Broadcast: MCL: 不让打
+2018-04-15 17:27:43 - Utils: INFO: Broadcast: 111: 去打骷髅王吧
+2018-04-15 17:27:55 - Utils: INFO: Broadcast: MCL: 反正就是/register 密码,输入完后输入/login 密码
+2018-04-15 17:28:04 - Utils: INFO: Broadcast: MCL: 两次密码要一样
+2018-04-15 17:28:17 - Utils: INFO: Broadcast: 玄玉 has left.
+2018-04-15 17:28:17 - TShock: INFO: 玄玉 disconnected.
+2018-04-15 17:29:11 - Utils: INFO: Broadcast: 111: 去打骷髅王吧
+2018-04-15 17:29:12 - Utils: INFO: Broadcast: 111: K
+2018-04-15 17:29:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:29:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:31:56 - Utils: INFO: Broadcast: MCL: 我把冰块拿走没事吧
+2018-04-15 17:32:02 - Utils: INFO: Broadcast: 111: 随意
+2018-04-15 17:32:15 - Utils: INFO: Broadcast: 111: 我要去打蜂王
+2018-04-15 17:32:50 - Utils: INFO: Broadcast: King~: 别乱拿
+2018-04-15 17:33:12 - Utils: INFO: Broadcast: MCL: 我只拿了雪
+2018-04-15 17:33:27 - Utils: INFO: Broadcast: King~: 为什么护士没来
+2018-04-15 17:33:33 - Utils: INFO: Broadcast: MCL: 不知道
+2018-04-15 17:33:38 - Utils: INFO: Broadcast: 111: 房主不够了
+2018-04-15 17:33:41 - Utils: INFO: Broadcast: 111: 傻呀
+2018-04-15 17:34:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:34:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:35:22 - Utils: INFO: Broadcast: King~: 怎么去低于
+2018-04-15 17:35:38 - Utils: INFO: Broadcast: MCL: 一直往下挖
+2018-04-15 17:39:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:39:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:42:04 - Utils: INFO: Broadcast: 111: 我请问
+2018-04-15 17:42:07 - Utils: INFO: Broadcast: 111: 你们在干嘛？
+2018-04-15 17:42:11 - Utils: INFO: Broadcast: MCL: 挖矿
+2018-04-15 17:42:17 - Utils: INFO: Broadcast: 111: 蜂王让我自己一个人打还有一丝血
+2018-04-15 17:42:19 - Utils: INFO: Broadcast: 111: 就是没人来
+2018-04-15 17:42:29 - Utils: INFO: Broadcast: MCL: 我这烂装备打不赢
+2018-04-15 17:42:35 - Utils: INFO: Broadcast: 111: 我自己一个人
+2018-04-15 17:42:44 - Utils: INFO: Broadcast: 111: 打的还剩一丝血
+2018-04-15 17:42:47 - Utils: INFO: Broadcast: 111: 打不过？/
+2018-04-15 17:43:07 - Utils: INFO: Broadcast: 111: 单纯的怀疑你们会不会玩
+2018-04-15 17:43:10 - Utils: INFO: Broadcast: MCL: 我就一把新手剑
+2018-04-15 17:43:39 - Utils: INFO: Broadcast: MCL: 有个克鲁苏盾牌我还好说，打怪直接往上撞
+2018-04-15 17:44:01 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-15 17:44:06 - Utils: INFO: Broadcast: MCL: 我才刚买飞行鞋
+2018-04-15 17:44:08 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 17:44:08 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-15 17:44:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:44:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:44:37 - Utils: INFO: Broadcast: 111: 我装备都完事了
+2018-04-15 17:44:48 - Utils: INFO: Broadcast: 111: 来一个
+2018-04-15 17:44:53 - Utils: INFO: Broadcast: 111: 和我一起打蜂王的
+2018-04-15 17:44:58 - Utils: INFO: Broadcast: 111: 绝对能过
+2018-04-15 17:45:03 - Utils: INFO: Broadcast: MCL: 我可以过来蹭一蹭么
+2018-04-15 17:45:05 - Utils: INFO: Broadcast: King~: WOWO 
+2018-04-15 17:45:06 - Utils: INFO: Broadcast: 111: 我朋友去上班了
+2018-04-15 17:45:10 - Utils: INFO: Broadcast: 111: 要不然早就过了
+2018-04-15 17:45:13 - Utils: INFO: Broadcast: 111: 走
+2018-04-15 17:45:23 - Utils: INFO: Broadcast: MCL: 我来蹭一蹭可以不
+2018-04-15 17:45:28 - Utils: INFO: Broadcast: 111: 来啊
+2018-04-15 17:45:36 - Utils: INFO: Broadcast: 111: 专家的
+2018-04-15 17:45:49 - Utils: INFO: Broadcast: 111: 你碰一下就有袋子
+2018-04-15 17:45:50 - Utils: INFO: Broadcast: 夜-胤笙: 我买了个披风
+2018-04-15 17:46:01 - Utils: INFO: Broadcast: King~: 哪里买的
+2018-04-15 17:46:12 - Utils: INFO: Broadcast: 夜-胤笙: 游商
+2018-04-15 17:46:21 - Utils: INFO: Broadcast: MCL: 时装
+2018-04-15 17:46:27 - Utils: INFO: Broadcast: MCL: 又不好看
+2018-04-15 17:46:49 - Utils: INFO: Broadcast: 夜-胤笙: 打蜂王
+2018-04-15 17:47:10 - Utils: INFO: Broadcast: 111: 快来
+2018-04-15 17:47:12 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-15 17:47:17 - Utils: INFO: Broadcast: 夜-胤笙: 蓝队
+2018-04-15 17:47:20 - Utils: INFO: Broadcast: 111: K
+2018-04-15 17:47:26 - Utils: INFO: Broadcast: King~: a
+2018-04-15 17:47:27 - Utils: INFO: Broadcast: 111: 是啥来着？
+2018-04-15 17:47:28 - Utils: INFO: Broadcast: King~: 啊
+2018-04-15 17:47:32 - Utils: INFO: Broadcast: 111: 指令
+2018-04-15 17:47:47 - Utils: INFO: Broadcast: King~: 、warp conlin
+2018-04-15 17:47:56 - Utils: INFO: Broadcast: 111: 你们快点
+2018-04-15 17:48:04 - Utils: INFO: Broadcast: 111: 打指令
+2018-04-15 17:48:06 - Utils: INFO: Broadcast: 111: 过来
+2018-04-15 17:48:10 - Utils: INFO: Broadcast: 111: conglin吧
+2018-04-15 17:48:11 - Utils: INFO: Broadcast: 夜-胤笙: 什么
+2018-04-15 17:48:14 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 17:48:16 - Utils: INFO: Broadcast: 夜-胤笙: 发一下
+2018-04-15 17:48:16 - Utils: INFO: Broadcast: King~: conlin
+2018-04-15 17:48:20 - Utils: INFO: Broadcast: MCL: 还有这个骚操作
+2018-04-15 17:48:22 - Utils: INFO: Broadcast: King~: 前鼻音
+2018-04-15 17:48:34 - Utils: INFO: Broadcast: 111: 前面那个点
+2018-04-15 17:48:36 - Utils: INFO: Broadcast: 111: 换成
+2018-04-15 17:48:37 - Utils: INFO: Broadcast: 111: /
+2018-04-15 17:48:38 - Utils: INFO: Broadcast: 111: 这个
+2018-04-15 17:48:48 - Utils: INFO: Broadcast: 夜-胤笙: 发完整的
+2018-04-15 17:48:50 - Utils: INFO: Broadcast: 111: 跟着我走
+2018-04-15 17:48:59 - Utils: INFO: Broadcast: 111: 完整的就触发了
+2018-04-15 17:49:01 - Utils: INFO: Broadcast: 111: 是不是傻
+2018-04-15 17:49:10 - Utils: INFO: Broadcast: 夜-胤笙: 再发
+2018-04-15 17:49:19 - Utils: INFO: 111 executed: /warp    conlin.
+2018-04-15 17:49:23 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:49:23 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:49:26 - Utils: INFO: 111 executed: /warp  .
+2018-04-15 17:49:32 - Utils: INFO: 111 executed: .warp.
+2018-04-15 17:49:36 - Utils: INFO: Broadcast: 111: 哎
+2018-04-15 17:49:38 - Utils: INFO: Broadcast: 111: 无语
+2018-04-15 17:49:45 - Utils: INFO: Broadcast: King~: 看QQ
+2018-04-15 17:49:47 - Utils: INFO: Broadcast: 111: 走
+2018-04-15 17:49:56 - Utils: INFO: Broadcast: 111: 我这里
+2018-04-15 17:49:59 - Utils: INFO: Broadcast: 111: 别摔死
+2018-04-15 17:50:10 - Utils: INFO: 夜-胤笙 executed: /warp conlinl.
+2018-04-15 17:50:16 - Utils: INFO: Broadcast: King~: 哇你看QQ啊
+2018-04-15 17:50:19 - Utils: INFO: Broadcast: King~: 给你发了、
+2018-04-15 17:50:26 - Utils: INFO: 夜-胤笙 executed: /warp coninl.
+2018-04-15 17:50:28 - Utils: INFO: Broadcast: 111: 走出发
+2018-04-15 17:51:01 - Utils: INFO: 夜-胤笙 executed: /warp conlinl.
+2018-04-15 17:51:05 - Utils: INFO: Broadcast: 夜-胤笙: 不行
+2018-04-15 17:51:22 - Utils: INFO: Broadcast: MCL: 哎我曹
+2018-04-15 17:51:29 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 17:51:36 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 17:51:36 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 17:51:37 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (5/10)
+2018-04-15 17:51:37 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 17:51:57 - Utils: INFO: 夜-胤笙 executed: /warp conlinl.
+2018-04-15 17:52:05 - Utils: INFO: admin1 executed: /warp conlin.
+2018-04-15 17:52:16 - Utils: INFO: Broadcast: 111: 做地形
+2018-04-15 17:52:17 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 17:52:17 - TShock: INFO: admin1 disconnected.
+2018-04-15 17:52:17 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 17:52:20 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-15 17:52:21 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 17:52:21 - Utils: INFO: Broadcast: David has joined.
+2018-04-15 17:52:46 - Utils: INFO: 夜-胤笙 executed: /warp conlinl .
+2018-04-15 17:52:49 - Utils: INFO: Broadcast: 111: 好了
+2018-04-15 17:52:51 - GetDataHandlers: INFO: 1 authenticated successfully as user 1.
+2018-04-15 17:52:58 - TShock: INFO: 1 (192.168.0.106) from 'default' group joined. (6/10)
+2018-04-15 17:52:58 - Utils: INFO: Broadcast: 1 has joined.
+2018-04-15 17:53:12 - Utils: INFO: Broadcast: MCL: 妈的智障
+2018-04-15 17:53:43 - Utils: INFO: David executed: /who.
+2018-04-15 17:53:46 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 17:53:55 - Utils: INFO: Broadcast: 111: 打妈？
+2018-04-15 17:54:01 - Utils: INFO: Broadcast: David: 打什么
+2018-04-15 17:54:03 - Utils: INFO: Broadcast: 111: 还是等他们
+2018-04-15 17:54:04 - Utils: INFO: Broadcast: King~: 随便
+2018-04-15 17:54:11 - Utils: INFO: Broadcast: King~: 能打过吗
+2018-04-15 17:54:15 - Utils: INFO: Broadcast: 111: 能
+2018-04-15 17:54:19 - Utils: INFO: Broadcast: MCL: 狗屁闪现
+2018-04-15 17:54:23 - Utils: INFO: Broadcast: MCL: 大都打不到
+2018-04-15 17:54:23 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:54:23 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 17:54:28 - Utils: INFO: Broadcast: 111: 注意走位就行
+2018-04-15 17:54:30 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 17:54:32 - Utils: INFO: Broadcast: King~: 我打过
+2018-04-15 17:54:37 - Utils: INFO: Broadcast: MCL: 直接瞬移到我身上
+2018-04-15 17:54:44 - Utils: INFO: Broadcast: David: = =
+2018-04-15 17:57:51 - Utils: INFO: MCL executed: /HELP.
+2018-04-15 17:57:57 - Utils: INFO: MCL executed: /warp.
+2018-04-15 17:58:12 - Utils: INFO: MCL executed: /warp xuexin'.
+2018-04-15 17:58:20 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 17:59:24 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 17:59:24 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:04:02 - Utils: INFO: 夜-胤笙 executed: /warp conlinl.
+2018-04-15 18:04:21 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 18:04:23 - Utils: INFO: Broadcast: 111: 你别动
+2018-04-15 18:04:24 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:04:24 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:04:37 - Utils: INFO: Broadcast: 夜-胤笙: 再把后面的指令发一下
+2018-04-15 18:04:39 - Utils: INFO: Broadcast: 夜-胤笙: 谢谢
+2018-04-15 18:05:04 - Utils: INFO: Broadcast: David has left.
+2018-04-15 18:05:04 - TShock: INFO: David disconnected.
+2018-04-15 18:06:32 - Utils: INFO: Broadcast: King~: 哇
+2018-04-15 18:06:42 - Utils: INFO: Broadcast: King~: 蜜蜂坐骑
+2018-04-15 18:06:44 - Utils: INFO: Broadcast: King~: 我的天
+2018-04-15 18:06:55 - Utils: INFO: Broadcast: 夜-胤笙: 指令发一下
+2018-04-15 18:07:00 - Utils: INFO: Broadcast: 111: 有没有蜜蜂抢
+2018-04-15 18:07:08 - Utils: INFO: Broadcast: King~: 没有
+2018-04-15 18:07:53 - Utils: INFO: Broadcast: 夜-胤笙: 好贵
+2018-04-15 18:08:12 - Utils: INFO: Broadcast: King~: 疯啦有吗
+2018-04-15 18:08:48 - Utils: INFO: Broadcast: 111: 有啊
+2018-04-15 18:08:57 - Utils: INFO: Broadcast: 111: 你开袋子不就有吗？
+2018-04-15 18:08:59 - Utils: INFO: Broadcast: 夜-胤笙: 指令发qq商
+2018-04-15 18:09:03 - Utils: INFO: Broadcast: 夜-胤笙: 上
+2018-04-15 18:09:12 - Utils: INFO: Broadcast: King~: 你有多少
+2018-04-15 18:09:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:09:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:09:30 - Utils: INFO: Broadcast: 111 has left.
+2018-04-15 18:09:30 - TShock: INFO: 111 disconnected.
+2018-04-15 18:09:38 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-15 18:09:38 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-15 18:09:51 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-15 18:09:57 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 18:09:57 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-15 18:11:24 - Utils: INFO: Broadcast: King~: 都有了
+2018-04-15 18:11:30 - Utils: INFO: 夜-胤笙 executed: /warp conlin.
+2018-04-15 18:12:51 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-15 18:13:58 - Utils: INFO: Broadcast: King~: 熔岩稿有没有
+2018-04-15 18:14:23 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 18:14:25 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:14:25 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:14:29 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 18:14:29 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 18:15:13 - Utils: INFO: 夜-胤笙 executed: /warp conlin.
+2018-04-15 18:15:18 - Utils: INFO: Broadcast: MCL: 鱼竿太贵了
+2018-04-15 18:15:21 - Utils: INFO: Broadcast: MCL: 买不起
+2018-04-15 18:16:27 - Utils: INFO: Broadcast: KKJJL: 打虫子不
+2018-04-15 18:17:50 - Utils: INFO: Broadcast: 夜-胤笙: 东西呢
+2018-04-15 18:17:53 - Utils: INFO: Broadcast: King~: 东西呢
+2018-04-15 18:17:57 - Utils: INFO: Broadcast: King~: 哇真的是
+2018-04-15 18:18:13 - Utils: INFO: Broadcast: 夜-胤笙: 不会是熊孩子吧
+2018-04-15 18:18:23 - Utils: INFO: Broadcast: KKJJL: 1?
+2018-04-15 18:18:26 - Utils: INFO: Broadcast: KKJJL: 乱挖
+2018-04-15 18:18:32 - Utils: INFO: Broadcast: 1: emm
+2018-04-15 18:18:36 - Utils: INFO: Broadcast: 夜-胤笙: 淦
+2018-04-15 18:19:05 - Utils: INFO: 夜-胤笙 summoned the Eye of Cthulhu!
+2018-04-15 18:19:26 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:19:26 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:19:33 - Utils: INFO: Broadcast: King~: 谁买个工匠作坊
+2018-04-15 18:21:40 - Utils: INFO: Broadcast: 1: 我的钱
+2018-04-15 18:21:45 - Utils: INFO: Broadcast: MCL: 傻逼吧
+2018-04-15 18:21:51 - Utils: INFO: Broadcast: MCL: 拿过来
+2018-04-15 18:21:51 - Utils: INFO: Broadcast: 1: emm
+2018-04-15 18:22:02 - Utils: INFO: Broadcast: 夜-胤笙: 病吧
+2018-04-15 18:22:06 - Utils: INFO: Broadcast: 夜-胤笙: 我召唤的
+2018-04-15 18:22:09 - Utils: INFO: Broadcast: MCL: 一人一个
+2018-04-15 18:22:11 - Utils: INFO: Broadcast: KKJJL: [i/p69:3097]
+2018-04-15 18:22:13 - Utils: INFO: Broadcast: MCL: 召唤带
+2018-04-15 18:22:16 - Utils: INFO: Broadcast: MCL: 拿过来
+2018-04-15 18:22:20 - Utils: INFO: Broadcast: MCL: 老子的
+2018-04-15 18:22:21 - Utils: INFO: Broadcast: KKJJL: ？
+2018-04-15 18:22:25 - Utils: INFO: Broadcast: MCL: 劳资开出来的
+2018-04-15 18:22:29 - Utils: INFO: Broadcast: MCL: 被你拿了
+2018-04-15 18:22:35 - Utils: INFO: Broadcast: 夜-胤笙: 自己过来
+2018-04-15 18:22:35 - Utils: INFO: Broadcast: KKJJL: 没有啊
+2018-04-15 18:22:40 - Utils: INFO: Broadcast: MCL: 我他妈
+2018-04-15 18:22:53 - Utils: INFO: Broadcast: KKJJL: [i/s23:2674][i/s2:2350][i/s7:3094][i:43][i/s4:188][i/s182:56][i:3213][i/s4:5][i/s125:23][i/s45:161][i:398][i:1683][i/s2:40][i:38][i:2928][i/s50:3111][i/p69:3097][i/s2:59][i/s13:14][i:2322][i/s2:75][i:94][i/s3:9][i:3824][i:2289][i/s43:8][i:50][i/p60:98][i/p54:3278][i/p42:3498][i:3512][i:3485][i/p59:3520]
+2018-04-15 18:23:07 - Utils: INFO: Broadcast: MCL: 拿到了
+2018-04-15 18:23:10 - Utils: INFO: Broadcast: KKJJL: ？
+2018-04-15 18:23:19 - Utils: INFO: Broadcast: MCL: 你的克鲁苏蹲
+2018-04-15 18:23:21 - Utils: INFO: Broadcast: MCL: 俩
+2018-04-15 18:23:35 - Utils: INFO: Broadcast: KKJJL: 财报袋，刚刚开的
+2018-04-15 18:23:45 - Utils: INFO: Broadcast: MCL: 我开了一个被你拿走了
+2018-04-15 18:23:50 - Utils: INFO: Broadcast: MCL: 还打算卖钱
+2018-04-15 18:23:51 - Utils: INFO: Broadcast: King~: KKJJL你把工匠作坊放一下
+2018-04-15 18:23:53 - Utils: INFO: Broadcast: KKJJL: [i/p69:3097][i/p64:3097]
+2018-04-15 18:23:57 - Utils: INFO: Broadcast: 夜-胤笙: 两个财报袋？
+2018-04-15 18:24:03 - Utils: INFO: Broadcast: MCL: 一人一个
+2018-04-15 18:24:07 - Utils: INFO: Broadcast: MCL: 拿了我一个
+2018-04-15 18:24:12 - Utils: INFO: Broadcast: MCL: 一个袋子只开得出一个
+2018-04-15 18:24:14 - Utils: INFO: Broadcast: KKJJL: 那次谁人品爆发直接出
+2018-04-15 18:24:17 - Utils: INFO: Broadcast: 夜-胤笙: 爆两个？
+2018-04-15 18:24:26 - Utils: INFO: Broadcast: KKJJL: 眼睛，那次我参加了
+2018-04-15 18:24:27 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:24:27 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:24:27 - Utils: INFO: Broadcast: MCL: 一个是我的
+2018-04-15 18:24:28 - Utils: INFO: Broadcast: 夜-胤笙: 袋子？
+2018-04-15 18:24:34 - Utils: INFO: Broadcast: KKJJL: 一个这次
+2018-04-15 18:24:35 - Utils: INFO: Broadcast: MCL: 我参加了四次
+2018-04-15 18:24:37 - Utils: INFO: Broadcast: 夜-胤笙: 你不早开
+2018-04-15 18:24:38 - Utils: INFO: Broadcast: MCL: 只拿到一个
+2018-04-15 18:24:39 - Utils: INFO: Broadcast: KKJJL: 一个上次
+2018-04-15 18:24:54 - Utils: INFO: Broadcast: KKJJL: 昨天晚上那次，和今天
+2018-04-15 18:25:00 - Utils: INFO: Broadcast: KKJJL: 就两个
+2018-04-15 18:25:15 - Utils: INFO: Broadcast: MCL: 挂机
+2018-04-15 18:26:14 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:26:14 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 18:26:15 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (6/10)
+2018-04-15 18:26:15 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 18:26:17 - Utils: INFO: Broadcast: King~: 谁啊tm跟SB一样乱拿别人东西
+2018-04-15 18:26:21 - Utils: INFO: Broadcast: admin1: 嘿
+2018-04-15 18:26:25 - Utils: INFO: Broadcast: KKJJL: 这里
+2018-04-15 18:26:30 - Utils: INFO: Broadcast: KKJJL: 作坊
+2018-04-15 18:26:30 - Utils: INFO: Broadcast: admin1: 这个房子谁造的
+2018-04-15 18:26:41 - Utils: INFO: Broadcast: admin1: 房主是谁
+2018-04-15 18:26:43 - Utils: INFO: Broadcast: 1 has left.
+2018-04-15 18:26:43 - TShock: INFO: 1 disconnected.
+2018-04-15 18:26:44 - Utils: INFO: Broadcast: 夜-胤笙: 下面东西没了
+2018-04-15 18:26:54 - Utils: INFO: Broadcast: admin1: 知道
+2018-04-15 18:27:01 - Utils: INFO: Broadcast: King~: 你们能不能不要乱拿
+2018-04-15 18:27:01 - Utils: INFO: Broadcast: admin1: 房主是谁
+2018-04-15 18:27:09 - Utils: INFO: Broadcast: 夜-胤笙: 不知道
+2018-04-15 18:27:12 - Utils: INFO: Broadcast: admin1: 。。。。
+2018-04-15 18:27:29 - Utils: INFO: Broadcast: King~: 别人辛辛苦苦得到的东西你们就乱拿有没有点良心？
+2018-04-15 18:27:32 - Utils: INFO: Broadcast: admin1: 那我把那里圈了
+2018-04-15 18:27:36 - Utils: INFO: Broadcast: admin1: 圈地
+2018-04-15 18:27:46 - Utils: INFO: admin1 executed: /house define.
+2018-04-15 18:27:47 - Utils: INFO: Broadcast: 夜-胤笙: king圈地
+2018-04-15 18:27:54 - Utils: INFO: Broadcast: KKJJL: 有人帮我打虫子不
+2018-04-15 18:27:59 - Utils: INFO: Broadcast: 夜-胤笙: 别人拿不了
+2018-04-15 18:28:02 - Utils: INFO: admin1 executed: /house define.
+2018-04-15 18:28:22 - Utils: INFO: Broadcast: 夜-胤笙: 你什么丢了
+2018-04-15 18:28:39 - Utils: INFO: Broadcast: King~: 陨石砖块
+2018-04-15 18:28:54 - Utils: INFO: Broadcast: 夜-胤笙: 是下面人吗
+2018-04-15 18:29:04 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:29:06 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 18:29:06 - TShock: INFO: admin1 disconnected.
+2018-04-15 18:29:06 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:29:27 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:29:27 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:30:16 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:30:16 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 18:30:17 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (5/10)
+2018-04-15 18:30:17 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 18:31:06 - Utils: INFO: Broadcast: admin1: 输入/house define
+2018-04-15 18:31:11 - Utils: INFO: Broadcast: admin1: 用扳手圈地
+2018-04-15 18:31:16 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:31:26 - Utils: INFO: Broadcast: King~: 怎么犬
+2018-04-15 18:31:33 - Utils: INFO: Broadcast: admin1: 点左上角
+2018-04-15 18:31:35 - Utils: INFO: Broadcast: 夜-胤笙: 能弄成两个人的吗
+2018-04-15 18:31:38 - Utils: INFO: Broadcast: admin1: 再点右下角
+2018-04-15 18:31:43 - Utils: INFO: Broadcast: admin1: 能的
+2018-04-15 18:32:25 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:32:51 - Utils: INFO: Broadcast: 夜-胤笙: 怎么弄
+2018-04-15 18:32:53 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:33:22 - Utils: INFO: admin1 executed: /tp ki.
+2018-04-15 18:33:35 - Utils: INFO: Broadcast: admin1: 你圈了地吗
+2018-04-15 18:33:40 - Utils: INFO: Broadcast: admin1: king
+2018-04-15 18:33:40 - Utils: INFO: Broadcast: King~: haimeide
+2018-04-15 18:33:46 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:34:03 - Utils: INFO: admin1 executed: /tp ki.
+2018-04-15 18:34:04 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:34:07 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:34:28 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:34:28 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:35:10 - Utils: INFO: King~ executed: /house define.
+2018-04-15 18:35:33 - Utils: INFO: Broadcast: King~: /
+2018-04-15 18:35:58 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 18:35:58 - TShock: INFO: admin1 disconnected.
+2018-04-15 18:35:58 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 18:36:00 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-15 18:36:01 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 18:36:01 - Utils: INFO: Broadcast: David has joined.
+2018-04-15 18:37:01 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-15 18:37:01 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-15 18:37:20 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-15 18:37:56 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-15 18:37:56 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-15 18:37:56 - Utils: INFO: Broadcast: David has left.
+2018-04-15 18:37:56 - TShock: INFO: David disconnected.
+2018-04-15 18:38:03 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 18:38:03 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-15 18:38:23 - Utils: INFO: Broadcast: 夜-胤笙: 有到海边的指令吗
+2018-04-15 18:39:28 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:39:28 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:44:29 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:44:29 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:49:20 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 18:49:20 - TShock: INFO: KKJJL disconnected.
+2018-04-15 18:49:25 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 18:49:29 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:49:29 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:49:31 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 18:49:31 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 18:49:37 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 18:49:37 - TShock: INFO: KKJJL disconnected.
+2018-04-15 18:49:42 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 18:49:48 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 18:49:48 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 18:50:31 - Utils: INFO: Broadcast: King~: 你这是啥
+2018-04-15 18:50:58 - Utils: INFO: Broadcast: King~: 为何你如此优秀
+2018-04-15 18:51:15 - Utils: INFO: Broadcast: King~: 你去我家住啊QAQ
+2018-04-15 18:51:26 - Utils: INFO: Broadcast: 夜-胤笙: 不知道怎么弄
+2018-04-15 18:51:36 - Utils: INFO: Broadcast: King~: 问群主吗
+2018-04-15 18:51:37 - Utils: INFO: Broadcast: 夜-胤笙: 权限
+2018-04-15 18:52:14 - Utils: INFO: Broadcast: MCL: 我凑
+2018-04-15 18:52:24 - Utils: INFO: Broadcast: KKJJL: 召唤我怎么做
+2018-04-15 18:53:03 - Utils: INFO: Broadcast: MCL: 这谁挖的
+2018-04-15 18:53:29 - Utils: INFO: Broadcast: KKJJL: 1?
+2018-04-15 18:53:44 - Utils: INFO: Broadcast: King~: 你怎么上来的
+2018-04-15 18:54:30 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:54:30 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:55:08 - Utils: INFO: Broadcast: KKJJL: [i:70]来打虫子
+2018-04-15 18:55:36 - Utils: INFO: Broadcast: MCL: 可以了
+2018-04-15 18:55:40 - Utils: INFO: KKJJL summoned the Eater of Worlds!
+2018-04-15 18:57:25 - Utils: INFO: Broadcast: KKJJL: ?
+2018-04-15 18:57:41 - Utils: INFO: Broadcast: KKJJL: 虫子呢
+2018-04-15 18:57:57 - Utils: INFO: Broadcast: MCL: 全死了
+2018-04-15 18:57:59 - Utils: INFO: Broadcast: MCL: 消失了
+2018-04-15 18:58:15 - Utils: INFO: Broadcast: MCL: 掩护我造平台OK？
+2018-04-15 18:58:23 - Utils: INFO: Broadcast: MCL: 待会站在平台上赖
+2018-04-15 18:58:31 - Utils: INFO: Broadcast: KKJJL: OJBK
+2018-04-15 18:58:33 - Utils: INFO: Broadcast: King~: 矿车打发
+2018-04-15 18:58:40 - Utils: INFO: Broadcast: King~: 用矿车打
+2018-04-15 18:58:49 - Utils: INFO: Broadcast: MCL: 撞他？？
+2018-04-15 18:58:58 - Utils: INFO: Broadcast: King~: 矿车有上海的
+2018-04-15 18:59:03 - Utils: INFO: Broadcast: MCL: 没有那么多铁给你造铁轨啊
+2018-04-15 18:59:13 - Utils: INFO: Broadcast: King~: 我有 
+2018-04-15 18:59:24 - Utils: INFO: Broadcast: KKJJL: 上海矿车，讲究
+2018-04-15 18:59:30 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 18:59:30 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 18:59:38 - Utils: INFO: Broadcast: KKJJL: 北京矿车要不要
+2018-04-15 19:01:08 - Utils: INFO: Broadcast: King~: 看！
+2018-04-15 19:01:20 - Utils: INFO: Broadcast: 夜-胤笙: 玻璃吗
+2018-04-15 19:01:24 - Utils: INFO: Broadcast: King~: 不是
+2018-04-15 19:01:26 - Utils: INFO: Broadcast: 夜-胤笙: 有
+2018-04-15 19:01:30 - Utils: INFO: Broadcast: 夜-胤笙: 玻璃吗
+2018-04-15 19:01:31 - Utils: INFO: Broadcast: King~: 王潮墓
+2018-04-15 19:01:48 - Utils: INFO: Broadcast: MCL: 撞他啊
+2018-04-15 19:03:23 - Utils: INFO: Broadcast: MCL: 我的金币
+2018-04-15 19:03:31 - Utils: INFO: Broadcast: KKJJL: 爆了
+2018-04-15 19:03:36 - Utils: INFO: Broadcast: KKJJL: [i:956]
+2018-04-15 19:03:44 - Utils: INFO: Broadcast: MCL: 你需要吗？
+2018-04-15 19:04:31 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:04:31 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:04:41 - Utils: INFO: Broadcast: MCL: 我凑
+2018-04-15 19:04:44 - Utils: INFO: Broadcast: MCL: 这么恶心
+2018-04-15 19:07:39 - Utils: INFO: Broadcast: MCL: 我凑
+2018-04-15 19:08:00 - Utils: INFO: Broadcast: MCL: 我就这么招人喜欢？？？
+2018-04-15 19:09:04 - Utils: INFO: Broadcast: KKJJL: 大虫子要早上？
+2018-04-15 19:09:11 - Utils: INFO: Broadcast: MCL: 白天到
+2018-04-15 19:09:12 - Utils: INFO: Broadcast: MCL: 的
+2018-04-15 19:09:32 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:09:32 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:11:07 - Utils: INFO: Broadcast: 夜-胤笙: 有什么建筑材料没
+2018-04-15 19:11:13 - Utils: INFO: Broadcast: King~: 魔力
+2018-04-15 19:11:17 - Utils: INFO: Broadcast: King~: 玻璃
+2018-04-15 19:11:17 - Utils: INFO: Broadcast: KKJJL: 比如？
+2018-04-15 19:11:25 - Utils: INFO: Broadcast: 夜-胤笙: 红木
+2018-04-15 19:11:25 - Utils: INFO: Broadcast: King~: 王潮墓
+2018-04-15 19:11:36 - Utils: INFO: Broadcast: KKJJL: 都没有
+2018-04-15 19:11:36 - Utils: INFO: Broadcast: King~: 陨石砖块
+2018-04-15 19:11:37 - Utils: INFO: Broadcast: KKJJL: 233
+2018-04-15 19:12:06 - Utils: INFO: Broadcast: MCL: 打不打史莱姆王
+2018-04-15 19:12:18 - Utils: INFO: Broadcast: MCL: 我召唤你们打
+2018-04-15 19:12:58 - Utils: INFO: Broadcast: MCL: 给我两个皇冠可以不
+2018-04-15 19:13:06 - Utils: INFO: Broadcast: MCL: 我做史莱姆王的召唤物
+2018-04-15 19:13:08 - Utils: INFO: Broadcast: King~: 一个
+2018-04-15 19:13:15 - Utils: INFO: Broadcast: King~: 随你吧
+2018-04-15 19:13:39 - Utils: INFO: Broadcast: MCL: 又得去找恶魔祭坛
+2018-04-15 19:14:32 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:14:32 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:14:39 - Utils: INFO: Broadcast: KKJJL: 谢谢
+2018-04-15 19:14:44 - Utils: INFO: Broadcast: MCL: KKJJL
+2018-04-15 19:14:49 - Utils: INFO: Broadcast: MCL: 打不打史莱姆王
+2018-04-15 19:15:01 - Utils: INFO: Broadcast: KKJJL: 先打虫子
+2018-04-15 19:15:05 - Utils: INFO: Broadcast: MCL: OJBK
+2018-04-15 19:15:14 - Utils: INFO: KKJJL summoned the Eater of Worlds!
+2018-04-15 19:15:36 - Utils: INFO: Broadcast: KKJJL: 平台太高了
+2018-04-15 19:15:42 - Utils: INFO: Broadcast: KKJJL: emmm
+2018-04-15 19:15:45 - Utils: INFO: Broadcast: MCL: 好吧
+2018-04-15 19:15:46 - Utils: INFO: KKJJL summoned the Eater of Worlds!
+2018-04-15 19:16:08 - Utils: INFO: Broadcast: MCL: emmmm
+2018-04-15 19:16:18 - Utils: INFO: Broadcast: MCL: 为啥抓着我打
+2018-04-15 19:17:56 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-15 19:17:56 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-15 19:19:33 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:19:33 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:19:43 - Utils: INFO: KKJJL summoned the Eater of Worlds!
+2018-04-15 19:20:48 - Utils: INFO: Broadcast: MCL: 劳资炸死你个大虫子
+2018-04-15 19:21:00 - Utils: INFO: Broadcast: MCL: 99个地雷
+2018-04-15 19:21:20 - Utils: INFO: Broadcast: MCL: 等我吃完饭回来
+2018-04-15 19:21:45 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-15 19:21:52 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 19:21:52 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-15 19:22:32 - Utils: INFO: Broadcast: 111: K你折磨无聊的妈
+2018-04-15 19:23:37 - Utils: INFO: Broadcast: KKJJL: 真吉儿艰苦
+2018-04-15 19:23:43 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-15 19:23:50 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 19:23:50 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-15 19:24:18 - Utils: INFO: Broadcast: 111: 去不去打蜂王啊
+2018-04-15 19:24:22 - Utils: INFO: Broadcast: 111: 刷出密封抢
+2018-04-15 19:24:25 - Utils: INFO: Broadcast: 111: 打骷髅王
+2018-04-15 19:24:26 - Utils: INFO: Broadcast: MCL: 来主城
+2018-04-15 19:24:29 - Utils: INFO: Broadcast: MCL: 大史莱姆王
+2018-04-15 19:24:33 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:24:33 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:24:45 - Utils: INFO: Broadcast: MCL: 快下来
+2018-04-15 19:25:33 - Utils: INFO: MCL summoned the King Slime!
+2018-04-15 19:25:47 - Utils: INFO: Broadcast: MCL: 诶我擦哦
+2018-04-15 19:27:17 - Utils: INFO: Broadcast: King~: 两个坐骑
+2018-04-15 19:27:22 - Utils: INFO: Broadcast: 夜-胤笙: 抓钩
+2018-04-15 19:27:32 - Utils: INFO: Broadcast: King~: 抓钩我也有
+2018-04-15 19:27:40 - Utils: INFO: Broadcast: MCL: 再来？？
+2018-04-15 19:28:13 - Utils: INFO: 夜-胤笙 executed: /warp conlin.
+2018-04-15 19:28:17 - Utils: INFO: Broadcast: MCL: 我先吃饭
+2018-04-15 19:28:24 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 19:28:24 - TShock: INFO: KKJJL disconnected.
+2018-04-15 19:28:29 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 19:28:35 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 19:28:35 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 19:28:42 - Utils: INFO: Broadcast: 111: K那个
+2018-04-15 19:28:45 - Utils: INFO: Broadcast: 111: 传送前面那个
+2018-04-15 19:28:48 - Utils: INFO: Broadcast: 111: 是什莫来着？
+2018-04-15 19:29:34 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:29:34 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:29:42 - Utils: INFO: KKJJL summoned the Eye of Cthulhu!
+2018-04-15 19:30:25 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 19:32:46 - Utils: INFO: Server executed: /bloodmoon.
+2018-04-15 19:34:34 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:34:34 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:34:38 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 19:34:38 - TShock: INFO: KKJJL disconnected.
+2018-04-15 19:34:43 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-15 19:34:49 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-15 19:34:49 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-15 19:34:54 - Utils: INFO: Broadcast: 111: 谁有瓶子
+2018-04-15 19:35:03 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-15 19:35:03 - TShock: INFO: KKJJL disconnected.
+2018-04-15 19:37:36 - Utils: INFO: Broadcast: 夜-胤笙: 铁没
+2018-04-15 19:37:44 - Utils: INFO: Broadcast: 夜-胤笙: 有铁没
+2018-04-15 19:37:53 - Utils: INFO: Broadcast: King~: 有没有墨镜
+2018-04-15 19:37:59 - Utils: INFO: Broadcast: King~: 魔镜
+2018-04-15 19:38:02 - Utils: INFO: Broadcast: 夜-胤笙: 没
+2018-04-15 19:38:13 - Utils: INFO: Broadcast: 夜-胤笙: 我就一个
+2018-04-15 19:38:24 - Utils: INFO: Broadcast: King~: 我的不见了..
+2018-04-15 19:39:17 - Utils: INFO: Broadcast: 夜-胤笙: 我要铁桶
+2018-04-15 19:39:35 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:39:35 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:39:55 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-15 19:39:55 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-15 19:40:13 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 19:43:16 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 19:43:36 - Utils: INFO: King~ executed: /warp dilao.
+2018-04-15 19:44:36 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:44:36 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:45:16 - Utils: INFO: Broadcast: King~ has left.
+2018-04-15 19:45:16 - TShock: INFO: King~ disconnected.
+2018-04-15 19:45:20 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-15 19:45:26 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 19:45:26 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-15 19:45:55 - Utils: INFO: Broadcast: MCL: 我哪来这么多克鲁苏之盾
+2018-04-15 19:46:09 - Utils: INFO: Broadcast: MCL: 还打史莱姆王不
+2018-04-15 19:46:13 - Utils: INFO: Broadcast: MCL: 我这还一个
+2018-04-15 19:48:27 - Utils: INFO: Broadcast: MCL: 我来帮你
+2018-04-15 19:49:16 - Utils: INFO: Broadcast: King~: 我自己来吧
+2018-04-15 19:49:24 - Utils: INFO: Broadcast: MCL: 你打，我按
+2018-04-15 19:49:36 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:49:36 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:49:51 - Utils: INFO: Broadcast: King~ has left.
+2018-04-15 19:49:51 - TShock: INFO: King~ disconnected.
+2018-04-15 19:50:48 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-15 19:50:55 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 19:50:55 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-15 19:53:02 - Utils: INFO: Broadcast: MCL: 打史莱姆王
+2018-04-15 19:53:12 - Utils: INFO: Broadcast: King~: 我这是什么群起
+2018-04-15 19:53:14 - Utils: INFO: Broadcast: King~: 运气
+2018-04-15 19:53:21 - Utils: INFO: Broadcast: 111: ？？
+2018-04-15 19:53:24 - Utils: INFO: Broadcast: MCL: 难刷吧
+2018-04-15 19:53:29 - Utils: INFO: Broadcast: King~: 好难
+2018-04-15 19:53:34 - Utils: INFO: Broadcast: 111: 你们要刷神魔啊
+2018-04-15 19:53:38 - Utils: INFO: Broadcast: 111: 猪？
+2018-04-15 19:53:44 - Utils: INFO: Broadcast: MCL: 诶
+2018-04-15 19:53:47 - Utils: INFO: Broadcast: MCL: 我弄到了
+2018-04-15 19:54:37 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:54:37 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:56:05 - Utils: INFO: Broadcast: MCL: 让我休息下
+2018-04-15 19:56:11 - Utils: INFO: Broadcast: King~: 哈哈哈哈哈哈或
+2018-04-15 19:56:27 - Utils: INFO: Broadcast: MCL: 哎呦我去累死了
+2018-04-15 19:56:31 - Utils: INFO: Broadcast: King~ has left.
+2018-04-15 19:56:31 - TShock: INFO: King~ disconnected.
+2018-04-15 19:56:52 - Utils: INFO: Broadcast: MCL: 舒服
+2018-04-15 19:58:29 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-15 19:58:39 - Utils: INFO: Broadcast: 111: 你确定能爆出来？
+2018-04-15 19:58:46 - Utils: INFO: Broadcast: MCL: 我刷出来了
+2018-04-15 19:59:37 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 19:59:37 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 19:59:47 - Utils: INFO: Broadcast: MCL: 增加5%的盔甲穿透
+2018-04-15 19:59:57 - Utils: INFO: Broadcast: MCL: 鲨牙项链
+2018-04-15 20:00:23 - Utils: INFO: Broadcast: MCL: 好刺激
+2018-04-15 20:01:22 - Utils: INFO: Broadcast: 111: 跟我去打封王吗？
+2018-04-15 20:01:27 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:01:30 - Utils: INFO: Broadcast: MCL: 先打史莱姆王
+2018-04-15 20:01:38 - Utils: INFO: Broadcast: 111: 那你做召唤物啊
+2018-04-15 20:01:42 - Utils: INFO: Broadcast: MCL: 有了
+2018-04-15 20:01:48 - Utils: INFO: Broadcast: MCL: 3
+2018-04-15 20:01:53 - Utils: INFO: Broadcast: 111: 等一下
+2018-04-15 20:01:54 - Utils: INFO: Broadcast: MCL: 主城
+2018-04-15 20:02:13 - Utils: INFO: MCL summoned the King Slime!
+2018-04-15 20:02:14 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:02:14 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 20:02:15 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-15 20:02:15 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 20:02:25 - Utils: INFO: Broadcast: admin1: 血月还没过？
+2018-04-15 20:02:37 - Utils: INFO: Broadcast: 111: ？？
+2018-04-15 20:02:43 - Utils: INFO: admin1 executed: /time.
+2018-04-15 20:02:47 - Utils: INFO: admin1 executed: /time noon.
+2018-04-15 20:02:50 - Utils: INFO: Broadcast: 111: 房主
+2018-04-15 20:02:54 - Utils: INFO: Broadcast: 111: 帮我做一个比
+2018-04-15 20:02:59 - Utils: INFO: Broadcast: 111: 来帮我打蜂王
+2018-04-15 20:03:00 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 20:03:00 - TShock: INFO: admin1 disconnected.
+2018-04-15 20:03:00 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:03:01 - Utils: INFO: Broadcast: MCL: 挖槽我没有宝藏带
+2018-04-15 20:03:13 - Utils: INFO: Broadcast: 111: 走吧
+2018-04-15 20:03:17 - Utils: INFO: Broadcast: MCL: 等我会
+2018-04-15 20:03:19 - Utils: INFO: Broadcast: 111: 打蜂王吧
+2018-04-15 20:03:20 - Utils: INFO: Broadcast: MCL: 卖东西
+2018-04-15 20:03:22 - Utils: INFO: Broadcast: MCL: 买装备
+2018-04-15 20:04:13 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-15 20:04:16 - Utils: INFO: Broadcast: 111: 猪呢？
+2018-04-15 20:04:38 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:04:38 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:04:41 - Utils: INFO: Broadcast: MCL: 我买一个
+2018-04-15 20:04:55 - Utils: INFO: Broadcast: 111: 、
+2018-04-15 20:05:04 - Utils: INFO: Broadcast: 111: ·
+2018-04-15 20:05:04 - Utils: INFO: Broadcast: MCL: 诶我擦
+2018-04-15 20:05:08 - Utils: INFO: Broadcast: MCL: 被吞掉了
+2018-04-15 20:05:15 - Utils: INFO: Broadcast: 111: [i/s8:1133]
+2018-04-15 20:05:39 - Utils: INFO: Broadcast: MCL: 来
+2018-04-15 20:05:39 - Utils: INFO: Broadcast: 111: 去打蜂王吧
+2018-04-15 20:06:35 - Utils: INFO: Broadcast: 111: 下面我种南瓜了
+2018-04-15 20:06:37 - Utils: INFO: Broadcast: 111: 别打
+2018-04-15 20:06:40 - Utils: INFO: Broadcast: MCL: 嗯
+2018-04-15 20:06:46 - Utils: INFO: Broadcast: MCL: 以后打南瓜月吧
+2018-04-15 20:06:56 - Utils: INFO: Broadcast: 111: 先去打蜂王
+2018-04-15 20:07:04 - Utils: INFO: Broadcast: 111: 咱俩先刷出密封抢
+2018-04-15 20:07:09 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:07:09 - Utils: INFO: Broadcast: 111: 然后去打骷髅王
+2018-04-15 20:07:13 - Utils: INFO: Broadcast: MCL: 我到了
+2018-04-15 20:07:24 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:07:27 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:08:10 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-15 20:08:32 - Utils: INFO: Broadcast: MCL: 诶我擦
+2018-04-15 20:08:37 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:09:36 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 20:09:39 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:09:39 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:10:42 - Utils: INFO: Broadcast: MCL: 我凑？？？
+2018-04-15 20:10:51 - Utils: INFO: Server executed: /bloodmoon.
+2018-04-15 20:10:53 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 20:11:47 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:11:55 - Utils: INFO: Broadcast: MCL: 别走啊
+2018-04-15 20:12:03 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:12:07 - Utils: INFO: Broadcast: 111: 我点错了
+2018-04-15 20:12:19 - Utils: INFO: Broadcast: 111: 我发现
+2018-04-15 20:12:24 - Utils: INFO: Broadcast: 111: 你2分钟都站不住
+2018-04-15 20:12:31 - Utils: INFO: Broadcast: MCL: 没有巨兽鲨
+2018-04-15 20:12:32 - Utils: INFO: Broadcast: 111: 怪物的攻击完全躲不开
+2018-04-15 20:12:43 - Utils: INFO: Broadcast: MCL: 而且我没有鳞片，家里渣机卡的要死
+2018-04-15 20:12:51 - Utils: INFO: Broadcast: MCL: 老是直接瞬移到我身上
+2018-04-15 20:13:02 - Utils: INFO: Broadcast: 111: 这回有了吧
+2018-04-15 20:13:32 - Utils: INFO: Broadcast: 111: 我刚才回城加血
+2018-04-15 20:13:36 - Utils: INFO: Broadcast: 111: 你怎末直接死了？
+2018-04-15 20:13:53 - GetDataHandlers: INFO: jieyao2 authenticated successfully as user jieyao2.
+2018-04-15 20:14:00 - TShock: INFO: jieyao2 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 20:14:00 - Utils: INFO: Broadcast: jieyao2 has joined.
+2018-04-15 20:14:06 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 20:14:20 - Utils: INFO: Broadcast: MCL: 看
+2018-04-15 20:14:25 - Utils: INFO: Broadcast: 111: ？？
+2018-04-15 20:14:27 - Utils: INFO: Broadcast: MCL: 大嘴巴的武器
+2018-04-15 20:14:33 - Utils: INFO: Broadcast: 111: 。。
+2018-04-15 20:14:39 - Utils: INFO: Broadcast: 111: 继续打
+2018-04-15 20:14:39 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:14:39 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:14:47 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:15:23 - Utils: INFO: Broadcast: MCL: 刷出来了
+2018-04-15 20:15:25 - Utils: INFO: Broadcast: MCL: 项链
+2018-04-15 20:15:38 - Utils: INFO: Broadcast: MCL: 太激动了23333
+2018-04-15 20:15:53 - Utils: INFO: Broadcast: MCL: 来，解药
+2018-04-15 20:16:11 - Utils: INFO: Broadcast: 111: 我继续去打了
+2018-04-15 20:16:26 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:17:08 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-15 20:17:14 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:19:03 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:19:40 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:19:40 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:20:29 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 20:20:38 - Utils: INFO: Broadcast: 111: 坚持住
+2018-04-15 20:20:42 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:21:20 - Utils: INFO: Broadcast: MCL: 舒服
+2018-04-15 20:21:38 - Utils: INFO: Broadcast: 111: 开出什莫了
+2018-04-15 20:21:49 - Utils: INFO: Broadcast: MCL: 剑
+2018-04-15 20:21:53 - Utils: INFO: Broadcast: 111: 密封抢先给我吧
+2018-04-15 20:21:53 - Utils: INFO: Broadcast: MCL: 背包
+2018-04-15 20:21:55 - Utils: INFO: Broadcast: MCL: 手雷
+2018-04-15 20:22:03 - Utils: INFO: Broadcast: 111: 手雷给我
+2018-04-15 20:22:04 - Utils: INFO: Broadcast: MCL: 蜂蜡
+2018-04-15 20:22:05 - Utils: INFO: Broadcast: 111: 继续打
+2018-04-15 20:22:08 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:22:08 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 20:22:09 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-15 20:22:09 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 20:22:10 - Utils: INFO: Broadcast: 111: 蜂蜡
+2018-04-15 20:22:14 - Utils: INFO: admin1 executed: /warp conlin.
+2018-04-15 20:22:15 - Utils: INFO: Broadcast: 111: 做炸弹
+2018-04-15 20:22:21 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 20:22:21 - TShock: INFO: admin1 disconnected.
+2018-04-15 20:22:21 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:22:47 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-15 20:22:53 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:22:53 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 20:22:53 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-15 20:22:53 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 20:22:55 - Utils: INFO: Broadcast: MCL: 等我会啊
+2018-04-15 20:22:58 - Utils: INFO: admin1 executed: /tp ji.
+2018-04-15 20:23:22 - Utils: INFO: admin1 executed: /tp mc.
+2018-04-15 20:23:35 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 20:23:40 - Utils: INFO: admin1 executed: /tp me.
+2018-04-15 20:23:43 - Utils: INFO: admin1 executed: /tp m.
+2018-04-15 20:24:02 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-15 20:24:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:24:05 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 20:24:05 - TShock: INFO: admin1 disconnected.
+2018-04-15 20:24:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:24:07 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-15 20:24:08 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 20:24:08 - Utils: INFO: Broadcast: David has joined.
+2018-04-15 20:24:12 - Utils: INFO: David executed: /warp conlin.
+2018-04-15 20:24:40 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:24:40 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:25:17 - Utils: INFO: Broadcast: MCL: 密封腔
+2018-04-15 20:25:26 - Utils: INFO: Broadcast: 111: 继续
+2018-04-15 20:25:40 - Utils: INFO: Broadcast: 111: 刷手雷
+2018-04-15 20:25:42 - Utils: INFO: Broadcast: 111: 多弄
+2018-04-15 20:25:44 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-15 20:29:01 - Utils: INFO: Broadcast: David: 么佛你够强
+2018-04-15 20:29:08 - Utils: INFO: MCL executed: /warp conlin.
+2018-04-15 20:29:09 - Utils: INFO: Broadcast: David: 蜜蜂抢没输出
+2018-04-15 20:29:13 - Utils: INFO: Broadcast: MCL: +1
+2018-04-15 20:29:20 - Utils: INFO: David executed: /warp conlin.
+2018-04-15 20:29:41 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:29:41 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:30:44 - Utils: INFO: Broadcast: David: 我想要坐骑。。。
+2018-04-15 20:30:48 - Utils: INFO: Broadcast: 111: 等我一下
+2018-04-15 20:30:49 - Utils: INFO: Broadcast: David: 有多余的吗
+2018-04-15 20:30:52 - Utils: INFO: MCL tried to execute /spawn.
+2018-04-15 20:31:10 - Utils: INFO: David executed: /warp spawn.
+2018-04-15 20:31:13 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 20:31:25 - Utils: INFO: Broadcast: MCL: 用魔进
+2018-04-15 20:31:31 - Utils: INFO: Broadcast: MCL: 我给你东西
+2018-04-15 20:31:48 - Utils: INFO: Broadcast: 111: 把蜂蜡给我
+2018-04-15 20:31:57 - Utils: INFO: Broadcast: 111: 我做手雷
+2018-04-15 20:33:06 - Utils: INFO: Broadcast: jieyao2 has left.
+2018-04-15 20:33:06 - TShock: INFO: jieyao2 disconnected.
+2018-04-15 20:33:38 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 20:33:40 - Utils: INFO: Broadcast: 111: 走起
+2018-04-15 20:33:44 - Utils: INFO: Broadcast: MCL: 等会
+2018-04-15 20:33:54 - Utils: INFO: Broadcast: 111: 去地下去找法师把
+2018-04-15 20:34:04 - Utils: INFO: Broadcast: 111: 法师找不到很难受啊
+2018-04-15 20:34:16 - Utils: INFO: Broadcast: MCL: 我140法力
+2018-04-15 20:34:24 - Utils: INFO: Broadcast: MCL: 饰品加成
+2018-04-15 20:34:32 - Utils: INFO: Broadcast: 111: 我280
+2018-04-15 20:34:41 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:34:41 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:35:32 - Utils: INFO: Broadcast: David has left.
+2018-04-15 20:35:32 - TShock: INFO: David disconnected.
+2018-04-15 20:35:41 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:35:41 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-15 20:35:42 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-15 20:35:42 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-15 20:35:49 - Utils: INFO: Broadcast: 111: 群主
+2018-04-15 20:35:52 - Utils: INFO: Broadcast: admin1: ?
+2018-04-15 20:35:52 - Utils: INFO: Broadcast: 111: 弄一个法师出来啊
+2018-04-15 20:35:57 - Utils: INFO: Broadcast: 111: 找不到他啊
+2018-04-15 20:35:59 - Utils: INFO: Broadcast: admin1: 不会弄
+2018-04-15 20:36:06 - Utils: INFO: Broadcast: 111: npc
+2018-04-15 20:36:14 - Utils: INFO: Broadcast: MCL: 跑地图
+2018-04-15 20:36:17 - Utils: INFO: Broadcast: MCL: 地下
+2018-04-15 20:36:19 - Utils: INFO: Broadcast: MCL: 找法师
+2018-04-15 20:36:22 - Utils: INFO: Broadcast: 111: 我找了
+2018-04-15 20:36:25 - Utils: INFO: Broadcast: 111: 。。
+2018-04-15 20:36:26 - Utils: INFO: Broadcast: admin1: 不会弄
+2018-04-15 20:36:29 - Utils: INFO: Broadcast: MCL: 没有水晶球真的蛋疼
+2018-04-15 20:36:30 - Utils: INFO: Broadcast: admin1: 在地牢
+2018-04-15 20:36:44 - Utils: INFO: Broadcast: 111: 走
+2018-04-15 20:36:46 - Utils: INFO: Broadcast: 111: 去打骷髅王
+2018-04-15 20:36:50 - Utils: INFO: Broadcast: MCL: 走起
+2018-04-15 20:36:51 - Utils: INFO: admin1 executed: /godmode.
+2018-04-15 20:36:55 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 20:37:13 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 20:37:17 - Utils: INFO: Broadcast: 111: 来上面
+2018-04-15 20:37:19 - Utils: INFO: Broadcast: 111: 弄平台
+2018-04-15 20:37:22 - GetDataHandlers: INFO: jieyao2 authenticated successfully as user jieyao2.
+2018-04-15 20:37:28 - Utils: INFO: Broadcast: MCL: 没带材料
+2018-04-15 20:37:29 - TShock: INFO: jieyao2 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 20:37:29 - Utils: INFO: Broadcast: jieyao2 has joined.
+2018-04-15 20:37:45 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 20:37:49 - Utils: INFO: Broadcast: MCL: 输入/warp dilao
+2018-04-15 20:38:00 - Utils: INFO: Broadcast: 111: 直接打吧
+2018-04-15 20:38:01 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 20:38:04 - Utils: INFO: Broadcast: 111: 上去
+2018-04-15 20:38:14 - Utils: INFO: Broadcast: MCL: 开大
+2018-04-15 20:38:45 - Utils: INFO: admin1 executed: /warp set diyu.
+2018-04-15 20:38:49 - Utils: INFO: admin1 executed: /warp.
+2018-04-15 20:38:53 - Utils: INFO: admin1 executed: /warp add diyu.
+2018-04-15 20:38:58 - Utils: INFO: Broadcast: jieyao2: 好黑呀 这
+2018-04-15 20:39:00 - Utils: INFO: Broadcast: admin1: 输入warp 地狱
+2018-04-15 20:39:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:39:06 - Utils: INFO: Broadcast: admin1: 呸,/warp diyu
+2018-04-15 20:39:08 - Utils: INFO: Broadcast: MCL: 这么难
+2018-04-15 20:39:11 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:39:21 - Utils: INFO: Broadcast: MCL: 别下去
+2018-04-15 20:39:24 - Utils: INFO: Broadcast: admin1: 还有warp lift-sea
+2018-04-15 20:39:25 - Utils: INFO: admin1 executed: /spawn.
+2018-04-15 20:39:29 - Utils: INFO: admin1 executed: /warp dilao.
+2018-04-15 20:39:34 - Utils: INFO: Broadcast: MCL: 帮个忙
+2018-04-15 20:39:37 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 20:39:39 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:39:42 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:39:42 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:39:42 - Utils: INFO: Broadcast: admin1: 2W血
+2018-04-15 20:40:10 - Utils: INFO: jieyao2 executed: /warp diyu.
+2018-04-15 20:40:13 - Utils: INFO: Broadcast: admin1: 不要蜜蜂枪
+2018-04-15 20:40:15 - Utils: INFO: Broadcast: admin1: 没输出
+2018-04-15 20:40:25 - Utils: INFO: Broadcast: admin1: 好吧
+2018-04-15 20:40:28 - Utils: INFO: Broadcast: admin1: 还挺高的
+2018-04-15 20:40:45 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:41:24 - Utils: INFO: Broadcast: jieyao2: 这个骷髅感觉好厉害呀
+2018-04-15 20:41:27 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-15 20:41:27 - TShock: INFO: admin1 disconnected.
+2018-04-15 20:41:27 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-15 20:41:29 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-15 20:41:30 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 20:41:30 - Utils: INFO: Broadcast: David has joined.
+2018-04-15 20:41:31 - Utils: INFO: Broadcast: MCL: 专家的当然了
+2018-04-15 20:41:37 - Utils: INFO: David executed: /warp dilao.
+2018-04-15 20:41:38 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 20:41:53 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:42:19 - Utils: INFO: Broadcast: 111: 快打
+2018-04-15 20:42:25 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 20:42:28 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:42:42 - Utils: INFO: David executed: /warp dilao.
+2018-04-15 20:42:50 - Utils: INFO: MCL tried to execute /w arp d.
+2018-04-15 20:42:53 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:43:12 - Utils: INFO: Broadcast: 111: 加油
+2018-04-15 20:43:16 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 20:43:54 - Utils: INFO: Broadcast: MCL: 解药你在哪
+2018-04-15 20:44:22 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 20:44:43 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:44:43 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:45:02 - Utils: INFO: Broadcast: MCL: 我收南瓜了
+2018-04-15 20:45:06 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-15 20:45:11 - Utils: INFO: Broadcast: David: 啊？
+2018-04-15 20:45:30 - Utils: INFO: Broadcast: MCL: 38个
+2018-04-15 20:45:32 - Utils: INFO: Broadcast: MCL: 不多
+2018-04-15 20:45:54 - Utils: INFO: Broadcast: David: 输入/warp diyu
+2018-04-15 20:45:58 - Utils: INFO: Broadcast: David: 地狱
+2018-04-15 20:46:08 - Utils: INFO: Broadcast: David: qwq？
+2018-04-15 20:49:11 - Utils: INFO: Broadcast: MCL: 挖槽神级养蜂人
+2018-04-15 20:49:35 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 20:49:43 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:49:43 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:50:17 - Utils: INFO: MCL executed: /warp diyu.
+2018-04-15 20:50:28 - Utils: INFO: Broadcast: MCL: 这么舒服
+2018-04-15 20:50:33 - Utils: INFO: MCL executed: /warp diyu.
+2018-04-15 20:54:44 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:54:44 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:54:45 - Utils: INFO: Broadcast: MCL: 打肉山不
+2018-04-15 20:55:21 - Utils: INFO: David executed: /who.
+2018-04-15 20:56:05 - Utils: INFO: Broadcast: MCL: 我突然发现了路飞的草帽
+2018-04-15 20:58:21 - Utils: INFO: Broadcast: MCL: lll
+2018-04-15 20:58:25 - Utils: INFO: Broadcast: MCL: 你在干嘛
+2018-04-15 20:58:53 - Utils: INFO: Broadcast: 111 has left.
+2018-04-15 20:58:53 - TShock: INFO: 111 disconnected.
+2018-04-15 20:58:54 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-15 20:59:01 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 20:59:01 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-15 20:59:12 - Utils: INFO: Broadcast: 111: 我弄了好多东西
+2018-04-15 20:59:23 - Utils: INFO: Broadcast: MCL: 村正
+2018-04-15 20:59:37 - Utils: INFO: Broadcast: 111: [i:156][i:163][i:329][i/p8:155][i:329][i/p60:155][i:164][i:163][i/p66:891][i:155]
+2018-04-15 20:59:39 - Utils: INFO: Broadcast: MCL: 再来个草薙和赤炎就可以做永夜了
+2018-04-15 20:59:44 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 20:59:44 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 20:59:49 - Utils: INFO: Broadcast: MCL: 给我吧村正吧
+2018-04-15 21:00:34 - Utils: INFO: Broadcast: MCL: 舒服
+2018-04-15 21:00:43 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 21:00:49 - Utils: INFO: Broadcast: MCL: 魔镜回来
+2018-04-15 21:01:58 - Utils: INFO: Broadcast: MCL: 还打boss么？？
+2018-04-15 21:02:28 - Utils: INFO: Broadcast: 111: 先不打
+2018-04-15 21:02:53 - Utils: INFO: Broadcast: 111: 我去地狱拿东西去了
+2018-04-15 21:03:02 - Utils: INFO: Broadcast: 111: 你去地牢
+2018-04-15 21:03:05 - Utils: INFO: Broadcast: 111: 找盾
+2018-04-15 21:03:15 - Utils: INFO: Broadcast: MCL: 要是多弄了个黑长矛记得给我一个
+2018-04-15 21:03:32 - Utils: INFO: Broadcast: MCL: 开地狱箱子可以开蝙蝠弓
+2018-04-15 21:03:44 - Utils: INFO: Broadcast: MCL: 射出去的是地狱变幅
+2018-04-15 21:04:00 - Utils: INFO: Broadcast: MCL: 跟我去地牢
+2018-04-15 21:04:02 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-15 21:04:08 - Utils: INFO: Broadcast: MCL: 输入/warp dilao
+2018-04-15 21:04:12 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 21:04:45 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:04:45 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:05:44 - Utils: INFO: 111 executed: /warp 地狱.
+2018-04-15 21:05:45 - Utils: INFO: David executed: /who.
+2018-04-15 21:06:36 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:06:46 - Utils: INFO: Broadcast: MCL: 忍者套
+2018-04-15 21:06:49 - Utils: INFO: Broadcast: MCL: 穿上
+2018-04-15 21:09:04 - Utils: INFO: Broadcast: MCL: 小心
+2018-04-15 21:09:05 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:09:45 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:09:45 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:10:09 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 21:10:14 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:11:15 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:11:52 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 21:12:13 - Utils: INFO: Broadcast: MCL: 逼我丢地雷
+2018-04-15 21:12:20 - Utils: INFO: Broadcast: jieyao2: 666
+2018-04-15 21:12:36 - Utils: INFO: Broadcast: MCL: 我还62个地雷
+2018-04-15 21:12:40 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:13:18 - Utils: INFO: Broadcast: MCL: biexiaqu 
+2018-04-15 21:13:21 - Utils: INFO: Broadcast: MCL: 别下去
+2018-04-15 21:13:29 - Utils: INFO: Broadcast: MCL: 我去给你铺路
+2018-04-15 21:13:34 - Utils: INFO: Broadcast: jieyao2: 哦哦
+2018-04-15 21:14:28 - Utils: INFO: Broadcast: MCL has left.
+2018-04-15 21:14:28 - TShock: INFO: MCL disconnected.
+2018-04-15 21:14:28 - Utils: INFO: Broadcast: 111 has left.
+2018-04-15 21:14:28 - TShock: INFO: 111 disconnected.
+2018-04-15 21:14:28 - Utils: INFO: Broadcast: jieyao2 has left.
+2018-04-15 21:14:28 - TShock: INFO: jieyao2 disconnected.
+2018-04-15 21:14:46 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:14:46 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:15:17 - Utils: INFO: David executed: /who.
+2018-04-15 21:16:00 - GetDataHandlers: INFO: MCL authenticated successfully as user MCL.
+2018-04-15 21:16:08 - TShock: INFO: MCL (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-15 21:16:08 - Utils: INFO: Broadcast: MCL has joined.
+2018-04-15 21:16:18 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 21:16:27 - Utils: INFO: Broadcast: MCL: 卡了
+2018-04-15 21:16:44 - GetDataHandlers: INFO: jieyao2 authenticated successfully as user jieyao2.
+2018-04-15 21:16:44 - Utils: INFO: Broadcast: MCL: 解药家蓝队
+2018-04-15 21:16:51 - TShock: INFO: jieyao2 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-15 21:16:51 - Utils: INFO: Broadcast: jieyao2 has joined.
+2018-04-15 21:17:00 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:17:30 - Utils: INFO: Broadcast: MCL: 解药加蓝队
+2018-04-15 21:17:34 - Utils: INFO: Broadcast: jieyao2: ？？
+2018-04-15 21:17:57 - Utils: INFO: Broadcast: MCL: 加蓝队，昨天我教过你
+2018-04-15 21:18:05 - Utils: INFO: Broadcast: jieyao2: e
+2018-04-15 21:18:10 - Utils: INFO: Broadcast: MCL: 红队也可以
+2018-04-15 21:18:37 - TShock: INFO: 111 disconnected.
+2018-04-15 21:18:51 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-15 21:18:51 - Utils: INFO: Broadcast: MCL: ESC键
+2018-04-15 21:18:56 - Utils: INFO: Broadcast: MCL: 两把刀下面
+2018-04-15 21:18:57 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-15 21:18:57 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-15 21:19:00 - Utils: INFO: Broadcast: MCL: 点击红色的
+2018-04-15 21:19:04 - Utils: INFO: Broadcast: 111: 我TM可算回来了
+2018-04-15 21:19:07 - Utils: INFO: Broadcast: jieyao2: 哦哦
+2018-04-15 21:19:10 - Utils: INFO: Broadcast: MCL: 蛤？
+2018-04-15 21:19:18 - Utils: INFO: Broadcast: jieyao2: 加了
+2018-04-15 21:19:22 - Utils: INFO: Broadcast: MCL: en
+2018-04-15 21:19:27 - Utils: INFO: Broadcast: MCL: lll你咋了
+2018-04-15 21:19:45 - Utils: INFO: Broadcast: MCL: 好尬
+2018-04-15 21:19:46 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:19:46 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:19:48 - Utils: INFO: Broadcast: 111: [i/p41:274]
+2018-04-15 21:19:49 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 21:19:50 - Utils: INFO: Broadcast: jieyao2: 哈哈哈
+2018-04-15 21:19:50 - Utils: INFO: Broadcast: 111: 要吗？
+2018-04-15 21:19:55 - Utils: INFO: Broadcast: MCL: 当然
+2018-04-15 21:20:03 - Utils: INFO: Broadcast: MCL: 我攒钱重新敲一下就好了
+2018-04-15 21:20:20 - Utils: INFO: 111 executed: /warp dilao.
+2018-04-15 21:21:57 - Utils: INFO: Broadcast: MCL: 我忘记我的坐骑可以踩人了
+2018-04-15 21:22:00 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 21:23:00 - Utils: INFO: Broadcast: MCL: 啥么情况
+2018-04-15 21:23:04 - Utils: INFO: MCL executed: /warp dilao.
+2018-04-15 21:23:11 - Utils: INFO: Broadcast: MCL: 突然一卡，我就挂了
+2018-04-15 21:23:13 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:23:21 - Utils: INFO: Broadcast: jieyao2: 哈哈哈
+2018-04-15 21:24:47 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:24:47 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:25:46 - Utils: INFO: Broadcast: jieyao2: 这地方好危险
+2018-04-15 21:26:02 - Utils: INFO: MCL executed: /WARP DILAO.
+2018-04-15 21:26:22 - Utils: INFO: Broadcast: jieyao2: 、warp
+2018-04-15 21:26:36 - Utils: INFO: jieyao2 executed: /warp dilao.
+2018-04-15 21:29:46 - Utils: INFO: David executed: /who.
+2018-04-15 21:29:48 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:29:48 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:29:49 - Utils: INFO: Broadcast: David: aha 
+2018-04-15 21:29:50 - Utils: INFO: Broadcast: David: 啊哈！
+2018-04-15 21:30:19 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 21:30:41 - Utils: INFO: Broadcast: MCL: 恶心
+2018-04-15 21:31:15 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 21:31:54 - Utils: INFO: Broadcast: MCL: 一次就神级
+2018-04-15 21:31:56 - Utils: INFO: Broadcast: MCL: 挖槽
+2018-04-15 21:32:01 - Utils: INFO: Broadcast: MCL: 欧皇附体啊我
+2018-04-15 21:32:05 - Utils: INFO: Broadcast: David: 血月的bgm让我回忆起了小时候玩泰拉瑞亚
+2018-04-15 21:32:49 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 21:32:52 - Utils: INFO: Broadcast: jieyao2: 回来了
+2018-04-15 21:32:58 - Utils: INFO: Broadcast: MCL: 我在丛林
+2018-04-15 21:33:09 - Utils: INFO: Broadcast: David: 输入/warp diyu
+2018-04-15 21:33:15 - Utils: INFO: David executed: /warp conlin.
+2018-04-15 21:33:20 - Utils: INFO: jieyao2 executed: /warp diyu.
+2018-04-15 21:33:31 - Utils: INFO: Broadcast: jieyao2: what
+2018-04-15 21:33:31 - Utils: INFO: Broadcast: MCL: 恶心
+2018-04-15 21:33:38 - Utils: INFO: Broadcast: David: 为啥你们这么喜欢丛林
+2018-04-15 21:33:44 - Utils: INFO: David executed: /warp diyu.
+2018-04-15 21:33:45 - Utils: INFO: Broadcast: MCL: 箱子多D
+2018-04-15 21:33:46 - Utils: INFO: Broadcast: jieyao2: 发生了啥
+2018-04-15 21:34:08 - Utils: INFO: David executed: /warp diyu.
+2018-04-15 21:34:12 - Utils: INFO: MCL executed: /WARP CONLIN.
+2018-04-15 21:34:16 - Utils: INFO: David executed: /warp spawn.
+2018-04-15 21:34:29 - Utils: INFO: Broadcast: David: 输入/warp list
+2018-04-15 21:34:48 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:34:48 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:34:52 - Utils: INFO: jieyao2 executed: /warp list.
+2018-04-15 21:35:11 - Utils: INFO: MCL executed: /WARP LIST.
+2018-04-15 21:35:18 - Utils: INFO: MCL executed: /warp list.
+2018-04-15 21:35:38 - Utils: INFO: Broadcast: MCL: 啥都没有
+2018-04-15 21:36:02 - Utils: INFO: Broadcast: David: 嘿
+2018-04-15 21:36:29 - Utils: INFO: Broadcast: David: 这个房子是谁的
+2018-04-15 21:36:39 - Utils: INFO: Broadcast: David: 像一个球的那个
+2018-04-15 21:36:46 - Utils: INFO: Broadcast: MCL: 我
+2018-04-15 21:36:48 - Utils: INFO: Broadcast: MCL: 不知道
+2018-04-15 21:36:52 - Utils: INFO: Broadcast: David: = =
+2018-04-15 21:36:54 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 21:37:44 - Utils: INFO: Broadcast: David:  
+2018-04-15 21:37:51 - Utils: INFO: David executed: /warp dilao.
+2018-04-15 21:37:56 - Utils: INFO: Broadcast: MCL: 哇
+2018-04-15 21:38:03 - Utils: INFO: Broadcast: David: ?
+2018-04-15 21:38:11 - Utils: INFO: Broadcast: MCL: 可以刷猪龙了
+2018-04-15 21:38:15 - Utils: INFO: Broadcast: MCL: 刷培根吃
+2018-04-15 21:38:27 - Utils: INFO: Broadcast: MCL: 全方面属性大量提升半小时
+2018-04-15 21:38:49 - Utils: INFO: Broadcast: MCL: lll,刷不刷
+2018-04-15 21:39:49 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:39:49 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:41:06 - Utils: INFO: Broadcast: MCL: LLL
+2018-04-15 21:41:12 - Utils: INFO: Broadcast: MCL: lll,我去给你刷培根
+2018-04-15 21:42:34 - Utils: INFO: Broadcast: MCL: 完了被吞掉了
+2018-04-15 21:42:44 - Utils: INFO: Broadcast: jieyao2: e
+2018-04-15 21:43:35 - Utils: INFO: Broadcast: David: cap
+2018-04-15 21:43:37 - Utils: INFO: Broadcast: David: 艹
+2018-04-15 21:43:42 - Utils: INFO: Broadcast: jieyao2: 你这延迟
+2018-04-15 21:43:45 - Utils: INFO: Broadcast: David: 地牢全被收完了
+2018-04-15 21:43:58 - Utils: INFO: Broadcast: MCL: 猪笼雕像被吞了
+2018-04-15 21:44:02 - Utils: INFO: Broadcast: MCL: 培根刷不到了
+2018-04-15 21:44:28 - Utils: INFO: Broadcast: David: 这就对了
+2018-04-15 21:44:35 - TShock: INFO: 玄玉 (192.168.0.106) from 'guest' group joined. (5/10)
+2018-04-15 21:44:35 - Utils: INFO: Broadcast: 玄玉 has joined.
+2018-04-15 21:44:42 - Utils: INFO: Broadcast: David: 卧槽！
+2018-04-15 21:44:45 - Utils: INFO: Broadcast: David: 新人
+2018-04-15 21:44:49 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:44:49 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:44:52 - Utils: INFO: Broadcast: 111: [i/p56:121][i/p13:190][i/p60:155]
+2018-04-15 21:44:55 - Utils: INFO: Broadcast: MCL: 培根可是最强的属性提升物品
+2018-04-15 21:44:56 - Utils: INFO: Broadcast: 玄玉: 怎么回事
+2018-04-15 21:45:03 - Utils: INFO: Broadcast: MCL: 我给你一个武器去做永夜A
+2018-04-15 21:45:05 - Utils: INFO: Broadcast: jieyao2: e
+2018-04-15 21:45:06 - Utils: INFO: Broadcast: MCL: lll
+2018-04-15 21:45:17 - Utils: INFO: Broadcast: 玄玉: 为什么我石化了
+2018-04-15 21:45:29 - Utils: INFO: Broadcast: MCL: 去恶魔祭坛
+2018-04-15 21:45:32 - Utils: INFO: Broadcast: David: 你要注册
+2018-04-15 21:45:34 - Utils: INFO: Broadcast: 111: 因为需要打密码
+2018-04-15 21:45:38 - Utils: INFO: Broadcast: 玄玉: 怎么注册
+2018-04-15 21:45:48 - Utils: INFO: Broadcast: 111: 你教他
+2018-04-15 21:45:49 - Utils: INFO: Broadcast: David: 不过我建议你用英文名
+2018-04-15 21:45:50 - Utils: INFO: Broadcast: MCL: 看例子，/register 123,/login 123
+2018-04-15 21:45:53 - Utils: INFO: Broadcast: 玄玉: 我第一次玩这个
+2018-04-15 21:45:53 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-15 21:46:00 - Utils: INFO: Broadcast: David: 中文会有些小bug
+2018-04-15 21:46:05 - Utils: INFO: Broadcast: MCL: 123是密码，你自己随意弄
+2018-04-15 21:46:12 - Utils: INFO: Broadcast: David: 对
+2018-04-15 21:46:17 - Utils: INFO: Broadcast: 玄玉: 在哪里注册
+2018-04-15 21:46:24 - Utils: INFO: Broadcast: MCL: 不是告诉你了吗
+2018-04-15 21:46:32 - Utils: INFO: Broadcast: David: 输入/register 123
+2018-04-15 21:46:38 - Utils: INFO: Broadcast: MCL: 输入/regisetr 密码,/login 密码
+2018-04-15 21:46:50 - Utils: INFO: Broadcast: MCL: 假设密码是123，两次密码都得是123
+2018-04-15 21:47:01 - Utils: INFO: Broadcast: David: 好了吗
+2018-04-15 21:47:10 - Utils: INFO: Broadcast: MCL: 诶我去
+2018-04-15 21:47:14 - Utils: INFO: Broadcast: 玄玉: 不行
+2018-04-15 21:47:21 - Utils: INFO: Broadcast: MCL: lll
+2018-04-15 21:47:22 - Utils: INFO: Broadcast: MCL: 来
+2018-04-15 21:47:22 - Utils: INFO: Broadcast: 玄玉:  我输了还不行
+2018-04-15 21:47:27 - Utils: INFO: Broadcast: David: = =
+2018-04-15 21:47:35 - Utils: INFO: Broadcast: MCL: 输入啊
+2018-04-15 21:47:35 - Utils: INFO: Broadcast: David: 加群主QQ
+2018-04-15 21:47:37 - Utils: INFO: Broadcast: 111: 你先打 /regisetr  然后空格加上你的密码
+2018-04-15 21:47:39 - Utils: INFO: Broadcast: David: 944360779
+2018-04-15 21:47:44 - Utils: INFO: Broadcast: David: 远程
+2018-04-15 21:47:52 - Utils: INFO: Broadcast: David: 我基本上新人都是我教的= =
+2018-04-15 21:47:57 - Utils: INFO: Broadcast: 111: 然后再打/login  空格加上你刚才的密码
+2018-04-15 21:48:21 - Utils: INFO: Broadcast: MCL: lll
+2018-04-15 21:48:29 - Utils: INFO: Broadcast: MCL: 我的长矛是神级的
+2018-04-15 21:48:35 - Utils: INFO: Broadcast: 玄玉: 不行
+2018-04-15 21:48:36 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-15 21:48:41 - Utils: INFO: Broadcast: David: 加Qq
+2018-04-15 21:48:44 - Utils: INFO: Broadcast: 111: 哦
+2018-04-15 21:48:50 - Utils: INFO: Broadcast: MCL: 敲第一下就变成神级了
+2018-04-15 21:48:59 - Utils: INFO: Broadcast: 玄玉: 打完就出红字
+2018-04-15 21:49:03 - Utils: INFO: Broadcast: MCL: 这把弓是虚幻的
+2018-04-15 21:49:20 - Utils: INFO: Broadcast: MCL: 这也是神级的
+2018-04-15 21:49:48 - Utils: INFO: Broadcast: MCL: 放上去刷
+2018-04-15 21:49:50 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:49:50 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:49:50 - Utils: INFO: Broadcast: 111: [i/p70:3212][i:3213]
+2018-04-15 21:49:51 - Utils: INFO: Broadcast: 玄玉:  哦
+2018-04-15 21:50:03 - Utils: INFO: Broadcast: 玄玉:  我加群主了
+2018-04-15 21:50:38 - Utils: INFO: Broadcast: MCL: 欧皇附体啊我
+2018-04-15 21:50:44 - Utils: INFO: Broadcast: 111: [i/s3:74]
+2018-04-15 21:51:19 - Utils: INFO: Broadcast: 玄玉: 我加群主了
+2018-04-15 21:51:28 - Utils: INFO: Broadcast: 玄玉: 为什么没同意
+2018-04-15 21:51:55 - Utils: INFO: Broadcast: 111: 帮我找一下星力手环
+2018-04-15 21:52:11 - Utils: INFO: Broadcast: MCL: 我这有一个
+2018-04-15 21:52:29 - Utils: INFO: Broadcast: 玄玉: 兄帮帮忙啊
+2018-04-15 21:52:38 - Utils: INFO: Broadcast: 111: 跟你说的好明白了
+2018-04-15 21:52:39 - Utils: INFO: Broadcast: 111: 。。
+2018-04-15 21:52:54 - Utils: INFO: Broadcast: 玄玉: 我都试过没有用啊
+2018-04-15 21:53:09 - Utils: INFO: Broadcast: 玄玉: 要不我去换个名字
+2018-04-15 21:53:15 - Utils: INFO: Broadcast: 111: 先注册  /register 空格加上密码 
+2018-04-15 21:54:03 - Utils: INFO: Broadcast: 111: 登陆/login    然后空格加上密码
+2018-04-15 21:54:21 - Utils: INFO: Broadcast: 玄玉: login是什么
+2018-04-15 21:54:27 - Utils: INFO: Broadcast: MCL: 登录指令
+2018-04-15 21:54:29 - Utils: INFO: Broadcast: 111: 登陆的
+2018-04-15 21:54:40 - Utils: INFO: Broadcast: 玄玉: 直接输入吗
+2018-04-15 21:54:43 - Utils: INFO: Broadcast: MCL: 注册指令是/regiter
+2018-04-15 21:54:44 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-15 21:54:50 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:54:50 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:54:54 - Utils: INFO: Broadcast: MCL: 是/login空格密码
+2018-04-15 21:55:09 - Utils: INFO: Broadcast: MCL: 得和你注册时设置的密码一样
+2018-04-15 21:55:55 - Utils: INFO: Broadcast: 111: 大家一起
+2018-04-15 21:55:57 - Utils: INFO: Broadcast: 111: 去地狱
+2018-04-15 21:56:03 - Utils: INFO: Broadcast: 111: 搭平台
+2018-04-15 21:56:05 - Utils: INFO: Broadcast: MCL: 解药去不了
+2018-04-15 21:56:06 - Utils: INFO: Broadcast: 111: 打肉山
+2018-04-15 21:56:18 - Utils: INFO: Broadcast: MCL: 等下
+2018-04-15 21:56:23 - Utils: INFO: Broadcast: MCL: ll掩护我，我造场地
+2018-04-15 21:56:36 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-15 21:56:48 - Utils: INFO: Broadcast: 111: 等一下
+2018-04-15 21:56:53 - Utils: INFO: Broadcast: 111: 我去雪地
+2018-04-15 21:56:58 - Utils: INFO: Broadcast: MCL: 不用了
+2018-04-15 21:56:59 - Utils: INFO: Broadcast: 111: 找个鞋子
+2018-04-15 21:57:02 - Utils: INFO: Broadcast: MCL: 已经够了
+2018-04-15 21:57:06 - Utils: INFO: Broadcast: MCL: 好吧
+2018-04-15 21:57:06 - Utils: INFO: Broadcast: 111: 那走吧
+2018-04-15 21:57:14 - Utils: INFO: MCL executed: /warp diyu.
+2018-04-15 21:57:25 - Utils: INFO: Broadcast: 111: 弄场地的东西
+2018-04-15 21:57:27 - Utils: INFO: Broadcast: 111: 你有妈？
+2018-04-15 21:57:42 - Utils: INFO: Broadcast: 111: 你咋去的？
+2018-04-15 21:57:43 - TextLog: INFO: 玄玉 registered an account: "玄玉".
+2018-04-15 21:57:59 - Utils: INFO: MCL executed: /warp diyu.
+2018-04-15 21:58:07 - Utils: INFO: Broadcast: 111: 指令
+2018-04-15 21:58:10 - Utils: INFO: Broadcast: 111: 哪里的之林
+2018-04-15 21:58:12 - Utils: INFO: Broadcast: 111: 之林
+2018-04-15 21:58:14 - Utils: INFO: Broadcast: MCL: 输入/warp diyu啊
+2018-04-15 21:58:14 - Utils: INFO: Broadcast: 111: 志林
+2018-04-15 21:58:18 - Commands: INFO: 玄玉 authenticated successfully as user: 玄玉.
+2018-04-15 21:58:20 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-15 21:58:35 - Utils: INFO: MCL executed: /WARP DIYU.
+2018-04-15 21:58:40 - Utils: INFO: Broadcast: 111: 你弄
+2018-04-15 21:58:41 - Utils: INFO: Broadcast: 111: 我看着
+2018-04-15 21:59:26 - Utils: INFO: Broadcast: 111: 弄大概就行了
+2018-04-15 21:59:29 - Utils: INFO: Broadcast: 111: 速度
+2018-04-15 21:59:51 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 21:59:51 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 21:59:54 - Utils: INFO: Broadcast: 111: 大哥啊
+2018-04-15 21:59:56 - Utils: INFO: Broadcast: 111: 用
+2018-04-15 21:59:59 - Utils: INFO: Broadcast: 111: 平台啊
+2018-04-15 22:00:03 - Utils: INFO: Broadcast: 111: ，，。。
+2018-04-15 22:00:22 - Utils: INFO: Broadcast: 111: 算了
+2018-04-15 22:00:26 - Utils: INFO: Broadcast: 111: 我去一下雪地
+2018-04-15 22:00:28 - Utils: INFO: Broadcast: 111: 你看着我弄
+2018-04-15 22:00:40 - Utils: INFO: 111 executed: /warp xuedi.
+2018-04-15 22:00:47 - Utils: INFO: Broadcast: MCL: 走的太急了
+2018-04-15 22:00:54 - Utils: INFO: MCL executed: /warp diyu.
+2018-04-15 22:00:56 - Utils: INFO: Broadcast: jieyao2: e
+2018-04-15 22:01:05 - Utils: INFO: Broadcast: 玄玉: 谁可以一点装备
+2018-04-15 22:01:15 - Utils: INFO: Broadcast: 111: 都是自己弄
+2018-04-15 22:01:26 - Utils: INFO: David executed: /warp diyu.
+2018-04-15 22:01:27 - Utils: INFO: Broadcast: MCL: 我没装备了
+2018-04-15 22:01:29 - Utils: INFO: Broadcast: jieyao2 has left.
+2018-04-15 22:01:29 - TShock: INFO: jieyao2 disconnected.
+2018-04-15 22:01:40 - Utils: INFO: Broadcast: 玄玉: 我新号什么都没有
+2018-04-15 22:01:53 - Utils: INFO: Broadcast: David: 新手礼包
+2018-04-15 22:01:53 - Utils: INFO: Broadcast: MCL: 我们不一样？？
+2018-04-15 22:02:01 - Utils: INFO: Broadcast: David: 铁甲
+2018-04-15 22:02:07 - Utils: INFO: Broadcast: David: 珀金武器
+2018-04-15 22:02:07 - Utils: INFO: Broadcast: 玄玉: 哦
+2018-04-15 22:02:12 - Utils: INFO: Broadcast: MCL: 给你几个地雷
+2018-04-15 22:02:12 - Utils: INFO: Broadcast: David: 200血
+2018-04-15 22:02:16 - Utils: INFO: Broadcast: 玄玉: 这个看到了
+2018-04-15 22:02:17 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-15 22:02:28 - Utils: INFO: Broadcast: 玄玉: 谢谢
+2018-04-15 22:03:26 - Utils: INFO: Broadcast: 玄玉: 谁有多余可以飞的东西
+2018-04-15 22:03:37 - Utils: INFO: Broadcast: David: 我给你买个火箭靴？
+2018-04-15 22:03:45 - Utils: INFO: Broadcast: 玄玉: 嗯
+2018-04-15 22:03:50 - Utils: INFO: Broadcast: 玄玉: 谢谢
+2018-04-15 22:03:59 - Utils: INFO: Broadcast: David: 本来鞋子在家里的
+2018-04-15 22:04:01 - Utils: INFO: Broadcast: 玄玉: 有马提铁马
+2018-04-15 22:04:04 - Utils: INFO: Broadcast: David: 被人偷了
+2018-04-15 22:04:15 - Utils: INFO: Broadcast: 玄玉: 有马提铁吗？
+2018-04-15 22:04:26 - Utils: INFO: Broadcast: David: 没
+2018-04-15 22:04:39 - Utils: INFO: Broadcast: 玄玉: 哦，谢谢
+2018-04-15 22:04:51 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-15 22:04:51 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-15 22:05:56 - Utils: INFO: Broadcast: David has left.
+2018-04-15 22:05:56 - TShock: INFO: David disconnected.
+2018-04-15 22:06:00 - Utils: INFO: Server executed: /off.
+2018-04-15 22:06:00 - Utils: INFO: Kicked MCL for : 'Server shutting down!'
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: MCL was force kicked for 'server shutting down!'
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: MCL has left.
+2018-04-15 22:06:00 - TShock: INFO: MCL disconnected.
+2018-04-15 22:06:00 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: 111 has left.
+2018-04-15 22:06:00 - TShock: INFO: 111 disconnected.
+2018-04-15 22:06:00 - Utils: INFO: Kicked 玄玉 for : 'Server shutting down!'
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: 玄玉 was force kicked for 'server shutting down!'
+2018-04-15 22:06:00 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-15 22:06:00 - Utils: INFO: Broadcast: 玄玉 has left.
+2018-04-15 22:06:00 - TShock: INFO: 玄玉 disconnected.
+2018-04-15 22:06:02 - Utils: INFO: Broadcast: World saved.
+2018-04-15 22:06:02 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-15 22:06:02 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-15 22:06:03 - Utils: INFO: Broadcast: World saved.
+2018-04-15 22:06:03 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

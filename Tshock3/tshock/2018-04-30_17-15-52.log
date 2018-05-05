@@ -1,0 +1,11 @@
+2018-04-30 17:15:52 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-30 17:15:52 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-30 17:15:52 - TShock: INFO: AutoSave Enabled
+2018-04-30 17:15:52 - TShock: INFO: Backups Disabled
+2018-04-30 17:15:52 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-30 17:16:05 - PluginTrace: INFO: [Protector] Finished ensuring protection data.
+2018-04-30 17:32:21 - Utils: INFO: Server executed: /off.
+2018-04-30 17:32:21 - PluginTrace: INFO: [Protector] Serializing the protection data took 24ms.
+2018-04-30 17:32:22 - Utils: INFO: Broadcast: World saved.
+2018-04-30 17:32:22 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-30 17:32:22 - Utils: INFO: Broadcast: Server shutting down!

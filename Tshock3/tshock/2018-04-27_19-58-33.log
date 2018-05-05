@@ -1,0 +1,30 @@
+2018-04-27 19:58:33 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-27 19:58:33 - TShock: INFO: AutoSave Enabled
+2018-04-27 19:58:33 - TShock: INFO: Backups Disabled
+2018-04-27 19:58:33 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-27 20:01:44 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-27 20:01:49 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-27 20:01:49 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-27 20:01:58 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-27 20:02:00 - Utils: INFO: Broadcast: World saved.
+2018-04-27 20:02:00 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-27 20:02:22 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-27 20:02:23 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-27 20:02:23 - Utils: INFO: Broadcast: David has joined.
+2018-04-27 20:03:23 - Utils: INFO: Broadcast: David: king呢
+2018-04-27 20:03:44 - Utils: INFO: Broadcast: 夜-胤笙: 不知道
+2018-04-27 20:17:18 - Utils: INFO: Broadcast: David: 啊？
+2018-04-27 20:22:44 - Utils: INFO: Broadcast: 夜-胤笙: 是不是没恶魔祭坛了
+2018-04-27 20:29:25 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-27 20:29:25 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-27 20:29:27 - Utils: INFO: Broadcast: David: 啊
+2018-04-27 20:29:28 - Utils: INFO: Broadcast: David: 什么
+2018-04-27 20:29:47 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-27 20:29:47 - Utils: INFO: Broadcast: David has left.
+2018-04-27 20:29:47 - TShock: INFO: David disconnected.
+2018-04-27 20:29:49 - Utils: INFO: Broadcast: World saved.
+2018-04-27 20:29:49 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-27 20:29:52 - Utils: INFO: Server executed: /off.
+2018-04-27 20:29:54 - Utils: INFO: Broadcast: World saved.
+2018-04-27 20:29:54 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-27 20:29:54 - Utils: INFO: Broadcast: Server shutting down!

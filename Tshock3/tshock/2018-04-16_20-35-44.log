@@ -1,0 +1,425 @@
+2018-04-16 20:35:44 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-16 20:35:44 - TShock: INFO: AutoSave Enabled
+2018-04-16 20:35:44 - TShock: INFO: Backups Disabled
+2018-04-16 20:35:44 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-16 20:37:37 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-16 20:37:38 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-16 20:37:41 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-16 20:37:41 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-16 20:37:41 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-16 20:37:41 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-16 20:38:07 - Utils: INFO: Broadcast: King~: 雕像呢
+2018-04-16 20:38:12 - Utils: INFO: Broadcast: King~: 你们什么意思
+2018-04-16 20:38:26 - Utils: INFO: Broadcast: 111: 别人带走了
+2018-04-16 20:38:36 - Utils: INFO: Broadcast: 111: 我不知道谁弄的
+2018-04-16 20:38:58 - Utils: INFO: Broadcast: 111: 咱俩qq语音
+2018-04-16 20:39:00 - Utils: INFO: Broadcast: 111: 一起玩
+2018-04-16 20:39:07 - Utils: INFO: Broadcast: King~: 没麦
+2018-04-16 20:39:12 - Utils: INFO: Broadcast: 111: 手机啊
+2018-04-16 20:39:17 - Utils: INFO: Broadcast: 111: 手机不需要啊
+2018-04-16 20:39:20 - Utils: INFO: Broadcast: King~: 没手机
+2018-04-16 20:39:25 - Utils: INFO: Broadcast: 111: 不可能
+2018-04-16 20:39:40 - Utils: INFO: Broadcast: 111: 不是
+2018-04-16 20:39:42 - Utils: INFO: Broadcast: 111: 这样打字
+2018-04-16 20:39:43 - Utils: INFO: Broadcast: 111: 好烦
+2018-04-16 20:39:45 - Utils: INFO: Broadcast: 111: 正好
+2018-04-16 20:39:47 - Utils: INFO: Broadcast: 111: 我给你点东西
+2018-04-16 20:39:52 - Utils: INFO: Broadcast: 111: 我找了两份
+2018-04-16 20:39:53 - Utils: INFO: Broadcast: King~: 哇我真没手机啊...
+2018-04-16 20:40:18 - Utils: INFO: Broadcast: 111: 那你听我说
+2018-04-16 20:40:23 - Utils: INFO: Broadcast: 111: 你打字行不
+2018-04-16 20:40:29 - Utils: INFO: Broadcast: 111: 我讨厌打字
+2018-04-16 20:40:35 - Utils: INFO: King~ executed: /house define.
+2018-04-16 20:40:48 - Utils: INFO: Broadcast: 111: ？？
+2018-04-16 20:41:03 - Utils: INFO: King~ executed: /house define.
+2018-04-16 20:41:06 - Utils: INFO: Broadcast: 111: 给你
+2018-04-16 20:41:08 - Utils: INFO: Broadcast: 111: 盾
+2018-04-16 20:41:09 - Utils: INFO: Broadcast: 111: 回来
+2018-04-16 20:41:28 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 20:41:28 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 20:41:34 - Utils: INFO: Broadcast: King~: 箱子你开完没
+2018-04-16 20:41:36 - Utils: INFO: Broadcast: 111: 你圈地了？
+2018-04-16 20:41:51 - Utils: INFO: Broadcast: King~: 对啊
+2018-04-16 20:41:58 - Utils: INFO: King~ executed: /house define.
+2018-04-16 20:42:00 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-16 20:42:09 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:42:09 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-16 20:42:09 - TShock: INFO: admin1 disconnected.
+2018-04-16 20:42:09 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:42:11 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:42:11 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-16 20:42:12 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-16 20:42:12 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-16 20:42:17 - Utils: INFO: Broadcast: 111: 给我权限把
+2018-04-16 20:42:28 - Utils: INFO: Broadcast: King~: 不会给啊...
+2018-04-16 20:42:32 - TShock: INFO: dad (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-16 20:42:32 - Utils: INFO: Broadcast: dad has joined.
+2018-04-16 20:42:32 - Utils: INFO: Broadcast: admin1:  
+2018-04-16 20:42:34 - Utils: INFO: Broadcast: 111: 咱俩去吧肉山打了把
+2018-04-16 20:42:43 - Utils: INFO: Broadcast: 111: 先去刷蜂王
+2018-04-16 20:42:47 - Utils: INFO: Broadcast: admin1: 2个人没有实力的
+2018-04-16 20:42:49 - Utils: INFO: Broadcast: 111: 做手雷
+2018-04-16 20:42:56 - Utils: INFO: Broadcast: 111: 然后再去
+2018-04-16 20:42:59 - Utils: INFO: Broadcast: King~: 别急
+2018-04-16 20:43:03 - Utils: INFO: Broadcast: 111: 但是
+2018-04-16 20:43:07 - Utils: INFO: Broadcast: 111: 别的boss全国了
+2018-04-16 20:43:11 - Utils: INFO: Broadcast: 111: 就差肉山了
+2018-04-16 20:43:13 - Utils: INFO: Broadcast: 111: 没有了
+2018-04-16 20:43:17 - Utils: INFO: Broadcast: King~: 你去qiao我家
+2018-04-16 20:43:26 - Utils: INFO: Broadcast: King~: 就是昨天雕像的地方
+2018-04-16 20:43:32 - Utils: INFO: Broadcast: King~: 看看能不能敲掉
+2018-04-16 20:43:34 - Utils: INFO: Broadcast: admin1: 输入/house share 玩家
+2018-04-16 20:43:34 - Utils: INFO: Broadcast: dad: 为什么我被石化了
+2018-04-16 20:43:37 - Utils: INFO: Broadcast: 111: 不能
+2018-04-16 20:43:42 - Utils: INFO: Broadcast: admin1: 权限
+2018-04-16 20:43:45 - Utils: INFO: Broadcast: King~: OKOK
+2018-04-16 20:43:47 - Utils: INFO: Broadcast: admin1: dad
+2018-04-16 20:44:05 - Utils: INFO: Broadcast: 111: 走去刷
+2018-04-16 20:44:08 - Utils: INFO: Broadcast: 111: 蜂王
+2018-04-16 20:44:09 - Utils: INFO: Broadcast: admin1: 加我QQ944360779
+2018-04-16 20:44:09 - Utils: INFO: Broadcast: 111: 然后肉山
+2018-04-16 20:44:11 - Utils: INFO: Broadcast: dad: 怎么搞
+2018-04-16 20:44:19 - Utils: INFO: Broadcast: admin1: 我帮你远程
+2018-04-16 20:44:26 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-16 20:44:40 - Utils: INFO: Broadcast: 111: 快来
+2018-04-16 20:44:44 - Utils: INFO: Broadcast: 111: 两个包
+2018-04-16 20:44:46 - Utils: INFO: Broadcast: 111: 给的多
+2018-04-16 20:45:17 - Utils: INFO: King~ executed: /house share III.
+2018-04-16 20:45:28 - Utils: INFO: Broadcast: 111: K过来啊
+2018-04-16 20:45:29 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-16 20:45:38 - Utils: INFO: Broadcast: King~: dd
+2018-04-16 20:45:44 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:45:55 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-16 20:46:19 - Utils: INFO: Broadcast: dad: 同意一下
+2018-04-16 20:46:29 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 20:46:29 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 20:48:11 - Utils: INFO: Broadcast: King~ has left.
+2018-04-16 20:48:11 - TShock: INFO: King~ disconnected.
+2018-04-16 20:48:11 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-16 20:48:15 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-16 20:48:15 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-16 20:48:24 - Utils: INFO: King~ executed: /warp conlin.
+2018-04-16 20:49:39 - Utils: INFO: Broadcast: dad has left.
+2018-04-16 20:49:39 - TShock: INFO: dad disconnected.
+2018-04-16 20:50:26 - TShock: INFO: dad (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-16 20:50:26 - Utils: INFO: Broadcast: dad has joined.
+2018-04-16 20:50:44 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:50:47 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-16 20:50:47 - Utils: INFO: Broadcast: dad has left.
+2018-04-16 20:50:47 - TShock: INFO: dad disconnected.
+2018-04-16 20:51:12 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-16 20:51:29 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 20:51:29 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 20:51:31 - Utils: INFO: Broadcast: King~: 群主有补偿吗
+2018-04-16 20:51:37 - Utils: INFO: Broadcast: admin1: 有啊
+2018-04-16 20:51:42 - TShock: INFO: dad (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-16 20:51:42 - Utils: INFO: Broadcast: dad has joined.
+2018-04-16 20:51:48 - Utils: INFO: Broadcast: admin1: 我教你怎么用圈地
+2018-04-16 20:51:57 - Utils: INFO: Broadcast: King~: 哇你太社会了吗
+2018-04-16 20:52:10 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-16 20:52:13 - Utils: INFO: Broadcast: dad: /
+2018-04-16 20:52:17 - Utils: INFO: Broadcast: dad: /
+2018-04-16 20:52:37 - TextLog: INFO: dad registered an account: "dad".
+2018-04-16 20:52:44 - Commands: INFO: dad authenticated successfully as user: dad.
+2018-04-16 20:52:58 - Utils: INFO: Broadcast: admin1: 辣鸡233
+2018-04-16 20:53:03 - Utils: INFO: Broadcast: 111: 。。
+2018-04-16 20:53:05 - Utils: INFO: admin1 executed: /spawn.
+2018-04-16 20:53:09 - Utils: INFO: Broadcast: King~: 哇太社会了吧
+2018-04-16 20:54:09 - Utils: INFO: Broadcast: King~: 去海边是什么之灵啊
+2018-04-16 20:54:22 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-16 20:54:24 - Utils: INFO: Broadcast: admin1: 输入/warp lift-sea
+2018-04-16 20:54:32 - Utils: INFO: admin1 executed: /warp lift-sea.
+2018-04-16 20:54:39 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-16 20:54:41 - Utils: INFO: King~ executed: /warp lift-sea.
+2018-04-16 20:54:50 - Utils: INFO: Broadcast: admin1: 呸，/warp laft-sea
+2018-04-16 20:54:58 - Utils: INFO: admin1 executed: /warp laft-sea.
+2018-04-16 20:55:04 - Utils: INFO: Broadcast: admin1: 。。。。
+2018-04-16 20:55:07 - Utils: INFO: Broadcast: admin1: 我忘记了
+2018-04-16 20:55:39 - Utils: INFO: Broadcast: admin1: 输入/warp list
+2018-04-16 20:55:43 - Utils: INFO: admin1 executed: /warp list.
+2018-04-16 20:55:44 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:55:54 - Utils: INFO: Broadcast: admin1: 这些都可以传送
+2018-04-16 20:56:12 - Utils: INFO: admin1 executed: /tp da.
+2018-04-16 20:56:30 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 20:56:30 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 20:56:56 - Utils: INFO: admin1 executed: /godmode.
+2018-04-16 20:57:03 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-16 20:57:15 - Utils: INFO: Broadcast: admin1: 啊哈哈哈哈
+2018-04-16 20:57:18 - Utils: INFO: Broadcast: admin1: 辣鸡
+2018-04-16 20:57:19 - Utils: INFO: Broadcast: 111: 帮我们打肉山多好
+2018-04-16 20:57:24 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-16 20:57:24 - TShock: INFO: admin1 disconnected.
+2018-04-16 20:57:24 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-16 20:57:26 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-16 20:57:27 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-16 20:57:27 - Utils: INFO: Broadcast: David has joined.
+2018-04-16 20:57:30 - Utils: INFO: Broadcast: David: 一起
+2018-04-16 20:57:32 - Utils: INFO: Broadcast: David: qwq
+2018-04-16 20:57:44 - Utils: INFO: Broadcast: David: 咋啦？
+2018-04-16 20:58:04 - Utils: INFO: Broadcast: King~: 我魔镜不见了...
+2018-04-16 20:58:09 - Utils: INFO: Broadcast: 111: 。。
+2018-04-16 20:58:11 - Utils: INFO: Broadcast: King~ has left.
+2018-04-16 20:58:11 - TShock: INFO: King~ disconnected.
+2018-04-16 20:58:14 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-16 20:58:15 - Utils: INFO: Broadcast: David: 我给你一个？
+2018-04-16 20:58:18 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-16 20:58:18 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-16 20:58:25 - Utils: INFO: Broadcast: David: 我给你一个？
+2018-04-16 20:58:31 - Utils: INFO: Broadcast: King~: 好啊
+2018-04-16 20:58:35 - Utils: INFO: Broadcast: dad: xiexie
+2018-04-16 20:58:39 - Utils: INFO: Broadcast: King~: 谢啦
+2018-04-16 20:58:49 - Utils: INFO: Broadcast: dad: xi谢谢
+2018-04-16 20:59:08 - Utils: INFO: Broadcast: King~: 谢啦
+2018-04-16 21:00:10 - Utils: INFO: Broadcast: David: 打肉山叫我
+2018-04-16 21:00:19 - Utils: INFO: Broadcast: 111: 帮你刷的
+2018-04-16 21:00:20 - Utils: INFO: Broadcast: David: 我找到上分车队了
+2018-04-16 21:00:31 - Utils: INFO: Broadcast: King~: 我的小猪呢
+2018-04-16 21:00:37 - Utils: INFO: Broadcast: King~: 有没有刷到QWQ
+2018-04-16 21:00:37 - Utils: INFO: Broadcast: David: 等等
+2018-04-16 21:00:43 - Utils: INFO: Broadcast: 111: 没有
+2018-04-16 21:00:44 - Utils: INFO: Broadcast: David: 算了我再玩会电脑qwq
+2018-04-16 21:00:47 - Utils: INFO: Broadcast: 111: 就我身上这一个
+2018-04-16 21:00:51 - Utils: INFO: Broadcast: 111: 其他人都没有
+2018-04-16 21:00:52 - Utils: INFO: Server executed: /bloodmoon.
+2018-04-16 21:00:57 - Utils: INFO: Broadcast: David: suprise!
+2018-04-16 21:01:02 - Utils: INFO: Broadcast: 111: 去打肉山吧
+2018-04-16 21:01:04 - Utils: INFO: Broadcast: 111: 好烦啊
+2018-04-16 21:01:06 - Utils: INFO: Broadcast: David: = =
+2018-04-16 21:01:10 - Utils: INFO: Broadcast: 111: 不知道干嘛了
+2018-04-16 21:01:12 - Utils: INFO: Server executed: /time 8:00.
+2018-04-16 21:01:14 - Utils: INFO: Broadcast: David: = =
+2018-04-16 21:01:19 - Utils: INFO: Broadcast: King~: 别急
+2018-04-16 21:01:20 - Utils: INFO: Broadcast: 111: [i:267]
+2018-04-16 21:01:26 - Utils: INFO: Broadcast: David: 先别打肉山
+2018-04-16 21:01:31 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:01:31 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:01:37 - Utils: INFO: Broadcast: David: 擂台都没造
+2018-04-16 21:01:37 - Utils: INFO: Broadcast: 111: 其实昨天我就想打的
+2018-04-16 21:01:41 - Utils: INFO: Broadcast: 111: 只不过是群主下了
+2018-04-16 21:01:52 - Utils: INFO: Broadcast: 111: K
+2018-04-16 21:01:53 - Utils: INFO: Broadcast: David: 地狱石都没挖
+2018-04-16 21:01:56 - Utils: INFO: Broadcast: 111: 你把手雷全给我
+2018-04-16 21:01:57 - Utils: INFO: Broadcast: David: 打个JJ
+2018-04-16 21:01:58 - Utils: INFO: Broadcast: 111: 蜂蜜的那个
+2018-04-16 21:02:04 - Utils: INFO: Broadcast: 111: 。。
+2018-04-16 21:02:06 - Utils: INFO: Broadcast: David: 地狱石啊
+2018-04-16 21:02:10 - Utils: INFO: Broadcast: 111: [i:273]
+2018-04-16 21:02:20 - Utils: INFO: Broadcast: King~: 你tms
+2018-04-16 21:02:23 - Utils: INFO: David executed: /warp diyu.
+2018-04-16 21:02:27 - Utils: INFO: Broadcast: King~: 为啥你什么都有
+2018-04-16 21:02:36 - Utils: INFO: Broadcast: 111: 你写作业的时候我就全弄好了
+2018-04-16 21:02:40 - Utils: INFO: Broadcast: King~: 有没有熔岩高啊
+2018-04-16 21:02:41 - Utils: INFO: Broadcast: 111: 就在昨天
+2018-04-16 21:02:47 - Utils: INFO: Broadcast: 111: [i:122]
+2018-04-16 21:02:54 - Utils: INFO: Broadcast: King~: 还有吗
+2018-04-16 21:02:57 - Utils: INFO: Broadcast: 111: 额
+2018-04-16 21:02:59 - Utils: INFO: Broadcast: 111: 没有了
+2018-04-16 21:03:02 - Utils: INFO: Broadcast: 111: 你早说啊
+2018-04-16 21:03:09 - Utils: INFO: Broadcast: David: 去地狱
+2018-04-16 21:03:10 - Utils: INFO: Broadcast: 111: 我把所有的锭全给
+2018-04-16 21:03:14 - Utils: INFO: Broadcast: David: 。/warp diyu
+2018-04-16 21:03:16 - Utils: INFO: Broadcast: 111: 别人了
+2018-04-16 21:03:21 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-16 21:05:27 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:06:13 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-16 21:06:24 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:06:31 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:06:31 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:07:19 - Utils: INFO: Broadcast: 111: 没了
+2018-04-16 21:07:23 - Utils: INFO: Broadcast: 111: 你来继续弄
+2018-04-16 21:11:09 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-16 21:11:32 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:11:32 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:11:35 - Utils: INFO: Broadcast: 111: 你弄一下路
+2018-04-16 21:11:38 - Utils: INFO: Broadcast: 111: 然后火堆
+2018-04-16 21:11:43 - Utils: INFO: Broadcast: 111: 我去一下雪地
+2018-04-16 21:12:11 - Utils: INFO: Broadcast: David: = =
+2018-04-16 21:12:20 - Utils: INFO: Broadcast: dad: 'e
+2018-04-16 21:12:21 - Utils: INFO: Broadcast: 111: D给K做一把稿子
+2018-04-16 21:12:36 - Utils: INFO: 111 executed: /warp xuedi.
+2018-04-16 21:12:50 - Utils: INFO: Broadcast: David: mmm
+2018-04-16 21:13:21 - Utils: INFO: Broadcast: dad: 沙尘暴
+2018-04-16 21:14:23 - Utils: INFO: Broadcast: King~: 我有稿子了
+2018-04-16 21:15:29 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:16:16 - Utils: INFO: Broadcast: David: [i/s36:175]
+2018-04-16 21:16:19 - Utils: INFO: 111 executed: /warp xuedi.
+2018-04-16 21:16:24 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-16 21:16:28 - Utils: INFO: Broadcast: 111: 来吧
+2018-04-16 21:16:32 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:16:32 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:16:46 - Utils: INFO: Broadcast: 111: 都来
+2018-04-16 21:16:56 - Utils: INFO: Broadcast: David: 我有事情
+2018-04-16 21:16:59 - Utils: INFO: Broadcast: David: 等会打
+2018-04-16 21:17:19 - Utils: INFO: Broadcast: 111: 我怕
+2018-04-16 21:17:20 - Utils: INFO: Broadcast: David: 你们先搞完熔岩套
+2018-04-16 21:17:24 - Utils: INFO: Broadcast: 111: 墨迹墨迹
+2018-04-16 21:17:27 - Utils: INFO: Broadcast: 111: 主机有睡觉去了
+2018-04-16 21:17:28 - Utils: INFO: Broadcast: David: 肉山30000血+
+2018-04-16 21:17:32 - Utils: INFO: Broadcast: David: 呸
+2018-04-16 21:17:35 - Utils: INFO: Broadcast: David: 60000血
+2018-04-16 21:17:43 - Utils: INFO: Broadcast: 111: 然后呢？
+2018-04-16 21:17:52 - Utils: INFO: Broadcast: David: 攻击翻3倍
+2018-04-16 21:17:56 - Utils: INFO: Broadcast: David: 想好打
+2018-04-16 21:18:01 - Utils: INFO: Broadcast: 111: 拉倒吧
+2018-04-16 21:18:07 - Utils: INFO: Broadcast: David: 蜂王都要耗那么长时间
+2018-04-16 21:18:09 - Utils: INFO: Broadcast: 111: 攻击力
+2018-04-16 21:18:11 - Utils: INFO: Broadcast: 111: 你想多了
+2018-04-16 21:18:14 - Utils: INFO: Broadcast: 111: 三倍
+2018-04-16 21:18:15 - Utils: INFO: Broadcast: King~: 这辈子都不可能做的
+2018-04-16 21:18:26 - Utils: INFO: Broadcast: 111: 你想多了
+2018-04-16 21:18:35 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:18:40 - Utils: INFO: Broadcast: 111: 专家垃圾难度
+2018-04-16 21:18:44 - Utils: INFO: Broadcast: 111: 怕毛线
+2018-04-16 21:18:47 - Utils: INFO: Broadcast: 111: 走了
+2018-04-16 21:19:18 - Utils: INFO: Broadcast: 111: D你去不去？
+2018-04-16 21:19:29 - Utils: INFO: 111 executed: /warp diyu、.
+2018-04-16 21:19:33 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-16 21:19:43 - Utils: INFO: Broadcast: dad: 我就算了
+2018-04-16 21:19:48 - Utils: INFO: Broadcast: dad: 没东西
+2018-04-16 21:19:59 - Utils: INFO: Broadcast: 111: 篝火呢？
+2018-04-16 21:20:56 - Utils: INFO: Broadcast: 111: 走了
+2018-04-16 21:20:58 - Utils: INFO: Broadcast: 111: 去打了
+2018-04-16 21:21:01 - Utils: INFO: Broadcast: King~: bie 
+2018-04-16 21:21:06 - Utils: INFO: Broadcast: King~: 急什么
+2018-04-16 21:21:10 - Utils: INFO: Broadcast: 111: 哎
+2018-04-16 21:21:15 - Utils: INFO: Broadcast: 111: 对你们都无语
+2018-04-16 21:21:27 - Utils: INFO: Broadcast: 111: 好像专家多难一样
+2018-04-16 21:21:33 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:21:33 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:22:43 - Utils: INFO: Broadcast: 111: 走啊
+2018-04-16 21:23:03 - Utils: INFO: Broadcast: 111: K
+2018-04-16 21:23:07 - Utils: INFO: Broadcast: 111: 你多少蜂王炸弹？
+2018-04-16 21:23:15 - Utils: INFO: Broadcast: King~: 等下
+2018-04-16 21:23:25 - Utils: INFO: Broadcast: 111: 哎等主机睡觉？
+2018-04-16 21:23:32 - Utils: INFO: Broadcast: David: 啊哈
+2018-04-16 21:23:35 - Utils: INFO: Broadcast: David: wolaila 
+2018-04-16 21:23:37 - Utils: INFO: Broadcast: David: 我来啦
+2018-04-16 21:23:41 - Utils: INFO: Broadcast: David: 来打肉山
+2018-04-16 21:23:42 - Utils: INFO: Broadcast: King~: 142个手雷
+2018-04-16 21:23:46 - Utils: INFO: Broadcast: 111: 给我
+2018-04-16 21:23:58 - Utils: INFO: Broadcast: King~: 我自己六点
+2018-04-16 21:23:59 - Utils: INFO: Broadcast: 111: 蜂蜡呢？
+2018-04-16 21:24:07 - Utils: INFO: Broadcast: King~: 用完了
+2018-04-16 21:24:09 - Utils: INFO: Broadcast: 111: ok
+2018-04-16 21:24:11 - Utils: INFO: Broadcast: 111: 走
+2018-04-16 21:24:13 - Utils: INFO: Broadcast: 111: 去打了
+2018-04-16 21:24:15 - Utils: INFO: Broadcast: King~: ？？？
+2018-04-16 21:24:18 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-16 21:24:19 - Utils: INFO: David executed: /warp diyu.
+2018-04-16 21:24:21 - Utils: INFO: Broadcast: King~: 我怎么进来了
+2018-04-16 21:24:27 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:24:28 - Utils: INFO: Broadcast: David: 来打
+2018-04-16 21:24:45 - Utils: INFO: Broadcast: 111: 扔
+2018-04-16 21:24:58 - Utils: INFO: Broadcast: 111: D
+2018-04-16 21:25:01 - Utils: INFO: Broadcast: 111: 我扔你身上了
+2018-04-16 21:25:06 - Utils: INFO: Broadcast: David: 3
+2018-04-16 21:25:08 - Utils: INFO: Broadcast: David: 2
+2018-04-16 21:25:13 - Utils: INFO: Broadcast: David: 1
+2018-04-16 21:26:34 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:26:34 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:26:52 - Utils: INFO: Broadcast: David: 艹
+2018-04-16 21:26:59 - Utils: INFO: David executed: /warp diyu.
+2018-04-16 21:27:34 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:28:01 - Utils: INFO: Broadcast: 111: 好烦啊
+2018-04-16 21:28:06 - Utils: INFO: Broadcast: 111: 你们两个。。
+2018-04-16 21:28:12 - Utils: INFO: Broadcast: 111: /
+2018-04-16 21:29:14 - Utils: INFO: Broadcast: 111: 从这里
+2018-04-16 21:30:09 - Utils: INFO: Broadcast: David: = =
+2018-04-16 21:30:26 - Utils: INFO: Broadcast: dad: 一脸懵逼
+2018-04-16 21:30:36 - Utils: INFO: Broadcast: 111: 群主
+2018-04-16 21:30:36 - Utils: INFO: Broadcast: David: 打不过
+2018-04-16 21:30:39 - Utils: INFO: Broadcast: 111: 还剩200
+2018-04-16 21:30:42 - Utils: INFO: Broadcast: 111: 快去打死他
+2018-04-16 21:30:52 - Utils: INFO: Broadcast: David: 我去追
+2018-04-16 21:31:34 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:31:34 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:31:47 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:32:28 - Utils: INFO: Broadcast: 111: 追不上了
+2018-04-16 21:32:30 - Utils: INFO: Broadcast: 111: 太远了
+2018-04-16 21:32:44 - Utils: INFO: Broadcast: 111: 群主在吗
+2018-04-16 21:32:50 - Utils: INFO: Broadcast: David: 在追
+2018-04-16 21:32:51 - Utils: INFO: Broadcast: 111: 去打掉他
+2018-04-16 21:33:56 - Utils: INFO: Broadcast: 111: 消失了
+2018-04-16 21:34:02 - Utils: INFO: Broadcast: David: 艹？
+2018-04-16 21:34:04 - Utils: INFO: Broadcast: 111: 前面已经没了
+2018-04-16 21:34:15 - Utils: INFO: Broadcast: 111: 能打过
+2018-04-16 21:34:18 - Utils: INFO: Broadcast: 111: 就是平台
+2018-04-16 21:34:23 - Utils: INFO: Broadcast: 111: 然后你们死的太快了
+2018-04-16 21:34:24 - Utils: INFO: Broadcast: 111: 多一个
+2018-04-16 21:34:28 - Utils: INFO: Broadcast: 111: 多一个人
+2018-04-16 21:34:31 - Utils: INFO: Broadcast: 111: 少一个输出
+2018-04-16 21:34:47 - Utils: INFO: Broadcast: David: 这个给你
+2018-04-16 21:34:52 - Utils: INFO: Broadcast: 111: 哈？
+2018-04-16 21:34:56 - Utils: INFO: Broadcast: David: 输入/house define圈地
+2018-04-16 21:35:02 - Utils: INFO: Broadcast: David: 这个是圈地棒
+2018-04-16 21:35:03 - Utils: INFO: Broadcast: 111: 我不要家
+2018-04-16 21:35:07 - Utils: INFO: Broadcast: 111: 我住你家就行
+2018-04-16 21:35:11 - Utils: INFO: Broadcast: 111: 0.0
+2018-04-16 21:35:24 - Utils: INFO: Broadcast: David: 嗯
+2018-04-16 21:35:26 - Utils: INFO: Broadcast: David: 好吧
+2018-04-16 21:35:31 - Utils: INFO: Broadcast: David: 借我用下
+2018-04-16 21:35:36 - Utils: INFO: Broadcast: David: 我扩大家
+2018-04-16 21:35:39 - Utils: INFO: Broadcast: David: 谢谢了
+2018-04-16 21:35:56 - Utils: INFO: Broadcast: 111: 你直接去把肉山弄死吧
+2018-04-16 21:36:00 - Utils: INFO: Broadcast: 111: 打后面的吧
+2018-04-16 21:36:35 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:36:35 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:37:14 - Utils: INFO: Broadcast: 111: ？
+2018-04-16 21:37:55 - Utils: INFO: Broadcast: King~: 任务鱼一下子就钓上来了..
+2018-04-16 21:39:53 - Utils: INFO: Broadcast: 111: 群主？
+2018-04-16 21:40:57 - Utils: INFO: Broadcast: 111: 你到底全了多大
+2018-04-16 21:41:06 - Utils: INFO: Broadcast: King~: 就这么打
+2018-04-16 21:41:10 - Utils: INFO: Broadcast: King~: 那是群主全的
+2018-04-16 21:41:22 - Utils: INFO: Broadcast: 111: 哇
+2018-04-16 21:41:24 - Utils: INFO: Broadcast: 111: 织布机
+2018-04-16 21:41:35 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:41:35 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:42:15 - Utils: INFO: Broadcast: 111: 好无聊啊
+2018-04-16 21:42:51 - Utils: INFO: Broadcast: 111: 群主啊
+2018-04-16 21:44:27 - Utils: INFO: King~ executed: /warp diyu.
+2018-04-16 21:46:36 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:46:36 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:51:36 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:51:36 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:56:37 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 21:56:37 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 21:58:19 - Utils: INFO: Broadcast: King~ has left.
+2018-04-16 21:58:19 - TShock: INFO: King~ disconnected.
+2018-04-16 22:01:36 - Utils: INFO: Server executed: /off.
+2018-04-16 22:01:36 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: 111 has left.
+2018-04-16 22:01:36 - TShock: INFO: 111 disconnected.
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-16 22:01:36 - Utils: INFO: Kicked dad for : 'Server shutting down!'
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: dad was force kicked for 'server shutting down!'
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: dad has left.
+2018-04-16 22:01:36 - TShock: INFO: dad disconnected.
+2018-04-16 22:01:36 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-16 22:01:36 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-16 22:01:36 - Utils: INFO: Broadcast: David has left.
+2018-04-16 22:01:36 - TShock: INFO: David disconnected.
+2018-04-16 22:01:38 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-16 22:01:38 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-16 22:01:38 - Utils: INFO: Broadcast: World saved.
+2018-04-16 22:01:38 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-16 22:01:38 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-16 22:01:39 - Utils: INFO: Broadcast: World saved.
+2018-04-16 22:01:39 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

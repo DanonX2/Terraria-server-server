@@ -1,0 +1,752 @@
+2018-04-22 13:22:30 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-22 13:22:30 - TShock: INFO: AutoSave Enabled
+2018-04-22 13:22:30 - TShock: INFO: Backups Disabled
+2018-04-22 13:22:30 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-22 13:22:59 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 13:23:00 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-22 13:23:00 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 13:23:15 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 13:23:20 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 13:23:20 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 13:23:32 - Utils: INFO: Broadcast: 111: 走去打世纪之花
+2018-04-22 13:23:36 - Utils: INFO: Broadcast: 111: 没有吸血好难受
+2018-04-22 13:24:15 - Utils: INFO: Broadcast: 111: 血药
+2018-04-22 13:24:18 - Utils: INFO: Broadcast: 111: 你有多少
+2018-04-22 13:24:23 - Utils: INFO: Broadcast: David: [i/s2:499]
+2018-04-22 13:24:35 - Utils: INFO: Broadcast: David: [i/s6:188]
+2018-04-22 13:25:23 - Utils: INFO: Broadcast: David: 谁有光明之魂
+2018-04-22 13:25:33 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 13:25:50 - Utils: INFO: David executed: /warp conlin.
+2018-04-22 13:25:52 - Utils: INFO: Broadcast: 111: 不知道为什莫今天比那天延迟都嘎
+2018-04-22 13:25:54 - Utils: INFO: Broadcast: 111: 高
+2018-04-22 13:25:57 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 13:26:03 - Utils: INFO: Broadcast: David: 我重启
+2018-04-22 13:26:03 - Utils: INFO: Broadcast: 111: 现在延迟又低了
+2018-04-22 13:26:05 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 13:26:07 - Utils: INFO: Broadcast: David: 。。？
+2018-04-22 13:26:12 - Utils: INFO: Broadcast: 111: 不知道
+2018-04-22 13:26:14 - Utils: INFO: Broadcast: 111: 玩吧
+2018-04-22 13:26:19 - Utils: INFO: Broadcast: David: 走
+2018-04-22 13:26:19 - Utils: INFO: Broadcast: 111: 走去打世纪之花吧
+2018-04-22 13:26:55 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 13:27:05 - Utils: INFO: Broadcast: 111: 这边
+2018-04-22 13:29:05 - Utils: INFO: Broadcast: 111: 这边
+2018-04-22 13:29:10 - Utils: INFO: Broadcast: 111: 挖一条路
+2018-04-22 13:30:56 - Utils: INFO: Broadcast: 111: 来打
+2018-04-22 13:31:08 - Utils: INFO: Broadcast: 111: 你在这里等我
+2018-04-22 13:31:19 - Utils: INFO: Broadcast: 111: 这里设置
+2018-04-22 13:31:22 - Utils: INFO: Broadcast: 111: 一个传送
+2018-04-22 13:31:24 - Utils: INFO: Broadcast: 111: 这里
+2018-04-22 13:31:25 - Utils: INFO: Broadcast: David has left.
+2018-04-22 13:31:25 - TShock: INFO: David disconnected.
+2018-04-22 13:31:28 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 13:31:28 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 13:31:29 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (2/10)
+2018-04-22 13:31:29 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 13:31:31 - Utils: INFO: admin1 executed: /warp 11.
+2018-04-22 13:31:32 - Utils: INFO: Broadcast: 111: 我这里
+2018-04-22 13:31:36 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 13:31:46 - Utils: INFO: admin1 executed: /warp add cl.
+2018-04-22 13:31:47 - Utils: INFO: Broadcast: 111: 简单的
+2018-04-22 13:31:50 - Utils: INFO: Broadcast: admin1: 名字是cl
+2018-04-22 13:31:52 - Utils: INFO: Broadcast: 111: 死了号过来
+2018-04-22 13:31:56 - Utils: INFO: Broadcast: 111: 嗯嗯
+2018-04-22 13:31:57 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 13:31:57 - TShock: INFO: admin1 disconnected.
+2018-04-22 13:31:57 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 13:31:59 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 13:32:01 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 13:32:01 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 13:32:13 - Utils: INFO: 111 executed: /warp CL.
+2018-04-22 13:32:26 - Utils: INFO: 111 executed: /WARP YH.
+2018-04-22 13:32:35 - Utils: INFO: 111 executed: /WARP CL.
+2018-04-22 13:32:38 - Utils: INFO: Broadcast: 111: KUAILAI
+2018-04-22 13:32:40 - Utils: INFO: Broadcast: 111: 快来
+2018-04-22 13:32:41 - Utils: INFO: Broadcast: 111: 打了
+2018-04-22 13:32:46 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:32:56 - Utils: INFO: Broadcast: 111: 你在这里
+2018-04-22 13:32:57 - Utils: INFO: Broadcast: 111: 等我
+2018-04-22 13:34:24 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:34:43 - Utils: INFO: David executed: /warp ck.
+2018-04-22 13:34:46 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:34:46 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 13:34:48 - Utils: INFO: Broadcast: 111: 还是太小了
+2018-04-22 13:34:49 - Utils: INFO: Broadcast: 111: 地方
+2018-04-22 13:35:04 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 13:35:40 - Utils: INFO: David executed: /warp .
+2018-04-22 13:37:00 - Utils: INFO: Broadcast: David: 那怎么办
+2018-04-22 13:37:08 - Utils: INFO: Broadcast: 111: [i/s30:188][i/s14:188]
+2018-04-22 13:37:12 - Utils: INFO: Broadcast: 111: 挖呀
+2018-04-22 13:37:17 - Utils: INFO: Broadcast: David: 走
+2018-04-22 13:37:19 - Utils: INFO: Broadcast: David: 一起
+2018-04-22 13:37:22 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:37:25 - Utils: INFO: Broadcast: 111: 我给你做一点血药
+2018-04-22 13:37:50 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:37:54 - Utils: INFO: Broadcast: 111: 给
+2018-04-22 13:38:01 - Utils: INFO: David executed: /warp spawn.
+2018-04-22 13:38:16 - Utils: INFO: Broadcast: David: x谢谢
+2018-04-22 13:38:19 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 13:38:23 - Utils: INFO: Broadcast: 111: 用手雷吧
+2018-04-22 13:38:27 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:38:41 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 13:39:11 - Utils: INFO: Broadcast: David: w
+2018-04-22 13:39:19 - Utils: INFO: Broadcast: David: 我去找生命果
+2018-04-22 13:39:22 - Utils: INFO: Broadcast: 111: en 
+2018-04-22 13:39:22 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:39:45 - Utils: INFO: Broadcast: David: [i/p79:223]
+2018-04-22 13:39:56 - Utils: INFO: Broadcast: 111: youel 
+2018-04-22 13:39:58 - Utils: INFO: Broadcast: 111: youle
+2018-04-22 13:40:07 - Utils: INFO: Broadcast: David: en
+2018-04-22 13:43:05 - Utils: INFO: Broadcast: David: 艹？
+2018-04-22 13:43:08 - Utils: INFO: David executed: /warp cl.
+2018-04-22 13:43:16 - Utils: INFO: Broadcast: David: [i:29]
+2018-04-22 13:46:01 - Utils: INFO: Broadcast: 111: 那个不行了
+2018-04-22 13:46:06 - Utils: INFO: Broadcast: David: ?
+2018-04-22 13:46:09 - Utils: INFO: Broadcast: 111: 心啊
+2018-04-22 13:46:16 - Utils: INFO: Broadcast: David: ??
+2018-04-22 13:46:34 - Utils: INFO: Broadcast: 111: 你刚才发的那个
+2018-04-22 13:46:41 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 13:47:06 - Utils: INFO: Broadcast: 111: 找找附近有没有
+2018-04-22 13:47:16 - Utils: INFO: Broadcast: 111: 世纪之花
+2018-04-22 13:48:41 - Utils: INFO: Broadcast: David: 等会玩了
+2018-04-22 13:48:43 - Utils: INFO: Broadcast: David: 写作业
+2018-04-22 13:48:46 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 13:48:50 - Utils: INFO: Broadcast: David has left.
+2018-04-22 13:48:50 - TShock: INFO: David disconnected.
+2018-04-22 13:52:35 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 13:52:36 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:52:36 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:53:03 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<ServerIsOutOfDateAsync>d__6.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<UpdateCheckAsync>d__5.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.UpdateManager.<CheckForUpdatesAsync>d__4.MoveNext()
+2018-04-22 13:53:03 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2018-04-22 13:53:06 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 13:53:06 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 13:54:04 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 13:54:47 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 13:55:07 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 13:55:08 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:55:08 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:57:05 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 13:57:06 - Utils: INFO: Broadcast: World saved.
+2018-04-22 13:57:06 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 13:59:57 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 14:00:17 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:01:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 14:01:45 - Utils: INFO: Broadcast: World saved.
+2018-04-22 14:01:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 14:05:07 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 14:05:08 - Utils: INFO: Broadcast: World saved.
+2018-04-22 14:05:08 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 14:06:14 - TShock: INFO: HFC (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-22 14:06:14 - Utils: INFO: Broadcast: HFC has joined.
+2018-04-22 14:06:40 - Utils: INFO: Broadcast: 111: ??
+2018-04-22 14:06:45 - Utils: INFO: Broadcast: 111: 知道怎末弄吗？
+2018-04-22 14:06:55 - TextLog: INFO: HFC registered an account: "HFC".
+2018-04-22 14:07:20 - Utils: INFO: Broadcast: HFC has left.
+2018-04-22 14:07:20 - TShock: INFO: HFC disconnected.
+2018-04-22 14:07:28 - GetDataHandlers: INFO: HFC authenticated successfully as user HFC.
+2018-04-22 14:07:32 - TShock: INFO: HFC (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 14:07:32 - Utils: INFO: Broadcast: HFC has joined.
+2018-04-22 14:10:03 - Utils: INFO: Server executed: /kill hfc.
+2018-04-22 14:10:44 - Utils: INFO: Broadcast: HFC has left.
+2018-04-22 14:10:44 - TShock: INFO: HFC disconnected.
+2018-04-22 14:11:44 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 14:11:45 - Utils: INFO: Broadcast: World saved.
+2018-04-22 14:11:45 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 14:12:47 - GetDataHandlers: INFO: HFC authenticated successfully as user HFC.
+2018-04-22 14:12:51 - TShock: INFO: HFC (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-22 14:12:51 - Utils: INFO: Broadcast: HFC has joined.
+2018-04-22 14:16:03 - Utils: INFO: Broadcast: 111: 这是专家难度的
+2018-04-22 14:16:13 - Utils: INFO: Broadcast: 111: 你小心点把
+2018-04-22 14:16:16 - Utils: INFO: Broadcast: HFC: 我知道
+2018-04-22 14:17:52 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-22 14:18:16 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:20:30 - Utils: INFO: Server executed: /kill 111.
+2018-04-22 14:24:37 - Utils: INFO: Broadcast: 111: 别随便拿
+2018-04-22 14:24:41 - Utils: INFO: Broadcast: 111: 这是别人的家
+2018-04-22 14:24:49 - Utils: INFO: Broadcast: HFC: 额
+2018-04-22 14:25:51 - Utils: INFO: Broadcast: 111: 果然还是我的家比较保险
+2018-04-22 14:25:54 - Utils: INFO: Broadcast: HFC: 钱的没有
+2018-04-22 14:26:08 - Utils: INFO: Broadcast: 111: 我的家在右边
+2018-04-22 14:27:03 - Utils: INFO: Broadcast: 111: 。。。
+2018-04-22 14:27:09 - Utils: INFO: Broadcast: 111: 最后还是拿了
+2018-04-22 14:27:42 - Utils: INFO: Broadcast: 111: 来参观我家啊
+2018-04-22 14:27:51 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 14:28:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 14:28:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 14:28:41 - Utils: INFO: Broadcast: HFC: 这是你家？
+2018-04-22 14:28:44 - Utils: INFO: Broadcast: 111: 不是
+2018-04-22 14:28:46 - Utils: INFO: Broadcast: 111: 右边
+2018-04-22 14:29:19 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 14:30:23 - Utils: INFO: Broadcast: HFC: 哇哦
+2018-04-22 14:30:42 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 14:30:43 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 14:30:43 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 14:30:50 - Utils: INFO: Broadcast: 111: 主机跟我走
+2018-04-22 14:30:54 - Utils: INFO: Broadcast: 111: 没法改造
+2018-04-22 14:30:55 - Utils: INFO: Broadcast: David: FFAQ
+2018-04-22 14:31:03 - Utils: INFO: Broadcast: 111: 我要锤你
+2018-04-22 14:31:14 - Utils: INFO: Broadcast: David: FAQ！
+2018-04-22 14:31:25 - Utils: INFO: Broadcast: 111: 你去试试
+2018-04-22 14:31:31 - Utils: INFO: Broadcast: David: FAQ！
+2018-04-22 14:31:32 - Utils: INFO: Broadcast: 111: 去下面一点
+2018-04-22 14:31:44 - Utils: INFO: Broadcast: 111: 你去试试
+2018-04-22 14:31:46 - Utils: INFO: Broadcast: HFC: e~~~
+2018-04-22 14:31:55 - Utils: INFO: Broadcast: David: hfc蓝队
+2018-04-22 14:31:55 - Utils: INFO: Broadcast: 111: 快去
+2018-04-22 14:32:03 - Utils: INFO: David executed: /warp laimu.
+2018-04-22 14:32:15 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 14:32:16 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:32:21 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:32:24 - Utils: INFO: Broadcast: 111: 下面
+2018-04-22 14:32:32 - Utils: INFO: Broadcast: HFC: 看到一个坐骑
+2018-04-22 14:32:36 - Utils: INFO: Broadcast: 111: 那走吧
+2018-04-22 14:32:41 - Utils: INFO: Broadcast: 111: 拿走吧
+2018-04-22 14:32:44 - Utils: INFO: Broadcast: 111: 这里
+2018-04-22 14:32:46 - Utils: INFO: Broadcast: 111: 你试试吧
+2018-04-22 14:33:05 - Utils: INFO: Broadcast: David: 我去？
+2018-04-22 14:33:09 - Utils: INFO: Broadcast: 111: 啊啊啊啊啊啊啊啊啊啊
+2018-04-22 14:33:11 - Utils: INFO: Broadcast: 111: 啊啊啊啊啊啊啊啊啊啊 
+2018-04-22 14:33:35 - Utils: INFO: Broadcast: David has left.
+2018-04-22 14:33:35 - TShock: INFO: David disconnected.
+2018-04-22 14:33:37 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 14:33:37 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-22 14:33:38 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (3/10)
+2018-04-22 14:33:38 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-22 14:33:39 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 14:33:39 - TShock: INFO: 111 disconnected.
+2018-04-22 14:33:41 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-22 14:33:43 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-22 14:33:48 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 14:33:48 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-22 14:33:53 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:34:18 - Utils: INFO: admin1 executed: /warp cl.
+2018-04-22 14:34:31 - Utils: INFO: 111 executed: /warp.
+2018-04-22 14:34:34 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:34:45 - Utils: INFO: admin1 executed: /warp cl.
+2018-04-22 14:34:50 - Utils: INFO: Broadcast: 111: kuaidian a 
+2018-04-22 14:34:54 - Utils: INFO: admin1 executed: /godmode.
+2018-04-22 14:34:54 - Utils: INFO: Broadcast: 111: 我要打猪杀
+2018-04-22 14:34:54 - Utils: INFO: Broadcast: 111: 啊
+2018-04-22 14:35:01 - Utils: INFO: Broadcast: 111: 快解决啊
+2018-04-22 14:35:23 - Utils: INFO: Broadcast: HFC: 也要
+2018-04-22 14:35:32 - Utils: INFO: Broadcast: 111: HFC去底下
+2018-04-22 14:35:35 - Utils: INFO: Broadcast: 111: 找心去啊
+2018-04-22 14:37:15 - Utils: INFO: HFC executed: /warp 海边.
+2018-04-22 14:37:21 - Utils: INFO: HFC executed: /warp 海边.
+2018-04-22 14:37:25 - Utils: INFO: HFC executed: /warp 海边.
+2018-04-22 14:37:30 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 14:38:28 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:38:33 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:38:47 - Utils: INFO: admin1 executed: /tphere 11.
+2018-04-22 14:38:57 - Utils: INFO: Broadcast: 111: 卡算行了
+2018-04-22 14:39:14 - TShock: INFO: DDA (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-22 14:39:14 - Utils: INFO: Broadcast: DDA has joined.
+2018-04-22 14:39:18 - Utils: INFO: Broadcast: HFC: 哇  这里怎么有个坑
+2018-04-22 14:39:32 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-22 14:40:00 - TextLog: INFO: DDA registered an account: "DDA".
+2018-04-22 14:40:07 - Commands: INFO: DDA authenticated successfully as user: DDA.
+2018-04-22 14:40:21 - Utils: INFO: admin1 executed: /tphere 11.
+2018-04-22 14:40:27 - Utils: INFO: Broadcast: 111: 帮我打？
+2018-04-22 14:40:47 - Utils: INFO: Broadcast: DDA: 我
+2018-04-22 14:41:08 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-22 14:41:08 - TShock: INFO: admin1 disconnected.
+2018-04-22 14:41:08 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-22 14:41:11 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 14:41:12 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 14:41:12 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 14:41:28 - Utils: INFO: David executed: /warp ck.
+2018-04-22 14:41:30 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:41:32 - Utils: INFO: Broadcast: David: 来
+2018-04-22 14:41:35 - Utils: INFO: Broadcast: David: 打
+2018-04-22 14:41:39 - Utils: INFO: Broadcast: David: 引到这里
+2018-04-22 14:41:49 - Utils: INFO: Broadcast: David: 大家加入蓝队然后输入/warp cl
+2018-04-22 14:41:50 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:41:59 - Utils: INFO: HFC executed: /warp d.
+2018-04-22 14:42:02 - Utils: INFO: Broadcast: 111: 去呼市哪里
+2018-04-22 14:42:08 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 14:42:35 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:42:49 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:42:56 - Utils: INFO: Broadcast: David: 打不
+2018-04-22 14:42:58 - Utils: INFO: Broadcast: 111: 我挖了啊
+2018-04-22 14:43:02 - Utils: INFO: Broadcast: David: 来
+2018-04-22 14:43:15 - Utils: INFO: Broadcast: HFC: 拉我
+2018-04-22 14:43:25 - Utils: INFO: Server executed: /godmode Da.
+2018-04-22 14:43:31 - Utils: INFO: Broadcast: David: 输入/warp cl
+2018-04-22 14:43:41 - Utils: INFO: HFC executed: /warp d.
+2018-04-22 14:43:44 - Utils: INFO: Server executed: /godmode Da.
+2018-04-22 14:43:47 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 14:43:56 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:44:06 - Utils: INFO: Broadcast: HFC: 没用
+2018-04-22 14:45:04 - Utils: INFO: Broadcast: HFC: 111 你是OP吗？  啦我
+2018-04-22 14:45:27 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:45:37 - Utils: INFO: Broadcast: DDA: 谁带玩
+2018-04-22 14:45:46 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:46:03 - Utils: INFO: Broadcast: David: 艹
+2018-04-22 14:46:09 - Utils: INFO: Broadcast: DDA: pvp
+2018-04-22 14:46:09 - Utils: INFO: Broadcast: 111: 触手没法清理
+2018-04-22 14:46:20 - Utils: INFO: Broadcast: 111: 没人带的
+2018-04-22 14:46:24 - Utils: INFO: Broadcast: David: king不来吗
+2018-04-22 14:46:26 - Utils: INFO: Broadcast: 111: 所有人都是自己弄得
+2018-04-22 14:46:32 - Utils: INFO: Broadcast: DDA: 好吧
+2018-04-22 14:46:40 - Utils: INFO: Broadcast: 111: 海边的指令
+2018-04-22 14:46:50 - Utils: INFO: HFC executed: /warp 海边.
+2018-04-22 14:46:50 - Utils: INFO: Broadcast: 111: 指令是 /warp yh
+2018-04-22 14:46:55 - Utils: INFO: Broadcast: 111: 丛林的
+2018-04-22 14:46:56 - Utils: INFO: HFC executed: /warp yh.
+2018-04-22 14:46:59 - Utils: INFO: 111 executed: /warp cl.
+2018-04-22 14:47:00 - Utils: INFO: David executed: /warp list.
+2018-04-22 14:47:01 - Utils: INFO: Broadcast: 111: /
+2018-04-22 14:47:02 - Utils: INFO: Broadcast: 111: hg
+2018-04-22 14:47:13 - Utils: INFO: Broadcast: 111: 指令是 /warp cl
+2018-04-22 14:47:25 - Utils: INFO: Broadcast: 111: 地狱 /warp diyu
+2018-04-22 14:47:37 - Utils: INFO: HFC executed: /warp cl.
+2018-04-22 14:47:39 - Utils: INFO: Broadcast: 111: 地牢/warp dilao
+2018-04-22 14:47:46 - Utils: INFO: DDA executed: /warp.
+2018-04-22 14:47:55 - Utils: INFO: Broadcast: 111: 我不是主机
+2018-04-22 14:47:58 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 14:48:00 - Utils: INFO: HFC executed: /warp dilao.
+2018-04-22 14:48:01 - Utils: INFO: Broadcast: 111: 主机是David
+2018-04-22 14:48:16 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 14:48:27 - Utils: INFO: HFC executed: /warp dilao.
+2018-04-22 14:48:34 - Utils: INFO: David executed: /warp jd.
+2018-04-22 14:48:40 - Utils: INFO: Broadcast: 111: 主机
+2018-04-22 14:48:43 - Utils: INFO: Broadcast: 111: 先去打猪杀把
+2018-04-22 14:48:47 - Utils: INFO: Broadcast: 111: 他的武器是群攻
+2018-04-22 14:48:51 - Utils: INFO: Broadcast: 111: 可以清理触手
+2018-04-22 14:48:52 - Utils: INFO: David executed: /warp list.
+2018-04-22 14:48:56 - Utils: INFO: DDA executed: /warp hy.
+2018-04-22 14:49:03 - Utils: INFO: 111 executed: /warp CL.
+2018-04-22 14:49:04 - Utils: INFO: DDA executed: /warp yh.
+2018-04-22 14:49:16 - Utils: INFO: 111 executed: /WARP CL.
+2018-04-22 14:49:20 - Utils: INFO: David executed: /warp list 列出所有传送点名字/warp dilao去地牢/warp left-sea去左海/warp spawn去主城/warp conlin去丛林地表/warp diyu去地狱/warp yh去右海/warp jd去**/warp cl去丛林地底.
+2018-04-22 14:49:20 - Utils: INFO: HFC executed: /warp hb.
+2018-04-22 14:49:21 - Utils: INFO: DDA executed: /warp yh.
+2018-04-22 14:49:28 - Utils: INFO: HFC executed: /warp hy.
+2018-04-22 14:49:35 - Utils: INFO: HFC executed: /warp haiyang.
+2018-04-22 14:49:35 - Utils: INFO: Broadcast: David: 新手看群
+2018-04-22 14:49:41 - Utils: INFO: David executed: /warp dl.
+2018-04-22 14:49:44 - Utils: INFO: HFC executed: /warp hy.
+2018-04-22 14:49:48 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:49:56 - Utils: INFO: DDA executed: /warp zh.
+2018-04-22 14:49:57 - Utils: INFO: HFC executed: /warp cl.
+2018-04-22 14:50:06 - Utils: INFO: DDA executed: /warp left-sea.
+2018-04-22 14:50:45 - Utils: INFO: David executed: /warp cl.
+2018-04-22 14:52:37 - Utils: INFO: DDA executed: /warp jd.
+2018-04-22 14:52:44 - Utils: INFO: DDA executed: /warp jd.
+2018-04-22 14:52:49 - Utils: INFO: DDA executed: /warp dy.
+2018-04-22 14:53:01 - Utils: INFO: Broadcast: DDA: 卡了
+2018-04-22 14:53:15 - Utils: INFO: Broadcast: DDA has left.
+2018-04-22 14:53:15 - TShock: INFO: DDA disconnected.
+2018-04-22 14:53:21 - GetDataHandlers: INFO: DDA authenticated successfully as user DDA.
+2018-04-22 14:53:25 - TShock: INFO: DDA (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 14:53:25 - Utils: INFO: Broadcast: DDA has joined.
+2018-04-22 14:53:41 - Utils: INFO: HFC executed: /warp 111.
+2018-04-22 14:53:49 - Utils: INFO: HFC executed: /warp 【111】.
+2018-04-22 14:54:25 - Utils: INFO: HFC executed: /warp 111 传送.
+2018-04-22 14:54:57 - Utils: INFO: Broadcast: DDA: 这服务器优活动么
+2018-04-22 14:55:30 - Utils: INFO: Broadcast: 111: [i/s2:2673]
+2018-04-22 14:55:41 - Utils: INFO: Broadcast: David: !
+2018-04-22 14:55:49 - Utils: INFO: DDA executed: /warp zh.
+2018-04-22 14:55:51 - Utils: INFO: Broadcast: 111: HAH 
+2018-04-22 14:55:53 - Utils: INFO: Broadcast: David: 世纪之花都没打
+2018-04-22 14:55:57 - Utils: INFO: Broadcast: David: 还打朱砂
+2018-04-22 14:56:02 - Utils: INFO: Broadcast: David: 打不过啊
+2018-04-22 14:56:02 - Utils: INFO: Broadcast: 111: DUIDI 
+2018-04-22 14:56:08 - Utils: INFO: DDA executed: /warp left-sea.
+2018-04-22 14:56:11 - Utils: INFO: Broadcast: 111: 猪杀
+2018-04-22 14:56:14 - Utils: INFO: Broadcast: 111: 可以医生打发
+2018-04-22 14:56:24 - Utils: INFO: DDA executed: /warp yh.
+2018-04-22 14:57:11 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 14:58:02 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 14:58:13 - Utils: INFO: Broadcast: 111: 主机
+2018-04-22 14:58:16 - Utils: INFO: Broadcast: 111: 你还没有翅膀？
+2018-04-22 14:58:30 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 14:58:30 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 14:59:15 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 14:59:57 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:00:56 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:01:09 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:01:36 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:01:46 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:02:09 - Utils: INFO: Broadcast: 111: [i/s4:2673]
+2018-04-22 15:02:16 - Utils: INFO: Broadcast: 111: 等等
+2018-04-22 15:02:19 - Utils: INFO: Broadcast: 111: 你们两个
+2018-04-22 15:02:25 - Utils: INFO: Broadcast: DDA: ???
+2018-04-22 15:02:27 - Utils: INFO: Broadcast: 111: 我给你门点东西
+2018-04-22 15:02:52 - Utils: INFO: Broadcast: 111: 给我
+2018-04-22 15:03:03 - Utils: INFO: Broadcast: 111: 过来
+2018-04-22 15:03:26 - Utils: INFO: Broadcast: David: 嗯
+2018-04-22 15:03:29 - Utils: INFO: Broadcast: David: 来了
+2018-04-22 15:03:35 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 15:03:35 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 15:03:37 - Utils: INFO: Broadcast: 111: 没了
+2018-04-22 15:03:39 - Utils: INFO: Broadcast: David: = =
+2018-04-22 15:04:00 - Utils: INFO: Broadcast: DDA: 谢谢老板
+2018-04-22 15:04:11 - Utils: INFO: Broadcast: 111: 走
+2018-04-22 15:04:13 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-22 15:04:16 - Utils: INFO: Broadcast: 111: 咱俩去日猪杀
+2018-04-22 15:04:23 - Utils: INFO: Broadcast: DDA: 带我一个
+2018-04-22 15:04:36 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 15:04:48 - Utils: INFO: Broadcast: DDA: 左海还是右海
+2018-04-22 15:04:54 - Utils: INFO: Broadcast: 111: D
+2018-04-22 15:04:57 - Utils: INFO: Broadcast: 111: 人呢？
+2018-04-22 15:05:07 - Utils: INFO: Broadcast: 111: 还活着吗？
+2018-04-22 15:05:16 - Utils: INFO: Broadcast: 111: 打指令就可以了
+2018-04-22 15:05:34 - Utils: INFO: Broadcast: DDA: 这兄弟电脑不好把
+2018-04-22 15:05:45 - Utils: INFO: Broadcast: 111: 不是
+2018-04-22 15:05:49 - Utils: INFO: Broadcast: 111: 单纯的
+2018-04-22 15:05:55 - Utils: INFO: Broadcast: 111: 在别的
+2018-04-22 15:06:01 - Utils: INFO: Broadcast: 111: 在干别的
+2018-04-22 15:06:48 - Utils: INFO: DDA executed: /help.
+2018-04-22 15:06:57 - Utils: INFO: DDA executed: /party.
+2018-04-22 15:07:09 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:07:11 - Utils: INFO: Broadcast: 111: yh
+2018-04-22 15:07:15 - Utils: INFO: Broadcast: 111: 指令
+2018-04-22 15:08:04 - Utils: INFO: DDA executed: /warp yh.
+2018-04-22 15:08:12 - Utils: INFO: Broadcast: DDA: 我到了
+2018-04-22 15:08:20 - Utils: INFO: Broadcast: 111: 我靠
+2018-04-22 15:08:24 - Utils: INFO: Broadcast: 111: 我的鱼竿呢
+2018-04-22 15:08:40 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-22 15:08:40 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-22 15:08:42 - Utils: INFO: Broadcast: DDA:  .
+2018-04-22 15:08:48 - Utils: INFO: Broadcast: DDA: 你人类
+2018-04-22 15:09:35 - Utils: INFO: Broadcast: 111: 做预感呢
+2018-04-22 15:09:37 - Utils: INFO: Broadcast: 111: 鱼竿呢
+2018-04-22 15:09:45 - Utils: INFO: Broadcast: DDA:  ....
+2018-04-22 15:10:09 - Utils: INFO: 111 executed: /warp yh.
+2018-04-22 15:10:17 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:10:32 - Utils: INFO: Broadcast: 111: 过来吧
+2018-04-22 15:10:37 - Utils: INFO: DDA executed: /warp yh.
+2018-04-22 15:10:39 - Utils: INFO: David executed: /warp cl.
+2018-04-22 15:10:41 - Utils: INFO: David executed: /warp dy.
+2018-04-22 15:10:46 - Utils: INFO: Broadcast: DDA: 来了
+2018-04-22 15:10:46 - Utils: INFO: David executed: /warp yh.
+2018-04-22 15:10:48 - Utils: INFO: Broadcast: 111: 上面床
+2018-04-22 15:10:56 - Utils: INFO: Broadcast: 111: 你可算活了
+2018-04-22 15:10:59 - Utils: INFO: Broadcast: David: 233
+2018-04-22 15:11:35 - Utils: INFO: Broadcast: 111: 别让护士死了
+2018-04-22 15:11:43 - Utils: INFO: Broadcast: 111: 死了全完
+2018-04-22 15:11:46 - Utils: INFO: Broadcast: 111: 我去找还
+2018-04-22 15:12:00 - Utils: INFO: 111 summoned the Duke Fishron!
+2018-04-22 15:12:44 - Utils: INFO: Broadcast: 111: 来啊
+2018-04-22 15:13:03 - Utils: INFO: Broadcast: DDA: Davi
+2018-04-22 15:13:17 - Utils: INFO: Broadcast: DDA: 还骑马
+2018-04-22 15:19:23 - Utils: INFO: Broadcast: David: 我觉得我可能在打酱油
+2018-04-22 15:21:50 - Utils: INFO: Broadcast: 111: 主机
+2018-04-22 15:21:53 - Utils: INFO: Broadcast: 111: 护士打法
+2018-04-22 15:21:53 - Utils: INFO: Broadcast: David: 我觉得我在打酱油
+2018-04-22 15:21:55 - Utils: INFO: Broadcast: 111: 你不知道吗？
+2018-04-22 15:21:59 - Utils: INFO: Broadcast: 111: 没血了回去
+2018-04-22 15:22:01 - Utils: INFO: Broadcast: DDA: 也是
+2018-04-22 15:22:02 - Utils: INFO: Broadcast: 111: 找护士回血
+2018-04-22 15:22:03 - Utils: INFO: Broadcast: 111: 不会吗？
+2018-04-22 15:22:12 - Utils: INFO: Broadcast: David: 会的
+2018-04-22 15:22:18 - Utils: INFO: Broadcast: 111: 我看你一丝血
+2018-04-22 15:22:21 - Utils: INFO: Broadcast: 111: 还在打
+2018-04-22 15:22:25 - Utils: INFO: Broadcast: DDA: 朱砂呢
+2018-04-22 15:22:26 - Utils: INFO: Broadcast: David: 。。。。
+2018-04-22 15:22:46 - Utils: INFO: Broadcast: 111: 打一次我蓝瓶
+2018-04-22 15:22:53 - Utils: INFO: Broadcast: 111: 打掉了50多个
+2018-04-22 15:23:14 - Utils: INFO: Broadcast: David: 我子弹少了2000多。。
+2018-04-22 15:23:15 - Utils: INFO: Broadcast: 111: 两个萌新好难
+2018-04-22 15:23:26 - Utils: INFO: Broadcast: 111: 血量加的太高了
+2018-04-22 15:23:29 - Utils: INFO: Broadcast: DDA:  .....
+2018-04-22 15:23:32 - Utils: INFO: Broadcast: 111: 刚才只是第二阶段
+2018-04-22 15:23:39 - Utils: INFO: Broadcast: 111: 第三阶段瞬移
+2018-04-22 15:23:59 - Utils: INFO: David executed: /warp spanw.
+2018-04-22 15:24:01 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 15:24:03 - Utils: INFO: Broadcast: 111: 好难
+2018-04-22 15:24:04 - Utils: INFO: David executed: /warp spawn.
+2018-04-22 15:24:09 - Utils: INFO: Broadcast: DDA: 如果全死的话
+2018-04-22 15:24:13 - Utils: INFO: Broadcast: DDA: 就要重来？
+2018-04-22 15:24:16 - Utils: INFO: Broadcast: 111: 你以为呢
+2018-04-22 15:24:34 - Utils: INFO: Broadcast: DDA: 那我躲起来不就行了
+2018-04-22 15:24:44 - Utils: INFO: Broadcast: 111: 。。。
+2018-04-22 15:25:45 - Utils: INFO: Broadcast: 111: 玩家对决？
+2018-04-22 15:25:45 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:25:53 - Utils: INFO: Broadcast: DDA: 打不过
+2018-04-22 15:26:10 - Utils: INFO: Broadcast: 111: HFC在干嘛？
+2018-04-22 15:26:14 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:26:30 - Utils: INFO: Broadcast: HFC: 看视频
+2018-04-22 15:26:36 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 15:26:42 - Utils: INFO: Broadcast: 111: 增加难度看视频哎
+2018-04-22 15:27:03 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:27:35 - Utils: INFO: Broadcast: HFC: 为什么1的打看不见字
+2018-04-22 15:27:53 - Utils: INFO: Broadcast: 111: ？？
+2018-04-22 15:27:59 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:30:08 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:30:54 - Utils: INFO: Broadcast: DDA: 叶绿锭
+2018-04-22 15:31:00 - Utils: INFO: Broadcast: DDA: 怎么用
+2018-04-22 15:31:01 - Utils: INFO: Broadcast: DDA: ？？
+2018-04-22 15:31:08 - Utils: INFO: Broadcast: 111: ？/
+2018-04-22 15:31:25 - Utils: INFO: Broadcast: 111: 这个熔炉烧
+2018-04-22 15:31:39 - Utils: INFO: Broadcast: DDA: 我是说怎么造东西
+2018-04-22 15:31:59 - Utils: INFO: Broadcast: 111: 在这个毡边上做
+2018-04-22 15:32:03 - Utils: INFO: Broadcast: 111: 粉色的这个
+2018-04-22 15:32:39 - Utils: INFO: Broadcast: DDA: 造蘑菇爪
+2018-04-22 15:32:40 - Utils: INFO: Broadcast: HFC: OP吗？
+2018-04-22 15:33:13 - Utils: INFO: Broadcast: 111: 又没又锤炼及
+2018-04-22 15:33:21 - Utils: INFO: Broadcast: 111: 哪来的蘑菇锭
+2018-04-22 15:33:39 - Utils: INFO: Broadcast: DDA: 哦对了
+2018-04-22 15:33:46 - Utils: INFO: Broadcast: HFC: OP在吗？
+2018-04-22 15:33:55 - Utils: INFO: Broadcast: DDA: 蘑菇锭怎么弄？
+2018-04-22 15:34:04 - Utils: INFO: Broadcast: DDA: 我之有叶绿锭
+2018-04-22 15:34:04 - Utils: INFO: Broadcast: 111: 锤炼机
+2018-04-22 15:34:06 - Utils: INFO: Broadcast: 111: 说了
+2018-04-22 15:34:16 - Utils: INFO: Broadcast: 111: 打完世纪之花才有
+2018-04-22 15:34:29 - Utils: INFO: Broadcast: DDA: 锤炼级是那个？
+2018-04-22 15:34:33 - Utils: INFO: Broadcast: 111: 我说了
+2018-04-22 15:34:37 - Utils: INFO: Broadcast: 111: 打完世纪之花才有
+2018-04-22 15:34:39 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-22 15:34:42 - Utils: INFO: Broadcast: 111: 中国字不懂
+2018-04-22 15:34:43 - Utils: INFO: Broadcast: DDA: 哦
+2018-04-22 15:34:47 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:34:58 - Utils: INFO: Broadcast: DDA: 你是不是脾气不好啊
+2018-04-22 15:35:00 - Utils: INFO: Broadcast: DDA: 兄弟
+2018-04-22 15:35:08 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:35:17 - Utils: INFO: Broadcast: DDA: 话不能好好说
+2018-04-22 15:35:28 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:35:31 - Utils: INFO: Broadcast: 111: 你们两个是刚玩这个游戏
+2018-04-22 15:35:35 - Utils: INFO: Broadcast: 111: 还是什莫？？？？
+2018-04-22 15:35:41 - Utils: INFO: Broadcast: DDA: 刚玩好吧
+2018-04-22 15:35:53 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:35:56 - Utils: INFO: Broadcast: 111: 刚玩。。
+2018-04-22 15:36:04 - Utils: INFO: Broadcast: 111: 估计服务器你俩是玩不明白了
+2018-04-22 15:36:27 - Utils: INFO: Broadcast: 111: HFC
+2018-04-22 15:36:27 - Utils: INFO: Broadcast: DDA: 嗯然后累
+2018-04-22 15:36:30 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:36:35 - Utils: INFO: Broadcast: 111: 能不能别偷人家的东西？？
+2018-04-22 15:37:09 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:37:19 - Utils: INFO: Broadcast: HFC: 魔力水晶谁要？
+2018-04-22 15:37:22 - Utils: INFO: Broadcast: 111: 我感觉HFC离被T出去不远了
+2018-04-22 15:37:34 - Utils: INFO: Broadcast: HFC: 为什么？
+2018-04-22 15:37:44 - Utils: INFO: Broadcast: 111: 这里不能偷东西不懂？
+2018-04-22 15:37:52 - Utils: INFO: Broadcast: 111: 还为什莫。。
+2018-04-22 15:37:58 - Utils: INFO: Broadcast: HFC: 好吧  我放会去
+2018-04-22 15:38:09 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 15:38:29 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:39:00 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:39:12 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:39:26 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:40:11 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:40:53 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:41:31 - Utils: INFO: Broadcast: HFC: 这游戏有挂吗？
+2018-04-22 15:41:42 - Utils: INFO: Broadcast: 111: 想太多
+2018-04-22 15:41:46 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:41:47 - Utils: INFO: Broadcast: HFC: 哇 钱
+2018-04-22 15:42:10 - Utils: INFO: Broadcast: HFC: 我箭到了
+2018-04-22 15:42:18 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:50:54 - Utils: INFO: 111 executed: /warp diyu.
+2018-04-22 15:53:09 - Utils: INFO: DDA executed: /warp cl.
+2018-04-22 15:54:03 - Utils: INFO: Broadcast: David: 啊哈
+2018-04-22 15:54:05 - Utils: INFO: Broadcast: David: 我来啦
+2018-04-22 15:54:08 - Utils: INFO: Broadcast: 111: wa 
+2018-04-22 15:54:11 - Utils: INFO: Broadcast: 111: 弄好了？
+2018-04-22 15:54:17 - Utils: INFO: Broadcast: David: 没
+2018-04-22 15:54:22 - Utils: INFO: Broadcast: David: 我休息下
+2018-04-22 15:54:27 - Utils: INFO: Broadcast: 111: 。。
+2018-04-22 15:54:53 - Utils: INFO: Broadcast: 111: 我不想种花
+2018-04-22 15:54:54 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 15:54:59 - Utils: INFO: Broadcast: 111: 还想要药水
+2018-04-22 15:55:01 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-22 15:55:23 - Utils: INFO: Broadcast: HFC: 有什么方法镜子回生命
+2018-04-22 15:55:46 - Utils: INFO: Broadcast: DDA: 怎么开pvp
+2018-04-22 15:56:12 - Utils: INFO: Broadcast: 111: 问你的朋友啊
+2018-04-22 15:57:11 - Utils: INFO: Broadcast: 111: 你们两个
+2018-04-22 15:57:15 - Utils: INFO: Broadcast: 111: 是来玩神魔的？
+2018-04-22 15:57:52 - Utils: INFO: Broadcast: HFC: 是我卡了还是什么   怎么可以无线放
+2018-04-22 15:58:01 - Utils: INFO: Broadcast: HFC: ？？？！！
+2018-04-22 15:58:08 - Utils: INFO: Broadcast: 111: 你卡
+2018-04-22 15:58:28 - Utils: INFO: Broadcast: HFC: 我之前玩的时候放了就没了
+2018-04-22 15:58:51 - Utils: INFO: Broadcast: HFC: @.@
+2018-04-22 15:59:05 - Utils: INFO: Broadcast: 111: 两位是玩什莫的啊
+2018-04-22 15:59:26 - Utils: INFO: Broadcast: HFC: 什么玩什么的？
+2018-04-22 15:59:53 - Utils: INFO: Broadcast: 111: 正常玩一般都下去找东西去了
+2018-04-22 15:59:59 - Utils: INFO: Broadcast: 111: 你从进来就一直在这里。
+2018-04-22 16:00:06 - Utils: INFO: Broadcast: David: 因为他依赖你
+2018-04-22 16:00:09 - Utils: INFO: Broadcast: HFC: .
+2018-04-22 16:00:21 - Utils: INFO: Broadcast: David: 100%正确的答案
+2018-04-22 16:00:33 - Utils: INFO: Broadcast: David: 看看他身上1的装备
+2018-04-22 16:00:38 - Utils: INFO: Broadcast: HFC: 我在想有什么BUG可以搞无线什生命
+2018-04-22 16:00:43 - Utils: INFO: Broadcast: David: 那个不是谁给他
+2018-04-22 16:00:51 - Utils: INFO: Broadcast: David: qwq
+2018-04-22 16:00:55 - Utils: INFO: Broadcast: 111: 你把他俩的装备除了最原始的
+2018-04-22 16:01:01 - Utils: INFO: Broadcast: 111: 移除了把
+2018-04-22 16:01:11 - Utils: INFO: Broadcast: HFC: NO
+2018-04-22 16:01:15 - Utils: INFO: Broadcast: David: 最原始的装备也是我在系统设置里面给的233
+2018-04-22 16:01:26 - Utils: INFO: Broadcast: 111: 对啊
+2018-04-22 16:01:33 - Utils: INFO: Broadcast: David: 233
+2018-04-22 16:01:35 - Utils: INFO: Broadcast: 111: 把那些他们现在拿不到的东西
+2018-04-22 16:01:38 - Utils: INFO: Broadcast: 111: 移除掉吧
+2018-04-22 16:01:53 - Utils: INFO: Broadcast: David: 给都给了
+2018-04-22 16:01:59 - Utils: INFO: Broadcast: David: 这个是没办法
+2018-04-22 16:02:10 - Utils: INFO: Broadcast: David: 移除我只能移除账号
+2018-04-22 16:02:18 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 16:02:27 - Utils: INFO: Broadcast: 111: 这两位什莫都不敢
+2018-04-22 16:02:28 - Utils: INFO: Broadcast: 111: 干
+2018-04-22 16:02:33 - Utils: INFO: Broadcast: DDA: 移除帐号就退付
+2018-04-22 16:02:37 - Utils: INFO: Broadcast: 111: 只管给boss加血量
+2018-04-22 16:02:39 - Utils: INFO: Broadcast: DDA: a
+2018-04-22 16:02:51 - Utils: INFO: Broadcast: 111: 退不退跟我们有毛线关系
+2018-04-22 16:02:58 - Utils: INFO: Broadcast: DDA: okok
+2018-04-22 16:03:22 - Utils: INFO: Broadcast: DDA: 反正你这福也没人玩
+2018-04-22 16:03:30 - Utils: INFO: Broadcast: DDA: 我懂
+2018-04-22 16:03:43 - Utils: INFO: David executed: /warp left-sea.
+2018-04-22 16:03:50 - Utils: INFO: Broadcast: 111: 有但是都没有你们两个这样的啊
+2018-04-22 16:03:57 - Utils: INFO: Broadcast: DDA: 我草
+2018-04-22 16:03:57 - Utils: INFO: Broadcast: 111: 神魔都不干
+2018-04-22 16:04:00 - Utils: INFO: Broadcast: 111: 自己不研究
+2018-04-22 16:04:05 - Utils: INFO: Broadcast: DDA: 我一下丛林
+2018-04-22 16:04:07 - Utils: INFO: Broadcast: 111: 什莫直管问
+2018-04-22 16:04:12 - Utils: INFO: Broadcast: David: 退不退服没关系，你也别说了
+2018-04-22 16:04:25 - Utils: INFO: Broadcast: DDA: 我不会不可以问
+2018-04-22 16:04:35 - Utils: INFO: Broadcast: DDA: 你开个副是为了啥
+2018-04-22 16:04:49 - Utils: INFO: Broadcast: HFC: 我想开了
+2018-04-22 16:04:50 - Utils: INFO: Broadcast: 111: 开服不代表教新人
+2018-04-22 16:04:52 - Utils: INFO: Broadcast: 111: 懂否
+2018-04-22 16:05:01 - Utils: INFO: Broadcast: 111: 服务器是给那些会的人玩的
+2018-04-22 16:05:15 - Utils: INFO: Broadcast: DDA: 那哪些会玩的 人呢？
+2018-04-22 16:05:23 - Utils: INFO: Broadcast: David: 那我反问你一句好了
+2018-04-22 16:05:24 - Utils: INFO: Broadcast: 111: 哎
+2018-04-22 16:05:26 - Utils: INFO: Broadcast: DDA: 他们有不玩
+2018-04-22 16:05:39 - Utils: INFO: Broadcast: David: 你点多人游戏这个按钮干啥= =
+2018-04-22 16:05:45 - Utils: INFO: Broadcast: DDA: 你们没有梦新
+2018-04-22 16:05:50 - Utils: INFO: Broadcast: 111: 没有
+2018-04-22 16:05:58 - Utils: INFO: Broadcast: 111: 萌新都是自己研究
+2018-04-22 16:06:05 - Utils: INFO: Broadcast: 111: 有个东西教向导
+2018-04-22 16:06:08 - Utils: INFO: Broadcast: DDA: 哪个不是新人开玩
+2018-04-22 16:06:09 - Utils: INFO: Broadcast: HFC: 拿我遗产  我要退了
+2018-04-22 16:06:09 - Utils: INFO: Broadcast: 111: 他们自己弄的
+2018-04-22 16:06:22 - Utils: INFO: Broadcast: David: 嘿
+2018-04-22 16:06:23 - Utils: INFO: Broadcast: David: 111
+2018-04-22 16:06:26 - Utils: INFO: Broadcast: 111: 你从谁那里拿的就还给谁
+2018-04-22 16:06:26 - Utils: INFO: Broadcast: David: 别说了
+2018-04-22 16:06:28 - Utils: INFO: Broadcast: DDA: 那就是你这幅原因了
+2018-04-22 16:06:28 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 16:06:34 - Utils: INFO: Broadcast: DDA: 一个人都没有
+2018-04-22 16:06:38 - Utils: INFO: Broadcast: DDA: 我们退了
+2018-04-22 16:06:42 - Utils: INFO: Broadcast: DDA: 也是你们的损失
+2018-04-22 16:06:49 - Utils: INFO: Broadcast: David: 我们没有损失
+2018-04-22 16:06:55 - Utils: INFO: Broadcast: David: 你为什么又骂到我了
+2018-04-22 16:06:56 - Utils: INFO: Broadcast: DDA: 就你们这态度
+2018-04-22 16:07:01 - Utils: INFO: Broadcast: 111: 私服又不是工服
+2018-04-22 16:07:05 - Utils: INFO: Broadcast: DDA: 就之lll
+2018-04-22 16:07:06 - Utils: INFO: Broadcast: David: 这个是玩家态度
+2018-04-22 16:07:11 - Utils: INFO: Broadcast: DDA: 就单独指
+2018-04-22 16:07:12 - Utils: INFO: Broadcast: David: 不是我的态度
+2018-04-22 16:07:14 - Utils: INFO: Broadcast: DDA: ll
+2018-04-22 16:07:18 - Utils: INFO: Broadcast: David: = =
+2018-04-22 16:07:47 - Utils: INFO: Broadcast: HFC has left.
+2018-04-22 16:07:47 - TShock: INFO: HFC disconnected.
+2018-04-22 16:08:02 - Utils: INFO: Broadcast: 111: 这个HFC
+2018-04-22 16:08:07 - Utils: INFO: Broadcast: 111: 走的太对了
+2018-04-22 16:08:09 - Utils: INFO: Broadcast: 111: 他有问题
+2018-04-22 16:08:11 - Utils: INFO: Broadcast: David: 嘿
+2018-04-22 16:08:17 - Utils: INFO: Broadcast: 111: 他给我了998铂金
+2018-04-22 16:08:24 - Utils: INFO: Broadcast: David: 。
+2018-04-22 16:08:29 - Utils: INFO: Broadcast: David: 看看？
+2018-04-22 16:08:36 - Utils: INFO: Broadcast: 111: [i/s998:74]
+2018-04-22 16:08:40 - Utils: INFO: Broadcast: David: 。。。
+2018-04-22 16:08:48 - Utils: INFO: Broadcast: David: 不知道哪里来的。。。。
+2018-04-22 16:08:53 - Utils: INFO: Broadcast: David has left.
+2018-04-22 16:08:53 - TShock: INFO: David disconnected.
+2018-04-22 16:09:10 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-22 16:09:11 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-22 16:09:11 - Utils: INFO: Broadcast: David has joined.
+2018-04-22 16:09:16 - Utils: INFO: Broadcast: David: emmmmm
+2018-04-22 16:09:20 - Utils: INFO: Broadcast: David: 检查了些
+2018-04-22 16:09:27 - Utils: INFO: Broadcast: David: 没问题啊。。。
+2018-04-22 16:09:37 - Utils: INFO: Broadcast: 111: 这998铂金？？
+2018-04-22 16:09:43 - Utils: INFO: Broadcast: David: 不知道
+2018-04-22 16:09:59 - Utils: INFO: David executed: /who.
+2018-04-22 16:10:13 - Utils: INFO: Broadcast: 111: 封了账号把
+2018-04-22 16:10:35 - Utils: INFO: Broadcast: David: 但是你刚刚叫他们去探险
+2018-04-22 16:10:40 - Utils: INFO: Broadcast: David: 相当于逼迫啊
+2018-04-22 16:10:54 - Utils: INFO: Broadcast: David: 他们怎么样取决于他
+2018-04-22 16:11:13 - Utils: INFO: Broadcast: 111: 单纯的好烦  问干嘛呢看视频。。。
+2018-04-22 16:11:33 - Utils: INFO: Broadcast: 111: 你如果想要新人
+2018-04-22 16:11:36 - Utils: INFO: Broadcast: 111: 我这里有好多
+2018-04-22 16:11:44 - Utils: INFO: Broadcast: 111: 大佬也有
+2018-04-22 16:11:53 - Utils: INFO: Broadcast: 111: 随时都能叫过来
+2018-04-22 16:17:07 - Utils: INFO: Broadcast: DDA: ？？？
+2018-04-22 16:18:52 - Utils: INFO: Broadcast: 111: 算了
+2018-04-22 16:18:56 - Utils: INFO: Broadcast: 111: 随便玩把
+2018-04-22 16:19:08 - Utils: INFO: Broadcast: 111: 现在去打boss
+2018-04-22 16:19:13 - Utils: INFO: Broadcast: 111: 还是等K他们来
+2018-04-22 16:19:22 - Utils: INFO: Broadcast: David: 等吧
+2018-04-22 16:19:28 - Utils: INFO: Broadcast: David: 我先协会作业
+2018-04-22 16:19:32 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-22 16:22:31 - Utils: INFO: DDA executed: /warp spawn.
+2018-04-22 16:24:57 - GetDataHandlers: INFO: HFC authenticated successfully as user HFC.
+2018-04-22 16:25:01 - TShock: INFO: HFC (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 16:25:01 - Utils: INFO: Broadcast: HFC has joined.
+2018-04-22 16:25:21 - Utils: INFO: Broadcast: HFC: 金错了
+2018-04-22 16:25:26 - Utils: INFO: Broadcast: HFC has left.
+2018-04-22 16:25:26 - TShock: INFO: HFC disconnected.
+2018-04-22 16:25:52 - GetDataHandlers: INFO: HFC authenticated successfully as user HFC.
+2018-04-22 16:25:56 - TShock: INFO: HFC (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-22 16:25:56 - Utils: INFO: Broadcast: HFC has joined.
+2018-04-22 16:26:00 - Utils: INFO: Broadcast: HFC: 对了
+2018-04-22 16:26:19 - Utils: INFO: Broadcast: HFC: 你还知道什么服务器吗？
+2018-04-22 16:27:18 - Utils: INFO: Broadcast: HFC: 你还知道什么服务器吗？
+2018-04-22 16:29:31 - Utils: INFO: Broadcast: 111: 你问我？
+2018-04-22 16:29:40 - Utils: INFO: Broadcast: HFC: 哦
+2018-04-22 16:30:16 - Utils: INFO: Broadcast: 111: 不是走了吗？
+2018-04-22 16:30:45 - Utils: INFO: Broadcast: 111: 圈地了小伙子别炸了
+2018-04-22 16:30:59 - Utils: INFO: Broadcast: DDA: D
+2018-04-22 16:31:03 - Utils: INFO: Broadcast: HFC: 还有什么服务器
+2018-04-22 16:31:07 - Utils: INFO: Broadcast: DDA: 我玩不行？
+2018-04-22 16:31:16 - Utils: INFO: Broadcast: 111: 你玩你的
+2018-04-22 16:31:20 - Utils: INFO: Broadcast: 111: 简单的说一声
+2018-04-22 16:32:04 - Utils: INFO: 111 executed: /warp LEIMU.
+2018-04-22 16:32:11 - Utils: INFO: 111 executed: /WARP LAIMU.
+2018-04-22 16:33:54 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-22 16:35:50 - Utils: INFO: Broadcast: 111 has left.
+2018-04-22 16:35:50 - TShock: INFO: 111 disconnected.
+2018-04-22 16:36:31 - Utils: INFO: Server executed: /off.
+2018-04-22 16:36:31 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-22 16:36:31 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-22 16:36:31 - Utils: INFO: Broadcast: David has left.
+2018-04-22 16:36:31 - TShock: INFO: David disconnected.
+2018-04-22 16:36:32 - Utils: INFO: Kicked HFC for : 'Server shutting down!'
+2018-04-22 16:36:32 - Utils: INFO: Broadcast: HFC was force kicked for 'server shutting down!'
+2018-04-22 16:36:32 - Utils: INFO: Broadcast: HFC has left.
+2018-04-22 16:36:32 - TShock: INFO: HFC disconnected.
+2018-04-22 16:36:32 - Utils: INFO: Kicked DDA for : 'Server shutting down!'
+2018-04-22 16:36:32 - Utils: INFO: Broadcast: DDA was force kicked for 'server shutting down!'
+2018-04-22 16:36:32 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-22 16:36:32 - Utils: INFO: Broadcast: DDA has left.
+2018-04-22 16:36:32 - TShock: INFO: DDA disconnected.
+2018-04-22 16:36:33 - Utils: INFO: Broadcast: World saved.
+2018-04-22 16:36:33 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 16:36:35 - Utils: INFO: Broadcast: World saved.
+2018-04-22 16:36:35 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-22 16:36:35 - Utils: INFO: Broadcast: Server shutting down!

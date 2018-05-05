@@ -1,0 +1,108 @@
+2018-04-28 21:34:18 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-28 21:34:18 - TShock: INFO: AutoSave Enabled
+2018-04-28 21:34:18 - TShock: INFO: Backups Disabled
+2018-04-28 21:34:18 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-28 21:34:47 - GetDataHandlers: INFO: lllll authenticated successfully as user lllll.
+2018-04-28 21:34:50 - TShock: INFO: lllll (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-28 21:34:50 - Utils: INFO: Broadcast: lllll has joined.
+2018-04-28 21:35:01 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-28 21:35:01 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-28 21:35:01 - Utils: INFO: Broadcast: David has joined.
+2018-04-28 21:35:22 - Commands: ERROR: TShockAPI.DB.UserManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserNotExistException: User '11111' does not exist
+   在 TShockAPI.DB.UserManager.GetUser(User user)
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   在 TShockAPI.Commands.ManageUsers(CommandArgs args)
+2018-04-28 21:35:26 - Utils: INFO: Broadcast: David has left.
+2018-04-28 21:35:26 - TShock: INFO: David disconnected.
+2018-04-28 21:35:28 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-28 21:35:28 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-28 21:35:28 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (2/10)
+2018-04-28 21:35:28 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-28 21:35:34 - Commands: ERROR: TShockAPI.DB.UserManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserNotExistException: User '11111' does not exist
+   在 TShockAPI.DB.UserManager.GetUser(User user)
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   在 TShockAPI.Commands.ManageUsers(CommandArgs args)
+2018-04-28 21:35:41 - Commands: ERROR: TShockAPI.DB.UserManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserNotExistException: User '11111' does not exist
+   在 TShockAPI.DB.UserManager.GetUser(User user)
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   在 TShockAPI.Commands.ManageUsers(CommandArgs args)
+2018-04-28 21:35:54 - Utils: INFO: Broadcast: admin1: 11111
+2018-04-28 21:35:57 - Utils: INFO: Broadcast: admin1: 换个人物
+2018-04-28 21:36:04 - Utils: INFO: Broadcast: admin1: 重新开荒了
+2018-04-28 21:36:09 - Utils: INFO: Broadcast: lllll: oo
+2018-04-28 21:36:15 - Utils: INFO: Broadcast: lllll has left.
+2018-04-28 21:36:15 - TShock: INFO: lllll disconnected.
+2018-04-28 21:36:31 - TShock: INFO: 2333 (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-28 21:36:31 - Utils: INFO: Broadcast: 2333 has joined.
+2018-04-28 21:36:54 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-28 21:36:54 - TShock: INFO: admin1 disconnected.
+2018-04-28 21:36:54 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-28 21:36:55 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 21:36:56 - Utils: INFO: Broadcast: World saved.
+2018-04-28 21:36:56 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-28 21:36:56 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-28 21:36:57 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-28 21:36:57 - Utils: INFO: Broadcast: David has joined.
+2018-04-28 21:37:06 - TextLog: INFO: 2333 registered an account: "2333".
+2018-04-28 21:38:07 - Commands: INFO: 2333 authenticated successfully as user: 2333.
+2018-04-28 21:40:26 - Utils: INFO: Broadcast: 2333: 为啥有重新来了
+2018-04-28 21:40:45 - Utils: INFO: Broadcast: David: 上个地图已经毕业了
+2018-04-28 21:40:56 - Utils: INFO: Broadcast: David: 地图一点资源都没了
+2018-04-28 21:41:38 - Utils: INFO: Broadcast: 2333: 哦哦，他们人咧
+2018-04-28 21:42:03 - Utils: INFO: Broadcast: David: 各种原因没法来= =
+2018-04-28 21:42:24 - Utils: INFO: Broadcast: 2333: 》-《
+2018-04-28 21:43:57 - Utils: INFO: Broadcast: David: 按ctrl有惊喜
+2018-04-28 21:44:09 - Utils: INFO: Broadcast: 2333: 嗯嗯
+2018-04-28 21:44:16 - Utils: INFO: Broadcast: David: 试试看
+2018-04-28 21:44:29 - Utils: INFO: Broadcast: David: 。
+2018-04-28 21:45:25 - TShock: INFO: King~ (192.168.0.106) from 'guest' group joined. (3/10)
+2018-04-28 21:45:25 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-28 21:45:30 - Utils: INFO: Broadcast: David: 啊哈！
+2018-04-28 21:45:44 - TextLog: INFO: King~ registered an account: "King~".
+2018-04-28 21:45:51 - Utils: INFO: King~ executed: /help.
+2018-04-28 21:46:01 - Utils: INFO: King~ executed: /help.
+2018-04-28 21:46:37 - Utils: INFO: King~ executed: /help.
+2018-04-28 21:47:07 - Commands: INFO: King~ authenticated successfully as user: King~.
+2018-04-28 21:47:12 - Utils: INFO: Broadcast: King~ has left.
+2018-04-28 21:47:12 - TShock: INFO: King~ disconnected.
+2018-04-28 21:47:28 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-28 21:47:40 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-28 21:47:40 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-28 21:47:53 - Utils: INFO: Broadcast: 2333: 为啥我捡不liao东西了
+2018-04-28 21:48:03 - Utils: INFO: Broadcast: King~: 你们是真的
+2018-04-28 21:48:59 - Utils: INFO: Broadcast: 2333: 我的钱啊
+2018-04-28 21:49:56 - Utils: INFO: Server executed: /time *;00.
+2018-04-28 21:49:59 - Utils: INFO: Broadcast: King~ has left.
+2018-04-28 21:49:59 - TShock: INFO: King~ disconnected.
+2018-04-28 21:50:01 - Utils: INFO: Server executed: /time *;00.
+2018-04-28 21:50:04 - Utils: INFO: Server executed: /time 8:00.
+2018-04-28 21:55:23 - Utils: INFO: Broadcast: 2333: 哈哈
+2018-04-28 21:55:32 - Utils: INFO: Broadcast: David: 曹
+2018-04-28 21:55:48 - Utils: INFO: Broadcast: 2333: 略不略不略
+2018-04-28 21:56:15 - Utils: INFO: Broadcast: 2333: 我挖矿去了
+2018-04-28 21:56:20 - Utils: INFO: Broadcast: David: 嗯
+2018-04-28 21:59:01 - Utils: INFO: Server executed: /give David 888.
+2018-04-28 21:59:15 - Utils: INFO: Server executed: /give 888 David.
+2018-04-28 21:59:46 - Utils: INFO: Server executed: /give 1892.
+2018-04-28 21:59:51 - Utils: INFO: Server executed: /give 1892 David.
+2018-04-28 22:02:58 - Utils: INFO: Server executed: /off.
+2018-04-28 22:02:58 - Utils: INFO: Kicked 2333 for : 'Server shutting down!'
+2018-04-28 22:02:58 - Utils: INFO: Broadcast: 2333 was force kicked for 'server shutting down!'
+2018-04-28 22:02:58 - Utils: INFO: Broadcast: 2333 has left.
+2018-04-28 22:02:58 - TShock: INFO: 2333 disconnected.
+2018-04-28 22:02:58 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-28 22:02:58 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-28 22:02:59 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-28 22:02:59 - Utils: INFO: Broadcast: David has left.
+2018-04-28 22:02:59 - TShock: INFO: David disconnected.
+2018-04-28 22:03:00 - Utils: INFO: Broadcast: World saved.
+2018-04-28 22:03:00 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)
+2018-04-28 22:03:00 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-28 22:03:01 - Utils: INFO: Broadcast: World saved.
+2018-04-28 22:03:01 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraira_servermap-2.wld)

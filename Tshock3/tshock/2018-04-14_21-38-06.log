@@ -1,0 +1,435 @@
+2018-04-14 21:38:06 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-14 21:38:06 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-14 21:38:06 - TShock: INFO: AutoSave Enabled
+2018-04-14 21:38:06 - TShock: INFO: Backups Disabled
+2018-04-14 21:38:06 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-14 21:38:26 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-14 21:38:28 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-14 21:38:28 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-14 21:38:28 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-14 21:38:30 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-14 21:38:30 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-14 21:39:07 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-14 21:39:07 - TShock: INFO: admin1 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-14 21:39:07 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-14 21:39:11 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-14 21:39:11 - TShock: INFO: admin1 disconnected.
+2018-04-14 21:39:13 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-14 21:39:13 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-14 21:39:13 - Utils: INFO: Broadcast: David has joined.
+2018-04-14 21:39:33 - Utils: INFO: Broadcast: 111: [i/p77:898]
+2018-04-14 21:39:35 - Utils: INFO: Broadcast: 111: 啊哈哈
+2018-04-14 21:40:33 - Utils: INFO: Broadcast: 111: 给我20个凝胶
+2018-04-14 21:40:39 - Utils: INFO: Broadcast: 111: 过来打史莱姆王
+2018-04-14 21:40:47 - Utils: INFO: Broadcast: 111: 给我啊
+2018-04-14 21:40:48 - Utils: INFO: Broadcast: 111: 别跑啊
+2018-04-14 21:41:01 - Utils: INFO: Broadcast: David: 注意专家boss。。。。
+2018-04-14 21:41:04 - Utils: INFO: Broadcast: 111: 20个
+2018-04-14 21:41:08 - Utils: INFO: Broadcast: 111: 知道
+2018-04-14 21:41:11 - Utils: INFO: Broadcast: 111: 史莱姆王能打
+2018-04-14 21:41:16 - Utils: INFO: Broadcast: KKJJL: 噗
+2018-04-14 21:41:17 - Utils: INFO: Broadcast: David: 我害怕qwq
+2018-04-14 21:41:18 - Utils: INFO: Broadcast: 111: 凝胶给我啊
+2018-04-14 21:41:27 - Utils: INFO: Broadcast: KKJJL: 只有2个
+2018-04-14 21:41:35 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-14 21:41:36 - Utils: INFO: Broadcast: KKJJL: 23
+2018-04-14 21:41:38 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-14 21:41:38 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-14 21:42:16 - TShock: INFO: MCL disconnected.
+2018-04-14 21:42:33 - Utils: INFO: Broadcast: 111: 我去做
+2018-04-14 21:42:36 - Utils: INFO: Broadcast: 111: 你们一会跟着我
+2018-04-14 21:42:42 - Utils: INFO: Broadcast: 111: 咱们柱子上打
+2018-04-14 21:43:11 - GetDataHandlers: INFO: MCL authenticated successfully as user MCL.
+2018-04-14 21:43:15 - TShock: INFO: MCL (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-14 21:43:15 - Utils: INFO: Broadcast: MCL has joined.
+2018-04-14 21:43:18 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 21:43:18 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 21:43:24 - Utils: INFO: Broadcast: MCL: 大卫
+2018-04-14 21:43:30 - Utils: INFO: Broadcast: MCL: 插件咋安装
+2018-04-14 21:43:52 - Utils: INFO: Broadcast: David: 下载
+2018-04-14 21:43:55 - Utils: INFO: Broadcast: David: 解压
+2018-04-14 21:43:57 - Utils: INFO: Broadcast: MCL: 嗯
+2018-04-14 21:44:02 - Utils: INFO: Broadcast: MCL: 然后
+2018-04-14 21:44:03 - Utils: INFO: Broadcast: David: 然后点击里面的东西
+2018-04-14 21:44:08 - Utils: INFO: Broadcast: David: 制动的
+2018-04-14 21:44:14 - Utils: INFO: Broadcast: MCL: 点哪个
+2018-04-14 21:44:18 - Utils: INFO: Broadcast: MCL: 截图下
+2018-04-14 21:44:20 - Utils: INFO: Broadcast: David: 都点
+2018-04-14 21:44:23 - Utils: INFO: Broadcast: David: 2个插件
+2018-04-14 21:44:26 - Utils: INFO: Broadcast: King~ has left.
+2018-04-14 21:44:26 - TShock: INFO: King~ disconnected.
+2018-04-14 21:44:33 - Utils: INFO: Broadcast: 111: 回家打了
+2018-04-14 21:44:45 - Utils: INFO: Broadcast: 111: 跟我来
+2018-04-14 21:44:46 - Utils: INFO: Broadcast: KKJJL: 有人给我鞋子吗
+2018-04-14 21:45:01 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-14 21:45:04 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-14 21:45:04 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-14 21:45:15 - Utils: INFO: Broadcast: 111: 来啊
+2018-04-14 21:45:48 - Utils: INFO: Broadcast: David: 让我跑完地图
+2018-04-14 21:46:13 - Utils: INFO: Broadcast: 111: [i:560][i/s4:43]
+2018-04-14 21:46:17 - Utils: INFO: Broadcast: 111: 快点
+2018-04-14 21:46:18 - Utils: INFO: Broadcast: 111: 来
+2018-04-14 21:46:41 - Utils: INFO: Broadcast: 111: 不来算了
+2018-04-14 21:46:43 - Utils: INFO: Broadcast: 111: 我召唤了啊
+2018-04-14 21:46:57 - Utils: INFO: Broadcast: 111: ？？
+2018-04-14 21:47:00 - Utils: INFO: Broadcast: 111: 不能召唤？
+2018-04-14 21:47:04 - Utils: INFO: Broadcast: David: ？
+2018-04-14 21:47:08 - Utils: INFO: Broadcast: KKJJL: 妙
+2018-04-14 21:47:16 - Utils: INFO: Broadcast: David: 别用
+2018-04-14 21:47:21 - Utils: INFO: Broadcast: David: 我查下
+2018-04-14 21:47:35 - Utils: INFO: Broadcast: MCL has left.
+2018-04-14 21:47:35 - TShock: INFO: MCL disconnected.
+2018-04-14 21:47:41 - Utils: INFO: Broadcast: King~: 我靠我家东西被人偷了
+2018-04-14 21:48:18 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 21:48:18 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 21:51:07 - GetDataHandlers: INFO: MCL authenticated successfully as user MCL.
+2018-04-14 21:51:12 - TShock: INFO: MCL (192.168.0.106) from 'default' group joined. (5/10)
+2018-04-14 21:51:12 - Utils: INFO: Broadcast: MCL has joined.
+2018-04-14 21:52:02 - Utils: INFO: Server executed: /group addperm default tshock.npc summonboss.
+2018-04-14 21:52:16 - Utils: INFO: Broadcast: KKJJL: 来一打眼睛
+2018-04-14 21:53:19 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 21:53:19 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 21:53:30 - Utils: INFO: Broadcast: MCL: 快来‘
+2018-04-14 21:53:32 - Utils: INFO: Broadcast: King~: ？？？？
+2018-04-14 21:53:35 - Utils: INFO: Broadcast: MCL: 我这要来眼睛了
+2018-04-14 21:53:41 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-14 21:53:47 - Utils: INFO: Broadcast: KKJJL: 平台
+2018-04-14 21:53:57 - Utils: INFO: Broadcast: David: 来我这
+2018-04-14 21:54:26 - TShock: INFO: Surprise! (192.168.0.106) from 'guest' group joined. (6/10)
+2018-04-14 21:54:26 - Utils: INFO: Broadcast: Surprise! has joined.
+2018-04-14 21:54:54 - Utils: INFO: Broadcast: MCL: 我下面
+2018-04-14 21:54:55 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: admin1.
+2018-04-14 21:55:28 - TShock: INFO: jieyao2 (192.168.0.106) from 'guest' group joined. (7/10)
+2018-04-14 21:55:28 - Utils: INFO: Broadcast: jieyao2 has joined.
+2018-04-14 21:55:34 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-14 21:56:00 - Utils: INFO: Surprise! executed: /help.
+2018-04-14 21:56:04 - Utils: INFO: Surprise! executed: /playing.
+2018-04-14 21:56:14 - Utils: INFO: Broadcast: Surprise!: 群主
+2018-04-14 21:56:22 - Utils: INFO: Broadcast: Surprise!: 看qq
+2018-04-14 21:56:50 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: admin1.
+2018-04-14 21:57:44 - Utils: INFO: Broadcast: MCL: 记得给我点东西啊
+2018-04-14 21:57:55 - TextLog: INFO: Surprise! registered an account: "Surprise!".
+2018-04-14 21:58:01 - Commands: INFO: Surprise! authenticated successfully as user: Surprise!.
+2018-04-14 21:58:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 21:58:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 21:58:57 - TextLog: INFO: jieyao2 registered an account: "jieyao2".
+2018-04-14 21:59:29 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: jieyao2.
+2018-04-14 21:59:41 - Utils: INFO: Broadcast: jieyao2: login
+2018-04-14 21:59:52 - Utils: INFO: Broadcast: King~: 哇
+2018-04-14 22:00:04 - Utils: INFO: Broadcast: MCL: 给我点
+2018-04-14 22:00:20 - Utils: INFO: Broadcast: 111: 每个人都是包袋
+2018-04-14 22:00:26 - Utils: INFO: Broadcast: 111: 每人一个
+2018-04-14 22:00:27 - Utils: INFO: Broadcast: KKJJL: [i/p65:15][i/p64:3097]
+2018-04-14 22:00:30 - Utils: INFO: Broadcast: David: 我也要
+2018-04-14 22:00:34 - Utils: INFO: Broadcast: MCL: 我欧皇附体，吧眼睛召来了
+2018-04-14 22:00:39 - Utils: INFO: Broadcast: David: 几个袋子
+2018-04-14 22:00:43 - Utils: INFO: Broadcast: MCL: 结果啥都没有
+2018-04-14 22:01:05 - Utils: INFO: Broadcast: David: 我要刀子啊啊啊
+2018-04-14 22:01:08 - Utils: INFO: Broadcast: KKJJL: 袋子人人都有
+2018-04-14 22:01:15 - Utils: INFO: Broadcast: MCL: 我没有老铁
+2018-04-14 22:01:16 - Utils: INFO: Broadcast: David: 我没有= =
+2018-04-14 22:01:23 - Utils: INFO: Broadcast: 111: 如果你没有打的话
+2018-04-14 22:01:24 - Utils: INFO: Broadcast: KKJJL: 只是要去boss死的地方拿
+2018-04-14 22:01:25 - Utils: INFO: Broadcast: 111: 是没有的
+2018-04-14 22:01:25 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: jieyao2.
+2018-04-14 22:01:37 - Utils: INFO: Surprise! executed: /auth 7839663.
+2018-04-14 22:01:48 - Commands: INFO: Surprise! added Account dangdang to group superadmin
+2018-04-14 22:01:50 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: jieyao2.
+2018-04-14 22:01:58 - Commands: INFO: jieyao2 authenticated successfully as user: jieyao2.
+2018-04-14 22:02:04 - CharacterManager: INFO: Skipping SSC Backup for Surprise!
+2018-04-14 22:02:13 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:02:13 - Commands: INFO: Surprise! authenticated successfully as user: dangdang.
+2018-04-14 22:02:28 - Utils: INFO: Broadcast: David: emmm
+2018-04-14 22:02:35 - Utils: INFO: Broadcast: MCL: 我继续造
+2018-04-14 22:02:47 - Utils: INFO: Broadcast: David: 现在应该可以召唤物召唤boss
+2018-04-14 22:02:49 - Utils: INFO: Broadcast: KKJJL: 等会儿去打虫子？
+2018-04-14 22:02:50 - Utils: INFO: Broadcast: David: 我修了
+2018-04-14 22:02:59 - Commands: INFO: Surprise! successfully deleted account: admin1.
+2018-04-14 22:03:00 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-14 22:03:00 - TShock: INFO: KKJJL disconnected.
+2018-04-14 22:03:06 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:03:06 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-14 22:03:08 - Commands: INFO: Surprise! added Account admin1 to group superadmin
+2018-04-14 22:03:09 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:03:09 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-14 22:03:20 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 22:03:20 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 22:03:20 - Utils: INFO: Broadcast: KKJJL: 去打虫子？
+2018-04-14 22:03:25 - Utils: INFO: Broadcast: David has left.
+2018-04-14 22:03:25 - TShock: INFO: David disconnected.
+2018-04-14 22:03:27 - TShock: INFO: admin1 (192.168.0.106) from 'guest' group joined. (7/10)
+2018-04-14 22:03:27 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-14 22:03:35 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: admin1.
+2018-04-14 22:03:36 - Utils: INFO: Broadcast: MCL: 我要克鲁苏之盾啊
+2018-04-14 22:03:42 - Commands: INFO: admin1 failed to register an existing account: admin1
+2018-04-14 22:03:48 - Commands: INFO: admin1 failed to register an existing account: admin1
+2018-04-14 22:03:58 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-14 22:03:58 - Commands: INFO: admin1 authenticated successfully as user: admin1.
+2018-04-14 22:04:03 - Utils: INFO: Broadcast: KKJJL: 来打虫子？
+2018-04-14 22:04:05 - Utils: INFO: Broadcast: Surprise!: 666
+2018-04-14 22:04:11 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:18 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:20 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:21 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:21 - Utils: INFO: Broadcast: MCL: 我继续造
+2018-04-14 22:04:23 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:24 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:04:29 - Utils: INFO: Surprise! executed: /rocket admin1.
+2018-04-14 22:04:32 - Utils: INFO: Broadcast: admin1: 史莱姆
+2018-04-14 22:04:34 - Utils: INFO: Broadcast: Surprise!: haha
+2018-04-14 22:04:37 - Utils: INFO: Broadcast: admin1: 。。。
+2018-04-14 22:04:38 - Utils: INFO: Broadcast: admin1: 23333
+2018-04-14 22:04:46 - Utils: INFO: Broadcast: Surprise!: 这里调不上去啊
+2018-04-14 22:04:49 - Utils: INFO: Broadcast: Surprise!: 跳
+2018-04-14 22:04:55 - Utils: INFO: Broadcast: admin1: 嗯
+2018-04-14 22:05:02 - Utils: INFO: admin1 executed: /tp 1111.
+2018-04-14 22:05:04 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-14 22:05:09 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:05:11 - Utils: INFO: Broadcast: 111: ok
+2018-04-14 22:05:13 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-14 22:05:13 - TShock: INFO: admin1 disconnected.
+2018-04-14 22:05:13 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-14 22:05:15 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-14 22:05:16 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:05:16 - Utils: INFO: Broadcast: David has joined.
+2018-04-14 22:05:25 - Utils: INFO: Broadcast: David: ok
+2018-04-14 22:05:31 - Utils: INFO: Broadcast: 111: 来打史莱姆
+2018-04-14 22:05:31 - Utils: INFO: Broadcast: KKJJL: 来打虫子
+2018-04-14 22:05:33 - Utils: INFO: Broadcast: David: 来打史莱姆
+2018-04-14 22:05:39 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-14 22:06:17 - Utils: INFO: Broadcast: 111: 来我这里打史莱姆王
+2018-04-14 22:06:29 - Utils: INFO: Broadcast: MCL: 太远了
+2018-04-14 22:06:35 - Utils: INFO: Broadcast: 111: 算了
+2018-04-14 22:06:39 - Utils: INFO: Broadcast: 111: 我自己也能打
+2018-04-14 22:06:51 - Commands: ERROR: TShockAPI.DB.UserManagerException: RemoveUser SQL returned an error ---> TShockAPI.DB.UserNotExistException: User 'Surperise！' does not exist
+   在 TShockAPI.DB.UserManager.GetUser(User user)
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 TShockAPI.DB.UserManager.RemoveUser(User user)
+   在 TShockAPI.Commands.ManageUsers(CommandArgs args)
+2018-04-14 22:06:54 - Utils: INFO: Broadcast: MCL: 大卫
+2018-04-14 22:06:59 - Utils: INFO: Broadcast: MCL: 带解药玩玩吧
+2018-04-14 22:07:00 - Commands: INFO: Surprise! successfully deleted account: Surprise!.
+2018-04-14 22:07:02 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-14 22:07:02 - TShock: INFO: KKJJL disconnected.
+2018-04-14 22:07:13 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-14 22:07:18 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:07:18 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-14 22:07:29 - Utils: INFO: Broadcast: King~: 织布机有咩有
+2018-04-14 22:07:56 - Utils: INFO: David tried to execute /group addperm default tshock.npc summonboss.
+2018-04-14 22:08:00 - Utils: INFO: Broadcast: David has left.
+2018-04-14 22:08:00 - TShock: INFO: David disconnected.
+2018-04-14 22:08:01 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-14 22:08:01 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-14 22:08:02 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (7/10)
+2018-04-14 22:08:02 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-14 22:08:03 - Utils: INFO: admin1 executed: /group addperm default tshock.npc summonboss.
+2018-04-14 22:08:03 - Utils: INFO: Surprise! executed: /group addperm default tshock.npc.summonboss.
+2018-04-14 22:08:05 - Utils: INFO: admin1 executed: /group addperm default tshock.npc summonboss.
+2018-04-14 22:08:06 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-14 22:08:06 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:08:09 - Utils: INFO: admin1 executed: /group addperm default tshock.npc summonboss.
+2018-04-14 22:08:14 - Utils: INFO: Broadcast: Surprise!: emmm\
+2018-04-14 22:08:18 - Utils: INFO: Broadcast: admin1: emm
+2018-04-14 22:08:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 22:08:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 22:08:21 - Utils: INFO: Broadcast: Surprise!: 在试试？
+2018-04-14 22:08:23 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-14 22:08:27 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:08:44 - Utils: INFO: Broadcast: admin1: 111试试
+2018-04-14 22:08:54 - Utils: INFO: Broadcast: Surprise!: pao le 
+2018-04-14 22:08:57 - Utils: INFO: admin1 executed: /tp 11.
+2018-04-14 22:09:00 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:09:02 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:09:03 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:09:05 - Utils: INFO: 111 summoned the King Slime!
+2018-04-14 22:09:07 - Utils: INFO: Broadcast: admin1: = =
+2018-04-14 22:09:08 - Utils: INFO: Surprise! executed: /tp admin.
+2018-04-14 22:09:11 - Utils: INFO: Broadcast: 111: ok了
+2018-04-14 22:09:12 - Utils: INFO: admin1 executed: /tphere .
+2018-04-14 22:09:17 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-14 22:09:17 - TShock: INFO: admin1 disconnected.
+2018-04-14 22:09:17 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-14 22:09:19 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-14 22:09:20 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:09:20 - Utils: INFO: Broadcast: David has joined.
+2018-04-14 22:09:30 - Utils: INFO: Broadcast: MCL: 晚上再打次眼睛
+2018-04-14 22:09:31 - Utils: INFO: Broadcast: 111: 别跑
+2018-04-14 22:09:41 - Utils: INFO: Broadcast: 111: 上来啊
+2018-04-14 22:09:46 - Utils: INFO: Broadcast: MCL: 谁能带下解药
+2018-04-14 22:09:49 - Utils: INFO: Broadcast: 111: 卧槽
+2018-04-14 22:09:49 - Utils: INFO: Surprise! executed: /tp 111.
+2018-04-14 22:09:50 - Utils: INFO: Broadcast: David: 我去
+2018-04-14 22:09:52 - Utils: INFO: Broadcast: 111: 好傻啊
+2018-04-14 22:09:57 - Utils: INFO: Broadcast: 111: 回来啊
+2018-04-14 22:09:58 - Utils: INFO: Broadcast: MCL: 我造平台
+2018-04-14 22:09:59 - Utils: INFO: Broadcast: 111: 过来
+2018-04-14 22:10:01 - Utils: INFO: Broadcast: 111: 绳子
+2018-04-14 22:10:02 - Utils: INFO: Broadcast: 111: 不需要
+2018-04-14 22:10:03 - Utils: INFO: Broadcast: David: 专家史莱姆王？
+2018-04-14 22:10:05 - Utils: INFO: Broadcast: 111: 上来绳子
+2018-04-14 22:10:07 - Utils: INFO: Broadcast: 111: 速度
+2018-04-14 22:10:10 - Utils: INFO: Broadcast: 111: 傻吧？
+2018-04-14 22:10:18 - Utils: INFO: Broadcast: 111: 护壁
+2018-04-14 22:10:19 - Utils: INFO: Surprise! executed: /tp 111.
+2018-04-14 22:10:28 - Utils: INFO: Broadcast: MCL: 用粘性手榴弹炸啊
+2018-04-14 22:10:37 - Utils: INFO: Broadcast: 111: 速度来绳子上
+2018-04-14 22:10:40 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-14 22:10:40 - TShock: INFO: KKJJL disconnected.
+2018-04-14 22:10:41 - Utils: INFO: Broadcast: 111: 没上来的一会再来
+2018-04-14 22:10:46 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-14 22:10:51 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:10:51 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-14 22:10:56 - Utils: INFO: Broadcast: MCL: 大卫借我附魔剑
+2018-04-14 22:11:07 - Utils: INFO: Broadcast: David: 1把= =
+2018-04-14 22:11:29 - Utils: INFO: Broadcast: MCL: 腐化地的怪有点恶心
+2018-04-14 22:11:37 - Utils: INFO: Broadcast: MCL: 特别是专家的
+2018-04-14 22:11:47 - Utils: INFO: Broadcast: David: 我发现
+2018-04-14 22:12:05 - Utils: INFO: Broadcast: David: 史莱姆王大小和血量成正比
+2018-04-14 22:12:08 - Utils: INFO: Broadcast: Surprise!: [i/s2:73]
+2018-04-14 22:12:18 - Utils: INFO: Broadcast: MCL: 哎哟不错哦
+2018-04-14 22:12:36 - Utils: INFO: Broadcast: jieyao2: 你这卡的
+2018-04-14 22:12:44 - Utils: INFO: Broadcast: MCL: 我这卡的快飞起来了
+2018-04-14 22:12:58 - Utils: INFO: Broadcast: jieyao2: 666
+2018-04-14 22:13:00 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-14 22:13:00 - TShock: INFO: KKJJL disconnected.
+2018-04-14 22:13:06 - Utils: INFO: Surprise! executed: /tp 111.
+2018-04-14 22:13:06 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:13:07 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-14 22:13:09 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (7/10)
+2018-04-14 22:13:09 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-14 22:13:10 - Utils: INFO: Broadcast: 111: 听我的早过了
+2018-04-14 22:13:21 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 22:13:21 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 22:13:53 - Utils: INFO: Broadcast: 111: 谁有头
+2018-04-14 22:13:55 - Utils: INFO: Broadcast: MCL: 我嘛
+2018-04-14 22:13:59 - Utils: INFO: Broadcast: MCL: 出了名的老赖
+2018-04-14 22:14:00 - Utils: INFO: Broadcast: 111: 谁有忍者头？
+2018-04-14 22:14:08 - Utils: INFO: Broadcast: Surprise!: 我
+2018-04-14 22:14:11 - Utils: INFO: Surprise! executed: /tp 111.
+2018-04-14 22:14:12 - Utils: INFO: Broadcast: 111: 给我一下
+2018-04-14 22:14:13 - Utils: INFO: Broadcast: 111: 谢谢
+2018-04-14 22:14:15 - Utils: INFO: Broadcast: KKJJL: 找到织布机了
+2018-04-14 22:14:15 - Utils: INFO: Broadcast: King~: 给我一下
+2018-04-14 22:14:15 - Utils: INFO: Broadcast: 111: 我就差一个
+2018-04-14 22:14:16 - Utils: INFO: Broadcast: Surprise!: 为啥
+2018-04-14 22:14:19 - Utils: INFO: Broadcast: MCL: 第一次打过月总我就是老赖
+2018-04-14 22:14:31 - Utils: INFO: Broadcast: MCL: 赖了半小时
+2018-04-14 22:14:31 - Utils: INFO: Server executed: /dropmeteor.
+2018-04-14 22:14:36 - Utils: INFO: Broadcast: 111: 给我一下啊
+2018-04-14 22:14:40 - Utils: INFO: Broadcast: Surprise!: 给你干嘛啦
+2018-04-14 22:14:44 - Utils: INFO: Broadcast: MCL: 挖陨石啊
+2018-04-14 22:14:45 - Utils: INFO: Broadcast: 111: 哎
+2018-04-14 22:14:46 - Utils: INFO: Broadcast: 111: 随意
+2018-04-14 22:14:51 - Utils: INFO: Broadcast: KKJJL: [i:43][i:332]
+2018-04-14 22:15:00 - Utils: INFO: Broadcast: MCL: 解药
+2018-04-14 22:15:04 - Utils: INFO: Broadcast: MCL: 别乱跑
+2018-04-14 22:15:14 - Utils: INFO: Broadcast: MCL: 气人哦
+2018-04-14 22:15:28 - Utils: INFO: Broadcast: MCL: 这次的宝藏带我要了啊
+2018-04-14 22:15:32 - Utils: INFO: Broadcast: MCL: 克鲁苏的
+2018-04-14 22:15:45 - Utils: INFO: Broadcast: 111: 你把头给我
+2018-04-14 22:15:48 - Utils: INFO: Broadcast: 111: 我给你鞋子
+2018-04-14 22:15:49 - Utils: INFO: Broadcast: 111: 如何
+2018-04-14 22:15:54 - Utils: INFO: Broadcast: 111: 成交不？
+2018-04-14 22:15:55 - Utils: INFO: Broadcast: Surprise!: WOYOU 
+2018-04-14 22:15:58 - Utils: INFO: Broadcast: Surprise!: wo
+2018-04-14 22:16:00 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-14 22:16:00 - TShock: INFO: KKJJL disconnected.
+2018-04-14 22:16:01 - Utils: INFO: Broadcast: Surprise!: 我有鞋子
+2018-04-14 22:16:02 - Utils: INFO: Broadcast: 111: [i:49]
+2018-04-14 22:16:03 - Utils: INFO: Broadcast: David: ho
+2018-04-14 22:16:04 - Utils: INFO: Broadcast: Surprise!: 给我钱
+2018-04-14 22:16:05 - Utils: INFO: Broadcast: 111: 这个呢？
+2018-04-14 22:16:16 - Utils: INFO: Broadcast: Surprise!: 我要10个金币
+2018-04-14 22:16:22 - Utils: INFO: Broadcast: 111: 我就差一个
+2018-04-14 22:16:24 - Utils: INFO: Broadcast: 111: 一套
+2018-04-14 22:16:26 - Utils: INFO: Broadcast: 111: 随意了
+2018-04-14 22:16:28 - Utils: INFO: Broadcast: 111: 一会再做一个
+2018-04-14 22:16:31 - Utils: INFO: Broadcast: 111: 懒得和你说话
+2018-04-14 22:16:54 - Utils: INFO: Broadcast: Surprise!: w
+2018-04-14 22:17:33 - Utils: INFO: Broadcast: Surprise!: 这些箱子是干嘛的
+2018-04-14 22:17:44 - Utils: INFO: Broadcast: 111: 放东西的啊
+2018-04-14 22:17:47 - Utils: INFO: Broadcast: David: 装饰qwq？
+2018-04-14 22:18:06 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:18:07 - Utils: INFO: Broadcast: Surprise!: 里面没东西啊
+2018-04-14 22:18:07 - Utils: INFO: Broadcast: MCL: 大卫街武器
+2018-04-14 22:18:12 - Utils: INFO: Broadcast: MCL: 借东西
+2018-04-14 22:18:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 22:18:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 22:18:56 - Utils: INFO: Broadcast: David: 造家
+2018-04-14 22:19:55 - Utils: INFO: Broadcast: 111: 走去绳子哪里
+2018-04-14 22:19:58 - Utils: INFO: Broadcast: 111: 啥史莱姆
+2018-04-14 22:20:00 - Utils: INFO: Broadcast: Surprise!: [i:256]
+2018-04-14 22:20:00 - Utils: INFO: Broadcast: 111: 打史莱姆王
+2018-04-14 22:20:05 - Utils: INFO: Broadcast: MCL: 史莱姆王要来了
+2018-04-14 22:20:15 - Utils: INFO: Broadcast: MCL: 下完这场雨就是史莱姆王
+2018-04-14 22:20:25 - Utils: INFO: Broadcast: MCL: 发芽得红
+2018-04-14 22:20:27 - Utils: INFO: Broadcast: 111: 我怀疑你们会玩吗？
+2018-04-14 22:20:40 - Utils: INFO: Broadcast: 111: 杀够数量才会出来
+2018-04-14 22:20:49 - Utils: INFO: Broadcast: MCL: 我的手雷准备好了
+2018-04-14 22:20:58 - Utils: INFO: Broadcast: 111: 那就过来啊
+2018-04-14 22:21:01 - Utils: INFO: Broadcast: 111: 啥史莱姆啊
+2018-04-14 22:21:56 - Utils: INFO: Surprise! executed: /give.
+2018-04-14 22:21:56 - Utils: INFO: Broadcast: King~: 吓人不
+2018-04-14 22:21:59 - Utils: INFO: Broadcast: David: 2333
+2018-04-14 22:22:12 - Utils: INFO: Broadcast: King~: 八住a
+2018-04-14 22:23:06 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:23:12 - Utils: INFO: Surprise! executed: /give 198 Surpurise! 1.
+2018-04-14 22:23:22 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-14 22:23:22 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-14 22:23:26 - Utils: INFO: Surprise! executed: /give 198 Surprise! 1.
+2018-04-14 22:23:54 - Utils: INFO: Surprise! executed: /give 198 Surprise! 1.
+2018-04-14 22:24:16 - Utils: INFO: Broadcast: MCL: 过来赖他
+2018-04-14 22:26:11 - Utils: INFO: Broadcast: Surprise!: [i:257][i:2610]
+2018-04-14 22:26:29 - Utils: INFO: Broadcast: 111: 头我出来了
+2018-04-14 22:26:47 - Utils: INFO: Broadcast: MCL: 差个头
+2018-04-14 22:27:01 - Utils: INFO: Broadcast: Surprise!: [i:256][i:256]
+2018-04-14 22:27:06 - Utils: INFO: Broadcast: MCL: 给我个
+2018-04-14 22:27:07 - Utils: INFO: Broadcast: Surprise!: 多个头
+2018-04-14 22:27:14 - Utils: INFO: Broadcast: Surprise!: 给我10金币来换
+2018-04-14 22:27:31 - Utils: INFO: Broadcast: MCL: 你走
+2018-04-14 22:27:45 - Utils: INFO: Broadcast: Surprise!: 都这么穷
+2018-04-14 22:27:48 - Utils: INFO: Broadcast: MCL: 我就俩
+2018-04-14 22:27:53 - Utils: INFO: Server executed: /off.
+2018-04-14 22:27:53 - TSPlayer: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:27:53 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: 111 has left.
+2018-04-14 22:27:53 - TShock: INFO: 111 disconnected.
+2018-04-14 22:27:53 - Utils: INFO: Kicked David for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: David was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Kicked King~ for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: King~ was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Kicked MCL for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: MCL was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - TSPlayer: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:27:53 - Utils: INFO: Kicked Surprise! for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: Surprise! was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Kicked jieyao2 for : 'Server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: jieyao2 was force kicked for 'server shutting down!'
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: David has left.
+2018-04-14 22:27:53 - TShock: INFO: David disconnected.
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: King~ has left.
+2018-04-14 22:27:53 - TShock: INFO: King~ disconnected.
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: MCL has left.
+2018-04-14 22:27:53 - TShock: INFO: MCL disconnected.
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: Surprise! has left.
+2018-04-14 22:27:53 - TShock: INFO: Surprise! disconnected.
+2018-04-14 22:27:53 - CharacterManager: INFO: Skipping SSC Backup for dangdang
+2018-04-14 22:27:53 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-14 22:27:53 - Utils: INFO: Broadcast: jieyao2 has left.
+2018-04-14 22:27:53 - TShock: INFO: jieyao2 disconnected.
+2018-04-14 22:27:54 - Utils: INFO: Broadcast: World saved.
+2018-04-14 22:27:54 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-14 22:27:54 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-14 22:27:56 - Utils: INFO: Broadcast: World saved.
+2018-04-14 22:27:56 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)

@@ -1,0 +1,623 @@
+2018-04-21 12:40:36 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-21 12:40:36 - TShock: INFO: AutoSave Enabled
+2018-04-21 12:40:36 - TShock: INFO: Backups Disabled
+2018-04-21 12:40:36 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-21 12:40:59 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 12:41:04 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-21 12:41:04 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 12:41:06 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 12:41:08 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-21 12:41:09 - Utils: INFO: Broadcast: World saved.
+2018-04-21 12:41:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-21 12:41:09 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-21 12:41:11 - Utils: INFO: Broadcast: World saved.
+2018-04-21 12:41:11 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-21 12:41:14 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 12:41:14 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 12:42:00 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 12:42:04 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 12:42:04 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 12:42:53 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 12:42:54 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 12:42:54 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 12:43:05 - Utils: INFO: Broadcast: 111: K
+2018-04-21 12:43:07 - Utils: INFO: Broadcast: David: 这么多人催服务器
+2018-04-21 12:43:12 - Utils: INFO: Broadcast: David: 才3个人= =
+2018-04-21 12:43:17 - Utils: INFO: Broadcast: 111: 有多的木头吗？
+2018-04-21 12:43:20 - Utils: INFO: Broadcast: 111: 给我一点
+2018-04-21 12:43:23 - Utils: INFO: Broadcast: King~: [i/s163:620]
+2018-04-21 12:43:23 - Utils: INFO: Broadcast: David: 输入/who 查看人数
+2018-04-21 12:43:37 - Utils: INFO: Broadcast: 111: 不要这个
+2018-04-21 12:43:40 - Utils: INFO: Broadcast: David has left.
+2018-04-21 12:43:40 - TShock: INFO: David disconnected.
+2018-04-21 12:43:43 - Utils: INFO: Broadcast: King~: [i/s8:9]
+2018-04-21 12:43:47 - Utils: INFO: Broadcast: 111: 对
+2018-04-21 12:43:48 - Utils: INFO: Broadcast: 111: 这个
+2018-04-21 12:44:38 - Utils: INFO: Broadcast: 111: 给我啊
+2018-04-21 12:45:10 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 12:45:14 - Utils: INFO: Broadcast: King~: 吃饭
+2018-04-21 12:45:22 - Utils: INFO: Broadcast: 111: 先给我
+2018-04-21 12:45:33 - Utils: INFO: Broadcast: 111: 还有吗？
+2018-04-21 12:45:38 - Utils: INFO: Broadcast: King~: [i/s163:620]
+2018-04-21 12:45:41 - Utils: INFO: Broadcast: 111: 。
+2018-04-21 12:45:48 - Utils: INFO: Broadcast: King~: [i/s590:2260][i/s590:2260][i/s590:2260]
+2018-04-21 12:48:31 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 12:48:31 - TShock: INFO: beiyi disconnected.
+2018-04-21 12:49:27 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 12:49:31 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 12:49:31 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 12:52:07 - Utils: INFO: Broadcast: 111: 群主
+2018-04-21 12:52:10 - Utils: INFO: Broadcast: 111: 怎末圈地
+2018-04-21 12:52:11 - Utils: INFO: Broadcast: 111: 来着？
+2018-04-21 12:52:14 - Utils: INFO: Broadcast: 111: 右键？
+2018-04-21 12:53:45 - Utils: INFO: Broadcast: 111: 群主
+2018-04-21 12:53:47 - Utils: INFO: Broadcast: 111: 圈地
+2018-04-21 12:53:49 - Utils: INFO: Broadcast: 111: 怎末弄？
+2018-04-21 12:54:29 - Utils: INFO: 111 executed: /house define.
+2018-04-21 12:55:22 - TextLog: INFO: Player beiyi has been disabled for Reached TileKill threshold..
+2018-04-21 12:56:41 - TextLog: INFO: Player beiyi has been disabled for NPC damage exceeded 2000..
+2018-04-21 12:57:06 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 12:57:06 - TShock: INFO: King~ disconnected.
+2018-04-21 12:57:09 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 12:57:14 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 12:57:14 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 12:57:46 - Utils: INFO: Broadcast: 111: K
+2018-04-21 12:57:48 - Utils: INFO: Broadcast: 111: 你过来一下
+2018-04-21 12:58:37 - Utils: INFO: Broadcast: King~: 你太秀了
+2018-04-21 12:58:43 - Utils: INFO: Broadcast: King~: 你太秀了
+2018-04-21 12:59:53 - Utils: INFO: Broadcast: 111: 还没有完工
+2018-04-21 13:00:12 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 13:00:12 - TShock: INFO: 111 disconnected.
+2018-04-21 13:00:18 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 13:00:22 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 13:00:22 - TShock: INFO: King~ disconnected.
+2018-04-21 13:00:22 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 13:00:22 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 13:00:22 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 13:00:26 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 13:00:26 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 13:00:50 - Utils: INFO: Broadcast: 111: K
+2018-04-21 13:00:57 - Utils: INFO: Broadcast: 111: 怎末圈地？
+2018-04-21 13:01:00 - Utils: INFO: Broadcast: 111: 钳子怎莫用？
+2018-04-21 13:01:36 - TextLog: INFO: Player beiyi has been disabled for NPC damage exceeded 2000..
+2018-04-21 13:01:45 - Utils: INFO: King~ executed: /house define               然后用签字点一下你家的右上和坐下.
+2018-04-21 13:02:23 - Utils: INFO: King~ executed: /house       define             然后你用签字点一下你家的右上角和左下角.
+2018-04-21 13:02:25 - Utils: INFO: 111 executed: /house define.
+2018-04-21 13:02:46 - Utils: INFO: 111 executed: /house define.
+2018-04-21 13:02:48 - Utils: INFO: Broadcast: King~: 我网络
+2018-04-21 13:02:54 - Utils: INFO: Broadcast: King~: 忘记了....
+2018-04-21 13:03:38 - Utils: INFO: 111 executed: /house define.
+2018-04-21 13:04:47 - Utils: INFO: Broadcast: King~: ？？？？
+2018-04-21 13:04:56 - Utils: INFO: Broadcast: 111: 肉山已经打完了
+2018-04-21 13:04:57 - Utils: INFO: Broadcast: 111: 骚年
+2018-04-21 13:05:01 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-21 13:05:08 - Utils: INFO: Broadcast: King~: 陪我大蜘蛛啊
+2018-04-21 13:05:23 - Utils: INFO: Broadcast: 111: 你那里还有玻璃吗？
+2018-04-21 13:07:26 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 13:07:27 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:07:27 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 13:07:40 - Utils: INFO: Broadcast: David has left.
+2018-04-21 13:07:40 - TShock: INFO: David disconnected.
+2018-04-21 13:08:32 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 13:08:32 - TShock: INFO: King~ disconnected.
+2018-04-21 13:08:32 - GetDataHandlers: INFO: King~ authenticated successfully as user King~.
+2018-04-21 13:08:37 - TShock: INFO: King~ (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 13:08:37 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-21 13:08:52 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 13:08:52 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 13:08:53 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-21 13:08:53 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 13:09:17 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 13:09:17 - TShock: INFO: 111 disconnected.
+2018-04-21 13:09:20 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 13:09:20 - TShock: INFO: admin1 disconnected.
+2018-04-21 13:09:20 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 13:09:22 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 13:09:23 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 13:09:23 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 13:09:23 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 13:09:27 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:09:27 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 13:09:42 - Utils: INFO: Broadcast: 111: 主机
+2018-04-21 13:09:45 - Utils: INFO: Broadcast: King~: 陪我大蜘蛛啊
+2018-04-21 13:10:09 - Utils: INFO: Broadcast: 111: 主机
+2018-04-21 13:10:11 - Utils: INFO: Broadcast: 111: 你过来一下
+2018-04-21 13:10:15 - Utils: INFO: Broadcast: 111: 你过来看看这里
+2018-04-21 13:10:17 - Utils: INFO: Broadcast: David: 不要
+2018-04-21 13:10:17 - Utils: INFO: Broadcast: 111: 地图
+2018-04-21 13:10:21 - Utils: INFO: Broadcast: 111: 没有了
+2018-04-21 13:10:32 - Utils: INFO: Broadcast: 111: 右边一大片没有方块了
+2018-04-21 13:11:13 - TextLog: INFO: Player beiyi has been disabled for NPC damage exceeded 2000..
+2018-04-21 13:11:33 - TextLog: INFO: Player beiyi has been disabled for NPC damage exceeded 2000..
+2018-04-21 13:13:54 - Utils: INFO: Broadcast: David: tm我给一只鱼杀了
+2018-04-21 13:14:14 - Utils: INFO: Broadcast: David: 我tm重来没有被鱼杀过
+2018-04-21 13:15:38 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-21 13:17:32 - Utils: INFO: Broadcast: 111: 房主
+2018-04-21 13:17:32 - Utils: INFO: Broadcast: David: 法师！
+2018-04-21 13:17:36 - Utils: INFO: Broadcast: 111: 传送带你
+2018-04-21 13:17:39 - Utils: INFO: Broadcast: 111: 传送点
+2018-04-21 13:17:46 - Utils: INFO: Broadcast: David has left.
+2018-04-21 13:17:46 - TShock: INFO: David disconnected.
+2018-04-21 13:17:47 - Utils: INFO: Broadcast: 111: 把法师放在我家把
+2018-04-21 13:17:48 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 13:17:48 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 13:17:49 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-21 13:17:49 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 13:17:55 - Utils: INFO: Broadcast: King~: 我要走了
+2018-04-21 13:17:58 - Utils: INFO: Broadcast: 111: 把法师放在我家把
+2018-04-21 13:17:59 - Utils: INFO: admin1 executed: /godmode.
+2018-04-21 13:18:03 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-21 13:18:04 - Utils: INFO: Broadcast: 111: 去吧
+2018-04-21 13:18:08 - Utils: INFO: Broadcast: admin1: bye
+2018-04-21 13:18:11 - Utils: INFO: Broadcast: 111: 这里传送
+2018-04-21 13:18:23 - Utils: INFO: Broadcast: admin1: 这里？
+2018-04-21 13:18:25 - Utils: INFO: Broadcast: 111: 对
+2018-04-21 13:18:38 - Utils: INFO: admin1 executed: /warp.
+2018-04-21 13:18:47 - Utils: INFO: Broadcast: 111: 只用告诉我就ok了
+2018-04-21 13:18:49 - Utils: INFO: Broadcast: admin1: 你要给传送点什么名字
+2018-04-21 13:18:52 - Utils: INFO: Broadcast: 111: 不太喜欢别人进来
+2018-04-21 13:18:58 - Utils: INFO: Broadcast: 111: 私聊发给你
+2018-04-21 13:19:40 - Utils: INFO: admin1 executed: /warp a.
+2018-04-21 13:19:44 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 13:19:47 - Utils: INFO: admin1 executed: /warp add laimu.
+2018-04-21 13:20:12 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 13:20:12 - TShock: INFO: admin1 disconnected.
+2018-04-21 13:20:12 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 13:20:14 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 13:20:15 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:20:15 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 13:20:21 - Utils: INFO: David executed: /warp lanmu.
+2018-04-21 13:20:24 - Utils: INFO: David executed: /warp laimu.
+2018-04-21 13:20:45 - Utils: INFO: Broadcast: King~: 哇
+2018-04-21 13:21:09 - Utils: INFO: Broadcast: David: ok
+2018-04-21 13:21:12 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-21 13:21:13 - Utils: INFO: Broadcast: David has left.
+2018-04-21 13:21:13 - TShock: INFO: David disconnected.
+2018-04-21 13:21:14 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 13:21:15 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:21:15 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 13:21:18 - Utils: INFO: David executed: /warp laimu.
+2018-04-21 13:21:25 - Utils: INFO: Broadcast: 111: 还差一点装饰品
+2018-04-21 13:21:28 - Utils: INFO: Broadcast: 111: 就完工了
+2018-04-21 13:21:32 - Utils: INFO: Broadcast: David: 嗯
+2018-04-21 13:21:49 - Utils: INFO: Broadcast: King~: 我好卡
+2018-04-21 13:21:55 - Utils: INFO: Broadcast: 111: 从开一下游戏
+2018-04-21 13:21:58 - Utils: INFO: Broadcast: 111: 就可以了
+2018-04-21 13:22:07 - Utils: INFO: Broadcast: King~: 水蜡烛有吗
+2018-04-21 13:22:26 - Utils: INFO: Broadcast: 111: 哦对了
+2018-04-21 13:22:27 - Utils: INFO: Broadcast: King~: 好了我要走了
+2018-04-21 13:22:28 - Utils: INFO: Broadcast: King~: 再见
+2018-04-21 13:22:28 - Utils: INFO: Broadcast: 111: 把你的蜜蜂
+2018-04-21 13:22:30 - Utils: INFO: Broadcast: 111: 坐骑
+2018-04-21 13:22:31 - Utils: INFO: Broadcast: 111: 给我
+2018-04-21 13:22:32 - Utils: INFO: Broadcast: King~: 晚上在玩
+2018-04-21 13:22:34 - Utils: INFO: Broadcast: 111: 我去天上
+2018-04-21 13:22:39 - Utils: INFO: Broadcast: King~ has left.
+2018-04-21 13:22:39 - TShock: INFO: King~ disconnected.
+2018-04-21 13:22:40 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-21 13:22:46 - Utils: INFO: Broadcast: David: bye
+2018-04-21 13:22:52 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 13:22:56 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:22:56 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 13:23:46 - Utils: INFO: Broadcast: David has left.
+2018-04-21 13:23:46 - TShock: INFO: David disconnected.
+2018-04-21 13:23:52 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 13:23:54 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:23:54 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 13:23:54 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 13:26:08 - Utils: INFO: Broadcast: 111: 挖
+2018-04-21 13:26:10 - Utils: INFO: Broadcast: 111: 哇
+2018-04-21 13:26:12 - Utils: INFO: Broadcast: David: ？
+2018-04-21 13:26:17 - Utils: INFO: Broadcast: 111: 用来做玻璃的东西
+2018-04-21 13:26:19 - Utils: INFO: Broadcast: 111: 在
+2018-04-21 13:26:21 - Utils: INFO: Broadcast: 111: K家里
+2018-04-21 13:26:22 - Utils: INFO: Broadcast: 111: 进不去
+2018-04-21 13:26:28 - Utils: INFO: Broadcast: 111: 啧啧
+2018-04-21 13:27:20 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 13:29:06 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 13:29:06 - TShock: INFO: KKJJL disconnected.
+2018-04-21 13:29:11 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 13:29:14 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:29:14 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 13:29:22 - Utils: INFO: Broadcast: David: 艹
+2018-04-21 13:29:28 - Utils: INFO: Broadcast: David: 艹！
+2018-04-21 13:30:37 - Utils: INFO: David executed: /warp diui.
+2018-04-21 13:30:40 - Utils: INFO: David executed: /warp diyu.
+2018-04-21 13:31:01 - Utils: INFO: Broadcast: 111: ok了
+2018-04-21 13:31:42 - Utils: INFO: Broadcast: 111: 可以去开矿了
+2018-04-21 13:31:50 - Utils: INFO: Broadcast: David: 想玩电脑版吃鸡
+2018-04-21 13:31:59 - Utils: INFO: Broadcast: David: 谁帮我买
+2018-04-21 13:32:08 - Utils: INFO: Broadcast: 111: 额
+2018-04-21 13:32:10 - Utils: INFO: Broadcast: 111: 我有两个
+2018-04-21 13:32:14 - Utils: INFO: Broadcast: 111: 一会我把小号发给你
+2018-04-21 13:32:26 - Utils: INFO: Broadcast: 111: 你随时都可以玩
+2018-04-21 13:32:30 - Utils: INFO: Broadcast: David: ！
+2018-04-21 13:32:33 - Utils: INFO: Broadcast: David: 这么好
+2018-04-21 13:32:41 - Utils: INFO: Broadcast: 111: 小号我10年不上一次
+2018-04-21 13:32:44 - Utils: INFO: Broadcast: David: 谢谢啦
+2018-04-21 13:32:44 - Utils: INFO: Broadcast: 111: 没有验证码
+2018-04-21 13:32:45 - Utils: INFO: Broadcast: 111: 我没加
+2018-04-21 13:33:13 - Utils: INFO: Broadcast: 111: 现在玩泰拉瑞亚吧
+2018-04-21 13:33:24 - Utils: INFO: Broadcast: David: 嗯
+2018-04-21 13:33:26 - Utils: INFO: Broadcast: 111: 嗯
+2018-04-21 13:34:30 - Utils: INFO: Broadcast: David: 艹1
+2018-04-21 13:34:42 - Utils: INFO: David executed: /warp diyu.
+2018-04-21 13:36:21 - Utils: INFO: beiyi executed: /warp lll.
+2018-04-21 13:36:30 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 13:36:30 - TShock: INFO: KKJJL disconnected.
+2018-04-21 13:36:44 - Utils: INFO: beiyi executed: /warp III.
+2018-04-21 13:36:46 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 13:36:50 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:36:50 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 13:37:23 - Utils: INFO: Broadcast: David: !
+2018-04-21 13:37:26 - Utils: INFO: Broadcast: David: 谢谢
+2018-04-21 13:37:44 - Utils: INFO: beiyi summoned the Retinazer!
+2018-04-21 13:37:44 - Utils: INFO: beiyi summoned the Spazmatism!
+2018-04-21 13:37:51 - Utils: INFO: Broadcast: 111: ？？
+2018-04-21 13:37:53 - Utils: INFO: Broadcast: KKJJL: ?
+2018-04-21 13:39:28 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 13:39:28 - TShock: INFO: KKJJL disconnected.
+2018-04-21 13:39:39 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 13:39:43 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:39:43 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 13:41:17 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 13:41:17 - TShock: INFO: beiyi disconnected.
+2018-04-21 13:41:38 - Utils: INFO: David executed: /who.
+2018-04-21 13:42:11 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 13:42:15 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:42:15 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 13:42:26 - Utils: INFO: Broadcast: KKJJL: 谢谢
+2018-04-21 13:42:33 - Utils: INFO: Broadcast: David: 嗯
+2018-04-21 13:43:20 - Utils: INFO: Broadcast: 111: D有没有溜冰鞋
+2018-04-21 13:43:22 - Utils: INFO: Broadcast: 111: 找了好久
+2018-04-21 13:43:24 - Utils: INFO: Broadcast: David: emmmmm
+2018-04-21 13:43:28 - Utils: INFO: Broadcast: David: 没有哎
+2018-04-21 13:43:40 - Utils: INFO: Broadcast: 111: 绝望
+2018-04-21 13:45:39 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 13:45:39 - TShock: INFO: beiyi disconnected.
+2018-04-21 13:46:11 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 13:46:15 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:46:15 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 13:47:18 - Utils: INFO: Broadcast: 111: beiyi
+2018-04-21 13:47:20 - Utils: INFO: Broadcast: 111: 你还有
+2018-04-21 13:47:39 - Utils: INFO: Broadcast: 111: 多余的山吗？
+2018-04-21 13:48:11 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:16 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:21 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:26 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:31 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:36 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:41 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:47 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:52 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:48:57 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:02 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:07 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:12 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:17 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:22 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:27 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:32 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:37 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:42 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:48 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:53 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:49:58 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:50:03 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:50:19 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:50:29 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:50:35 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:05 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:10 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:15 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:20 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:26 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 13:51:26 - TShock: INFO: beiyi disconnected.
+2018-04-21 13:51:33 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 13:51:38 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:51:38 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 13:51:39 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:39 - Utils: INFO: David executed: /who.
+2018-04-21 13:51:44 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:45 - Utils: INFO: Broadcast: David: beiyi你电脑还好吧
+2018-04-21 13:51:49 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:54 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:51:59 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:52:04 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:52:09 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:52:24 - Utils: INFO: Broadcast: KKJJL: 怎么办，我的蘑菇变成了奇怪的东西
+2018-04-21 13:52:33 - Utils: INFO: Broadcast: KKJJL: 就像丁丁
+2018-04-21 13:52:34 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:52:40 - Utils: INFO: Broadcast: David: 什么奇♂怪的东西
+2018-04-21 13:52:51 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 13:52:51 - TShock: INFO: beiyi disconnected.
+2018-04-21 13:52:58 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 13:53:00 - Utils: INFO: Broadcast: KKJJL: 就是那个奇怪的东♂西
+2018-04-21 13:53:08 - Utils: INFO: Broadcast: David: 哦~♂
+2018-04-21 13:53:09 - Utils: INFO: Broadcast: KKJJL: 你懂♂的
+2018-04-21 13:53:10 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:53:10 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 13:53:11 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:53:13 - Utils: INFO: Broadcast: David: 我懂♂了
+2018-04-21 13:53:21 - Utils: INFO: Broadcast: KKJJL: emmm
+2018-04-21 13:53:39 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:53:44 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:53:49 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:53:54 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:53:59 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:04 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:09 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:14 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:20 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:23 - Utils: INFO: Broadcast: David: [i:520]
+2018-04-21 13:54:25 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:30 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:35 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:45 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:50 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:54:55 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:55:02 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 13:55:02 - TShock: INFO: beiyi disconnected.
+2018-04-21 13:57:25 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 13:57:29 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 13:57:29 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 13:57:31 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:32 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:38 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:43 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:48 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:54 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:58:59 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:04 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:09 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:14 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:19 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:24 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:29 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:34 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:39 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:44 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:50 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:52 - Utils: INFO: Broadcast: 111: 钛金有吗？
+2018-04-21 13:59:55 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 13:59:58 - Utils: INFO: Broadcast: David: emmm
+2018-04-21 13:59:59 - Utils: INFO: Broadcast: 111: 主机去砸祭坛吧
+2018-04-21 13:59:59 - Utils: INFO: Broadcast: David: 没有啊
+2018-04-21 14:00:00 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:05 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:11 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:16 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:18 - Utils: INFO: David executed: /warp dilao.
+2018-04-21 14:00:21 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:26 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:41 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:46 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:51 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:00:56 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:01:01 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:01:06 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:01:11 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:01:50 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:02:32 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:03:40 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:04:03 - Utils: INFO: Broadcast: David: 我不想死啊啊啊啊
+2018-04-21 14:04:08 - Utils: INFO: David executed: /warp dilao.
+2018-04-21 14:04:24 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:04:27 - Utils: INFO: Broadcast: David: gun！
+2018-04-21 14:04:30 - TextLog: INFO: Player beiyi has been disabled for Maximum MP beyond limit.
+2018-04-21 14:04:34 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 14:04:34 - TShock: INFO: beiyi disconnected.
+2018-04-21 14:04:51 - Utils: INFO: Broadcast: David: 艹1
+2018-04-21 14:05:42 - Utils: INFO: Broadcast: David: 我TM社保
+2018-04-21 14:05:56 - Utils: INFO: Broadcast: David: 滚！
+2018-04-21 14:06:04 - Utils: INFO: Broadcast: David: 艹！
+2018-04-21 14:06:14 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 14:06:18 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 14:06:18 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 14:07:14 - Utils: INFO: Broadcast: 111: 那个
+2018-04-21 14:07:23 - Utils: INFO: Broadcast: 111: 床给我可好？
+2018-04-21 14:08:19 - Utils: INFO: 111 executed: /warp lamu.
+2018-04-21 14:08:27 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:10:34 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 14:10:34 - TShock: INFO: beiyi disconnected.
+2018-04-21 14:11:23 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 14:11:27 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 14:11:27 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 14:13:09 - Utils: INFO: Broadcast: 111: 这个海盗直接跳过吧
+2018-04-21 14:13:24 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:13:54 - Utils: INFO: Broadcast: KKJJL: 我制造了一个非常dark♂的蘑菇空间
+2018-04-21 14:14:03 - Utils: INFO: Broadcast: David has left.
+2018-04-21 14:14:03 - TShock: INFO: David disconnected.
+2018-04-21 14:14:05 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 14:14:05 - GetDataHandlers: INFO: admin1 authenticated successfully as user admin1.
+2018-04-21 14:14:06 - TShock: INFO: admin1 (192.168.0.106) from 'superadmin' group joined. (4/10)
+2018-04-21 14:14:06 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-21 14:15:18 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:20 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:20 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:21 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:21 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:22 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:22 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:23 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:23 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:24 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:24 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:25 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:26 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:26 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:27 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:28 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:29 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:29 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:30 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:31 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:31 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:32 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:32 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:33 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:35 - Utils: INFO: admin1 executed: /butcher.
+2018-04-21 14:15:37 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 14:15:43 - Utils: INFO: Broadcast: admin1: FFAQ
+2018-04-21 14:16:01 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 14:16:01 - TShock: INFO: KKJJL disconnected.
+2018-04-21 14:16:02 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-21 14:16:02 - TShock: INFO: admin1 disconnected.
+2018-04-21 14:16:02 - CharacterManager: INFO: Skipping SSC Backup for admin1
+2018-04-21 14:16:03 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 14:16:05 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 14:16:05 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 14:16:06 - Utils: INFO: Broadcast: 111: 被虐出翔
+2018-04-21 14:16:06 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 14:16:08 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 14:16:08 - TShock: INFO: beiyi disconnected.
+2018-04-21 14:16:10 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 14:16:10 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 14:16:41 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 14:16:45 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 14:16:45 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 14:17:00 - Utils: INFO: Broadcast: 111: 祭坛还有几个
+2018-04-21 14:17:04 - Utils: INFO: Broadcast: 111: 多砸一点
+2018-04-21 14:17:09 - Utils: INFO: Broadcast: David: 我没砸挖
+2018-04-21 14:17:12 - Utils: INFO: David executed: /who.
+2018-04-21 14:17:22 - Utils: INFO: Broadcast: David: 卧槽！
+2018-04-21 14:17:43 - Utils: INFO: Broadcast: David: 哇！
+2018-04-21 14:18:23 - Utils: INFO: Broadcast: David: 6666
+2018-04-21 14:18:54 - Utils: INFO: Broadcast: David has left.
+2018-04-21 14:18:54 - TShock: INFO: David disconnected.
+2018-04-21 14:19:25 - Utils: INFO: Broadcast: KKJJL: ?
+2018-04-21 14:19:34 - Utils: INFO: Broadcast: KKJJL: 挂b？
+2018-04-21 14:19:52 - Utils: INFO: Broadcast: 111: ？？
+2018-04-21 14:20:41 - Utils: INFO: 111 executed: /warp leimu.
+2018-04-21 14:20:47 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:21:03 - Utils: INFO: Broadcast: 111: 我的家在你旁边
+2018-04-21 14:21:08 - Utils: INFO: Broadcast: 111: 右边
+2018-04-21 14:21:36 - Utils: INFO: KKJJL executed: /house define .
+2018-04-21 14:23:29 - Utils: INFO: KKJJL executed: /house define .
+2018-04-21 14:24:01 - Utils: INFO: KKJJL executed: /house define .
+2018-04-21 14:24:09 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 14:24:09 - TShock: INFO: KKJJL disconnected.
+2018-04-21 14:24:13 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 14:24:17 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 14:24:17 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 14:25:06 - Utils: INFO: KKJJL executed: /house define .
+2018-04-21 14:26:08 - Utils: INFO: KKJJL executed: /house define .
+2018-04-21 14:27:05 - Utils: INFO: Broadcast: KKJJL: 圈地指令到底怎么用
+2018-04-21 14:27:27 - Utils: INFO: Broadcast: 111: 对了
+2018-04-21 14:27:28 - Utils: INFO: Broadcast: 111: KK
+2018-04-21 14:27:32 - Utils: INFO: Broadcast: 111: 你还有没有
+2018-04-21 14:27:38 - Utils: INFO: Broadcast: 111: 粉色
+2018-04-21 14:27:39 - Utils: INFO: Broadcast: 111: 凝胶了
+2018-04-21 14:27:52 - Utils: INFO: Broadcast: KKJJL: 还有
+2018-04-21 14:27:54 - Utils: INFO: Broadcast: 111: 有给我一些、
+2018-04-21 14:27:55 - Utils: INFO: Broadcast: KKJJL: 21
+2018-04-21 14:27:57 - Utils: INFO: Broadcast: 111: 谢谢
+2018-04-21 14:28:06 - Utils: INFO: Broadcast: 111: 给我一些谢谢
+2018-04-21 14:28:40 - Utils: INFO: Broadcast: 111: 谢谢
+2018-04-21 14:28:48 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:29:50 - Utils: INFO: Broadcast: KKJJL: 哇，666
+2018-04-21 14:30:16 - Utils: INFO: Broadcast: 111: 哈哈
+2018-04-21 14:31:26 - Utils: INFO: Broadcast: 111: 你有黄金吗？
+2018-04-21 14:31:34 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 14:31:34 - TShock: INFO: beiyi disconnected.
+2018-04-21 14:32:21 - GetDataHandlers: INFO: beiyi authenticated successfully as user beiyi.
+2018-04-21 14:32:25 - TShock: INFO: beiyi (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 14:32:25 - Utils: INFO: Broadcast: beiyi has joined.
+2018-04-21 14:32:46 - Utils: INFO: Broadcast: KKJJL: 哇，冰巨人
+2018-04-21 14:33:01 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:33:36 - Utils: INFO: Broadcast: 111: 多刷几个
+2018-04-21 14:35:43 - Utils: INFO: Broadcast: KKJJL: [i:2161]
+2018-04-21 14:35:43 - Utils: INFO: Broadcast: 111: ？
+2018-04-21 14:35:56 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 14:35:57 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 14:35:57 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 14:36:51 - Utils: INFO: David executed: /warp right-sea.
+2018-04-21 14:37:27 - Utils: INFO: Broadcast: 111: 。。
+2018-04-21 14:37:31 - Utils: INFO: Broadcast: 111: 你回血好快
+2018-04-21 14:37:43 - Utils: INFO: Broadcast: David: ?
+2018-04-21 14:38:16 - Utils: INFO: Broadcast: 111: KKJJL
+2018-04-21 14:38:25 - Utils: INFO: Broadcast: 111: 回血好快
+2018-04-21 14:39:08 - Utils: INFO: Broadcast: 111: 来这里
+2018-04-21 14:40:18 - Utils: INFO: Broadcast: KKJJL: ?
+2018-04-21 14:40:22 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 14:40:22 - TShock: INFO: KKJJL disconnected.
+2018-04-21 14:40:27 - GetDataHandlers: INFO: KKJJL authenticated successfully as user KKJJL.
+2018-04-21 14:40:30 - Utils: INFO: Broadcast: David: 想玩吃鸡
+2018-04-21 14:40:31 - TShock: INFO: KKJJL (192.168.0.106) from 'default' group joined. (4/10)
+2018-04-21 14:40:31 - Utils: INFO: Broadcast: KKJJL has joined.
+2018-04-21 14:40:34 - Utils: INFO: Broadcast: David: qwq
+2018-04-21 14:41:10 - Utils: INFO: Broadcast: beiyi has left.
+2018-04-21 14:41:10 - TShock: INFO: beiyi disconnected.
+2018-04-21 14:41:22 - Utils: INFO: Broadcast: 111: 找
+2018-04-21 14:41:23 - Utils: INFO: Broadcast: David has left.
+2018-04-21 14:41:23 - TShock: INFO: David disconnected.
+2018-04-21 14:41:24 - Utils: INFO: Broadcast: 111: 还有
+2018-04-21 14:41:26 - Utils: INFO: Broadcast: 111: 。。
+2018-04-21 14:41:30 - Utils: INFO: Broadcast: 111: 吃鸡很没劲的
+2018-04-21 14:41:37 - Utils: INFO: Broadcast: 111: 而且外挂最近很多
+2018-04-21 14:41:51 - Utils: INFO: Broadcast: KKJJL: 来玩贪玩蓝月
+2018-04-21 14:43:42 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-21 14:43:43 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-21 14:43:43 - Utils: INFO: Broadcast: David has joined.
+2018-04-21 14:43:50 - Utils: INFO: David executed: /warp list.
+2018-04-21 14:43:55 - Utils: INFO: David executed: /warp laimi.
+2018-04-21 14:43:58 - Utils: INFO: David executed: /warp laimu.
+2018-04-21 14:45:18 - Utils: INFO: Broadcast: David: 111
+2018-04-21 14:45:21 - Utils: INFO: Broadcast: 111: ？？
+2018-04-21 14:45:25 - Utils: INFO: Broadcast: KKJJL: [i/s3:2161]3个了
+2018-04-21 14:45:41 - Utils: INFO: Broadcast: David: 你的steam账号借我用下呗
+2018-04-21 14:45:43 - Utils: INFO: Broadcast: David: qwq？
+2018-04-21 14:45:50 - Utils: INFO: Broadcast: KKJJL: 需要精金
+2018-04-21 14:45:57 - Utils: INFO: Broadcast: David: 吃鸡
+2018-04-21 14:45:58 - Utils: INFO: Broadcast: David: qwq
+2018-04-21 14:46:38 - Utils: INFO: Broadcast: 111: 你现在就玩？
+2018-04-21 14:46:42 - Utils: INFO: Broadcast: David: 队~
+2018-04-21 14:47:21 - Utils: INFO: Broadcast: 111: 那这个你还开不开了可？
+2018-04-21 14:47:28 - Utils: INFO: Broadcast: 111: 那泰拉瑞亚你还开不开了？
+2018-04-21 14:47:34 - Utils: INFO: Broadcast: David: 开的啊
+2018-04-21 14:47:43 - Utils: INFO: Broadcast: David: 服务器不占内存
+2018-04-21 14:47:50 - Utils: INFO: Broadcast: 111: 大哥
+2018-04-21 14:47:56 - Utils: INFO: Broadcast: 111: 你能不能不要来捣乱啊
+2018-04-21 14:48:02 - Utils: INFO: Broadcast: David: 啊？
+2018-04-21 14:48:11 - Utils: INFO: Broadcast: KKJJL: 有精金没啊
+2018-04-21 14:48:35 - Utils: INFO: Broadcast: David: 艹？
+2018-04-21 14:49:01 - Utils: INFO: Broadcast: 111: 这两个一起开
+2018-04-21 14:49:06 - Utils: INFO: Broadcast: 111: 都吃你的网速
+2018-04-21 14:49:12 - Utils: INFO: Broadcast: David: 不会的
+2018-04-21 14:49:15 - Utils: INFO: Broadcast: David: 没关系
+2018-04-21 14:49:24 - Utils: INFO: Broadcast: KKJJL: 当我有了一个，我把角色备份，放到这里面，然后我就有两个了
+2018-04-21 14:51:23 - Utils: INFO: Broadcast: KKJJL: 找到了，精金
+2018-04-21 14:51:56 - Utils: INFO: Broadcast: KKJJL: 尴尬，是山铜
+2018-04-21 14:52:37 - Utils: INFO: Broadcast: David has left.
+2018-04-21 14:52:37 - TShock: INFO: David disconnected.
+2018-04-21 14:53:19 - Utils: INFO: Broadcast: 111: 我想要一个箱子
+2018-04-21 14:53:29 - Utils: INFO: Broadcast: 111: 东西没地方放了
+2018-04-21 14:53:32 - Utils: INFO: Broadcast: KKJJL: 怎么挖精金
+2018-04-21 14:54:33 - Utils: INFO: Broadcast: 111: 谁给我一个箱子啊
+2018-04-21 14:57:34 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 14:58:36 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 14:58:36 - TShock: INFO: 111 disconnected.
+2018-04-21 15:04:07 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 15:04:11 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:04:11 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 15:04:21 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 15:04:30 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 15:04:30 - TShock: INFO: 111 disconnected.
+2018-04-21 15:04:46 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 15:04:51 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:04:51 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 15:04:56 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 15:05:10 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 15:05:10 - TShock: INFO: 111 disconnected.
+2018-04-21 15:06:31 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 15:06:35 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:06:35 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 15:06:39 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 15:06:48 - Utils: INFO: Broadcast: 111 has left.
+2018-04-21 15:06:48 - TShock: INFO: 111 disconnected.
+2018-04-21 15:07:01 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-21 15:07:05 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-21 15:07:05 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-21 15:07:11 - Utils: INFO: 111 executed: /warp laimu.
+2018-04-21 15:09:26 - Utils: INFO: Broadcast: KKJJL has left.
+2018-04-21 15:09:26 - TShock: INFO: KKJJL disconnected.

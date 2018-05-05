@@ -1,0 +1,75 @@
+2018-04-17 20:54:37 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-17 20:54:37 - TShock: INFO: AutoSave Enabled
+2018-04-17 20:54:37 - TShock: INFO: Backups Disabled
+2018-04-17 20:54:37 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-17 20:55:03 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-17 20:55:07 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (1/10)
+2018-04-17 20:55:07 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-17 20:55:55 - GetDataHandlers: INFO: David authenticated successfully as user David.
+2018-04-17 20:55:57 - TShock: INFO: David (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-17 20:55:57 - Utils: INFO: Broadcast: David has joined.
+2018-04-17 20:58:57 - Utils: INFO: Broadcast: 111: 今天争取打肉山打了
+2018-04-17 20:59:20 - Utils: INFO: Broadcast: David: 嗯
+2018-04-17 20:59:43 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-17 20:59:46 - Utils: INFO: Broadcast: 111: 过来
+2018-04-17 20:59:50 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 20:59:50 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 20:59:50 - Utils: INFO: Broadcast: 111: 打蜂王
+2018-04-17 20:59:55 - GetDataHandlers: INFO: 夜-胤笙 authenticated successfully as user 夜-胤笙.
+2018-04-17 20:59:55 - Utils: INFO: Broadcast: 111: 弄手雷
+2018-04-17 20:59:58 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'default' group joined. (3/10)
+2018-04-17 20:59:58 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-17 21:00:04 - Utils: INFO: Broadcast: David: 嗯
+2018-04-17 21:00:09 - Utils: INFO: Broadcast: 111: [i:1133]
+2018-04-17 21:01:13 - Utils: INFO: Broadcast: 111: 找一下法师
+2018-04-17 21:04:51 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:04:51 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:09:31 - Utils: INFO: Broadcast: 夜-胤笙: 你们谁有铁
+2018-04-17 21:09:37 - Utils: INFO: Broadcast: David: emmmm
+2018-04-17 21:09:38 - Utils: INFO: Broadcast: David: 没有
+2018-04-17 21:09:43 - Utils: INFO: Broadcast: David: 蓝队
+2018-04-17 21:09:46 - Utils: INFO: Broadcast: 夜-胤笙: 挖不到
+2018-04-17 21:09:52 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:09:52 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:14:13 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-17 21:14:13 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-17 21:14:52 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:14:52 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:19:16 - Utils: INFO: Broadcast: 111: 就咱俩？
+2018-04-17 21:19:53 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:19:53 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:24:53 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:24:53 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:27:27 - Utils: INFO: Broadcast: 111 has left.
+2018-04-17 21:27:27 - TShock: INFO: 111 disconnected.
+2018-04-17 21:27:27 - GetDataHandlers: INFO: 111 authenticated successfully as user 111.
+2018-04-17 21:27:32 - TShock: INFO: 111 (192.168.0.106) from 'default' group joined. (2/10)
+2018-04-17 21:27:32 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-17 21:29:41 - Utils: INFO: 111 executed: /warp conlin.
+2018-04-17 21:29:54 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:29:54 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:29:56 - Utils: INFO: 111 summoned the Queen Bee!
+2018-04-17 21:30:32 - Utils: INFO: David executed: /who.
+2018-04-17 21:30:46 - Utils: INFO: Broadcast: David: 嗯
+2018-04-17 21:30:55 - Utils: INFO: David executed: /warp conlin.
+2018-04-17 21:34:54 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-17 21:34:54 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-17 21:35:45 - Utils: INFO: Broadcast: 111 has left.
+2018-04-17 21:35:45 - TShock: INFO: 111 disconnected.
+2018-04-17 21:36:56 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-17 21:36:56 - Utils: INFO: Broadcast: David has left.
+2018-04-17 21:36:56 - TShock: INFO: David disconnected.
+2018-04-17 21:36:58 - Utils: INFO: Broadcast: World saved.
+2018-04-17 21:36:58 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-17 21:36:59 - Utils: INFO: Server executed: /off.
+2018-04-17 21:37:00 - Utils: INFO: Broadcast: World saved.
+2018-04-17 21:37:00 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-17 21:37:00 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,98 @@
+2018-04-13 20:16:26 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2018-04-13 20:16:26 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-04-13 20:16:26 - TShock: INFO: AutoSave Enabled
+2018-04-13 20:16:26 - TShock: INFO: Backups Disabled
+2018-04-13 20:16:26 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-04-13 20:17:07 - TShock: INFO: 111 (192.168.0.106) from 'guest' group joined. (1/10)
+2018-04-13 20:17:07 - Utils: INFO: Broadcast: 111 has joined.
+2018-04-13 20:17:07 - TShock: INFO: Beau-David (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-13 20:17:07 - Utils: INFO: Broadcast: Beau-David has joined.
+2018-04-13 20:17:11 - Utils: INFO: Broadcast: Beau-David has left.
+2018-04-13 20:17:11 - TShock: INFO: Beau-David disconnected.
+2018-04-13 20:17:47 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-13 20:17:48 - Utils: INFO: Broadcast: World saved.
+2018-04-13 20:17:48 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-13 20:17:49 - TShock: INFO: David (192.168.0.106) from 'guest' group joined. (2/10)
+2018-04-13 20:17:49 - Utils: INFO: Broadcast: David has joined.
+2018-04-13 20:17:55 - TextLog: INFO: David registered an account: "David".
+2018-04-13 20:17:59 - Commands: INFO: David authenticated successfully as user: David.
+2018-04-13 20:17:59 - TextLog: INFO: 111 registered an account: "111".
+2018-04-13 20:18:05 - Commands: INFO: 111 authenticated successfully as user: 111.
+2018-04-13 20:18:15 - TShock: INFO: King~ disconnected.
+2018-04-13 20:18:22 - TShock: INFO: King~ (192.168.0.106) from 'guest' group joined. (3/10)
+2018-04-13 20:18:22 - Utils: INFO: Broadcast: King~ has joined.
+2018-04-13 20:18:26 - Utils: INFO: Broadcast: 111: ??
+2018-04-13 20:18:30 - Utils: INFO: Broadcast: 111: 挖不了书？
+2018-04-13 20:18:36 - Utils: INFO: Broadcast: David: 主城保护范围100
+2018-04-13 20:18:36 - Utils: INFO: Broadcast: 111: 树？
+2018-04-13 20:18:54 - TextLog: INFO: King~ registered an account: "King~".
+2018-04-13 20:19:13 - Commands: INFO: King~ authenticated successfully as user: King~.
+2018-04-13 20:19:14 - TShock: INFO: 夜-胤笙 (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-13 20:19:14 - Utils: INFO: Broadcast: 夜-胤笙 has joined.
+2018-04-13 20:19:35 - TextLog: INFO: 夜-胤笙 registered an account: "夜-胤笙".
+2018-04-13 20:19:47 - Commands: WARNING: 192.168.0.106 failed to authenticate as user: 夜-胤笙.
+2018-04-13 20:19:56 - Utils: INFO: Server executed: /ui.
+2018-04-13 20:19:56 - Commands: INFO: 夜-胤笙 authenticated successfully as user: 夜-胤笙.
+2018-04-13 20:20:16 - Utils: INFO: Broadcast: David has left.
+2018-04-13 20:20:16 - TShock: INFO: David disconnected.
+2018-04-13 20:20:19 - TShock: INFO: admin1 (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-13 20:20:19 - Utils: INFO: Broadcast: admin1 has joined.
+2018-04-13 20:20:27 - TextLog: INFO: admin1 registered an account: "admin1".
+2018-04-13 20:20:30 - Commands: INFO: admin1 authenticated successfully as user: admin1.
+2018-04-13 20:20:57 - Commands: ERROR: TShockAPI.DB.UserManagerException: AddUser SQL returned an error (Abort due to constraint violation
+UNIQUE constraint failed: Users.Username) ---> Mono.Data.Sqlite.SqliteException: Abort due to constraint violation
+UNIQUE constraint failed: Users.Username
+   在 Mono.Data.Sqlite.SQLite3.Reset(SqliteStatement stmt)
+   在 Mono.Data.Sqlite.SQLite3.Step(SqliteStatement stmt)
+   在 Mono.Data.Sqlite.SqliteDataReader.NextResult()
+   在 Mono.Data.Sqlite.SqliteDataReader..ctor(SqliteCommand cmd, CommandBehavior behave)
+   在 Mono.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   在 Mono.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   在 TShockAPI.DB.DbExt.Query(IDbConnection olddb, String query, Object[] args)
+   在 TShockAPI.DB.UserManager.AddUser(User user)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 TShockAPI.DB.UserManager.AddUser(User user)
+   在 TShockAPI.Commands.ManageUsers(CommandArgs args)
+2018-04-13 20:21:00 - Utils: INFO: Broadcast: 夜-胤笙: 等我
+2018-04-13 20:21:13 - Utils: INFO: Broadcast: 111: 找红宝石
+2018-04-13 20:21:14 - Utils: INFO: Broadcast: 111: 炸弹
+2018-04-13 20:21:20 - Utils: INFO: Broadcast: 111: 先打史莱姆王
+2018-04-13 20:21:25 - Utils: INFO: Broadcast: admin1 has left.
+2018-04-13 20:21:25 - TShock: INFO: admin1 disconnected.
+2018-04-13 20:21:38 - <SendUpdateAsync>d__9: WARNING: StatTracker warning: System.Net.WebException: Stats server did not respond with an OK. Server message: [error NotFound] Not Found
+   在 TShockAPI.StatTracker.<SendUpdateAsync>d__9.MoveNext()
+2018-04-13 20:21:38 - <SendUpdateAsync>d__9: ERROR: Retrying in 5 minutes.
+2018-04-13 20:23:07 - Utils: INFO: Broadcast: 111: 加蓝队吧
+2018-04-13 20:23:10 - Utils: INFO: Broadcast: 111: 这样好找
+2018-04-13 20:23:33 - Utils: INFO: Broadcast: 111: King~
+2018-04-13 20:23:36 - Utils: INFO: Broadcast: 111: 加一下蓝队
+2018-04-13 20:23:37 - Utils: INFO: Broadcast: 111: 我上去
+2018-04-13 20:24:01 - TShock: INFO: wenrou (192.168.0.106) from 'guest' group joined. (4/10)
+2018-04-13 20:24:01 - Utils: INFO: Broadcast: wenrou has joined.
+2018-04-13 20:24:54 - TextLog: INFO: wenrou registered an account: "wenrou".
+2018-04-13 20:25:00 - Utils: INFO: Broadcast: 夜-胤笙: 就这
+2018-04-13 20:25:04 - Utils: INFO: Broadcast: 夜-胤笙: 家
+2018-04-13 20:25:13 - Commands: INFO: wenrou authenticated successfully as user: wenrou.
+2018-04-13 20:25:31 - Utils: INFO: Server executed: /off.
+2018-04-13 20:25:31 - Utils: INFO: Kicked 111 for : 'Server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: 111 was force kicked for 'server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: 111 has left.
+2018-04-13 20:25:31 - TShock: INFO: 111 disconnected.
+2018-04-13 20:25:31 - Utils: INFO: Kicked wenrou for : 'Server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: wenrou was force kicked for 'server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Kicked King~ for : 'Server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: King~ was force kicked for 'server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Kicked 夜-胤笙 for : 'Server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: 夜-胤笙 was force kicked for 'server shutting down!'
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: wenrou has left.
+2018-04-13 20:25:31 - TShock: INFO: wenrou disconnected.
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: King~ has left.
+2018-04-13 20:25:31 - TShock: INFO: King~ disconnected.
+2018-04-13 20:25:31 - AutoBoss: INFO: [AutoBoss+] Timer Disabled: No players are online
+2018-04-13 20:25:31 - Utils: INFO: Broadcast: 夜-胤笙 has left.
+2018-04-13 20:25:31 - TShock: INFO: 夜-胤笙 disconnected.
+2018-04-13 20:25:32 - Utils: INFO: Broadcast: World saved.
+2018-04-13 20:25:32 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
+2018-04-13 20:25:32 - Utils: INFO: Broadcast: Server shutting down!
+2018-04-13 20:25:34 - Utils: INFO: Broadcast: World saved.
+2018-04-13 20:25:34 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\terraria_servermap-1.wld)
